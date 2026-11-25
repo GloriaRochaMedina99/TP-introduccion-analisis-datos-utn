@@ -1,0 +1,1801 @@
+ID_Transaccion,Fecha,Region,Categoria,Canal_Venta,Ventas_USD,Costo_USD,Ganancia_USD,NPS_Cliente,Tiempo_Entrega_Dias
+TR5-10192,2025-01-01,Centro,Indumentaria,Web Directa,52.28,29.46,22.82,10,2
+TR5-11401,2025-01-01,Cuyo,Deportes,App Móvil,401.23,248.39,152.84,7,3
+TR5-10919,2025-01-01,Centro,Hogar,Web Directa,929.28,590.22,339.06,6,2
+TR5-11769,2025-01-02,Cuyo,Hogar,Marketplace,235.73,160.29,75.44,9,3
+TR5-11718,2025-01-02,PBA,Hogar,Web Directa,143.05,90.46,52.59,7,2
+TR5-11732,2025-01-02,Centro,Electrónica,Web Directa,356.51,263.76,92.75,10,2
+TR5-10491,2025-01-02,Centro,Indumentaria,Web Directa,187.55,101.94,85.61,5,2
+TR5-11036,2025-01-03,PBA,Electrónica,App Móvil,167.66,122.85,44.81,9,1
+TR5-10778,2025-01-03,Centro,Deportes,App Móvil,243.39,147.07,96.32,9,2
+TR5-10073,2025-01-03,Centro,Hogar,Marketplace,197.81,137.72,60.09,7,3
+TR5-11369,2025-01-03,PBA,Hogar,Email Marketing,447.23,284.19,163.04,1,5
+TR5-10033,2025-01-04,Patagonia,Indumentaria,Email Marketing,130.31,67.0,63.31,8,3
+TR5-10445,2025-01-04,Cuyo,Deportes,App Móvil,98.67,58.83,39.84,10,2
+TR5-11683,2025-01-04,PBA,Electrónica,Web Directa,602.77,458.39,144.38,8,3
+TR5-10861,2025-01-04,PBA,Electrónica,Marketplace,473.43,374.42,99.01,6,3
+TR5-10923,2025-01-04,PBA,Hogar,Marketplace,475.67,320.08,155.59,7,2
+TR5-10478,2025-01-04,Cuyo,Deportes,Marketplace,247.75,171.21,76.54,9,3
+TR5-10995,2025-01-04,PBA,Indumentaria,Web Directa,129.23,74.85,54.38,9,2
+TR5-10539,2025-01-04,PBA,Electrónica,App Móvil,453.92,332.14,121.78,7,3
+TR5-11243,2025-01-04,NOA,Electrónica,App Móvil,423.2,311.6,111.6,8,10
+TR5-11245,2025-01-04,NOA,Electrónica,App Móvil,214.16,158.95,55.21,9,4
+TR5-10260,2025-01-05,Centro,Indumentaria,Web Directa,55.19,30.16,25.03,5,3
+TR5-11432,2025-01-05,NOA,Indumentaria,App Móvil,78.07,48.0,30.07,8,2
+TR5-10407,2025-01-05,Centro,Indumentaria,App Móvil,179.09,109.34,69.75,9,1
+TR5-11210,2025-01-05,Patagonia,Deportes,App Móvil,290.57,163.43,127.14,10,3
+TR5-10996,2025-01-05,Centro,Hogar,Web Directa,841.01,583.77,257.24,8,2
+TR5-11739,2025-01-05,Cuyo,Deportes,Marketplace,255.72,145.86,109.86,7,4
+TR5-10238,2025-01-05,NOA,Electrónica,Web Directa,871.1,665.47,205.63,9,5
+TR5-10854,2025-01-06,Centro,Electrónica,Marketplace,208.64,161.46,47.18,9,3
+TR5-10842,2025-01-06,Centro,Deportes,Marketplace,1762.08,1186.05,576.03,3,1
+TR5-11471,2025-01-06,PBA,Electrónica,App Móvil,438.65,344.78,93.87,9,1
+TR5-11398,2025-01-06,Cuyo,Electrónica,Web Directa,254.87,204.27,50.6,8,2
+TR5-10880,2025-01-06,Centro,Indumentaria,Web Directa,380.87,195.45,185.42,7,3
+TR5-11427,2025-01-07,Cuyo,Indumentaria,App Móvil,151.53,77.4,74.13,10,3
+TR5-10863,2025-01-07,PBA,Electrónica,App Móvil,184.97,151.22,33.75,6,2
+TR5-11434,2025-01-07,PBA,Hogar,Web Directa,380.35,252.94,127.41,9,1
+TR5-11385,2025-01-07,Centro,Electrónica,Web Directa,628.01,472.8,155.21,10,3
+TR5-10985,2025-01-07,PBA,Deportes,App Móvil,92.24,60.58,31.66,6,2
+TR5-10999,2025-01-07,Patagonia,Indumentaria,Marketplace,362.04,196.88,165.16,10,2
+TR5-11679,2025-01-08,Centro,Electrónica,Web Directa,249.37,179.94,69.43,8,2
+TR5-11485,2025-01-08,PBA,Deportes,Marketplace,480.15,274.95,205.2,10,2
+TR5-10415,2025-01-08,Cuyo,Deportes,Web Directa,465.28,291.89,173.39,10,2
+TR5-11374,2025-01-08,PBA,Indumentaria,Web Directa,459.8,244.06,215.74,10,2
+TR5-11141,2025-01-09,Cuyo,Hogar,Marketplace,394.31,287.03,107.28,8,2
+TR5-10659,2025-01-09,PBA,Electrónica,Marketplace,231.11,167.71,63.4,9,2
+TR5-11340,2025-01-09,Centro,Deportes,Web Directa,92.69,53.08,39.61,9,1
+TR5-10226,2025-01-10,Cuyo,Deportes,App Móvil,218.6,140.37,78.23,7,2
+TR5-11701,2025-01-10,PBA,Electrónica,Web Directa,260.53,203.66,56.87,6,2
+TR5-11516,2025-01-10,Patagonia,Deportes,Web Directa,280.79,175.16,105.63,7,3
+TR5-11464,2025-01-10,NOA,Electrónica,App Móvil,339.2,255.39,83.81,6,2
+TR5-10202,2025-01-10,Patagonia,Hogar,App Móvil,480.21,355.07,125.14,7,4
+TR5-10169,2025-01-10,PBA,Deportes,App Móvil,163.75,101.17,62.58,9,2
+TR5-10231,2025-01-10,Centro,Electrónica,App Móvil,756.66,576.75,179.91,6,2
+TR5-11660,2025-01-10,Patagonia,Hogar,Email Marketing,110.43,78.71,31.72,10,3
+TR5-10597,2025-01-10,Centro,Hogar,Web Directa,810.46,559.39,251.07,9,3
+TR5-10944,2025-01-10,NOA,Electrónica,Web Directa,371.43,285.35,86.08,7,2
+TR5-10298,2025-01-10,PBA,Indumentaria,Web Directa,140.73,83.01,57.72,8,3
+TR5-11548,2025-01-10,NOA,Deportes,Marketplace,485.76,291.53,194.23,3,2
+TR5-11684,2025-01-10,Centro,Deportes,App Móvil,184.98,103.12,81.86,3,3
+TR5-11142,2025-01-11,PBA,Electrónica,Web Directa,460.18,364.32,95.86,10,2
+TR5-10503,2025-01-11,Centro,Electrónica,Web Directa,156.16,114.18,41.98,7,3
+TR5-10324,2025-01-11,Centro,Electrónica,Marketplace,694.7,520.65,174.05,6,3
+TR5-11424,2025-01-11,PBA,Electrónica,Marketplace,124.35,95.63,28.72,3,2
+TR5-10799,2025-01-11,Patagonia,Deportes,Marketplace,315.31,192.24,123.07,9,3
+TR5-11021,2025-01-12,NOA,Deportes,Web Directa,688.47,402.3,286.17,8,1
+TR5-10380,2025-01-12,PBA,Indumentaria,Marketplace,47.71,26.21,21.5,10,1
+TR5-10792,2025-01-12,PBA,Electrónica,Web Directa,379.74,283.71,96.03,10,1
+TR5-11498,2025-01-13,Cuyo,Deportes,Web Directa,262.82,166.34,96.48,9,2
+TR5-10379,2025-01-13,Cuyo,Deportes,Web Directa,106.4,71.31,35.09,8,4
+TR5-10364,2025-01-13,PBA,Hogar,Web Directa,348.17,217.56,130.61,8,5
+TR5-10406,2025-01-13,NOA,Deportes,Web Directa,254.36,147.0,107.36,10,3
+TR5-11329,2025-01-13,PBA,Electrónica,Marketplace,431.62,353.67,77.95,7,4
+TR5-10972,2025-01-13,Cuyo,Indumentaria,Web Directa,181.57,116.35,65.22,8,2
+TR5-10163,2025-01-14,Patagonia,Hogar,Marketplace,303.95,184.53,119.42,10,4
+TR5-11714,2025-01-14,Centro,Deportes,Web Directa,312.0,179.19,132.81,6,3
+TR5-10884,2025-01-14,PBA,Indumentaria,Email Marketing,87.97,53.75,34.22,7,2
+TR5-10831,2025-01-14,NOA,Deportes,App Móvil,211.04,129.57,81.47,7,3
+TR5-10896,2025-01-14,Patagonia,Electrónica,Web Directa,208.23,158.3,49.93,10,2
+TR5-11437,2025-01-14,Centro,Indumentaria,Web Directa,95.19,61.07,34.12,9,2
+TR5-10054,2025-01-15,Centro,Hogar,Web Directa,168.69,102.73,65.96,10,3
+TR5-11325,2025-01-15,Centro,Electrónica,Web Directa,202.13,146.81,55.32,10,3
+TR5-10737,2025-01-15,NOA,Deportes,App Móvil,131.76,91.69,40.07,10,4
+TR5-11526,2025-01-15,PBA,Indumentaria,App Móvil,234.57,121.88,112.69,10,2
+TR5-10672,2025-01-15,NOA,Deportes,App Móvil,451.6,293.28,158.32,8,3
+TR5-11697,2025-01-15,Centro,Deportes,Marketplace,87.34,53.55,33.79,9,3
+TR5-11405,2025-01-16,PBA,Hogar,App Móvil,179.16,132.97,46.19,9,2
+TR5-10936,2025-01-16,PBA,Electrónica,Marketplace,428.97,340.33,88.64,10,3
+TR5-10473,2025-01-16,NOA,Electrónica,App Móvil,349.93,275.61,74.32,10,1
+TR5-10973,2025-01-16,PBA,Electrónica,Marketplace,808.51,612.65,195.86,5,1
+TR5-10924,2025-01-17,Centro,Indumentaria,Web Directa,108.67,62.07,46.6,7,4
+TR5-11051,2025-01-18,PBA,Electrónica,App Móvil,280.71,226.62,54.09,8,1
+TR5-10021,2025-01-18,Centro,Electrónica,Marketplace,935.43,675.26,260.17,6,2
+TR5-10920,2025-01-18,PBA,Hogar,App Móvil,501.25,312.15,189.1,9,1
+TR5-10935,2025-01-19,Cuyo,Electrónica,Web Directa,144.83,108.25,36.58,7,5
+TR5-10873,2025-01-19,Centro,Indumentaria,App Móvil,310.81,179.54,131.27,10,2
+TR5-10217,2025-01-20,NOA,Deportes,Web Directa,129.64,72.74,56.9,9,3
+TR5-11770,2025-01-20,NOA,Hogar,App Móvil,156.67,109.61,47.06,10,2
+TR5-11444,2025-01-20,Centro,Deportes,Web Directa,209.29,136.49,72.8,10,4
+TR5-10725,2025-01-20,Cuyo,Deportes,App Móvil,162.61,96.47,66.14,3,2
+TR5-10072,2025-01-20,Centro,Hogar,Email Marketing,231.91,142.64,89.27,8,3
+TR5-11675,2025-01-20,Centro,Hogar,Web Directa,348.8,216.88,131.92,3,4
+TR5-10255,2025-01-20,PBA,Electrónica,Web Directa,221.71,164.78,56.93,9,1
+TR5-10114,2025-01-21,Cuyo,Electrónica,App Móvil,178.86,143.61,35.25,5,2
+TR5-10694,2025-01-21,Patagonia,Indumentaria,Web Directa,114.86,68.93,45.93,9,4
+TR5-11576,2025-01-21,Centro,Electrónica,Web Directa,198.82,159.58,39.24,9,3
+TR5-10548,2025-01-22,Cuyo,Electrónica,App Móvil,169.56,122.58,46.98,9,2
+TR5-11363,2025-01-22,Cuyo,Hogar,App Móvil,105.76,69.22,36.54,8,3
+TR5-11671,2025-01-22,PBA,Indumentaria,App Móvil,81.41,52.03,29.38,9,4
+TR5-11115,2025-01-23,PBA,Electrónica,App Móvil,173.65,128.34,45.31,8,3
+TR5-10940,2025-01-23,PBA,Electrónica,App Móvil,224.26,166.72,57.54,10,2
+TR5-10934,2025-01-23,NOA,Deportes,Email Marketing,173.21,96.91,76.3,7,4
+TR5-11494,2025-01-23,PBA,Electrónica,App Móvil,185.27,141.67,43.6,8,2
+TR5-11651,2025-01-23,Patagonia,Hogar,Marketplace,424.76,266.53,158.23,7,3
+TR5-11765,2025-01-23,PBA,Hogar,Web Directa,320.86,198.06,122.8,9,2
+TR5-10265,2025-01-23,PBA,Hogar,App Móvil,246.39,179.38,67.01,1,2
+TR5-10049,2025-01-23,NOA,Indumentaria,Web Directa,205.56,119.92,85.64,10,1
+TR5-11569,2025-01-23,Cuyo,Deportes,App Móvil,77.92,50.6,27.32,10,2
+TR5-10098,2025-01-23,Centro,Electrónica,App Móvil,802.18,607.35,194.83,10,2
+TR5-10809,2025-01-24,Centro,Hogar,Email Marketing,302.01,208.63,93.38,6,3
+TR5-11059,2025-01-24,PBA,Hogar,App Móvil,184.18,135.08,49.1,8,3
+TR5-11047,2025-01-24,PBA,Indumentaria,Web Directa,401.4,218.49,182.91,9,1
+TR5-11054,2025-01-24,PBA,Hogar,Web Directa,123.2,77.09,46.11,10,3
+TR5-10926,2025-01-24,Centro,Deportes,App Móvil,536.02,371.7,164.32,6,2
+TR5-10918,2025-01-25,Patagonia,Hogar,Marketplace,315.8,235.08,80.72,10,2
+TR5-11527,2025-01-25,Cuyo,Indumentaria,Web Directa,97.51,59.41,38.1,9,2
+TR5-10296,2025-01-25,Cuyo,Indumentaria,Web Directa,210.95,119.26,91.69,7,3
+TR5-10599,2025-01-25,Centro,Indumentaria,Web Directa,156.01,88.11,67.9,10,2
+TR5-11594,2025-01-25,Centro,Electrónica,App Móvil,321.8,256.67,65.13,8,3
+TR5-10017,2025-01-26,Centro,Hogar,App Móvil,122.86,84.12,38.74,10,1
+TR5-10208,2025-01-26,Centro,Deportes,App Móvil,157.79,88.77,69.02,3,2
+TR5-10224,2025-01-27,PBA,Deportes,App Móvil,377.8,259.06,118.74,5,2
+TR5-10704,2025-01-28,Patagonia,Indumentaria,Email Marketing,137.72,70.12,67.6,10,4
+TR5-11143,2025-01-28,PBA,Electrónica,Marketplace,235.27,178.16,57.11,9,3
+TR5-11264,2025-01-28,Cuyo,Deportes,Web Directa,149.76,85.22,64.54,8,3
+TR5-10009,2025-01-28,PBA,Deportes,Web Directa,337.1,193.43,143.67,9,3
+TR5-10421,2025-01-28,Centro,Indumentaria,Web Directa,273.09,171.63,101.46,6,3
+TR5-10945,2025-01-28,PBA,Indumentaria,Email Marketing,97.07,62.57,34.5,5,3
+TR5-11459,2025-01-28,Centro,Electrónica,Web Directa,357.64,270.84,86.8,8,1
+TR5-10006,2025-01-29,PBA,Electrónica,Marketplace,254.69,195.38,59.31,9,1
+TR5-10847,2025-01-29,NOA,Electrónica,Web Directa,164.34,121.7,42.64,7,3
+TR5-10536,2025-01-29,Centro,Indumentaria,Email Marketing,228.91,130.37,98.54,9,3
+TR5-10810,2025-01-29,PBA,Indumentaria,Web Directa,67.01,40.06,26.95,9,3
+TR5-10841,2025-01-29,NOA,Deportes,Marketplace,186.02,115.82,70.2,4,2
+TR5-11708,2025-01-30,NOA,Deportes,Web Directa,99.61,56.42,43.19,9,1
+TR5-10839,2025-01-30,Centro,Deportes,Marketplace,439.96,250.33,189.63,10,4
+TR5-10004,2025-01-30,Centro,Electrónica,App Móvil,226.92,173.77,53.15,7,1
+TR5-11297,2025-01-30,NOA,Deportes,Marketplace,212.84,122.06,90.78,8,1
+TR5-11734,2025-01-31,PBA,Indumentaria,Web Directa,84.11,49.5,34.61,9,3
+TR5-11314,2025-01-31,Centro,Hogar,Email Marketing,447.28,295.27,152.01,8,2
+TR5-11183,2025-01-31,PBA,Hogar,App Móvil,268.47,184.6,83.87,10,4
+TR5-10553,2025-02-01,Patagonia,Electrónica,Marketplace,120.95,95.4,25.55,9,2
+TR5-10850,2025-02-01,PBA,Deportes,App Móvil,266.66,169.19,97.47,3,2
+TR5-11665,2025-02-01,Centro,Electrónica,Marketplace,243.04,187.02,56.02,10,4
+TR5-11203,2025-02-01,Centro,Electrónica,App Móvil,375.86,289.28,86.58,8,4
+TR5-11274,2025-02-02,Patagonia,Deportes,Email Marketing,63.77,43.36,20.41,10,3
+TR5-11539,2025-02-02,PBA,Electrónica,App Móvil,178.89,142.06,36.83,10,2
+TR5-10416,2025-02-02,Centro,Deportes,App Móvil,113.86,71.7,42.16,8,4
+TR5-10103,2025-02-02,PBA,Electrónica,App Móvil,635.95,520.5,115.45,8,2
+TR5-10254,2025-02-02,Cuyo,Deportes,Web Directa,515.54,343.84,171.7,10,2
+TR5-11319,2025-02-02,Centro,Electrónica,Email Marketing,193.69,142.59,51.1,6,2
+TR5-10758,2025-02-03,NOA,Deportes,Web Directa,133.98,86.6,47.38,10,2
+TR5-11634,2025-02-03,Patagonia,Electrónica,Marketplace,166.91,133.48,33.43,9,3
+TR5-10084,2025-02-03,PBA,Hogar,Marketplace,391.87,251.06,140.81,6,1
+TR5-11064,2025-02-03,PBA,Electrónica,Web Directa,783.24,627.76,155.48,10,5
+TR5-11703,2025-02-04,Centro,Electrónica,Web Directa,1110.03,908.85,201.18,9,2
+TR5-10394,2025-02-04,PBA,Electrónica,App Móvil,542.22,441.29,100.93,10,3
+TR5-11259,2025-02-04,PBA,Indumentaria,Web Directa,91.53,58.31,33.22,9,5
+TR5-11366,2025-02-04,NOA,Electrónica,Web Directa,330.25,242.85,87.4,7,10
+TR5-10444,2025-02-04,NOA,Indumentaria,Email Marketing,96.81,49.95,46.86,8,3
+TR5-11489,2025-02-04,Cuyo,Deportes,Marketplace,276.0,192.81,83.19,9,2
+TR5-10206,2025-02-04,Cuyo,Hogar,Marketplace,243.82,178.12,65.7,8,5
+TR5-10092,2025-02-05,PBA,Hogar,App Móvil,315.33,228.1,87.23,8,2
+TR5-11767,2025-02-05,PBA,Hogar,Web Directa,237.57,160.0,77.57,9,2
+TR5-10484,2025-02-05,Patagonia,Hogar,App Móvil,611.83,425.08,186.75,8,3
+TR5-11033,2025-02-05,PBA,Electrónica,App Móvil,420.33,332.2,88.13,9,3
+TR5-10689,2025-02-05,Centro,Hogar,Email Marketing,187.66,133.91,53.75,10,2
+TR5-10348,2025-02-05,Centro,Hogar,App Móvil,258.35,187.92,70.43,9,4
+TR5-11241,2025-02-06,Patagonia,Deportes,Web Directa,201.71,139.95,61.76,8,1
+TR5-10155,2025-02-06,Cuyo,Deportes,App Móvil,114.18,63.92,50.26,8,1
+TR5-11540,2025-02-06,Centro,Hogar,App Móvil,614.8,371.61,243.19,8,3
+TR5-10566,2025-02-06,NOA,Deportes,Web Directa,382.77,241.68,141.09,8,4
+TR5-10966,2025-02-06,PBA,Electrónica,App Móvil,471.55,350.35,121.2,9,2
+TR5-11231,2025-02-06,PBA,Electrónica,Web Directa,446.39,327.58,118.81,10,3
+TR5-11041,2025-02-06,Cuyo,Deportes,App Móvil,101.21,61.64,39.57,9,3
+TR5-10696,2025-02-07,PBA,Hogar,Web Directa,190.91,122.5,68.41,9,4
+TR5-10677,2025-02-07,Cuyo,Electrónica,Web Directa,949.38,703.09,246.29,4,6
+TR5-10460,2025-02-07,Patagonia,Electrónica,Marketplace,274.5,203.06,71.44,9,5
+TR5-11402,2025-02-08,Cuyo,Indumentaria,App Móvil,78.59,50.8,27.79,5,3
+TR5-10518,2025-02-08,PBA,Electrónica,Web Directa,657.77,492.8,164.97,10,4
+TR5-10800,2025-02-08,NOA,Deportes,App Móvil,141.47,94.04,47.43,7,1
+TR5-10389,2025-02-08,NOA,Hogar,Web Directa,572.66,418.57,154.09,9,1
+TR5-10276,2025-02-08,PBA,Hogar,Marketplace,762.84,498.43,264.41,8,5
+TR5-10787,2025-02-08,Centro,Deportes,Web Directa,98.09,58.61,39.48,9,3
+TR5-10895,2025-02-08,Centro,Deportes,Marketplace,178.77,118.55,60.22,10,3
+TR5-10096,2025-02-08,Patagonia,Indumentaria,App Móvil,366.84,193.84,173.0,10,3
+TR5-11421,2025-02-08,Centro,Deportes,Marketplace,362.0,252.35,109.65,10,3
+TR5-10848,2025-02-09,NOA,Indumentaria,App Móvil,551.88,358.71,193.17,9,2
+TR5-11620,2025-02-09,Centro,Hogar,Email Marketing,196.3,137.93,58.37,10,1
+TR5-11499,2025-02-09,PBA,Deportes,Marketplace,206.97,120.84,86.13,8,4
+TR5-10370,2025-02-10,PBA,Deportes,App Móvil,519.12,289.25,229.87,7,2
+TR5-11639,2025-02-10,PBA,Deportes,App Móvil,141.48,90.01,51.47,10,2
+TR5-11574,2025-02-10,Cuyo,Hogar,Marketplace,143.87,100.21,43.66,10,2
+TR5-10925,2025-02-10,PBA,Electrónica,Web Directa,209.63,158.24,51.39,8,3
+TR5-11166,2025-02-11,Centro,Indumentaria,Marketplace,198.1,101.33,96.77,2,3
+TR5-10654,2025-02-11,Centro,Indumentaria,Web Directa,108.15,57.47,50.68,7,5
+TR5-10759,2025-02-11,Patagonia,Electrónica,Web Directa,298.21,235.46,62.75,7,2
+TR5-11694,2025-02-11,NOA,Hogar,Marketplace,132.91,87.65,45.26,10,2
+TR5-10446,2025-02-11,Cuyo,Indumentaria,Email Marketing,129.91,78.49,51.42,10,10
+TR5-10499,2025-02-12,Centro,Indumentaria,Web Directa,384.24,196.65,187.59,1,2
+TR5-10998,2025-02-12,Cuyo,Indumentaria,Marketplace,525.25,327.71,197.54,8,2
+TR5-10980,2025-02-12,PBA,Electrónica,App Móvil,216.9,174.38,42.52,10,3
+TR5-10892,2025-02-13,PBA,Electrónica,Marketplace,190.33,147.28,43.05,6,4
+TR5-11626,2025-02-13,PBA,Electrónica,Email Marketing,120.76,89.94,30.82,8,5
+TR5-10734,2025-02-13,Centro,Hogar,App Móvil,163.67,116.42,47.25,9,3
+TR5-10065,2025-02-13,PBA,Hogar,App Móvil,108.64,70.4,38.24,9,3
+TR5-10243,2025-02-13,Patagonia,Indumentaria,Email Marketing,50.0,28.36,21.64,7,1
+TR5-11120,2025-02-13,PBA,Indumentaria,Web Directa,88.96,53.49,35.47,9,4
+TR5-11778,2025-02-14,Centro,Hogar,Marketplace,195.93,145.61,50.32,8,3
+TR5-11034,2025-02-14,Cuyo,Indumentaria,Marketplace,107.16,63.01,44.15,10,6
+TR5-11649,2025-02-15,Cuyo,Deportes,Marketplace,316.12,188.16,127.96,10,2
+TR5-10953,2025-02-15,Centro,Hogar,App Móvil,100.21,62.52,37.69,7,3
+TR5-10139,2025-02-15,PBA,Hogar,App Móvil,209.51,144.84,64.67,10,2
+TR5-11042,2025-02-15,Centro,Hogar,Marketplace,156.63,106.94,49.69,3,1
+TR5-10378,2025-02-15,Patagonia,Deportes,Web Directa,204.55,120.22,84.33,10,3
+TR5-11554,2025-02-15,Patagonia,Indumentaria,Marketplace,57.98,37.02,20.96,10,3
+TR5-11122,2025-02-15,Patagonia,Hogar,Web Directa,160.84,116.04,44.8,3,3
+TR5-10246,2025-02-16,Patagonia,Indumentaria,App Móvil,61.3,31.88,29.42,8,1
+TR5-10783,2025-02-16,Cuyo,Electrónica,App Móvil,161.39,116.55,44.84,10,2
+TR5-11599,2025-02-16,PBA,Hogar,App Móvil,301.85,202.3,99.55,5,1
+TR5-11624,2025-02-16,NOA,Hogar,Web Directa,382.69,281.09,101.6,5,2
+TR5-11212,2025-02-16,Centro,Electrónica,App Móvil,285.43,206.02,79.41,8,4
+TR5-10264,2025-02-16,Centro,Hogar,Email Marketing,462.41,297.62,164.79,6,2
+TR5-11538,2025-02-17,PBA,Deportes,App Móvil,64.15,37.56,26.59,10,2
+TR5-10135,2025-02-17,NOA,Electrónica,App Móvil,267.01,197.53,69.48,6,2
+TR5-11114,2025-02-17,Centro,Hogar,App Móvil,199.11,140.84,58.27,10,3
+TR5-10025,2025-02-17,Centro,Indumentaria,App Móvil,107.44,63.84,43.6,10,3
+TR5-10381,2025-02-17,PBA,Hogar,Web Directa,122.18,86.18,36.0,8,2
+TR5-11784,2025-02-17,Cuyo,Deportes,Web Directa,111.38,68.51,42.87,6,1
+TR5-10665,2025-02-17,PBA,Deportes,Web Directa,473.54,319.47,154.07,9,2
+TR5-10807,2025-02-17,Cuyo,Deportes,App Móvil,192.21,106.98,85.23,8,2
+TR5-11753,2025-02-18,PBA,Indumentaria,Web Directa,314.66,188.97,125.69,9,1
+TR5-10550,2025-02-18,PBA,Indumentaria,Web Directa,163.1,99.3,63.8,9,1
+TR5-11324,2025-02-18,PBA,Electrónica,Web Directa,171.8,139.72,32.08,9,2
+TR5-10123,2025-02-18,Centro,Hogar,Web Directa,827.78,517.67,310.11,3,3
+TR5-11150,2025-02-19,Cuyo,Indumentaria,Web Directa,406.78,236.59,170.19,7,5
+TR5-10957,2025-02-19,PBA,Indumentaria,Email Marketing,150.45,82.55,67.9,7,5
+TR5-11603,2025-02-19,NOA,Hogar,App Móvil,291.33,192.3,99.03,10,4
+TR5-10037,2025-02-19,Cuyo,Deportes,App Móvil,130.39,89.39,41.0,9,2
+TR5-11194,2025-02-19,PBA,Indumentaria,Marketplace,297.56,189.0,108.56,9,2
+TR5-11387,2025-02-19,PBA,Electrónica,App Móvil,125.66,100.0,25.66,10,3
+TR5-10511,2025-02-20,NOA,Deportes,App Móvil,237.96,160.28,77.68,8,2
+TR5-11725,2025-02-20,PBA,Deportes,Marketplace,72.62,45.34,27.28,8,2
+TR5-11302,2025-02-20,Patagonia,Indumentaria,App Móvil,47.82,26.13,21.69,8,1
+TR5-10775,2025-02-20,Centro,Hogar,Email Marketing,404.81,296.41,108.4,10,3
+TR5-11378,2025-02-20,Centro,Deportes,App Móvil,63.99,39.77,24.22,10,2
+TR5-10866,2025-02-21,NOA,Electrónica,App Móvil,280.73,220.41,60.32,10,3
+TR5-11467,2025-02-21,Patagonia,Electrónica,App Móvil,801.31,617.17,184.14,10,4
+TR5-11347,2025-02-21,Centro,Hogar,Web Directa,777.71,475.65,302.06,10,2
+TR5-10119,2025-02-21,NOA,Electrónica,App Móvil,124.35,92.25,32.1,9,3
+TR5-11774,2025-02-21,PBA,Hogar,App Móvil,95.98,63.76,32.22,9,2
+TR5-10256,2025-02-22,NOA,Electrónica,Marketplace,215.35,161.09,54.26,8,14
+TR5-11178,2025-02-22,PBA,Electrónica,Email Marketing,362.3,278.58,83.72,7,5
+TR5-11383,2025-02-22,NOA,Indumentaria,Web Directa,98.65,56.55,42.1,4,2
+TR5-10874,2025-02-22,Cuyo,Electrónica,Web Directa,588.52,434.53,153.99,10,2
+TR5-11448,2025-02-22,Centro,Electrónica,App Móvil,390.82,308.78,82.04,7,2
+TR5-10889,2025-02-22,PBA,Hogar,App Móvil,145.6,87.51,58.09,9,1
+TR5-10625,2025-02-23,Centro,Electrónica,Email Marketing,288.32,213.03,75.29,10,5
+TR5-11458,2025-02-23,Cuyo,Electrónica,App Móvil,232.82,169.16,63.66,10,1
+TR5-10529,2025-02-23,NOA,Deportes,Email Marketing,77.44,49.2,28.24,9,1
+TR5-10876,2025-02-23,Patagonia,Indumentaria,Marketplace,64.48,34.6,29.88,10,3
+TR5-10242,2025-02-23,PBA,Hogar,App Móvil,218.49,151.91,66.58,10,1
+TR5-10534,2025-02-23,Centro,Electrónica,App Móvil,326.08,251.72,74.36,10,1
+TR5-11073,2025-02-23,PBA,Electrónica,Marketplace,188.73,142.44,46.29,6,3
+TR5-10796,2025-02-23,PBA,Hogar,Web Directa,366.6,229.39,137.21,8,2
+TR5-10486,2025-02-24,Centro,Indumentaria,App Móvil,229.31,148.02,81.29,10,2
+TR5-11558,2025-02-24,Centro,Electrónica,Web Directa,163.14,119.66,43.48,7,4
+TR5-11169,2025-02-24,NOA,Hogar,Web Directa,115.27,85.73,29.54,10,3
+TR5-10709,2025-02-24,PBA,Hogar,Web Directa,270.7,184.05,86.65,10,1
+TR5-11744,2025-02-25,NOA,Hogar,Email Marketing,172.84,124.73,48.11,9,2
+TR5-11789,2025-02-25,Centro,Indumentaria,Web Directa,234.91,119.3,115.61,9,1
+TR5-10700,2025-02-25,Cuyo,Indumentaria,Web Directa,191.28,115.1,76.18,10,1
+TR5-11513,2025-02-25,PBA,Deportes,App Móvil,368.43,218.75,149.68,9,2
+TR5-10609,2025-02-25,Centro,Hogar,Web Directa,85.95,57.97,27.98,7,6
+TR5-11412,2025-02-25,Cuyo,Electrónica,App Móvil,205.95,159.95,46.0,10,2
+TR5-10477,2025-02-25,PBA,Hogar,Marketplace,756.15,511.01,245.14,9,3
+TR5-11517,2025-02-25,Cuyo,Hogar,Web Directa,1097.55,751.58,345.97,9,2
+TR5-11226,2025-02-26,Centro,Deportes,Web Directa,67.3,43.97,23.33,9,5
+TR5-11022,2025-02-27,Centro,Electrónica,App Móvil,145.49,114.15,31.34,10,2
+TR5-10815,2025-02-27,NOA,Deportes,Web Directa,451.88,297.88,154.0,10,5
+TR5-11233,2025-02-27,PBA,Deportes,Web Directa,203.25,142.16,61.09,10,3
+TR5-11476,2025-02-27,Cuyo,Hogar,Web Directa,203.67,128.09,75.58,10,2
+TR5-10048,2025-02-28,PBA,Electrónica,Email Marketing,358.86,261.83,97.03,8,4
+TR5-11426,2025-02-28,PBA,Hogar,Web Directa,159.59,117.37,42.22,10,3
+TR5-10124,2025-03-01,PBA,Hogar,App Móvil,554.15,361.35,192.8,10,4
+TR5-11613,2025-03-01,NOA,Electrónica,App Móvil,381.01,285.84,95.17,7,1
+TR5-10552,2025-03-01,Cuyo,Deportes,Marketplace,157.81,88.72,69.09,9,3
+TR5-10281,2025-03-02,Centro,Indumentaria,Marketplace,324.16,200.89,123.27,8,1
+TR5-10746,2025-03-02,Patagonia,Electrónica,Web Directa,587.17,476.19,110.98,9,2
+TR5-11796,2025-03-03,NOA,Deportes,App Móvil,95.44,54.89,40.55,7,4
+TR5-10612,2025-03-03,Centro,Indumentaria,App Móvil,127.79,81.4,46.39,10,1
+TR5-10913,2025-03-03,Patagonia,Deportes,App Móvil,154.29,103.12,51.17,5,3
+TR5-11463,2025-03-04,Centro,Hogar,Marketplace,269.69,175.57,94.12,9,5
+TR5-10427,2025-03-05,Cuyo,Deportes,Web Directa,310.63,210.98,99.65,8,3
+TR5-11271,2025-03-05,Centro,Indumentaria,App Móvil,121.05,71.51,49.54,10,2
+TR5-11469,2025-03-05,Centro,Hogar,Marketplace,161.19,96.73,64.46,7,1
+TR5-10710,2025-03-05,Centro,Electrónica,App Móvil,883.39,663.85,219.54,9,4
+TR5-10779,2025-03-05,NOA,Deportes,App Móvil,73.26,46.09,27.17,10,2
+TR5-10111,2025-03-05,Centro,Electrónica,Marketplace,309.04,239.82,69.22,10,2
+TR5-10284,2025-03-05,Centro,Electrónica,Email Marketing,405.28,324.3,80.98,9,3
+TR5-11248,2025-03-05,Cuyo,Deportes,App Móvil,143.41,97.28,46.13,10,4
+TR5-10301,2025-03-05,Patagonia,Indumentaria,Email Marketing,173.27,100.72,72.55,10,3
+TR5-10397,2025-03-06,NOA,Deportes,Marketplace,76.69,46.98,29.71,8,1
+TR5-10277,2025-03-06,Centro,Hogar,Web Directa,570.24,360.46,209.78,6,6
+TR5-11445,2025-03-06,Cuyo,Indumentaria,Email Marketing,205.2,120.47,84.73,10,5
+TR5-11261,2025-03-06,Cuyo,Electrónica,Marketplace,269.65,214.28,55.37,8,3
+TR5-11622,2025-03-06,PBA,Electrónica,Marketplace,243.82,184.81,59.01,10,2
+TR5-11736,2025-03-07,Patagonia,Deportes,Web Directa,185.53,102.3,83.23,9,2
+TR5-11269,2025-03-07,PBA,Electrónica,Web Directa,231.47,177.52,53.95,6,1
+TR5-10235,2025-03-07,NOA,Hogar,App Móvil,177.25,117.92,59.33,10,1
+TR5-11249,2025-03-07,NOA,Deportes,App Móvil,390.22,255.15,135.07,10,2
+TR5-11240,2025-03-07,Centro,Electrónica,App Móvil,1547.72,1172.31,375.41,3,2
+TR5-11700,2025-03-08,PBA,Electrónica,Web Directa,355.35,289.04,66.31,8,2
+TR5-10678,2025-03-08,Cuyo,Indumentaria,Web Directa,55.28,29.79,25.49,9,6
+TR5-10063,2025-03-08,Cuyo,Indumentaria,Marketplace,357.33,229.73,127.6,5,1
+TR5-10532,2025-03-08,PBA,Electrónica,Web Directa,505.9,390.75,115.15,9,2
+TR5-11677,2025-03-08,Centro,Electrónica,App Móvil,363.84,282.43,81.41,9,2
+TR5-11578,2025-03-09,PBA,Indumentaria,Web Directa,75.7,48.76,26.94,7,2
+TR5-11162,2025-03-09,Centro,Hogar,Web Directa,233.56,164.59,68.97,5,3
+TR5-10141,2025-03-09,Cuyo,Hogar,Web Directa,654.08,409.87,244.21,5,2
+TR5-10666,2025-03-09,Patagonia,Hogar,Marketplace,912.69,577.79,334.9,7,3
+TR5-11760,2025-03-09,Patagonia,Indumentaria,Web Directa,135.76,86.38,49.38,9,2
+TR5-10071,2025-03-09,PBA,Hogar,Marketplace,205.37,134.87,70.5,10,1
+TR5-10303,2025-03-09,Patagonia,Electrónica,Marketplace,228.24,174.7,53.54,8,1
+TR5-10153,2025-03-10,Cuyo,Electrónica,Marketplace,203.81,151.51,52.3,10,3
+TR5-10467,2025-03-10,Centro,Deportes,Email Marketing,247.0,137.57,109.43,8,3
+TR5-10768,2025-03-10,PBA,Hogar,App Móvil,237.89,171.71,66.18,8,1
+TR5-10818,2025-03-10,PBA,Indumentaria,Marketplace,82.62,47.67,34.95,8,4
+TR5-10172,2025-03-10,PBA,Electrónica,App Móvil,157.1,127.84,29.26,9,3
+TR5-10075,2025-03-11,Cuyo,Electrónica,Web Directa,357.54,284.02,73.52,9,2
+TR5-11187,2025-03-11,PBA,Deportes,Marketplace,73.82,42.04,31.78,10,2
+TR5-11093,2025-03-11,PBA,Electrónica,App Móvil,175.43,126.99,48.44,10,3
+TR5-11223,2025-03-11,Patagonia,Electrónica,App Móvil,259.99,211.53,48.46,5,3
+TR5-10248,2025-03-11,PBA,Deportes,Web Directa,141.06,91.94,49.12,9,3
+TR5-11715,2025-03-11,NOA,Indumentaria,Email Marketing,107.84,61.39,46.45,9,3
+TR5-11116,2025-03-11,PBA,Indumentaria,App Móvil,652.11,421.73,230.38,10,2
+TR5-10886,2025-03-11,PBA,Indumentaria,Marketplace,234.06,125.47,108.59,8,3
+TR5-11598,2025-03-11,NOA,Deportes,Web Directa,413.47,287.1,126.37,10,3
+TR5-10684,2025-03-12,PBA,Electrónica,Email Marketing,162.61,124.02,38.59,7,1
+TR5-10661,2025-03-12,PBA,Deportes,Web Directa,121.31,68.6,52.71,7,3
+TR5-10116,2025-03-12,PBA,Deportes,Web Directa,131.8,89.88,41.92,8,2
+TR5-10164,2025-03-12,Patagonia,Deportes,Web Directa,459.96,262.31,197.65,10,3
+TR5-10742,2025-03-12,PBA,Indumentaria,Marketplace,385.72,194.29,191.43,9,3
+TR5-10749,2025-03-13,NOA,Electrónica,App Móvil,287.71,215.21,72.5,10,2
+TR5-11688,2025-03-14,Centro,Electrónica,Web Directa,633.38,456.16,177.22,9,1
+TR5-11477,2025-03-14,Centro,Deportes,Email Marketing,350.76,221.01,129.75,10,3
+TR5-10493,2025-03-14,PBA,Hogar,Email Marketing,393.8,284.62,109.18,9,3
+TR5-10933,2025-03-14,Centro,Hogar,Web Directa,234.33,159.62,74.71,9,3
+TR5-10591,2025-03-14,Centro,Electrónica,Email Marketing,212.06,157.08,54.98,8,4
+TR5-10679,2025-03-15,NOA,Deportes,App Móvil,126.97,81.72,45.25,9,3
+TR5-10044,2025-03-15,PBA,Indumentaria,Email Marketing,317.64,193.07,124.57,10,1
+TR5-10273,2025-03-16,Cuyo,Electrónica,App Móvil,331.58,271.49,60.09,9,6
+TR5-10898,2025-03-16,Centro,Indumentaria,Marketplace,232.85,137.89,94.96,10,4
+TR5-11100,2025-03-16,PBA,Hogar,App Móvil,83.74,51.52,32.22,10,1
+TR5-11711,2025-03-17,PBA,Deportes,App Móvil,86.3,50.28,36.02,9,2
+TR5-10321,2025-03-17,Centro,Deportes,Marketplace,197.12,121.4,75.72,10,5
+TR5-10051,2025-03-17,NOA,Indumentaria,App Móvil,66.19,41.72,24.47,8,3
+TR5-10589,2025-03-17,Centro,Deportes,Web Directa,874.79,532.46,342.33,10,3
+TR5-10975,2025-03-17,Centro,Indumentaria,App Móvil,64.51,34.27,30.24,9,1
+TR5-11614,2025-03-17,Centro,Electrónica,Web Directa,426.81,347.22,79.59,10,1
+TR5-10435,2025-03-17,Cuyo,Electrónica,Web Directa,314.0,235.28,78.72,10,4
+TR5-10738,2025-03-18,Centro,Hogar,App Móvil,156.76,115.41,41.35,10,2
+TR5-11743,2025-03-18,Centro,Deportes,Web Directa,255.17,164.29,90.88,8,1
+TR5-11716,2025-03-18,PBA,Electrónica,App Móvil,217.79,173.41,44.38,4,3
+TR5-11308,2025-03-18,Patagonia,Hogar,App Móvil,101.96,71.45,30.51,7,1
+TR5-11081,2025-03-18,Centro,Deportes,Email Marketing,226.86,153.06,73.8,10,2
+TR5-11606,2025-03-19,Centro,Electrónica,App Móvil,505.53,413.97,91.56,8,2
+TR5-10773,2025-03-19,NOA,Deportes,App Móvil,61.89,40.44,21.45,7,2
+TR5-10002,2025-03-19,NOA,Electrónica,Web Directa,177.58,135.93,41.65,10,3
+TR5-10219,2025-03-19,PBA,Electrónica,App Móvil,211.67,165.0,46.67,3,2
+TR5-10960,2025-03-19,PBA,Hogar,Marketplace,81.63,60.49,21.14,10,3
+TR5-11509,2025-03-19,PBA,Indumentaria,Web Directa,51.53,28.53,23.0,8,2
+TR5-10608,2025-03-19,Cuyo,Deportes,Marketplace,131.45,75.99,55.46,3,3
+TR5-10346,2025-03-19,PBA,Deportes,Marketplace,67.49,43.02,24.47,6,5
+TR5-10342,2025-03-19,PBA,Electrónica,App Móvil,126.18,101.86,24.32,9,1
+TR5-10561,2025-03-20,Patagonia,Indumentaria,Marketplace,73.5,40.95,32.55,10,4
+TR5-11339,2025-03-20,Centro,Deportes,App Móvil,206.66,114.54,92.12,10,2
+TR5-11328,2025-03-20,NOA,Indumentaria,App Móvil,54.12,30.09,24.03,8,1
+TR5-10797,2025-03-20,Patagonia,Indumentaria,App Móvil,978.57,631.48,347.09,10,3
+TR5-10050,2025-03-21,Centro,Electrónica,App Móvil,1025.02,779.4,245.62,7,2
+TR5-11085,2025-03-21,NOA,Hogar,App Móvil,313.44,196.31,117.13,8,2
+TR5-10567,2025-03-21,Patagonia,Electrónica,Marketplace,490.87,392.21,98.66,10,3
+TR5-11230,2025-03-21,PBA,Electrónica,Marketplace,368.76,286.81,81.95,9,5
+TR5-10214,2025-03-21,PBA,Deportes,Email Marketing,121.4,75.05,46.35,7,4
+TR5-10958,2025-03-21,Cuyo,Indumentaria,Web Directa,209.86,118.69,91.17,6,2
+TR5-11757,2025-03-22,PBA,Electrónica,Web Directa,426.14,307.62,118.52,10,2
+TR5-11291,2025-03-22,Cuyo,Electrónica,Web Directa,153.03,122.89,30.14,4,2
+TR5-10481,2025-03-22,PBA,Deportes,App Móvil,330.27,228.4,101.87,10,5
+TR5-11388,2025-03-22,Patagonia,Indumentaria,Web Directa,83.73,46.57,37.16,7,14
+TR5-11707,2025-03-22,Cuyo,Deportes,Web Directa,71.64,45.45,26.19,10,3
+TR5-10650,2025-03-22,Centro,Indumentaria,App Móvil,67.81,43.28,24.53,9,2
+TR5-10774,2025-03-23,PBA,Hogar,App Móvil,92.93,57.9,35.03,3,3
+TR5-11575,2025-03-23,Centro,Indumentaria,App Móvil,368.26,222.73,145.53,2,3
+TR5-10283,2025-03-23,Patagonia,Deportes,Web Directa,505.73,316.05,189.68,10,3
+TR5-10568,2025-03-23,PBA,Deportes,App Móvil,444.73,304.68,140.05,8,3
+TR5-10368,2025-03-24,Centro,Electrónica,Web Directa,325.05,246.48,78.57,8,2
+TR5-10144,2025-03-24,Centro,Electrónica,App Móvil,236.46,190.72,45.74,1,3
+TR5-11076,2025-03-24,Centro,Indumentaria,App Móvil,132.76,82.51,50.25,9,5
+TR5-11497,2025-03-25,Centro,Electrónica,App Móvil,459.52,371.16,88.36,10,2
+TR5-10735,2025-03-25,Centro,Indumentaria,Web Directa,100.25,50.8,49.45,9,3
+TR5-10784,2025-03-25,PBA,Hogar,Web Directa,84.53,60.95,23.58,10,2
+TR5-11478,2025-03-25,PBA,Indumentaria,Marketplace,78.64,45.01,33.63,9,4
+TR5-11345,2025-03-25,NOA,Electrónica,App Móvil,137.0,108.32,28.68,6,4
+TR5-10531,2025-03-26,Centro,Deportes,Web Directa,129.45,76.39,53.06,8,4
+TR5-10201,2025-03-27,NOA,Electrónica,Marketplace,395.0,304.84,90.16,7,2
+TR5-10089,2025-03-27,Patagonia,Hogar,App Móvil,839.82,587.57,252.25,6,2
+TR5-11423,2025-03-27,NOA,Hogar,App Móvil,220.93,143.44,77.49,9,1
+TR5-10512,2025-03-28,Centro,Electrónica,Marketplace,325.51,245.01,80.5,10,3
+TR5-11352,2025-03-28,Cuyo,Deportes,Web Directa,99.61,60.2,39.41,9,2
+TR5-11776,2025-03-28,PBA,Electrónica,App Móvil,217.48,158.56,58.92,8,3
+TR5-10764,2025-03-29,Centro,Indumentaria,App Móvil,114.61,64.95,49.66,8,2
+TR5-11375,2025-03-29,Cuyo,Hogar,App Móvil,312.01,232.77,79.24,10,3
+TR5-10483,2025-03-29,PBA,Indumentaria,Marketplace,193.94,108.0,85.94,7,2
+TR5-10519,2025-03-29,Centro,Electrónica,Web Directa,229.69,174.06,55.63,9,2
+TR5-10333,2025-03-29,Cuyo,Hogar,Web Directa,1074.22,743.47,330.75,10,3
+TR5-10872,2025-03-30,Centro,Electrónica,Web Directa,150.27,120.75,29.52,7,3
+TR5-10376,2025-03-30,Cuyo,Electrónica,Web Directa,951.61,736.83,214.78,8,4
+TR5-11777,2025-03-30,Centro,Electrónica,App Móvil,929.53,725.35,204.18,7,2
+TR5-11618,2025-03-30,Patagonia,Deportes,Web Directa,85.88,48.99,36.89,9,4
+TR5-10257,2025-03-30,Patagonia,Indumentaria,Web Directa,183.31,101.66,81.65,9,1
+TR5-11543,2025-03-30,NOA,Indumentaria,Email Marketing,193.81,116.31,77.5,9,4
+TR5-11542,2025-03-30,Patagonia,Hogar,Email Marketing,467.82,316.38,151.44,9,1
+TR5-11687,2025-03-30,Centro,Indumentaria,Web Directa,80.74,44.7,36.04,10,2
+TR5-11278,2025-03-31,PBA,Deportes,App Móvil,112.17,71.02,41.15,9,4
+TR5-11075,2025-03-31,PBA,Hogar,Email Marketing,129.7,87.35,42.35,10,4
+TR5-10074,2025-03-31,Centro,Deportes,Web Directa,93.95,52.73,41.22,7,7
+TR5-10108,2025-03-31,PBA,Hogar,Email Marketing,760.09,507.61,252.48,9,2
+TR5-10495,2025-03-31,NOA,Deportes,Marketplace,98.69,66.85,31.84,8,10
+TR5-11179,2025-03-31,PBA,Deportes,Marketplace,62.7,38.84,23.86,8,2
+TR5-10177,2025-03-31,Patagonia,Deportes,Marketplace,200.31,128.53,71.78,10,2
+TR5-10290,2025-04-01,PBA,Hogar,Web Directa,250.22,173.4,76.82,10,2
+TR5-10965,2025-04-01,Centro,Indumentaria,Web Directa,323.4,188.18,135.22,8,3
+TR5-11113,2025-04-01,PBA,Electrónica,App Móvil,198.89,147.62,51.27,10,1
+TR5-10681,2025-04-01,PBA,Indumentaria,Web Directa,111.81,72.12,39.69,7,1
+TR5-11160,2025-04-01,PBA,Deportes,App Móvil,137.81,87.53,50.28,6,2
+TR5-11032,2025-04-02,Centro,Deportes,Web Directa,183.52,127.85,55.67,5,1
+TR5-11112,2025-04-02,Centro,Deportes,App Móvil,104.2,62.82,41.38,10,7
+TR5-10419,2025-04-02,Centro,Deportes,Web Directa,94.25,52.47,41.78,10,4
+TR5-11506,2025-04-02,NOA,Electrónica,Web Directa,133.09,99.77,33.32,7,6
+TR5-11208,2025-04-02,Centro,Indumentaria,Marketplace,209.32,111.57,97.75,9,1
+TR5-10097,2025-04-03,Centro,Hogar,App Móvil,205.94,134.75,71.19,10,2
+TR5-10743,2025-04-04,Centro,Indumentaria,Marketplace,328.41,183.2,145.21,9,5
+TR5-10210,2025-04-04,Patagonia,Indumentaria,App Móvil,227.45,136.54,90.91,3,1
+TR5-11510,2025-04-04,NOA,Indumentaria,Email Marketing,80.58,46.34,34.24,10,1
+TR5-10300,2025-04-04,Cuyo,Electrónica,Web Directa,165.28,132.1,33.18,9,1
+TR5-10128,2025-04-04,Centro,Deportes,Marketplace,297.45,169.43,128.02,5,2
+TR5-11519,2025-04-04,Cuyo,Electrónica,Marketplace,701.1,552.33,148.77,10,3
+TR5-11373,2025-04-04,Centro,Indumentaria,Web Directa,450.4,227.13,223.27,8,2
+TR5-11299,2025-04-04,Cuyo,Electrónica,Web Directa,801.42,634.99,166.43,8,2
+TR5-10274,2025-04-04,PBA,Hogar,App Móvil,120.95,89.87,31.08,8,2
+TR5-10306,2025-04-05,PBA,Deportes,App Móvil,234.3,157.23,77.07,9,3
+TR5-11656,2025-04-05,Centro,Indumentaria,App Móvil,706.54,442.72,263.82,2,3
+TR5-10641,2025-04-06,Patagonia,Deportes,App Móvil,1100.74,650.12,450.62,9,2
+TR5-11117,2025-04-06,PBA,Indumentaria,Marketplace,295.02,179.19,115.83,10,1
+TR5-10094,2025-04-06,PBA,Hogar,Web Directa,86.13,54.39,31.74,10,2
+TR5-11408,2025-04-06,Patagonia,Electrónica,Marketplace,132.94,102.72,30.22,9,2
+TR5-10012,2025-04-07,Centro,Deportes,App Móvil,173.91,96.73,77.18,5,3
+TR5-11346,2025-04-07,NOA,Hogar,Marketplace,96.27,71.31,24.96,9,3
+TR5-10498,2025-04-07,Centro,Electrónica,Web Directa,389.27,316.03,73.24,10,2
+TR5-10432,2025-04-07,Patagonia,Electrónica,Marketplace,145.6,109.89,35.71,9,2
+TR5-10543,2025-04-07,Cuyo,Electrónica,Email Marketing,295.47,239.21,56.26,9,10
+TR5-10722,2025-04-08,Patagonia,Electrónica,Marketplace,647.38,501.26,146.12,10,4
+TR5-11563,2025-04-08,Cuyo,Indumentaria,Marketplace,570.82,350.65,220.17,4,1
+TR5-11474,2025-04-08,PBA,Indumentaria,App Móvil,655.15,417.56,237.59,4,5
+TR5-10602,2025-04-08,Cuyo,Deportes,Web Directa,135.54,83.29,52.25,8,4
+TR5-11144,2025-04-08,PBA,Hogar,Web Directa,198.18,125.92,72.26,10,1
+TR5-10109,2025-04-08,PBA,Deportes,App Móvil,142.01,94.39,47.62,10,2
+TR5-11755,2025-04-09,PBA,Indumentaria,Web Directa,61.19,39.34,21.85,6,2
+TR5-10320,2025-04-09,Patagonia,Electrónica,Web Directa,422.11,329.07,93.04,10,2
+TR5-10099,2025-04-09,PBA,Electrónica,Web Directa,778.88,635.36,143.52,10,2
+TR5-10541,2025-04-09,Centro,Indumentaria,Marketplace,250.27,151.77,98.5,4,1
+TR5-11693,2025-04-10,PBA,Indumentaria,App Móvil,73.6,44.0,29.6,9,3
+TR5-10464,2025-04-10,Cuyo,Hogar,App Móvil,560.23,411.47,148.76,10,1
+TR5-11655,2025-04-10,PBA,Deportes,App Móvil,256.76,157.55,99.21,6,3
+TR5-11282,2025-04-11,NOA,Deportes,Web Directa,109.7,73.57,36.13,9,4
+TR5-11309,2025-04-11,NOA,Deportes,Marketplace,112.77,67.43,45.34,9,1
+TR5-10643,2025-04-11,Centro,Deportes,Web Directa,285.36,168.59,116.77,9,2
+TR5-11640,2025-04-12,Cuyo,Electrónica,App Móvil,622.97,474.9,148.07,7,3
+TR5-11668,2025-04-12,NOA,Indumentaria,App Móvil,278.67,164.8,113.87,10,14
+TR5-11436,2025-04-12,Cuyo,Electrónica,Web Directa,1164.47,925.71,238.76,9,3
+TR5-10047,2025-04-12,Centro,Hogar,App Móvil,218.31,137.2,81.11,4,2
+TR5-10442,2025-04-13,PBA,Hogar,Email Marketing,84.79,56.09,28.7,8,1
+TR5-10762,2025-04-13,Centro,Electrónica,Email Marketing,625.45,450.48,174.97,9,2
+TR5-11285,2025-04-14,PBA,Deportes,Web Directa,570.65,369.89,200.76,6,3
+TR5-11080,2025-04-14,Patagonia,Hogar,Web Directa,457.04,282.21,174.83,10,3
+TR5-10205,2025-04-15,Cuyo,Indumentaria,App Móvil,117.94,67.84,50.1,6,3
+TR5-10170,2025-04-15,PBA,Deportes,Marketplace,92.99,54.28,38.71,9,4
+TR5-11323,2025-04-15,PBA,Hogar,Web Directa,109.53,79.6,29.93,7,2
+TR5-10494,2025-04-15,Centro,Hogar,Web Directa,227.4,164.69,62.71,10,1
+TR5-11696,2025-04-15,PBA,Indumentaria,App Móvil,101.49,53.14,48.35,9,1
+TR5-10605,2025-04-15,NOA,Deportes,App Móvil,728.61,421.71,306.9,6,3
+TR5-10894,2025-04-15,PBA,Hogar,Web Directa,188.58,137.69,50.89,8,3
+TR5-10790,2025-04-16,NOA,Electrónica,Web Directa,742.54,537.22,205.32,6,3
+TR5-10384,2025-04-16,PBA,Indumentaria,Web Directa,121.08,64.43,56.65,10,1
+TR5-11351,2025-04-16,PBA,Indumentaria,Marketplace,239.82,144.31,95.51,10,2
+TR5-10280,2025-04-16,PBA,Electrónica,Email Marketing,163.68,124.22,39.46,2,3
+TR5-11002,2025-04-16,Cuyo,Deportes,App Móvil,218.17,128.05,90.12,8,2
+TR5-10351,2025-04-16,Centro,Deportes,Marketplace,266.94,172.69,94.25,10,2
+TR5-10357,2025-04-17,NOA,Indumentaria,Web Directa,343.39,208.47,134.92,9,4
+TR5-11129,2025-04-17,Cuyo,Hogar,Web Directa,420.39,290.79,129.6,9,2
+TR5-10875,2025-04-17,Cuyo,Hogar,App Móvil,1134.18,726.74,407.44,10,1
+TR5-10292,2025-04-17,Centro,Hogar,Web Directa,229.01,162.1,66.91,7,4
+TR5-11154,2025-04-17,NOA,Electrónica,App Móvil,162.21,129.3,32.91,8,3
+TR5-10915,2025-04-18,NOA,Indumentaria,Web Directa,170.71,108.27,62.44,10,3
+TR5-10317,2025-04-18,Cuyo,Hogar,Marketplace,297.41,215.6,81.81,8,3
+TR5-10939,2025-04-18,Centro,Hogar,Marketplace,234.61,151.66,82.95,10,2
+TR5-11723,2025-04-18,PBA,Hogar,App Móvil,132.05,90.69,41.36,5,5
+TR5-11664,2025-04-18,NOA,Hogar,Web Directa,679.28,480.88,198.4,10,3
+TR5-10834,2025-04-19,NOA,Deportes,Email Marketing,116.03,74.67,41.36,10,4
+TR5-11246,2025-04-19,NOA,Indumentaria,Web Directa,99.93,52.77,47.16,10,2
+TR5-10104,2025-04-19,NOA,Indumentaria,Web Directa,201.7,118.39,83.31,8,2
+TR5-11035,2025-04-19,Cuyo,Electrónica,Web Directa,573.0,423.39,149.61,1,2
+TR5-10167,2025-04-19,PBA,Electrónica,Marketplace,381.72,277.49,104.23,10,4
+TR5-11520,2025-04-20,Centro,Electrónica,Web Directa,441.74,338.08,103.66,10,2
+TR5-10439,2025-04-20,Cuyo,Electrónica,Web Directa,377.65,297.36,80.29,1,1
+TR5-10441,2025-04-20,PBA,Electrónica,App Móvil,413.04,304.43,108.61,8,3
+TR5-11338,2025-04-20,Patagonia,Electrónica,Marketplace,268.54,216.43,52.11,8,2
+TR5-10776,2025-04-20,Centro,Indumentaria,Web Directa,225.33,119.04,106.29,5,2
+TR5-10596,2025-04-21,PBA,Hogar,Web Directa,94.01,63.02,30.99,9,2
+TR5-10252,2025-04-21,Cuyo,Electrónica,App Móvil,535.69,407.3,128.39,9,2
+TR5-11504,2025-04-21,PBA,Hogar,Marketplace,244.46,176.09,68.37,6,2
+TR5-10793,2025-04-21,Patagonia,Deportes,Web Directa,399.23,262.29,136.94,8,3
+TR5-11650,2025-04-21,NOA,Indumentaria,App Móvil,41.75,21.93,19.82,4,1
+TR5-10204,2025-04-21,PBA,Indumentaria,Web Directa,208.79,105.68,103.11,10,5
+TR5-11547,2025-04-21,NOA,Hogar,Web Directa,110.69,78.32,32.37,9,2
+TR5-11031,2025-04-22,Centro,Hogar,Marketplace,703.69,525.31,178.38,7,1
+TR5-10014,2025-04-22,Cuyo,Indumentaria,Web Directa,41.47,23.61,17.86,9,2
+TR5-11343,2025-04-22,PBA,Electrónica,Marketplace,656.8,483.24,173.56,9,2
+TR5-10606,2025-04-22,PBA,Deportes,Marketplace,146.38,87.52,58.86,8,4
+TR5-10019,2025-04-23,PBA,Hogar,Web Directa,423.33,259.81,163.52,10,3
+TR5-10069,2025-04-23,PBA,Electrónica,Marketplace,207.42,166.44,40.98,7,3
+TR5-11357,2025-04-23,NOA,Electrónica,Web Directa,241.97,191.38,50.59,8,2
+TR5-11273,2025-04-23,Cuyo,Electrónica,Marketplace,969.09,727.66,241.43,10,2
+TR5-10651,2025-04-23,PBA,Electrónica,Marketplace,252.76,186.22,66.54,6,5
+TR5-10544,2025-04-23,PBA,Deportes,Web Directa,76.0,46.95,29.05,8,4
+TR5-11195,2025-04-24,PBA,Deportes,App Móvil,264.14,159.44,104.7,5,5
+TR5-10986,2025-04-24,PBA,Deportes,Email Marketing,228.63,136.13,92.5,7,2
+TR5-11522,2025-04-24,Centro,Electrónica,Web Directa,206.76,149.61,57.15,8,3
+TR5-11590,2025-04-24,Centro,Indumentaria,Marketplace,280.11,175.66,104.45,10,3
+TR5-10820,2025-04-24,Centro,Deportes,App Móvil,75.39,47.59,27.8,3,1
+TR5-10739,2025-04-25,Centro,Deportes,Web Directa,144.56,87.33,57.23,10,4
+TR5-11266,2025-04-25,Cuyo,Hogar,Web Directa,89.53,54.59,34.94,9,6
+TR5-11092,2025-04-25,Cuyo,Hogar,Marketplace,244.31,168.83,75.48,10,1
+TR5-11008,2025-04-26,Patagonia,Hogar,Web Directa,184.89,119.91,64.98,7,3
+TR5-10721,2025-04-26,Patagonia,Hogar,App Móvil,257.87,188.0,69.87,6,2
+TR5-10719,2025-04-26,PBA,Indumentaria,Web Directa,183.05,93.28,89.77,10,14
+TR5-10830,2025-04-26,Centro,Indumentaria,App Móvil,42.84,26.64,16.2,7,5
+TR5-10522,2025-04-26,PBA,Hogar,Web Directa,220.15,159.16,60.99,8,3
+TR5-10140,2025-04-27,PBA,Electrónica,Email Marketing,308.78,250.94,57.84,9,2
+TR5-11211,2025-04-27,Cuyo,Hogar,App Móvil,369.84,270.25,99.59,9,3
+TR5-10005,2025-04-27,Cuyo,Deportes,App Móvil,81.78,53.5,28.28,10,2
+TR5-10472,2025-04-27,Cuyo,Indumentaria,Marketplace,460.92,278.22,182.7,8,2
+TR5-10024,2025-04-27,Centro,Indumentaria,Web Directa,233.62,135.64,97.98,1,2
+TR5-10480,2025-04-27,NOA,Electrónica,App Móvil,405.56,295.43,110.13,8,3
+TR5-10398,2025-04-27,PBA,Hogar,App Móvil,333.41,201.95,131.46,9,2
+TR5-11276,2025-04-27,NOA,Electrónica,App Móvil,682.53,519.98,162.55,9,3
+TR5-10883,2025-04-27,PBA,Indumentaria,Web Directa,131.61,69.46,62.15,9,1
+TR5-11712,2025-04-27,Cuyo,Indumentaria,Web Directa,166.88,87.0,79.88,10,5
+TR5-11462,2025-04-28,PBA,Hogar,Web Directa,116.25,76.24,40.01,10,1
+TR5-11337,2025-04-28,Cuyo,Indumentaria,App Móvil,103.07,58.36,44.71,8,3
+TR5-11353,2025-04-28,PBA,Hogar,App Móvil,205.21,123.22,81.99,9,2
+TR5-10118,2025-04-28,Centro,Hogar,Web Directa,763.84,481.67,282.17,7,3
+TR5-10942,2025-04-29,PBA,Electrónica,Web Directa,305.35,226.38,78.97,7,3
+TR5-11695,2025-04-29,Centro,Hogar,App Móvil,141.26,85.0,56.26,10,2
+TR5-10147,2025-04-29,PBA,Deportes,Marketplace,109.81,64.07,45.74,10,3
+TR5-11573,2025-04-29,Cuyo,Hogar,Web Directa,196.66,131.89,64.77,8,2
+TR5-11483,2025-04-29,Centro,Indumentaria,Email Marketing,56.47,36.51,19.96,10,1
+TR5-11570,2025-04-29,PBA,Indumentaria,Web Directa,129.54,74.1,55.44,10,6
+TR5-10585,2025-04-30,PBA,Indumentaria,Marketplace,673.08,403.69,269.39,7,2
+TR5-11263,2025-04-30,Centro,Indumentaria,Web Directa,69.43,36.8,32.63,10,3
+TR5-11307,2025-04-30,PBA,Deportes,Email Marketing,379.83,213.76,166.07,8,1
+TR5-10447,2025-04-30,Centro,Indumentaria,App Móvil,43.62,24.19,19.43,9,2
+TR5-10161,2025-05-01,PBA,Electrónica,App Móvil,1211.21,922.98,288.23,8,2
+TR5-11186,2025-05-01,PBA,Indumentaria,Marketplace,141.08,87.41,53.67,10,2
+TR5-10200,2025-05-01,PBA,Hogar,App Móvil,240.25,162.67,77.58,9,3
+TR5-11505,2025-05-01,Cuyo,Electrónica,Email Marketing,127.71,98.8,28.91,10,1
+TR5-11644,2025-05-02,PBA,Hogar,Marketplace,316.08,202.51,113.57,10,6
+TR5-11582,2025-05-02,Cuyo,Deportes,App Móvil,494.17,320.26,173.91,10,4
+TR5-11391,2025-05-02,PBA,Electrónica,Email Marketing,485.25,370.89,114.36,5,2
+TR5-11793,2025-05-02,Centro,Electrónica,Web Directa,396.48,299.74,96.74,9,3
+TR5-11628,2025-05-02,NOA,Indumentaria,Web Directa,98.73,51.09,47.64,10,2
+TR5-10645,2025-05-03,Patagonia,Deportes,App Móvil,516.38,355.64,160.74,8,6
+TR5-10707,2025-05-03,PBA,Electrónica,Web Directa,418.72,331.54,87.18,10,2
+TR5-11017,2025-05-03,Centro,Electrónica,Web Directa,755.27,549.39,205.88,9,2
+TR5-10294,2025-05-03,PBA,Electrónica,App Móvil,309.61,229.3,80.31,10,3
+TR5-10515,2025-05-03,Patagonia,Deportes,Marketplace,148.25,92.55,55.7,9,3
+TR5-11305,2025-05-03,Cuyo,Deportes,Email Marketing,220.73,140.03,80.7,7,2
+TR5-11535,2025-05-04,Cuyo,Indumentaria,Marketplace,151.29,82.56,68.73,10,3
+TR5-10297,2025-05-04,PBA,Indumentaria,Marketplace,134.21,83.09,51.12,10,4
+TR5-10127,2025-05-04,NOA,Deportes,App Móvil,144.47,93.5,50.97,10,2
+TR5-11127,2025-05-04,Centro,Deportes,App Móvil,91.04,59.54,31.5,10,1
+TR5-11500,2025-05-04,Patagonia,Hogar,Web Directa,388.52,287.28,101.24,10,3
+TR5-11493,2025-05-04,Cuyo,Deportes,App Móvil,80.18,47.98,32.2,7,3
+TR5-11416,2025-05-05,PBA,Indumentaria,Email Marketing,394.17,231.62,162.55,9,3
+TR5-10628,2025-05-05,Patagonia,Hogar,App Móvil,86.47,55.87,30.6,7,4
+TR5-11038,2025-05-05,Centro,Electrónica,Marketplace,132.7,99.14,33.56,10,3
+TR5-10102,2025-05-05,Centro,Deportes,Email Marketing,883.87,617.33,266.54,10,5
+TR5-11362,2025-05-05,Centro,Hogar,Email Marketing,1521.78,946.05,575.73,8,2
+TR5-11414,2025-05-06,PBA,Electrónica,Web Directa,627.02,500.44,126.58,9,1
+TR5-10270,2025-05-06,PBA,Electrónica,Marketplace,207.84,168.3,39.54,10,4
+TR5-10374,2025-05-06,PBA,Electrónica,Web Directa,241.81,180.6,61.21,9,1
+TR5-10551,2025-05-06,Centro,Deportes,Marketplace,441.36,305.69,135.67,6,2
+TR5-11457,2025-05-07,Centro,Hogar,Marketplace,441.45,329.95,111.5,10,2
+TR5-11433,2025-05-07,PBA,Deportes,App Móvil,310.61,183.93,126.68,10,5
+TR5-10573,2025-05-07,Centro,Electrónica,Web Directa,273.2,214.37,58.83,9,1
+TR5-11330,2025-05-07,NOA,Hogar,Web Directa,1025.62,765.9,259.72,10,2
+TR5-10955,2025-05-07,Patagonia,Deportes,Web Directa,68.22,45.66,22.56,7,3
+TR5-10981,2025-05-08,PBA,Deportes,Web Directa,61.62,36.55,25.07,8,6
+TR5-11488,2025-05-08,PBA,Deportes,App Móvil,77.85,51.28,26.57,8,3
+TR5-11536,2025-05-08,Patagonia,Hogar,Web Directa,484.06,312.38,171.68,9,1
+TR5-10429,2025-05-08,PBA,Deportes,Marketplace,610.29,347.19,263.1,8,1
+TR5-11009,2025-05-08,PBA,Electrónica,Web Directa,551.22,440.36,110.86,5,4
+TR5-10363,2025-05-08,PBA,Electrónica,App Móvil,284.55,207.4,77.15,10,3
+TR5-11024,2025-05-08,PBA,Hogar,Marketplace,806.46,502.24,304.22,9,2
+TR5-11621,2025-05-08,PBA,Indumentaria,Web Directa,382.94,192.02,190.92,8,4
+TR5-11442,2025-05-08,PBA,Indumentaria,Email Marketing,274.18,143.2,130.98,10,14
+TR5-10520,2025-05-09,NOA,Deportes,Web Directa,138.09,96.56,41.53,10,2
+TR5-10833,2025-05-09,PBA,Deportes,Web Directa,152.69,100.37,52.32,9,2
+TR5-11058,2025-05-09,Centro,Indumentaria,Web Directa,56.87,29.05,27.82,10,1
+TR5-10304,2025-05-09,Centro,Deportes,App Móvil,76.29,47.25,29.04,3,1
+TR5-10315,2025-05-09,PBA,Electrónica,Web Directa,1015.9,751.55,264.35,4,2
+TR5-11056,2025-05-10,Centro,Hogar,Web Directa,364.94,245.91,119.03,9,1
+TR5-10146,2025-05-10,PBA,Indumentaria,Email Marketing,339.26,175.79,163.47,9,2
+TR5-10233,2025-05-10,Centro,Indumentaria,Marketplace,80.49,46.13,34.36,9,14
+TR5-11446,2025-05-10,Centro,Indumentaria,Web Directa,424.17,264.5,159.67,5,3
+TR5-10598,2025-05-10,PBA,Electrónica,App Móvil,154.22,119.2,35.02,7,6
+TR5-10766,2025-05-11,NOA,Electrónica,Web Directa,357.05,291.0,66.05,8,2
+TR5-11365,2025-05-11,PBA,Indumentaria,App Móvil,225.68,115.33,110.35,8,3
+TR5-10007,2025-05-11,PBA,Electrónica,Marketplace,421.51,336.48,85.03,9,3
+TR5-10569,2025-05-11,NOA,Indumentaria,Web Directa,213.45,110.43,103.02,7,2
+TR5-11729,2025-05-12,PBA,Electrónica,Marketplace,618.09,464.86,153.23,7,3
+TR5-11225,2025-05-12,Cuyo,Hogar,Web Directa,97.29,70.34,26.95,10,2
+TR5-10801,2025-05-12,PBA,Deportes,App Móvil,739.04,499.2,239.84,4,4
+TR5-11310,2025-05-12,PBA,Indumentaria,Marketplace,104.8,59.23,45.57,10,3
+TR5-10336,2025-05-12,NOA,Hogar,Marketplace,545.13,330.28,214.85,8,4
+TR5-11648,2025-05-12,Patagonia,Hogar,App Móvil,210.34,155.28,55.06,10,2
+TR5-11321,2025-05-12,Patagonia,Hogar,Marketplace,592.37,406.01,186.36,8,2
+TR5-11175,2025-05-13,Centro,Hogar,Marketplace,217.73,160.0,57.73,10,2
+TR5-11658,2025-05-13,PBA,Hogar,Web Directa,133.43,83.26,50.17,9,2
+TR5-11653,2025-05-13,Cuyo,Indumentaria,Email Marketing,299.18,188.03,111.15,10,2
+TR5-10095,2025-05-13,PBA,Electrónica,App Móvil,140.62,102.65,37.97,10,1
+TR5-10354,2025-05-13,Centro,Hogar,Web Directa,339.93,240.59,99.34,6,2
+TR5-11785,2025-05-14,Centro,Hogar,Marketplace,251.32,174.38,76.94,10,1
+TR5-11730,2025-05-14,NOA,Electrónica,Marketplace,521.66,404.34,117.32,10,5
+TR5-10638,2025-05-14,PBA,Deportes,Email Marketing,119.11,74.59,44.52,8,4
+TR5-10508,2025-05-14,Centro,Hogar,Marketplace,817.32,511.5,305.82,9,2
+TR5-11381,2025-05-14,NOA,Electrónica,Web Directa,184.35,138.03,46.32,7,3
+TR5-11358,2025-05-15,Centro,Electrónica,App Móvil,472.53,385.81,86.72,9,1
+TR5-11132,2025-05-15,PBA,Deportes,Web Directa,88.94,58.04,30.9,8,3
+TR5-11754,2025-05-15,NOA,Indumentaria,Marketplace,373.42,208.99,164.43,10,4
+TR5-10013,2025-05-16,Cuyo,Electrónica,Web Directa,1045.48,776.03,269.45,5,3
+TR5-11758,2025-05-16,Centro,Deportes,Marketplace,63.89,37.05,26.84,10,3
+TR5-11752,2025-05-16,PBA,Deportes,Email Marketing,267.22,166.24,100.98,8,1
+TR5-10851,2025-05-16,Centro,Hogar,Web Directa,326.95,232.18,94.77,9,2
+TR5-11564,2025-05-16,Cuyo,Deportes,App Móvil,218.18,147.15,71.03,10,14
+TR5-11592,2025-05-16,Centro,Hogar,Web Directa,313.1,219.85,93.25,9,1
+TR5-10982,2025-05-16,PBA,Indumentaria,Web Directa,163.54,91.46,72.08,6,2
+TR5-10400,2025-05-16,PBA,Deportes,App Móvil,218.89,133.32,85.57,8,2
+TR5-10837,2025-05-17,Centro,Deportes,Web Directa,255.36,175.28,80.08,8,3
+TR5-10465,2025-05-17,PBA,Deportes,Web Directa,206.7,141.49,65.21,6,3
+TR5-10332,2025-05-17,PBA,Hogar,Web Directa,389.69,239.36,150.33,9,2
+TR5-10450,2025-05-17,PBA,Electrónica,Marketplace,217.46,160.58,56.88,10,4
+TR5-10035,2025-05-18,Patagonia,Electrónica,App Móvil,691.95,527.1,164.85,9,2
+TR5-10433,2025-05-18,NOA,Electrónica,Marketplace,743.01,602.82,140.19,8,2
+TR5-10249,2025-05-18,Cuyo,Deportes,App Móvil,349.76,240.3,109.46,6,2
+TR5-11681,2025-05-19,Cuyo,Electrónica,Email Marketing,335.69,264.32,71.37,10,3
+TR5-11176,2025-05-19,Centro,Electrónica,Email Marketing,185.47,141.85,43.62,5,2
+TR5-11428,2025-05-19,Patagonia,Deportes,App Móvil,328.29,182.16,146.13,10,2
+TR5-11190,2025-05-19,Centro,Indumentaria,App Móvil,185.55,118.35,67.2,8,5
+TR5-10455,2025-05-19,PBA,Hogar,Email Marketing,295.38,215.87,79.51,8,2
+TR5-11360,2025-05-19,Centro,Electrónica,Marketplace,377.43,291.99,85.44,9,5
+TR5-11525,2025-05-20,Centro,Deportes,Web Directa,146.31,99.72,46.59,9,2
+TR5-10052,2025-05-20,PBA,Deportes,App Móvil,324.71,205.47,119.24,10,3
+TR5-11157,2025-05-20,Cuyo,Hogar,App Móvil,157.81,108.14,49.67,8,6
+TR5-10496,2025-05-20,PBA,Electrónica,Web Directa,457.04,335.85,121.19,7,2
+TR5-10399,2025-05-21,Centro,Electrónica,Marketplace,394.76,304.18,90.58,7,3
+TR5-10241,2025-05-21,Centro,Electrónica,Web Directa,357.5,266.65,90.85,9,2
+TR5-11740,2025-05-21,Centro,Indumentaria,Marketplace,596.42,323.68,272.74,10,2
+TR5-10554,2025-05-21,PBA,Deportes,Marketplace,257.17,157.79,99.38,10,2
+TR5-10588,2025-05-21,Centro,Hogar,Marketplace,374.04,265.81,108.23,7,3
+TR5-10540,2025-05-21,Centro,Indumentaria,Web Directa,95.8,48.17,47.63,10,2
+TR5-11766,2025-05-22,Patagonia,Hogar,Marketplace,122.43,76.28,46.15,10,3
+TR5-10858,2025-05-22,Patagonia,Indumentaria,Email Marketing,297.96,158.49,139.47,9,2
+TR5-10912,2025-05-22,Patagonia,Electrónica,App Móvil,312.63,253.37,59.26,8,2
+TR5-10967,2025-05-22,PBA,Deportes,App Móvil,235.57,150.69,84.88,7,2
+TR5-10197,2025-05-23,Patagonia,Hogar,Web Directa,372.96,263.17,109.79,7,3
+TR5-10630,2025-05-23,Cuyo,Deportes,Email Marketing,135.32,78.97,56.35,9,3
+TR5-10617,2025-05-23,PBA,Deportes,App Móvil,301.34,186.05,115.29,10,3
+TR5-10822,2025-05-24,NOA,Deportes,Web Directa,127.34,83.02,44.32,6,6
+TR5-10682,2025-05-24,PBA,Deportes,App Móvil,211.7,128.4,83.3,10,3
+TR5-11556,2025-05-25,NOA,Indumentaria,App Móvil,300.13,192.01,108.12,9,2
+TR5-10635,2025-05-25,Centro,Hogar,App Móvil,253.68,154.71,98.97,10,2
+TR5-11670,2025-05-25,Patagonia,Electrónica,Web Directa,176.26,132.19,44.07,3,4
+TR5-10426,2025-05-26,PBA,Deportes,App Móvil,775.64,430.8,344.84,10,1
+TR5-11492,2025-05-27,NOA,Electrónica,Marketplace,273.49,218.45,55.04,10,2
+TR5-10174,2025-05-27,PBA,Electrónica,Marketplace,263.91,215.34,48.57,8,1
+TR5-10795,2025-05-27,Patagonia,Hogar,App Móvil,125.55,83.37,42.18,8,2
+TR5-11623,2025-05-28,PBA,Indumentaria,App Móvil,186.08,115.95,70.13,9,1
+TR5-11586,2025-05-28,PBA,Electrónica,App Móvil,196.11,149.19,46.92,7,1
+TR5-10885,2025-05-28,PBA,Hogar,Email Marketing,349.26,252.07,97.19,10,2
+TR5-10165,2025-05-28,Patagonia,Electrónica,Web Directa,562.94,437.43,125.51,8,2
+TR5-10691,2025-05-28,NOA,Hogar,Web Directa,182.76,115.57,67.19,5,3
+TR5-11609,2025-05-28,PBA,Hogar,App Móvil,230.29,157.25,73.04,3,3
+TR5-10991,2025-05-28,Cuyo,Indumentaria,Marketplace,107.78,65.52,42.26,9,1
+TR5-11503,2025-05-29,Centro,Indumentaria,Web Directa,92.1,49.36,42.74,6,4
+TR5-10026,2025-05-29,Centro,Deportes,App Móvil,374.51,242.58,131.93,9,2
+TR5-11406,2025-05-29,Centro,Hogar,Marketplace,536.01,348.84,187.17,9,7
+TR5-11110,2025-05-29,NOA,Hogar,Web Directa,218.18,152.46,65.72,10,1
+TR5-11050,2025-05-29,Centro,Hogar,Web Directa,796.81,502.21,294.6,6,2
+TR5-11512,2025-05-30,Centro,Electrónica,Web Directa,195.07,144.06,51.01,8,2
+TR5-10401,2025-05-30,PBA,Electrónica,App Móvil,519.68,389.93,129.75,7,2
+TR5-11652,2025-05-30,Centro,Electrónica,Marketplace,1520.67,1103.82,416.85,10,2
+TR5-11788,2025-05-30,Centro,Indumentaria,Web Directa,419.26,234.89,184.37,10,2
+TR5-10211,2025-05-30,Cuyo,Hogar,Web Directa,349.75,237.39,112.36,7,2
+TR5-10453,2025-05-31,Cuyo,Indumentaria,Web Directa,61.61,37.71,23.9,7,3
+TR5-10198,2025-05-31,Centro,Electrónica,Web Directa,887.27,672.1,215.17,6,2
+TR5-10337,2025-05-31,Centro,Deportes,Web Directa,1003.53,578.31,425.22,6,4
+TR5-11710,2025-05-31,PBA,Indumentaria,Web Directa,47.12,24.89,22.23,9,3
+TR5-10525,2025-05-31,Cuyo,Electrónica,App Móvil,220.98,174.98,46.0,7,1
+TR5-10580,2025-05-31,PBA,Hogar,Email Marketing,231.15,143.74,87.41,10,6
+TR5-10907,2025-06-01,PBA,Hogar,Web Directa,139.29,85.56,53.73,6,5
+TR5-11137,2025-06-01,NOA,Deportes,Web Directa,311.98,195.54,116.44,8,3
+TR5-11331,2025-06-01,PBA,Indumentaria,Email Marketing,227.11,113.66,113.45,9,14
+TR5-11672,2025-06-02,NOA,Electrónica,App Móvil,214.41,158.05,56.36,10,5
+TR5-10036,2025-06-02,PBA,Electrónica,Web Directa,216.24,158.01,58.23,7,1
+TR5-11491,2025-06-02,Centro,Indumentaria,Email Marketing,75.68,39.75,35.93,10,1
+TR5-10289,2025-06-02,Centro,Hogar,App Móvil,513.05,374.97,138.08,10,2
+TR5-10714,2025-06-02,PBA,Hogar,Web Directa,234.64,172.61,62.03,10,1
+TR5-11557,2025-06-02,Patagonia,Indumentaria,Marketplace,176.49,92.99,83.5,9,3
+TR5-11188,2025-06-02,NOA,Electrónica,Web Directa,179.66,145.47,34.19,6,1
+TR5-11719,2025-06-03,PBA,Electrónica,App Móvil,311.81,241.86,69.95,10,3
+TR5-11453,2025-06-03,NOA,Deportes,Web Directa,162.1,104.03,58.07,10,1
+TR5-11454,2025-06-03,PBA,Electrónica,Web Directa,439.28,325.1,114.18,6,2
+TR5-10646,2025-06-03,Cuyo,Deportes,Marketplace,635.49,421.59,213.9,5,3
+TR5-11791,2025-06-03,Centro,Hogar,App Móvil,322.05,227.5,94.55,9,1
+TR5-10132,2025-06-03,Cuyo,Electrónica,Web Directa,180.86,141.11,39.75,9,2
+TR5-11205,2025-06-03,Centro,Indumentaria,Web Directa,82.1,45.62,36.48,9,4
+TR5-10578,2025-06-04,NOA,Indumentaria,Web Directa,243.4,146.73,96.67,8,4
+TR5-10844,2025-06-04,PBA,Deportes,Web Directa,676.98,473.27,203.71,9,1
+TR5-11255,2025-06-04,Centro,Indumentaria,Email Marketing,312.85,161.52,151.33,6,7
+TR5-10629,2025-06-04,Centro,Indumentaria,Web Directa,104.62,67.3,37.32,8,1
+TR5-10823,2025-06-04,Patagonia,Deportes,Web Directa,269.19,160.61,108.58,4,5
+TR5-11206,2025-06-05,Centro,Deportes,Marketplace,189.87,106.89,82.98,10,5
+TR5-11372,2025-06-05,Cuyo,Electrónica,Web Directa,438.62,344.82,93.8,10,1
+TR5-11101,2025-06-05,NOA,Deportes,Web Directa,217.94,126.15,91.79,9,2
+TR5-11215,2025-06-05,Centro,Deportes,Web Directa,63.14,39.86,23.28,7,3
+TR5-10732,2025-06-05,Centro,Indumentaria,Email Marketing,375.53,227.04,148.49,4,3
+TR5-10563,2025-06-05,Cuyo,Hogar,Marketplace,154.3,102.25,52.05,7,1
+TR5-10181,2025-06-05,PBA,Hogar,Marketplace,348.27,258.84,89.43,10,3
+TR5-10698,2025-06-06,Patagonia,Indumentaria,Web Directa,444.85,234.99,209.86,7,2
+TR5-11787,2025-06-06,Centro,Deportes,App Móvil,208.9,132.26,76.64,7,1
+TR5-10338,2025-06-06,NOA,Electrónica,App Móvil,1156.13,885.31,270.82,8,2
+TR5-11146,2025-06-07,PBA,Hogar,Email Marketing,291.41,190.21,101.2,7,3
+TR5-10826,2025-06-07,PBA,Indumentaria,Web Directa,210.08,123.01,87.07,10,1
+TR5-10576,2025-06-07,PBA,Hogar,App Móvil,186.46,122.19,64.27,9,10
+TR5-10375,2025-06-07,NOA,Electrónica,Email Marketing,463.06,370.18,92.88,8,5
+TR5-10736,2025-06-07,Centro,Hogar,Web Directa,170.51,120.14,50.37,9,1
+TR5-10383,2025-06-08,PBA,Hogar,Marketplace,89.49,58.47,31.02,9,3
+TR5-10633,2025-06-08,Centro,Electrónica,Email Marketing,530.97,423.7,107.27,2,4
+TR5-11550,2025-06-08,NOA,Electrónica,Marketplace,1213.67,920.13,293.54,10,2
+TR5-11400,2025-06-09,Cuyo,Hogar,Marketplace,239.86,157.29,82.57,4,3
+TR5-10899,2025-06-09,Centro,Electrónica,Marketplace,145.06,112.09,32.97,10,3
+TR5-11625,2025-06-09,Patagonia,Deportes,Marketplace,134.1,93.31,40.79,10,2
+TR5-11790,2025-06-09,Cuyo,Hogar,App Móvil,234.41,161.42,72.99,10,2
+TR5-10041,2025-06-09,NOA,Deportes,Marketplace,134.81,88.42,46.39,9,1
+TR5-11601,2025-06-10,Patagonia,Hogar,Email Marketing,512.92,338.22,174.7,6,2
+TR5-11052,2025-06-10,Centro,Hogar,Web Directa,161.32,112.83,48.49,9,4
+TR5-10664,2025-06-10,PBA,Deportes,Web Directa,615.11,373.81,241.3,7,1
+TR5-10546,2025-06-11,NOA,Deportes,Web Directa,197.8,132.48,65.32,5,2
+TR5-11571,2025-06-11,PBA,Deportes,Web Directa,495.13,281.0,214.13,9,2
+TR5-11482,2025-06-11,Centro,Deportes,Marketplace,186.09,112.05,74.04,5,3
+TR5-11709,2025-06-11,Patagonia,Deportes,Web Directa,179.15,105.33,73.82,10,5
+TR5-10062,2025-06-11,Centro,Electrónica,Web Directa,129.51,94.76,34.75,3,3
+TR5-10911,2025-06-12,Centro,Indumentaria,Marketplace,87.56,52.8,34.76,10,4
+TR5-11136,2025-06-12,PBA,Electrónica,App Móvil,206.63,154.02,52.61,9,3
+TR5-11124,2025-06-12,Centro,Electrónica,App Móvil,632.35,460.67,171.68,10,2
+TR5-10259,2025-06-12,NOA,Deportes,Web Directa,143.17,97.58,45.59,5,4
+TR5-11409,2025-06-12,PBA,Deportes,Web Directa,503.2,303.46,199.74,10,3
+TR5-10584,2025-06-13,Centro,Hogar,Web Directa,102.76,66.06,36.7,9,3
+TR5-10220,2025-06-13,PBA,Hogar,Marketplace,266.01,171.92,94.09,9,3
+TR5-11040,2025-06-13,Patagonia,Hogar,App Móvil,541.67,346.89,194.78,9,4
+TR5-11393,2025-06-13,Patagonia,Hogar,Marketplace,107.1,65.69,41.41,9,14
+TR5-10059,2025-06-14,Patagonia,Hogar,App Móvil,189.96,125.32,64.64,9,1
+TR5-11326,2025-06-14,Centro,Indumentaria,Marketplace,66.62,42.17,24.45,10,1
+TR5-11686,2025-06-14,PBA,Hogar,Marketplace,193.51,133.6,59.91,6,2
+TR5-10900,2025-06-14,Centro,Hogar,Email Marketing,176.43,117.16,59.27,10,2
+TR5-11637,2025-06-14,Centro,Hogar,App Móvil,393.42,263.48,129.94,10,4
+TR5-11126,2025-06-14,Patagonia,Indumentaria,App Móvil,237.23,137.74,99.49,8,3
+TR5-10852,2025-06-15,NOA,Hogar,Web Directa,374.21,224.57,149.64,10,1
+TR5-10767,2025-06-15,Centro,Hogar,Email Marketing,574.72,388.79,185.93,10,2
+TR5-10686,2025-06-15,Patagonia,Electrónica,App Móvil,227.06,168.21,58.85,10,3
+TR5-10789,2025-06-15,PBA,Electrónica,Web Directa,230.27,177.51,52.76,5,1
+TR5-11046,2025-06-16,PBA,Deportes,App Móvil,73.73,45.59,28.14,10,4
+TR5-10166,2025-06-16,Patagonia,Electrónica,Web Directa,132.81,98.3,34.51,9,7
+TR5-10636,2025-06-16,Centro,Hogar,Web Directa,452.17,310.34,141.83,6,2
+TR5-11779,2025-06-16,Patagonia,Indumentaria,App Móvil,255.59,160.83,94.76,7,2
+TR5-11045,2025-06-16,PBA,Indumentaria,App Móvil,115.65,61.96,53.69,10,3
+TR5-10291,2025-06-17,Patagonia,Deportes,App Móvil,791.14,511.9,279.24,9,2
+TR5-11108,2025-06-17,Centro,Deportes,Web Directa,217.8,128.04,89.76,7,1
+TR5-10125,2025-06-17,Cuyo,Electrónica,Web Directa,522.85,414.29,108.56,7,3
+TR5-11125,2025-06-18,Patagonia,Deportes,Marketplace,117.88,72.11,45.77,8,3
+TR5-10461,2025-06-18,PBA,Deportes,App Móvil,367.29,238.82,128.47,10,3
+TR5-11674,2025-06-18,Cuyo,Hogar,Web Directa,335.12,232.55,102.57,8,4
+TR5-10802,2025-06-18,Centro,Electrónica,Marketplace,305.1,220.2,84.9,9,1
+TR5-10642,2025-06-18,PBA,Indumentaria,Marketplace,58.66,38.08,20.58,8,1
+TR5-10232,2025-06-19,PBA,Hogar,App Móvil,149.61,99.72,49.89,10,2
+TR5-11581,2025-06-19,PBA,Electrónica,App Móvil,372.0,299.21,72.79,9,2
+TR5-10715,2025-06-20,PBA,Indumentaria,Marketplace,219.79,139.26,80.53,10,3
+TR5-11521,2025-06-20,Cuyo,Indumentaria,Web Directa,72.35,45.91,26.44,7,1
+TR5-11290,2025-06-20,PBA,Indumentaria,Marketplace,249.39,137.81,111.58,7,1
+TR5-10891,2025-06-20,Patagonia,Hogar,Email Marketing,103.21,75.45,27.76,7,2
+TR5-10404,2025-06-20,NOA,Electrónica,Marketplace,137.38,106.18,31.2,8,3
+TR5-10279,2025-06-20,NOA,Electrónica,Marketplace,447.64,324.48,123.16,10,4
+TR5-11431,2025-06-20,PBA,Hogar,Web Directa,150.45,96.58,53.87,9,2
+TR5-11371,2025-06-20,PBA,Indumentaria,Marketplace,95.81,55.99,39.82,7,1
+TR5-10107,2025-06-21,PBA,Indumentaria,Web Directa,114.01,64.14,49.87,7,2
+TR5-11607,2025-06-21,NOA,Electrónica,App Móvil,1470.73,1124.9,345.83,9,1
+TR5-11090,2025-06-22,Patagonia,Electrónica,Email Marketing,185.01,151.5,33.51,7,2
+TR5-10319,2025-06-22,NOA,Hogar,Web Directa,122.23,87.48,34.75,9,2
+TR5-10335,2025-06-22,PBA,Electrónica,Web Directa,216.81,157.68,59.13,9,3
+TR5-11139,2025-06-23,PBA,Electrónica,Web Directa,159.0,118.78,40.22,10,2
+TR5-11180,2025-06-23,PBA,Deportes,Web Directa,110.7,65.5,45.2,8,4
+TR5-11733,2025-06-23,Centro,Indumentaria,App Móvil,130.51,72.66,57.85,9,4
+TR5-10838,2025-06-24,Centro,Hogar,Marketplace,106.56,64.26,42.3,10,2
+TR5-11460,2025-06-24,Centro,Electrónica,Web Directa,946.12,721.26,224.86,10,4
+TR5-10188,2025-06-24,NOA,Hogar,Web Directa,363.4,264.75,98.65,10,3
+TR5-10956,2025-06-24,PBA,Indumentaria,App Móvil,43.3,26.72,16.58,8,3
+TR5-10992,2025-06-24,Centro,Deportes,Email Marketing,220.77,151.81,68.96,7,3
+TR5-11228,2025-06-24,PBA,Hogar,Marketplace,553.39,335.56,217.83,10,7
+TR5-11121,2025-06-25,Centro,Indumentaria,Web Directa,186.58,117.04,69.54,10,4
+TR5-10946,2025-06-25,Centro,Indumentaria,Web Directa,64.26,33.58,30.68,10,1
+TR5-11167,2025-06-25,Centro,Deportes,Web Directa,182.73,104.88,77.85,9,3
+TR5-10487,2025-06-25,Cuyo,Hogar,Web Directa,1191.03,716.98,474.05,1,2
+TR5-10870,2025-06-25,NOA,Indumentaria,Email Marketing,50.14,30.36,19.78,7,1
+TR5-11667,2025-06-25,PBA,Indumentaria,Web Directa,116.34,69.19,47.15,9,5
+TR5-11147,2025-06-25,PBA,Electrónica,Web Directa,348.11,283.79,64.32,10,1
+TR5-11289,2025-06-25,PBA,Indumentaria,Web Directa,200.89,130.16,70.73,10,2
+TR5-10615,2025-06-25,PBA,Indumentaria,App Móvil,235.18,146.44,88.74,8,1
+TR5-11600,2025-06-26,Cuyo,Deportes,App Móvil,487.4,268.15,219.25,10,4
+TR5-10186,2025-06-26,Centro,Deportes,App Móvil,315.15,184.76,130.39,7,1
+TR5-10215,2025-06-26,PBA,Electrónica,Web Directa,1110.24,907.46,202.78,8,5
+TR5-11728,2025-06-26,Patagonia,Electrónica,Email Marketing,578.83,469.29,109.54,9,3
+TR5-11134,2025-06-26,PBA,Electrónica,Web Directa,249.85,203.25,46.6,10,3
+TR5-10843,2025-06-26,PBA,Indumentaria,App Móvil,271.25,171.03,100.22,10,2
+TR5-10653,2025-06-26,NOA,Deportes,Marketplace,205.98,129.35,76.63,8,3
+TR5-10555,2025-06-27,PBA,Hogar,App Móvil,209.75,142.09,67.66,7,6
+TR5-11118,2025-06-27,NOA,Deportes,Web Directa,135.78,94.57,41.21,9,4
+TR5-10621,2025-06-28,PBA,Deportes,Web Directa,450.15,250.65,199.5,10,1
+TR5-11089,2025-06-28,Centro,Hogar,Web Directa,111.28,75.8,35.48,10,3
+TR5-10741,2025-06-28,Centro,Indumentaria,Web Directa,172.42,97.58,74.84,9,5
+TR5-10761,2025-06-28,Centro,Electrónica,Web Directa,298.14,237.01,61.13,9,1
+TR5-11151,2025-06-28,Cuyo,Electrónica,Web Directa,737.49,576.49,161.0,9,4
+TR5-10922,2025-06-28,PBA,Hogar,App Móvil,87.26,53.83,33.43,10,3
+TR5-10223,2025-06-28,NOA,Hogar,Marketplace,113.91,74.49,39.42,10,1
+TR5-10564,2025-06-28,NOA,Deportes,Web Directa,242.18,157.51,84.67,1,2
+TR5-11530,2025-06-29,Patagonia,Hogar,Web Directa,288.58,189.25,99.33,10,2
+TR5-10318,2025-06-29,PBA,Electrónica,Web Directa,244.93,196.01,48.92,5,2
+TR5-10143,2025-06-29,Cuyo,Deportes,App Móvil,477.46,281.52,195.94,7,2
+TR5-10538,2025-06-30,Centro,Electrónica,App Móvil,650.44,514.02,136.42,9,3
+TR5-10305,2025-06-30,PBA,Hogar,App Móvil,98.56,67.73,30.83,10,3
+TR5-10878,2025-06-30,PBA,Deportes,Marketplace,148.09,83.14,64.95,8,3
+TR5-10239,2025-06-30,Centro,Electrónica,Web Directa,186.46,147.98,38.48,7,3
+TR5-11507,2025-06-30,Cuyo,Hogar,Web Directa,384.67,271.55,113.12,10,5
+TR5-10760,2025-07-01,NOA,Indumentaria,App Móvil,92.14,48.78,43.36,6,2
+TR5-10964,2025-07-01,NOA,Deportes,Marketplace,97.12,54.48,42.64,7,3
+TR5-11475,2025-07-01,PBA,Electrónica,Marketplace,157.84,124.09,33.75,8,2
+TR5-10658,2025-07-01,PBA,Deportes,App Móvil,301.46,181.86,119.6,10,1
+TR5-10413,2025-07-01,Centro,Electrónica,Web Directa,244.74,186.18,58.56,10,2
+TR5-10101,2025-07-02,Centro,Deportes,Web Directa,163.26,110.61,52.65,10,2
+TR5-11705,2025-07-02,PBA,Indumentaria,Web Directa,69.26,41.82,27.44,10,4
+TR5-10168,2025-07-02,Centro,Hogar,Marketplace,291.5,182.41,109.09,10,2
+TR5-11069,2025-07-02,PBA,Deportes,App Móvil,79.06,49.11,29.95,10,3
+TR5-10970,2025-07-03,PBA,Indumentaria,Marketplace,396.45,225.46,170.99,9,1
+TR5-10436,2025-07-03,Centro,Deportes,Marketplace,111.99,70.46,41.53,8,2
+TR5-11533,2025-07-03,PBA,Electrónica,App Móvil,758.69,619.93,138.76,2,2
+TR5-11107,2025-07-03,NOA,Deportes,Email Marketing,409.86,276.22,133.64,6,1
+TR5-11074,2025-07-03,PBA,Hogar,Web Directa,141.51,94.79,46.72,8,3
+TR5-10877,2025-07-04,PBA,Electrónica,Web Directa,228.13,184.69,43.44,8,4
+TR5-10699,2025-07-04,Patagonia,Indumentaria,App Móvil,105.02,61.01,44.01,9,3
+TR5-11185,2025-07-04,Centro,Deportes,App Móvil,441.36,293.67,147.69,10,2
+TR5-10772,2025-07-04,PBA,Indumentaria,Web Directa,73.74,40.88,32.86,9,3
+TR5-11306,2025-07-04,NOA,Electrónica,App Móvil,309.36,226.93,82.43,10,3
+TR5-10456,2025-07-05,Cuyo,Hogar,Email Marketing,89.27,66.12,23.15,10,4
+TR5-10176,2025-07-05,PBA,Deportes,Web Directa,454.06,293.33,160.73,10,3
+TR5-10513,2025-07-05,NOA,Indumentaria,App Móvil,65.95,42.36,23.59,10,1
+TR5-11048,2025-07-05,Centro,Electrónica,Email Marketing,436.77,344.51,92.26,5,2
+TR5-10593,2025-07-05,Cuyo,Electrónica,App Móvil,254.32,191.51,62.81,5,3
+TR5-11579,2025-07-06,Centro,Indumentaria,App Móvil,386.2,226.8,159.4,6,1
+TR5-10497,2025-07-06,PBA,Electrónica,Marketplace,331.62,265.35,66.27,2,4
+TR5-10728,2025-07-06,Centro,Deportes,Web Directa,162.33,99.85,62.48,7,1
+TR5-11131,2025-07-06,Patagonia,Electrónica,Web Directa,410.08,304.09,105.99,7,2
+TR5-10129,2025-07-07,Centro,Electrónica,Web Directa,1439.8,1055.09,384.71,9,2
+TR5-10821,2025-07-07,Cuyo,Deportes,App Móvil,183.15,126.04,57.11,10,2
+TR5-11559,2025-07-07,Centro,Electrónica,Web Directa,140.44,106.7,33.74,4,5
+TR5-10070,2025-07-08,Cuyo,Indumentaria,Marketplace,47.26,24.33,22.93,6,1
+TR5-11555,2025-07-08,Patagonia,Deportes,App Móvil,257.62,172.53,85.09,10,1
+TR5-10840,2025-07-08,Cuyo,Hogar,Web Directa,303.14,222.46,80.68,9,2
+TR5-10470,2025-07-09,PBA,Indumentaria,App Móvil,150.85,89.54,61.31,8,2
+TR5-10574,2025-07-09,Cuyo,Deportes,Web Directa,170.04,102.62,67.42,9,2
+TR5-10703,2025-07-09,NOA,Electrónica,Web Directa,998.66,776.02,222.64,10,3
+TR5-11171,2025-07-09,Centro,Hogar,Email Marketing,127.33,84.0,43.33,10,2
+TR5-10361,2025-07-09,Centro,Deportes,Web Directa,271.26,185.08,86.18,7,4
+TR5-10979,2025-07-09,PBA,Electrónica,Marketplace,226.79,182.56,44.23,10,3
+TR5-10798,2025-07-10,NOA,Electrónica,Web Directa,276.97,211.73,65.24,10,2
+TR5-10403,2025-07-10,PBA,Hogar,App Móvil,157.94,95.02,62.92,10,3
+TR5-11209,2025-07-11,Patagonia,Hogar,Web Directa,433.39,276.76,156.63,10,2
+TR5-10485,2025-07-11,Cuyo,Deportes,App Móvil,153.07,105.51,47.56,10,2
+TR5-10871,2025-07-11,PBA,Deportes,App Móvil,716.51,423.9,292.61,7,2
+TR5-10560,2025-07-11,NOA,Deportes,App Móvil,702.23,490.2,212.03,10,3
+TR5-11148,2025-07-11,PBA,Deportes,Marketplace,383.6,220.67,162.93,9,3
+TR5-11149,2025-07-11,NOA,Deportes,Marketplace,68.98,39.03,29.95,9,1
+TR5-10355,2025-07-11,Centro,Hogar,App Móvil,169.31,120.69,48.62,8,3
+TR5-11091,2025-07-12,NOA,Deportes,Web Directa,76.93,47.7,29.23,8,1
+TR5-11544,2025-07-12,Centro,Electrónica,Marketplace,1169.34,861.09,308.25,10,4
+TR5-10687,2025-07-12,Centro,Deportes,Web Directa,224.37,133.69,90.68,10,7
+TR5-10134,2025-07-12,Patagonia,Hogar,App Móvil,492.34,353.02,139.32,8,4
+TR5-11013,2025-07-13,PBA,Electrónica,Marketplace,734.52,558.78,175.74,7,6
+TR5-10293,2025-07-13,PBA,Hogar,Marketplace,396.24,294.5,101.74,5,4
+TR5-10295,2025-07-13,PBA,Electrónica,App Móvil,213.31,168.94,44.37,8,10
+TR5-10507,2025-07-13,Centro,Indumentaria,Marketplace,120.41,76.12,44.29,10,2
+TR5-11313,2025-07-13,PBA,Electrónica,Web Directa,416.36,320.72,95.64,10,2
+TR5-10056,2025-07-14,Cuyo,Deportes,App Móvil,73.34,40.79,32.55,10,2
+TR5-11741,2025-07-14,Cuyo,Deportes,Web Directa,198.54,110.37,88.17,6,1
+TR5-10701,2025-07-14,Patagonia,Electrónica,App Móvil,208.02,170.24,37.78,6,1
+TR5-10669,2025-07-14,Cuyo,Electrónica,Web Directa,941.96,753.06,188.9,1,3
+TR5-10908,2025-07-14,Cuyo,Deportes,Marketplace,101.43,58.38,43.05,10,3
+TR5-11011,2025-07-14,Centro,Hogar,Web Directa,289.09,181.46,107.63,6,2
+TR5-10385,2025-07-15,Centro,Indumentaria,Web Directa,141.34,74.44,66.9,8,1
+TR5-11587,2025-07-15,PBA,Indumentaria,App Móvil,83.77,54.04,29.73,8,1
+TR5-10624,2025-07-15,Cuyo,Hogar,Web Directa,490.76,354.8,135.96,4,1
+TR5-10082,2025-07-15,PBA,Deportes,App Móvil,210.79,134.17,76.62,9,2
+TR5-10557,2025-07-16,NOA,Indumentaria,Web Directa,169.67,99.99,69.68,10,3
+TR5-10391,2025-07-16,Cuyo,Electrónica,Email Marketing,191.25,155.58,35.67,9,1
+TR5-11350,2025-07-16,Patagonia,Deportes,Marketplace,110.15,67.0,43.15,9,2
+TR5-10718,2025-07-16,PBA,Indumentaria,Email Marketing,58.39,35.56,22.83,10,2
+TR5-10808,2025-07-16,Centro,Electrónica,Marketplace,404.98,318.16,86.82,9,2
+TR5-11348,2025-07-17,NOA,Electrónica,Web Directa,243.28,196.12,47.16,8,3
+TR5-11265,2025-07-17,NOA,Indumentaria,Web Directa,147.65,77.05,70.6,4,4
+TR5-11262,2025-07-18,PBA,Electrónica,Web Directa,234.89,180.15,54.74,8,2
+TR5-11295,2025-07-18,Cuyo,Hogar,Email Marketing,631.3,471.81,159.49,9,3
+TR5-11692,2025-07-18,PBA,Electrónica,Email Marketing,563.25,444.11,119.14,5,5
+TR5-11097,2025-07-18,PBA,Electrónica,App Móvil,353.69,276.75,76.94,9,1
+TR5-11529,2025-07-18,Centro,Electrónica,Email Marketing,142.61,109.1,33.51,8,1
+TR5-11523,2025-07-18,Cuyo,Indumentaria,App Móvil,400.32,259.08,141.24,10,2
+TR5-10367,2025-07-18,Centro,Hogar,Web Directa,294.13,209.5,84.63,10,3
+TR5-11419,2025-07-18,NOA,Hogar,Web Directa,238.19,172.61,65.58,10,2
+TR5-11496,2025-07-19,Centro,Deportes,Marketplace,63.0,38.49,24.51,8,3
+TR5-10978,2025-07-19,Centro,Electrónica,Web Directa,418.5,320.79,97.71,9,4
+TR5-10706,2025-07-20,PBA,Electrónica,Web Directa,298.25,219.5,78.75,6,2
+TR5-11165,2025-07-20,PBA,Hogar,Web Directa,279.38,173.14,106.24,10,1
+TR5-11177,2025-07-20,PBA,Electrónica,Web Directa,214.4,162.73,51.67,8,2
+TR5-10565,2025-07-20,PBA,Electrónica,Marketplace,280.13,225.92,54.21,10,3
+TR5-11055,2025-07-20,Cuyo,Electrónica,Marketplace,216.78,165.02,51.76,10,2
+TR5-10237,2025-07-21,Cuyo,Hogar,App Móvil,701.56,457.32,244.24,10,2
+TR5-10023,2025-07-21,Patagonia,Hogar,App Móvil,454.74,285.82,168.92,10,1
+TR5-11452,2025-07-21,Patagonia,Indumentaria,App Móvil,374.93,206.71,168.22,10,2
+TR5-11515,2025-07-22,Cuyo,Hogar,Email Marketing,1502.3,1034.55,467.75,9,3
+TR5-11104,2025-07-22,NOA,Indumentaria,App Móvil,46.37,29.29,17.08,9,2
+TR5-10121,2025-07-22,PBA,Electrónica,Web Directa,129.34,97.65,31.69,10,2
+TR5-10329,2025-07-22,Patagonia,Indumentaria,Marketplace,53.52,27.84,25.68,9,1
+TR5-10825,2025-07-23,Centro,Deportes,Web Directa,389.37,262.02,127.35,1,2
+TR5-10607,2025-07-24,Centro,Indumentaria,Email Marketing,316.72,190.38,126.34,10,3
+TR5-10500,2025-07-24,Centro,Indumentaria,App Móvil,110.56,56.45,54.11,10,4
+TR5-10610,2025-07-25,PBA,Indumentaria,App Móvil,210.6,117.84,92.76,9,3
+TR5-10748,2025-07-25,PBA,Hogar,App Móvil,115.37,85.95,29.42,9,1
+TR5-11565,2025-07-25,NOA,Indumentaria,Web Directa,320.53,173.89,146.64,10,3
+TR5-10008,2025-07-25,Cuyo,Indumentaria,Web Directa,133.76,72.75,61.01,10,1
+TR5-11000,2025-07-25,PBA,Electrónica,App Móvil,295.46,232.35,63.11,10,2
+TR5-10740,2025-07-26,Patagonia,Deportes,Marketplace,154.62,101.05,53.57,10,6
+TR5-11027,2025-07-26,PBA,Deportes,App Móvil,69.68,44.59,25.09,8,2
+TR5-11300,2025-07-26,PBA,Deportes,Web Directa,419.62,264.02,155.6,8,1
+TR5-10963,2025-07-26,Patagonia,Hogar,Web Directa,272.32,189.02,83.3,4,4
+TR5-11382,2025-07-26,PBA,Electrónica,Web Directa,575.42,445.47,129.95,9,1
+TR5-10614,2025-07-27,Centro,Hogar,Web Directa,342.46,217.97,124.49,10,4
+TR5-11250,2025-07-27,PBA,Indumentaria,App Móvil,197.45,115.2,82.25,8,4
+TR5-10392,2025-07-28,PBA,Deportes,Marketplace,284.52,179.51,105.01,10,2
+TR5-11377,2025-07-28,PBA,Deportes,Web Directa,92.77,57.14,35.63,10,6
+TR5-10921,2025-07-28,Centro,Indumentaria,Marketplace,189.61,121.68,67.93,8,2
+TR5-10708,2025-07-28,NOA,Hogar,Email Marketing,575.22,415.64,159.58,5,2
+TR5-10577,2025-07-28,NOA,Deportes,Web Directa,125.24,72.91,52.33,10,2
+TR5-11288,2025-07-29,Cuyo,Electrónica,Web Directa,1496.61,1097.22,399.39,10,2
+TR5-10212,2025-07-29,Patagonia,Indumentaria,App Móvil,275.75,150.68,125.07,9,2
+TR5-10824,2025-07-29,Cuyo,Electrónica,Marketplace,831.59,615.98,215.61,9,3
+TR5-10138,2025-07-29,Centro,Indumentaria,App Móvil,188.06,97.25,90.81,6,4
+TR5-10530,2025-07-29,Centro,Deportes,App Móvil,343.54,219.73,123.81,6,2
+TR5-10502,2025-07-29,Centro,Hogar,Web Directa,681.62,463.79,217.83,8,1
+TR5-10113,2025-07-29,PBA,Electrónica,Web Directa,526.68,423.84,102.84,8,3
+TR5-11130,2025-07-29,PBA,Deportes,App Móvil,198.82,136.64,62.18,8,1
+TR5-10788,2025-07-29,Centro,Electrónica,App Móvil,569.42,431.39,138.03,10,4
+TR5-11632,2025-07-30,Centro,Electrónica,Marketplace,126.51,95.22,31.29,9,1
+TR5-11643,2025-07-30,PBA,Hogar,Web Directa,219.97,143.48,76.49,10,2
+TR5-10619,2025-07-30,NOA,Deportes,Web Directa,990.27,647.81,342.46,7,2
+TR5-10611,2025-07-30,Cuyo,Electrónica,Marketplace,1318.97,1053.5,265.47,9,1
+TR5-10581,2025-07-30,Patagonia,Electrónica,App Móvil,280.61,218.42,62.19,10,7
+TR5-10492,2025-07-30,PBA,Deportes,Email Marketing,158.56,101.16,57.4,4,1
+TR5-10412,2025-07-30,NOA,Deportes,App Móvil,569.85,352.93,216.92,10,1
+TR5-10817,2025-07-30,PBA,Hogar,App Móvil,234.81,146.76,88.05,8,1
+TR5-11690,2025-07-30,PBA,Deportes,App Móvil,184.08,107.94,76.14,8,5
+TR5-11717,2025-07-31,Patagonia,Hogar,App Móvil,168.17,109.73,58.44,7,1
+TR5-11030,2025-07-31,PBA,Hogar,Web Directa,289.97,201.37,88.6,9,3
+TR5-11172,2025-08-01,Centro,Hogar,Web Directa,186.38,139.47,46.91,10,4
+TR5-10142,2025-08-01,PBA,Indumentaria,Web Directa,458.8,290.04,168.76,6,3
+TR5-10179,2025-08-01,NOA,Indumentaria,App Móvil,743.65,429.83,313.82,7,1
+TR5-11720,2025-08-01,Cuyo,Hogar,App Móvil,363.77,249.51,114.26,10,1
+TR5-10061,2025-08-01,Cuyo,Hogar,Marketplace,123.44,77.65,45.79,1,3
+TR5-10325,2025-08-02,NOA,Indumentaria,Email Marketing,88.8,49.74,39.06,10,3
+TR5-10959,2025-08-02,Centro,Deportes,Web Directa,314.28,202.36,111.92,10,2
+TR5-10590,2025-08-02,Centro,Indumentaria,Marketplace,518.65,287.12,231.53,10,3
+TR5-10542,2025-08-02,Patagonia,Hogar,App Móvil,191.05,120.25,70.8,8,4
+TR5-11084,2025-08-02,Cuyo,Deportes,Web Directa,275.68,160.45,115.23,7,2
+TR5-11396,2025-08-02,PBA,Deportes,App Móvil,362.57,234.11,128.46,5,6
+TR5-10396,2025-08-02,Centro,Indumentaria,Web Directa,80.53,51.51,29.02,7,2
+TR5-10770,2025-08-03,Cuyo,Electrónica,App Móvil,533.0,396.9,136.1,8,3
+TR5-11763,2025-08-03,PBA,Electrónica,Web Directa,967.09,710.72,256.37,3,3
+TR5-11102,2025-08-03,Cuyo,Hogar,App Móvil,265.63,159.45,106.18,9,3
+TR5-10088,2025-08-03,Cuyo,Deportes,Web Directa,197.48,110.54,86.94,9,2
+TR5-11086,2025-08-03,PBA,Deportes,Marketplace,98.34,64.84,33.5,7,1
+TR5-11111,2025-08-03,Cuyo,Electrónica,App Móvil,512.83,414.06,98.77,4,2
+TR5-10458,2025-08-03,PBA,Hogar,Web Directa,298.61,210.91,87.7,10,3
+TR5-11061,2025-08-03,PBA,Electrónica,Web Directa,215.39,157.78,57.61,10,1
+TR5-11552,2025-08-04,PBA,Electrónica,App Móvil,312.02,225.94,86.08,8,1
+TR5-11257,2025-08-04,PBA,Hogar,Marketplace,137.07,88.99,48.08,8,6
+TR5-10938,2025-08-04,Cuyo,Indumentaria,Web Directa,77.56,48.67,28.89,10,3
+TR5-10559,2025-08-04,PBA,Deportes,App Móvil,74.33,41.03,33.3,9,1
+TR5-11429,2025-08-04,Patagonia,Electrónica,Web Directa,650.26,528.13,122.13,10,1
+TR5-10081,2025-08-04,NOA,Indumentaria,Web Directa,346.84,184.82,162.02,10,2
+TR5-11227,2025-08-04,PBA,Electrónica,App Móvil,291.32,229.15,62.17,10,1
+TR5-11722,2025-08-04,NOA,Hogar,Web Directa,461.41,333.9,127.51,5,3
+TR5-11749,2025-08-04,NOA,Deportes,Web Directa,81.57,56.61,24.96,9,2
+TR5-11612,2025-08-04,Patagonia,Deportes,Web Directa,222.24,148.2,74.04,9,2
+TR5-11029,2025-08-05,NOA,Deportes,Web Directa,384.58,267.41,117.17,10,2
+TR5-10040,2025-08-05,PBA,Deportes,App Móvil,68.7,43.32,25.38,9,4
+TR5-10382,2025-08-05,PBA,Electrónica,App Móvil,170.82,128.65,42.17,8,1
+TR5-10648,2025-08-05,PBA,Deportes,App Móvil,684.0,397.28,286.72,10,3
+TR5-10504,2025-08-05,Centro,Indumentaria,Web Directa,141.6,81.09,60.51,10,2
+TR5-11775,2025-08-05,NOA,Hogar,Marketplace,361.82,230.88,130.94,10,3
+TR5-11202,2025-08-05,PBA,Indumentaria,Email Marketing,217.97,125.3,92.67,9,1
+TR5-11344,2025-08-05,Centro,Electrónica,App Móvil,598.28,431.48,166.8,9,7
+TR5-10365,2025-08-05,PBA,Deportes,App Móvil,103.75,64.14,39.61,9,3
+TR5-10216,2025-08-06,PBA,Hogar,Web Directa,92.91,68.52,24.39,7,1
+TR5-10723,2025-08-06,PBA,Indumentaria,App Móvil,301.97,151.58,150.39,9,1
+TR5-10990,2025-08-06,PBA,Hogar,Web Directa,437.27,326.54,110.73,9,3
+TR5-11256,2025-08-06,Cuyo,Indumentaria,Email Marketing,386.11,207.95,178.16,10,6
+TR5-11487,2025-08-06,NOA,Hogar,Web Directa,95.54,63.82,31.72,9,4
+TR5-10353,2025-08-06,PBA,Hogar,Web Directa,340.79,215.45,125.34,4,3
+TR5-10791,2025-08-06,Patagonia,Hogar,Marketplace,314.66,223.1,91.56,9,2
+TR5-11768,2025-08-07,NOA,Electrónica,Web Directa,144.53,114.65,29.88,7,2
+TR5-10780,2025-08-07,NOA,Electrónica,Web Directa,1541.44,1240.18,301.26,10,2
+TR5-10961,2025-08-07,PBA,Deportes,Web Directa,789.81,453.25,336.56,6,3
+TR5-11747,2025-08-07,PBA,Electrónica,Marketplace,584.19,477.58,106.61,9,1
+TR5-11079,2025-08-07,Centro,Deportes,App Móvil,98.38,55.52,42.86,6,2
+TR5-10753,2025-08-07,NOA,Electrónica,Web Directa,1415.76,1098.51,317.25,10,2
+TR5-11272,2025-08-07,NOA,Electrónica,Marketplace,396.27,292.39,103.88,10,3
+TR5-10902,2025-08-08,Cuyo,Electrónica,App Móvil,187.2,152.05,35.15,5,2
+TR5-10251,2025-08-08,Cuyo,Deportes,Marketplace,73.94,41.59,32.35,9,1
+TR5-11316,2025-08-08,NOA,Indumentaria,Marketplace,140.05,77.49,62.56,8,2
+TR5-10120,2025-08-08,Centro,Hogar,Marketplace,345.35,210.15,135.2,10,2
+TR5-10644,2025-08-08,PBA,Indumentaria,App Móvil,260.18,148.54,111.64,9,1
+TR5-10466,2025-08-08,Patagonia,Hogar,Web Directa,124.81,91.29,33.52,8,2
+TR5-11473,2025-08-08,PBA,Deportes,Email Marketing,62.35,40.57,21.78,4,5
+TR5-10683,2025-08-08,NOA,Indumentaria,Web Directa,458.87,285.38,173.49,9,3
+TR5-10510,2025-08-08,PBA,Electrónica,Web Directa,283.45,210.33,73.12,10,3
+TR5-10794,2025-08-09,Centro,Hogar,Marketplace,125.32,89.19,36.13,8,10
+TR5-11449,2025-08-09,Cuyo,Indumentaria,App Móvil,72.9,37.0,35.9,6,3
+TR5-11057,2025-08-09,Cuyo,Deportes,Web Directa,236.31,153.49,82.82,7,2
+TR5-11486,2025-08-09,Centro,Indumentaria,Marketplace,152.67,85.54,67.13,10,1
+TR5-10782,2025-08-10,Cuyo,Electrónica,Web Directa,263.72,208.05,55.67,6,2
+TR5-11105,2025-08-10,PBA,Indumentaria,Web Directa,91.31,52.79,38.52,10,2
+TR5-11689,2025-08-10,Cuyo,Deportes,Web Directa,67.24,39.84,27.4,9,1
+TR5-10994,2025-08-10,PBA,Electrónica,App Móvil,432.34,333.15,99.19,8,1
+TR5-10474,2025-08-10,Cuyo,Deportes,Web Directa,124.54,73.21,51.33,3,3
+TR5-10086,2025-08-10,Centro,Indumentaria,App Móvil,146.04,73.14,72.9,10,4
+TR5-10586,2025-08-10,Centro,Electrónica,Web Directa,1056.91,765.55,291.36,10,4
+TR5-10716,2025-08-11,Centro,Hogar,Web Directa,413.65,286.28,127.37,8,1
+TR5-10183,2025-08-11,Patagonia,Deportes,App Móvil,238.94,135.09,103.85,5,3
+TR5-10655,2025-08-11,Centro,Hogar,Web Directa,103.57,73.16,30.41,10,2
+TR5-11070,2025-08-11,PBA,Hogar,App Móvil,470.22,308.96,161.26,10,6
+TR5-10930,2025-08-11,Patagonia,Electrónica,Web Directa,1654.65,1319.93,334.72,10,1
+TR5-10690,2025-08-11,Cuyo,Indumentaria,Email Marketing,440.32,231.75,208.57,10,2
+TR5-10162,2025-08-12,PBA,Deportes,Web Directa,812.43,450.59,361.84,9,1
+TR5-11403,2025-08-12,Centro,Electrónica,App Móvil,886.23,674.68,211.55,10,2
+TR5-10229,2025-08-12,Patagonia,Deportes,Web Directa,94.84,53.54,41.3,10,1
+TR5-11019,2025-08-12,NOA,Hogar,Marketplace,392.32,286.82,105.5,8,1
+TR5-10816,2025-08-12,PBA,Electrónica,Email Marketing,592.2,432.92,159.28,8,4
+TR5-10159,2025-08-12,Centro,Deportes,Web Directa,670.61,404.35,266.26,9,3
+TR5-11455,2025-08-13,PBA,Electrónica,Web Directa,303.17,247.99,55.18,10,2
+TR5-10471,2025-08-13,NOA,Indumentaria,App Móvil,46.93,27.98,18.95,1,2
+TR5-10133,2025-08-13,NOA,Hogar,App Móvil,694.47,477.5,216.97,9,1
+TR5-11095,2025-08-13,Centro,Deportes,Web Directa,211.15,129.88,81.27,10,3
+TR5-11397,2025-08-13,NOA,Indumentaria,Web Directa,422.75,272.41,150.34,7,1
+TR5-11281,2025-08-13,PBA,Deportes,Marketplace,187.73,126.67,61.06,10,3
+TR5-10752,2025-08-13,NOA,Electrónica,Web Directa,327.85,240.27,87.58,9,2
+TR5-10984,2025-08-14,PBA,Deportes,App Móvil,181.6,124.33,57.27,5,3
+TR5-10570,2025-08-14,Cuyo,Electrónica,Web Directa,131.53,103.32,28.21,9,3
+TR5-10595,2025-08-14,Cuyo,Indumentaria,Marketplace,100.28,57.77,42.51,7,2
+TR5-10813,2025-08-14,Cuyo,Electrónica,Web Directa,589.6,462.75,126.85,10,1
+TR5-10545,2025-08-14,PBA,Electrónica,Marketplace,341.8,265.58,76.22,10,2
+TR5-11440,2025-08-14,Cuyo,Deportes,Web Directa,226.58,148.08,78.5,7,4
+TR5-10879,2025-08-14,NOA,Deportes,Web Directa,219.75,131.71,88.04,10,2
+TR5-11430,2025-08-14,Cuyo,Electrónica,Email Marketing,209.54,168.83,40.71,10,2
+TR5-10639,2025-08-15,NOA,Electrónica,Web Directa,202.42,157.3,45.12,7,1
+TR5-10390,2025-08-15,PBA,Indumentaria,App Móvil,158.63,91.62,67.01,8,4
+TR5-10038,2025-08-15,PBA,Indumentaria,Marketplace,1108.92,687.78,421.14,5,2
+TR5-11145,2025-08-15,NOA,Electrónica,App Móvil,960.4,692.29,268.11,9,3
+TR5-11004,2025-08-15,PBA,Deportes,App Móvil,449.06,308.93,140.13,9,4
+TR5-10203,2025-08-16,PBA,Indumentaria,App Móvil,214.17,108.89,105.28,8,6
+TR5-11435,2025-08-16,Centro,Deportes,App Móvil,209.28,129.43,79.85,3,4
+TR5-11508,2025-08-16,Centro,Electrónica,Web Directa,153.45,111.36,42.09,10,3
+TR5-10697,2025-08-16,NOA,Deportes,Marketplace,271.33,189.05,82.28,10,3
+TR5-10702,2025-08-16,Centro,Deportes,App Móvil,344.65,208.36,136.29,10,2
+TR5-11630,2025-08-16,Centro,Electrónica,App Móvil,236.82,188.59,48.23,7,3
+TR5-10193,2025-08-17,PBA,Deportes,Marketplace,126.82,83.82,43.0,7,3
+TR5-10154,2025-08-17,NOA,Indumentaria,App Móvil,94.82,49.53,45.29,5,2
+TR5-10667,2025-08-17,Cuyo,Indumentaria,Web Directa,140.19,90.58,49.61,8,1
+TR5-11106,2025-08-17,Cuyo,Deportes,Marketplace,268.48,156.74,111.74,10,4
+TR5-11645,2025-08-17,PBA,Deportes,App Móvil,151.45,94.58,56.87,3,2
+TR5-11386,2025-08-17,Patagonia,Electrónica,Web Directa,520.55,390.56,129.99,10,1
+TR5-11015,2025-08-17,NOA,Deportes,Web Directa,79.39,54.01,25.38,7,2
+TR5-10340,2025-08-17,PBA,Hogar,Marketplace,222.82,163.12,59.7,10,2
+TR5-11168,2025-08-18,Cuyo,Electrónica,Email Marketing,184.74,149.71,35.03,6,3
+TR5-10420,2025-08-18,Centro,Indumentaria,Marketplace,164.75,83.51,81.24,9,2
+TR5-10312,2025-08-18,Centro,Indumentaria,App Móvil,386.66,216.51,170.15,5,3
+TR5-10085,2025-08-18,Patagonia,Electrónica,Web Directa,410.58,309.44,101.14,10,2
+TR5-10418,2025-08-18,Cuyo,Hogar,App Móvil,83.24,55.54,27.7,10,4
+TR5-10828,2025-08-18,Centro,Electrónica,Marketplace,798.1,599.14,198.96,10,2
+TR5-10864,2025-08-18,Centro,Electrónica,Web Directa,215.22,172.74,42.48,9,3
+TR5-10310,2025-08-18,NOA,Electrónica,Web Directa,196.98,154.38,42.6,8,3
+TR5-11191,2025-08-18,PBA,Electrónica,App Móvil,381.22,288.42,92.8,4,3
+TR5-10744,2025-08-19,PBA,Electrónica,App Móvil,208.77,162.36,46.41,10,6
+TR5-10652,2025-08-19,Centro,Hogar,Marketplace,224.17,161.58,62.59,10,3
+TR5-11742,2025-08-19,Centro,Electrónica,Web Directa,1241.37,898.81,342.56,8,2
+TR5-10618,2025-08-19,Cuyo,Electrónica,App Móvil,974.95,748.67,226.28,10,2
+TR5-11593,2025-08-19,Centro,Electrónica,App Móvil,420.34,324.88,95.46,9,3
+TR5-10601,2025-08-20,Patagonia,Electrónica,Marketplace,718.57,555.58,162.99,9,6
+TR5-11738,2025-08-20,PBA,Electrónica,App Móvil,1217.92,933.87,284.05,10,3
+TR5-10245,2025-08-20,NOA,Electrónica,Web Directa,1705.55,1305.97,399.58,7,2
+TR5-10865,2025-08-20,NOA,Deportes,Web Directa,184.68,107.19,77.49,10,5
+TR5-10122,2025-08-20,NOA,Electrónica,App Móvil,536.79,427.45,109.34,10,1
+TR5-10409,2025-08-20,PBA,Indumentaria,Web Directa,284.78,171.69,113.09,9,3
+TR5-10185,2025-08-20,PBA,Electrónica,Web Directa,497.9,398.62,99.28,9,2
+TR5-10190,2025-08-20,NOA,Indumentaria,Marketplace,57.6,35.68,21.92,7,2
+TR5-11376,2025-08-21,Centro,Electrónica,Web Directa,609.68,471.44,138.24,9,2
+TR5-10152,2025-08-21,PBA,Indumentaria,Web Directa,69.45,40.21,29.24,8,2
+TR5-11772,2025-08-21,PBA,Electrónica,Web Directa,576.48,469.52,106.96,10,4
+TR5-11253,2025-08-21,Centro,Electrónica,Email Marketing,152.66,123.91,28.75,10,2
+TR5-11407,2025-08-22,NOA,Hogar,Marketplace,330.5,199.04,131.46,8,2
+TR5-10948,2025-08-22,NOA,Deportes,App Móvil,75.97,42.57,33.4,10,2
+TR5-11332,2025-08-22,Cuyo,Deportes,Web Directa,62.45,36.23,26.22,7,4
+TR5-11420,2025-08-22,PBA,Indumentaria,Marketplace,247.74,160.57,87.17,9,2
+TR5-11750,2025-08-22,Centro,Electrónica,Marketplace,214.6,157.8,56.8,9,1
+TR5-10358,2025-08-23,Centro,Hogar,Marketplace,265.25,184.23,81.02,10,1
+TR5-10993,2025-08-23,PBA,Indumentaria,App Móvil,119.77,71.63,48.14,10,1
+TR5-10533,2025-08-23,NOA,Electrónica,Web Directa,200.88,150.24,50.64,10,3
+TR5-11666,2025-08-23,NOA,Indumentaria,Web Directa,50.55,29.9,20.65,7,2
+TR5-11043,2025-08-24,NOA,Hogar,App Móvil,1403.29,1021.08,382.21,4,3
+TR5-11268,2025-08-24,PBA,Hogar,Web Directa,230.27,164.36,65.91,9,5
+TR5-11673,2025-08-24,PBA,Deportes,Web Directa,224.26,133.59,90.67,10,6
+TR5-10443,2025-08-24,PBA,Electrónica,Web Directa,251.87,203.38,48.49,8,1
+TR5-11461,2025-08-25,Patagonia,Hogar,App Móvil,285.88,188.65,97.23,6,5
+TR5-11699,2025-08-26,Patagonia,Deportes,Web Directa,107.88,63.58,44.3,9,1
+TR5-10806,2025-08-26,PBA,Indumentaria,Web Directa,91.67,56.63,35.04,10,1
+TR5-11196,2025-08-26,PBA,Deportes,Web Directa,264.51,151.04,113.47,5,3
+TR5-10175,2025-08-26,Centro,Deportes,Web Directa,180.26,120.73,59.53,10,5
+TR5-10267,2025-08-26,PBA,Indumentaria,App Móvil,156.86,78.94,77.92,9,1
+TR5-10352,2025-08-27,PBA,Hogar,Web Directa,139.2,91.74,47.46,9,4
+TR5-10157,2025-08-27,Centro,Hogar,Email Marketing,245.3,182.51,62.79,8,7
+TR5-10285,2025-08-27,Centro,Hogar,Web Directa,176.73,122.99,53.74,9,2
+TR5-11794,2025-08-27,Centro,Hogar,Web Directa,96.01,68.73,27.28,9,3
+TR5-10906,2025-08-27,Centro,Hogar,Web Directa,113.8,78.94,34.86,9,1
+TR5-11647,2025-08-28,Cuyo,Hogar,Web Directa,1044.23,643.48,400.75,9,2
+TR5-11234,2025-08-28,Centro,Hogar,Email Marketing,245.42,163.05,82.37,7,2
+TR5-10490,2025-08-28,PBA,Electrónica,Web Directa,888.74,700.97,187.77,10,2
+TR5-11577,2025-08-28,Centro,Indumentaria,Marketplace,118.12,72.48,45.64,8,1
+TR5-11567,2025-08-28,Centro,Electrónica,Marketplace,327.96,257.18,70.78,10,7
+TR5-10600,2025-08-29,Centro,Indumentaria,Web Directa,189.79,107.53,82.26,10,5
+TR5-10857,2025-08-29,Patagonia,Indumentaria,App Móvil,166.21,87.4,78.81,10,3
+TR5-10765,2025-08-29,Cuyo,Electrónica,Web Directa,427.71,342.74,84.97,8,3
+TR5-10182,2025-08-29,NOA,Indumentaria,App Móvil,272.77,142.86,129.91,6,2
+TR5-10452,2025-08-29,NOA,Indumentaria,Email Marketing,210.11,115.77,94.34,9,2
+TR5-11287,2025-08-30,Centro,Deportes,Web Directa,297.26,189.97,107.29,9,1
+TR5-10344,2025-08-30,PBA,Electrónica,Marketplace,868.15,633.49,234.66,10,2
+TR5-10136,2025-08-30,Centro,Electrónica,App Móvil,225.13,166.33,58.8,4,1
+TR5-10859,2025-08-30,Patagonia,Hogar,App Móvil,286.13,172.07,114.06,3,1
+TR5-11511,2025-08-30,NOA,Indumentaria,Web Directa,269.62,148.06,121.56,8,3
+TR5-10903,2025-08-30,Patagonia,Hogar,App Móvil,334.66,243.67,90.99,10,3
+TR5-10160,2025-08-30,NOA,Hogar,Marketplace,139.85,85.36,54.49,10,3
+TR5-10862,2025-08-31,PBA,Electrónica,App Móvil,518.79,406.05,112.74,8,1
+TR5-10949,2025-08-31,PBA,Indumentaria,Marketplace,294.9,185.96,108.94,8,3
+TR5-11082,2025-08-31,PBA,Deportes,App Móvil,156.91,103.01,53.9,10,3
+TR5-10845,2025-08-31,Centro,Deportes,App Móvil,280.8,190.11,90.69,5,2
+TR5-11764,2025-08-31,PBA,Electrónica,App Móvil,577.6,464.62,112.98,7,2
+TR5-11244,2025-09-01,NOA,Indumentaria,Email Marketing,53.23,32.39,20.84,7,1
+TR5-11292,2025-09-01,PBA,Deportes,App Móvil,133.16,78.72,54.44,10,5
+TR5-10974,2025-09-01,NOA,Deportes,Marketplace,111.23,65.1,46.13,10,3
+TR5-11724,2025-09-01,PBA,Hogar,App Móvil,101.22,72.22,29.0,9,3
+TR5-10156,2025-09-01,PBA,Indumentaria,Web Directa,222.13,114.01,108.12,10,1
+TR5-11087,2025-09-02,Centro,Indumentaria,Web Directa,400.49,254.68,145.81,8,2
+TR5-10449,2025-09-02,PBA,Hogar,App Móvil,440.71,316.29,124.42,9,5
+TR5-11549,2025-09-02,PBA,Deportes,App Móvil,141.61,79.37,62.24,10,2
+TR5-11669,2025-09-02,Centro,Hogar,Web Directa,678.53,468.61,209.92,3,1
+TR5-10622,2025-09-03,PBA,Indumentaria,App Móvil,260.3,159.64,100.66,9,2
+TR5-10032,2025-09-03,Centro,Indumentaria,Marketplace,341.66,213.91,127.75,8,1
+TR5-10562,2025-09-03,PBA,Indumentaria,Web Directa,126.57,78.76,47.81,7,14
+TR5-11007,2025-09-03,PBA,Hogar,Web Directa,536.0,390.93,145.07,6,4
+TR5-11163,2025-09-03,PBA,Deportes,Web Directa,111.17,74.0,37.17,9,2
+TR5-10623,2025-09-03,PBA,Deportes,Marketplace,92.42,62.43,29.99,9,2
+TR5-10853,2025-09-03,PBA,Electrónica,App Móvil,391.68,314.65,77.03,10,2
+TR5-11207,2025-09-03,Cuyo,Hogar,Web Directa,107.04,76.18,30.86,10,3
+TR5-11010,2025-09-03,Patagonia,Electrónica,App Móvil,370.61,277.84,92.77,9,1
+TR5-10943,2025-09-04,PBA,Hogar,Web Directa,126.66,80.78,45.88,6,3
+TR5-11213,2025-09-04,PBA,Hogar,Marketplace,122.16,85.87,36.29,10,4
+TR5-11303,2025-09-04,Cuyo,Deportes,Marketplace,220.44,148.84,71.6,4,3
+TR5-11663,2025-09-05,NOA,Electrónica,Web Directa,157.14,115.34,41.8,7,3
+TR5-10627,2025-09-05,PBA,Electrónica,App Móvil,137.12,107.94,29.18,8,1
+TR5-10428,2025-09-06,Centro,Hogar,App Móvil,695.68,422.87,272.81,9,2
+TR5-10345,2025-09-06,PBA,Indumentaria,App Móvil,206.74,111.08,95.66,7,1
+TR5-10261,2025-09-06,Cuyo,Electrónica,App Móvil,184.42,144.85,39.57,10,2
+TR5-10670,2025-09-06,Cuyo,Indumentaria,Marketplace,111.84,62.05,49.79,10,1
+TR5-10309,2025-09-06,Centro,Hogar,Web Directa,123.04,76.84,46.2,6,2
+TR5-10269,2025-09-06,PBA,Electrónica,App Móvil,385.43,285.56,99.87,10,2
+TR5-11524,2025-09-07,Patagonia,Electrónica,Web Directa,278.46,201.03,77.43,10,2
+TR5-10010,2025-09-07,Centro,Electrónica,Web Directa,355.54,283.49,72.05,10,1
+TR5-10030,2025-09-07,Centro,Deportes,Web Directa,273.89,157.91,115.98,10,3
+TR5-10080,2025-09-07,Centro,Electrónica,Marketplace,205.39,153.96,51.43,10,2
+TR5-11399,2025-09-07,NOA,Deportes,Web Directa,407.98,255.9,152.08,8,1
+TR5-11588,2025-09-07,Cuyo,Deportes,Web Directa,69.22,43.3,25.92,7,2
+TR5-11553,2025-09-08,PBA,Deportes,Web Directa,173.47,103.59,69.88,9,3
+TR5-10408,2025-09-08,PBA,Electrónica,Web Directa,924.62,755.79,168.83,9,2
+TR5-10022,2025-09-08,Cuyo,Deportes,Marketplace,148.41,96.03,52.38,9,1
+TR5-10258,2025-09-08,Centro,Electrónica,Marketplace,1362.48,999.02,363.46,9,2
+TR5-11532,2025-09-09,Centro,Electrónica,Web Directa,284.68,221.81,62.87,6,3
+TR5-10053,2025-09-09,Centro,Electrónica,Web Directa,361.04,286.58,74.46,8,3
+TR5-11204,2025-09-09,PBA,Hogar,Email Marketing,578.87,371.86,207.01,9,5
+TR5-11128,2025-09-09,PBA,Deportes,App Móvil,519.81,323.44,196.37,7,4
+TR5-10250,2025-09-10,PBA,Indumentaria,App Móvil,377.46,237.66,139.8,6,1
+TR5-10067,2025-09-10,Centro,Deportes,Email Marketing,120.71,66.43,54.28,10,6
+TR5-11254,2025-09-10,PBA,Deportes,Web Directa,66.12,40.61,25.51,10,2
+TR5-10890,2025-09-11,Cuyo,Indumentaria,Email Marketing,482.67,264.25,218.42,9,2
+TR5-11355,2025-09-11,NOA,Hogar,Web Directa,165.8,117.55,48.25,9,2
+TR5-11748,2025-09-11,PBA,Indumentaria,App Móvil,60.81,36.94,23.87,9,3
+TR5-10804,2025-09-11,PBA,Electrónica,App Móvil,957.37,747.81,209.56,10,3
+TR5-11605,2025-09-12,Cuyo,Indumentaria,Web Directa,197.18,103.3,93.88,9,14
+TR5-10431,2025-09-12,NOA,Electrónica,App Móvil,1204.19,872.69,331.5,6,5
+TR5-11066,2025-09-12,Centro,Deportes,Web Directa,105.64,60.47,45.17,2,3
+TR5-10505,2025-09-12,PBA,Hogar,Web Directa,230.48,168.92,61.56,10,2
+TR5-11260,2025-09-13,Centro,Deportes,App Móvil,102.34,67.29,35.05,9,3
+TR5-11294,2025-09-13,NOA,Electrónica,Marketplace,546.49,442.19,104.3,8,2
+TR5-10521,2025-09-13,NOA,Indumentaria,App Móvil,116.63,65.86,50.77,9,4
+TR5-11659,2025-09-14,Centro,Deportes,Web Directa,66.89,38.77,28.12,10,1
+TR5-10334,2025-09-14,Patagonia,Electrónica,App Móvil,228.26,179.42,48.84,7,2
+TR5-11258,2025-09-14,Cuyo,Deportes,App Móvil,941.91,524.68,417.23,10,2
+TR5-10423,2025-09-14,Cuyo,Hogar,Web Directa,635.79,450.47,185.32,10,4
+TR5-10626,2025-09-14,NOA,Indumentaria,Web Directa,265.86,140.51,125.35,8,2
+TR5-10100,2025-09-14,Cuyo,Indumentaria,App Móvil,146.83,82.62,64.21,10,4
+TR5-11006,2025-09-14,PBA,Hogar,App Móvil,797.77,504.5,293.27,8,4
+TR5-11156,2025-09-14,Patagonia,Indumentaria,Web Directa,79.44,49.68,29.76,8,2
+TR5-11761,2025-09-15,PBA,Indumentaria,Marketplace,73.25,46.5,26.75,8,3
+TR5-10000,2025-09-15,Centro,Deportes,App Móvil,161.72,91.03,70.69,9,6
+TR5-11236,2025-09-16,Centro,Electrónica,App Móvil,301.98,237.3,64.68,10,4
+TR5-10916,2025-09-16,Patagonia,Indumentaria,Web Directa,268.4,141.18,127.22,10,1
+TR5-11676,2025-09-16,PBA,Hogar,App Móvil,1272.69,951.26,321.43,10,2
+TR5-11610,2025-09-16,PBA,Electrónica,Email Marketing,805.7,618.01,187.69,10,1
+TR5-10043,2025-09-17,PBA,Electrónica,App Móvil,1130.57,894.32,236.25,10,1
+TR5-10969,2025-09-17,Cuyo,Deportes,Web Directa,167.56,114.86,52.7,10,2
+TR5-10347,2025-09-17,Centro,Indumentaria,Marketplace,52.37,28.11,24.26,10,5
+TR5-10941,2025-09-17,PBA,Deportes,Web Directa,113.66,78.08,35.58,8,2
+TR5-10663,2025-09-17,PBA,Hogar,App Móvil,128.36,92.2,36.16,10,2
+TR5-10692,2025-09-18,NOA,Deportes,App Móvil,88.36,49.12,39.24,7,1
+TR5-11298,2025-09-18,NOA,Hogar,App Móvil,188.05,117.45,70.6,6,2
+TR5-11235,2025-09-18,PBA,Indumentaria,App Móvil,239.66,129.81,109.85,6,3
+TR5-10910,2025-09-18,PBA,Indumentaria,Web Directa,145.9,74.37,71.53,10,3
+TR5-11617,2025-09-18,Patagonia,Hogar,Email Marketing,452.1,275.09,177.01,9,2
+TR5-11270,2025-09-18,NOA,Electrónica,App Móvil,305.15,226.87,78.28,9,1
+TR5-11023,2025-09-18,NOA,Hogar,Web Directa,749.02,557.04,191.98,10,1
+TR5-11060,2025-09-19,Centro,Electrónica,Marketplace,1717.21,1248.22,468.99,8,3
+TR5-11561,2025-09-19,Cuyo,Electrónica,Marketplace,222.84,177.67,45.17,10,4
+TR5-10457,2025-09-19,PBA,Electrónica,Marketplace,988.35,773.32,215.03,10,2
+TR5-10620,2025-09-19,Cuyo,Electrónica,Marketplace,302.3,234.94,67.36,8,2
+TR5-11280,2025-09-19,PBA,Deportes,Web Directa,216.92,123.29,93.63,7,2
+TR5-11657,2025-09-19,Centro,Electrónica,App Móvil,451.86,344.92,106.94,9,1
+TR5-10888,2025-09-20,PBA,Electrónica,App Móvil,333.69,265.83,67.86,7,2
+TR5-10386,2025-09-20,Centro,Deportes,Marketplace,75.34,42.4,32.94,7,2
+TR5-10947,2025-09-20,PBA,Hogar,Email Marketing,319.8,192.32,127.48,7,2
+TR5-11541,2025-09-21,NOA,Electrónica,Marketplace,434.26,316.99,117.27,8,1
+TR5-10011,2025-09-21,PBA,Hogar,Web Directa,430.63,260.62,170.01,3,2
+TR5-11224,2025-09-21,Patagonia,Electrónica,App Móvil,1039.42,822.49,216.93,9,2
+TR5-10727,2025-09-21,NOA,Indumentaria,App Móvil,56.97,31.32,25.65,7,4
+TR5-10213,2025-09-22,PBA,Hogar,Marketplace,160.35,118.58,41.77,7,2
+TR5-11189,2025-09-22,PBA,Electrónica,Web Directa,526.63,416.8,109.83,10,2
+TR5-10931,2025-09-22,Patagonia,Deportes,Web Directa,107.63,61.28,46.35,10,2
+TR5-10091,2025-09-22,Cuyo,Electrónica,App Móvil,203.28,157.3,45.98,9,3
+TR5-10516,2025-09-22,Cuyo,Hogar,Marketplace,253.06,154.05,99.01,8,2
+TR5-11096,2025-09-22,Centro,Electrónica,Web Directa,1041.54,781.89,259.65,10,1
+TR5-10131,2025-09-22,PBA,Electrónica,App Móvil,206.07,160.76,45.31,10,2
+TR5-10950,2025-09-23,PBA,Hogar,Web Directa,645.98,460.0,185.98,10,2
+TR5-10868,2025-09-23,Patagonia,Hogar,Web Directa,142.62,87.66,54.96,10,2
+TR5-10647,2025-09-23,Centro,Electrónica,Web Directa,166.74,130.06,36.68,8,2
+TR5-10410,2025-09-23,PBA,Deportes,Web Directa,105.89,68.26,37.63,10,5
+TR5-10311,2025-09-24,PBA,Indumentaria,App Móvil,568.35,306.61,261.74,9,14
+TR5-10526,2025-09-24,Centro,Deportes,App Móvil,512.29,346.42,165.87,10,5
+TR5-11780,2025-09-24,Centro,Electrónica,Web Directa,560.61,430.91,129.7,9,3
+TR5-10112,2025-09-24,PBA,Hogar,App Móvil,256.1,165.03,91.07,6,14
+TR5-11284,2025-09-24,PBA,Electrónica,Web Directa,316.4,255.73,60.67,9,4
+TR5-10571,2025-09-24,Patagonia,Hogar,App Móvil,165.94,115.63,50.31,9,2
+TR5-11537,2025-09-24,PBA,Indumentaria,Web Directa,78.29,50.59,27.7,5,3
+TR5-10556,2025-09-25,Patagonia,Hogar,Web Directa,158.78,106.16,52.62,10,1
+TR5-10988,2025-09-25,PBA,Indumentaria,Web Directa,156.9,80.58,76.32,6,5
+TR5-11063,2025-09-25,Cuyo,Deportes,Web Directa,96.05,58.73,37.32,9,2
+TR5-10893,2025-09-25,PBA,Indumentaria,Web Directa,288.43,160.48,127.95,9,2
+TR5-11025,2025-09-25,NOA,Indumentaria,Web Directa,482.47,272.16,210.31,10,2
+TR5-11384,2025-09-25,PBA,Deportes,Web Directa,75.77,41.79,33.98,8,1
+TR5-10754,2025-09-25,PBA,Deportes,App Móvil,927.7,601.24,326.46,9,1
+TR5-10151,2025-09-25,Cuyo,Electrónica,Web Directa,359.81,285.48,74.33,9,3
+TR5-11584,2025-09-26,PBA,Electrónica,App Móvil,1491.09,1095.19,395.9,10,3
+TR5-11450,2025-09-27,Centro,Electrónica,Web Directa,487.95,364.23,123.72,6,3
+TR5-10263,2025-09-27,NOA,Indumentaria,Web Directa,197.85,114.02,83.83,8,2
+TR5-10087,2025-09-27,Patagonia,Deportes,Web Directa,442.24,279.23,163.01,6,2
+TR5-11135,2025-09-27,PBA,Hogar,App Móvil,459.98,289.39,170.59,5,4
+TR5-10366,2025-09-27,Cuyo,Hogar,Marketplace,225.17,167.89,57.28,8,1
+TR5-11140,2025-09-28,Cuyo,Electrónica,App Móvil,454.0,330.53,123.47,9,2
+TR5-10976,2025-09-28,PBA,Indumentaria,Web Directa,73.57,37.17,36.4,10,6
+TR5-10475,2025-09-28,PBA,Deportes,Web Directa,339.67,197.17,142.5,9,3
+TR5-10077,2025-09-28,PBA,Electrónica,Web Directa,560.81,440.9,119.91,4,2
+TR5-11762,2025-09-28,Centro,Electrónica,Web Directa,568.68,452.08,116.6,7,1
+TR5-11301,2025-09-28,NOA,Deportes,Marketplace,555.92,349.25,206.67,6,2
+TR5-11184,2025-09-28,Cuyo,Deportes,Email Marketing,148.87,96.61,52.26,10,1
+TR5-10199,2025-09-28,Cuyo,Hogar,Web Directa,427.95,275.61,152.34,10,1
+TR5-11746,2025-09-29,PBA,Electrónica,Web Directa,254.23,186.9,67.33,10,3
+TR5-10430,2025-09-29,Centro,Electrónica,Web Directa,260.54,194.82,65.72,5,2
+TR5-11597,2025-09-29,Centro,Electrónica,App Móvil,139.08,100.18,38.9,10,2
+TR5-10462,2025-09-29,Patagonia,Electrónica,App Móvil,176.38,144.2,32.18,10,1
+TR5-10195,2025-09-29,PBA,Indumentaria,Email Marketing,275.52,139.29,136.23,10,3
+TR5-11311,2025-09-29,NOA,Hogar,Email Marketing,612.54,438.49,174.05,10,4
+TR5-11568,2025-09-29,PBA,Electrónica,App Móvil,495.44,380.83,114.61,10,5
+TR5-10693,2025-09-29,PBA,Deportes,Marketplace,181.02,103.43,77.59,9,3
+TR5-11495,2025-09-30,Patagonia,Indumentaria,Web Directa,335.97,171.17,164.8,9,2
+TR5-10106,2025-09-30,PBA,Hogar,Web Directa,209.61,134.43,75.18,5,3
+TR5-10326,2025-09-30,Centro,Deportes,App Móvil,257.2,170.97,86.23,10,3
+TR5-10316,2025-09-30,PBA,Indumentaria,App Móvil,68.75,39.32,29.43,7,2
+TR5-10422,2025-10-01,PBA,Electrónica,Email Marketing,406.16,316.97,89.19,10,6
+TR5-10323,2025-10-01,Centro,Deportes,App Móvil,110.68,67.88,42.8,7,1
+TR5-11173,2025-10-02,NOA,Deportes,Marketplace,84.58,52.36,32.22,10,1
+TR5-11067,2025-10-02,Centro,Hogar,Marketplace,228.54,167.41,61.13,9,1
+TR5-10369,2025-10-02,PBA,Deportes,App Móvil,101.74,57.87,43.87,10,3
+TR5-11152,2025-10-02,Patagonia,Indumentaria,Web Directa,194.22,98.72,95.5,10,2
+TR5-10288,2025-10-03,Cuyo,Hogar,Web Directa,632.76,410.75,222.01,10,3
+TR5-10849,2025-10-03,Centro,Electrónica,App Móvil,347.79,261.73,86.06,10,2
+TR5-11159,2025-10-03,PBA,Deportes,Web Directa,293.44,185.05,108.39,10,2
+TR5-11315,2025-10-04,Centro,Hogar,Web Directa,151.84,108.06,43.78,10,1
+TR5-10592,2025-10-04,Centro,Indumentaria,Web Directa,69.67,41.63,28.04,9,4
+TR5-10322,2025-10-04,Centro,Indumentaria,App Móvil,241.12,144.3,96.82,9,3
+TR5-11619,2025-10-04,Cuyo,Electrónica,App Móvil,243.69,186.9,56.79,9,1
+TR5-11161,2025-10-04,NOA,Deportes,Web Directa,224.16,146.88,77.28,10,2
+TR5-11252,2025-10-04,Cuyo,Electrónica,Marketplace,165.18,135.39,29.79,10,2
+TR5-10414,2025-10-04,Patagonia,Indumentaria,Web Directa,70.41,35.33,35.08,9,2
+TR5-11001,2025-10-04,PBA,Electrónica,App Móvil,185.51,134.38,51.13,1,4
+TR5-10057,2025-10-04,PBA,Indumentaria,Email Marketing,90.12,46.53,43.59,7,2
+TR5-10395,2025-10-04,Centro,Deportes,Web Directa,431.52,240.25,191.27,3,1
+TR5-10454,2025-10-04,Centro,Hogar,Web Directa,500.34,301.88,198.46,5,2
+TR5-11654,2025-10-05,Cuyo,Deportes,Web Directa,91.55,51.04,40.51,8,3
+TR5-10083,2025-10-05,Cuyo,Hogar,Web Directa,101.67,70.37,31.3,7,10
+TR5-10278,2025-10-05,Centro,Hogar,Web Directa,409.14,259.45,149.69,2,2
+TR5-10713,2025-10-05,PBA,Electrónica,App Móvil,839.1,635.4,203.7,9,3
+TR5-10917,2025-10-05,Cuyo,Indumentaria,Web Directa,594.3,316.72,277.58,10,2
+TR5-11441,2025-10-05,PBA,Indumentaria,App Móvil,197.36,119.97,77.39,10,3
+TR5-10547,2025-10-06,Centro,Indumentaria,Web Directa,167.32,105.15,62.17,10,1
+TR5-11773,2025-10-06,Cuyo,Indumentaria,Web Directa,118.81,66.84,51.97,8,4
+TR5-10227,2025-10-06,NOA,Electrónica,Marketplace,476.19,370.16,106.03,10,2
+TR5-10649,2025-10-06,PBA,Hogar,Marketplace,254.03,164.04,89.99,10,1
+TR5-11039,2025-10-06,PBA,Electrónica,App Móvil,635.27,487.35,147.92,10,1
+TR5-10482,2025-10-06,PBA,Deportes,App Móvil,250.51,147.5,103.01,10,3
+TR5-10705,2025-10-06,NOA,Electrónica,Web Directa,236.82,185.53,51.29,9,1
+TR5-10717,2025-10-07,PBA,Indumentaria,App Móvil,105.45,54.69,50.76,5,1
+TR5-11336,2025-10-07,PBA,Indumentaria,Web Directa,165.82,98.99,66.83,5,1
+TR5-10954,2025-10-07,NOA,Deportes,Web Directa,275.04,164.93,110.11,10,3
+TR5-10755,2025-10-07,PBA,Deportes,Marketplace,283.04,187.19,95.85,5,2
+TR5-11170,2025-10-07,Centro,Hogar,Web Directa,126.87,85.54,41.33,10,1
+TR5-11713,2025-10-07,Patagonia,Electrónica,App Móvil,823.94,612.39,211.55,5,6
+TR5-11604,2025-10-08,Cuyo,Hogar,Web Directa,1088.05,772.17,315.88,9,2
+TR5-11615,2025-10-08,PBA,Indumentaria,App Móvil,76.98,45.65,31.33,10,1
+TR5-10514,2025-10-08,NOA,Electrónica,Marketplace,571.72,429.67,142.05,10,3
+TR5-10769,2025-10-08,PBA,Deportes,App Móvil,99.58,55.32,44.26,9,1
+TR5-10587,2025-10-08,Patagonia,Hogar,Web Directa,288.83,212.55,76.28,9,2
+TR5-11456,2025-10-08,NOA,Hogar,App Móvil,478.07,353.22,124.85,7,2
+TR5-11083,2025-10-08,PBA,Electrónica,App Móvil,190.02,154.78,35.24,7,2
+TR5-10148,2025-10-09,PBA,Deportes,Web Directa,218.35,152.72,65.63,10,2
+TR5-10673,2025-10-10,Centro,Hogar,App Móvil,364.09,225.05,139.04,8,2
+TR5-10660,2025-10-10,PBA,Deportes,App Móvil,85.25,59.31,25.94,8,2
+TR5-11638,2025-10-10,Cuyo,Hogar,App Móvil,113.72,77.57,36.15,9,2
+TR5-11200,2025-10-10,NOA,Hogar,Web Directa,366.37,238.71,127.66,9,3
+TR5-10001,2025-10-10,Cuyo,Electrónica,Marketplace,400.78,295.62,105.16,10,2
+TR5-10388,2025-10-10,Centro,Deportes,App Móvil,308.34,185.77,122.57,10,2
+TR5-10785,2025-10-11,NOA,Hogar,Email Marketing,297.52,181.12,116.4,9,2
+TR5-11182,2025-10-11,PBA,Electrónica,Email Marketing,360.56,284.94,75.62,8,4
+TR5-11062,2025-10-11,Patagonia,Electrónica,Email Marketing,720.5,553.75,166.75,10,2
+TR5-11560,2025-10-12,PBA,Deportes,Web Directa,820.38,519.66,300.72,8,2
+TR5-11181,2025-10-12,NOA,Electrónica,Email Marketing,813.93,651.17,162.76,9,1
+TR5-11304,2025-10-12,Centro,Deportes,Web Directa,468.15,270.53,197.62,5,1
+TR5-10688,2025-10-13,PBA,Hogar,Marketplace,80.33,58.37,21.96,10,2
+TR5-10271,2025-10-13,Patagonia,Hogar,App Móvil,339.73,252.17,87.56,8,2
+TR5-10763,2025-10-13,NOA,Deportes,Marketplace,129.11,87.26,41.85,10,1
+TR5-11727,2025-10-14,Patagonia,Electrónica,Web Directa,197.89,156.66,41.23,9,3
+TR5-11466,2025-10-14,PBA,Deportes,Web Directa,234.57,158.77,75.8,10,2
+TR5-10158,2025-10-14,Centro,Deportes,Web Directa,313.35,217.93,95.42,10,2
+TR5-10459,2025-10-14,PBA,Hogar,App Móvil,375.0,269.83,105.17,9,1
+TR5-10777,2025-10-14,Cuyo,Indumentaria,Web Directa,125.44,73.83,51.61,10,3
+TR5-10359,2025-10-15,Patagonia,Indumentaria,App Móvil,191.15,114.23,76.92,7,2
+TR5-10178,2025-10-15,Centro,Indumentaria,Email Marketing,136.01,77.6,58.41,8,1
+TR5-10750,2025-10-15,Cuyo,Deportes,Marketplace,193.08,112.55,80.53,9,3
+TR5-11731,2025-10-15,Centro,Deportes,App Móvil,82.33,49.7,32.63,9,3
+TR5-11201,2025-10-15,Centro,Electrónica,Web Directa,527.08,422.0,105.08,8,1
+TR5-11490,2025-10-15,Cuyo,Indumentaria,App Móvil,107.57,58.02,49.55,9,2
+TR5-11322,2025-10-15,Patagonia,Deportes,App Móvil,65.23,44.36,20.87,7,3
+TR5-10331,2025-10-15,PBA,Hogar,Web Directa,138.35,101.06,37.29,5,2
+TR5-11410,2025-10-15,PBA,Indumentaria,Marketplace,47.42,27.89,19.53,9,2
+TR5-10055,2025-10-16,Centro,Deportes,Web Directa,223.57,142.32,81.25,7,3
+TR5-10046,2025-10-16,Centro,Electrónica,Web Directa,672.3,500.35,171.95,10,2
+TR5-10060,2025-10-16,PBA,Deportes,Web Directa,149.07,102.64,46.43,9,14
+TR5-10247,2025-10-16,PBA,Hogar,Web Directa,448.87,284.74,164.13,9,3
+TR5-10751,2025-10-16,PBA,Indumentaria,Marketplace,193.73,102.07,91.66,7,1
+TR5-10712,2025-10-16,Patagonia,Indumentaria,App Móvil,913.38,513.98,399.4,8,3
+TR5-11341,2025-10-16,NOA,Indumentaria,Marketplace,138.22,73.1,65.12,8,1
+TR5-11153,2025-10-17,Patagonia,Indumentaria,App Móvil,62.5,37.24,25.26,7,3
+TR5-10434,2025-10-17,Centro,Indumentaria,Marketplace,82.68,46.6,36.08,10,2
+TR5-11678,2025-10-17,Cuyo,Electrónica,App Móvil,759.29,579.19,180.1,4,2
+TR5-10929,2025-10-17,PBA,Electrónica,Web Directa,260.29,194.7,65.59,10,1
+TR5-10463,2025-10-17,Cuyo,Hogar,App Móvil,212.93,130.51,82.42,9,4
+TR5-11635,2025-10-18,NOA,Electrónica,Web Directa,854.49,685.58,168.91,10,2
+TR5-10882,2025-10-18,PBA,Electrónica,Marketplace,592.7,440.37,152.33,10,1
+TR5-10451,2025-10-18,Patagonia,Indumentaria,Marketplace,97.68,53.34,44.34,10,3
+TR5-11468,2025-10-19,Patagonia,Deportes,Web Directa,213.44,133.4,80.04,9,2
+TR5-11608,2025-10-19,Cuyo,Hogar,Web Directa,281.95,193.32,88.63,10,2
+TR5-10603,2025-10-19,NOA,Electrónica,Marketplace,285.79,211.09,74.7,7,3
+TR5-10039,2025-10-19,PBA,Deportes,App Móvil,66.38,41.6,24.78,10,2
+TR5-11389,2025-10-19,Cuyo,Electrónica,Web Directa,706.77,569.51,137.26,10,2
+TR5-11229,2025-10-19,PBA,Electrónica,Web Directa,190.71,148.23,42.48,10,2
+TR5-11447,2025-10-19,Cuyo,Deportes,Web Directa,221.44,138.5,82.94,9,2
+TR5-11026,2025-10-19,Cuyo,Electrónica,App Móvil,471.24,344.54,126.7,9,3
+TR5-10756,2025-10-19,Centro,Hogar,Web Directa,631.1,449.32,181.78,8,1
+TR5-11518,2025-10-20,PBA,Indumentaria,Marketplace,151.38,96.32,55.06,10,1
+TR5-10034,2025-10-20,PBA,Deportes,Web Directa,295.32,189.14,106.18,9,1
+TR5-10218,2025-10-20,Cuyo,Deportes,App Móvil,199.33,122.47,76.86,8,3
+TR5-11685,2025-10-20,Centro,Hogar,Web Directa,111.14,82.28,28.86,10,2
+TR5-11279,2025-10-20,NOA,Electrónica,Web Directa,520.61,398.31,122.3,1,1
+TR5-10914,2025-10-20,PBA,Electrónica,App Móvil,333.65,243.98,89.67,3,1
+TR5-11451,2025-10-20,Centro,Electrónica,Web Directa,988.44,717.67,270.77,8,2
+TR5-10489,2025-10-20,Cuyo,Deportes,App Móvil,196.62,110.52,86.1,10,2
+TR5-11631,2025-10-20,NOA,Indumentaria,Web Directa,63.65,34.54,29.11,7,5
+TR5-11335,2025-10-21,PBA,Deportes,App Móvil,442.52,288.57,153.95,9,5
+TR5-10814,2025-10-21,Centro,Electrónica,Email Marketing,491.45,388.4,103.05,8,2
+TR5-11726,2025-10-21,PBA,Hogar,Marketplace,797.44,502.5,294.94,6,3
+TR5-11566,2025-10-21,PBA,Electrónica,Web Directa,189.19,141.78,47.41,5,3
+TR5-10045,2025-10-22,Centro,Electrónica,Web Directa,170.21,131.35,38.86,9,3
+TR5-10575,2025-10-22,Cuyo,Electrónica,Web Directa,500.74,371.07,129.67,10,3
+TR5-11216,2025-10-22,PBA,Deportes,Marketplace,465.34,319.61,145.73,2,3
+TR5-11585,2025-10-22,PBA,Electrónica,App Móvil,1240.87,929.36,311.51,10,1
+TR5-10016,2025-10-22,Centro,Electrónica,App Móvil,392.84,307.27,85.57,9,2
+TR5-11479,2025-10-22,Cuyo,Hogar,Web Directa,575.38,394.49,180.89,9,2
+TR5-10695,2025-10-22,Centro,Electrónica,Web Directa,1861.22,1476.77,384.45,10,2
+TR5-11192,2025-10-22,Centro,Hogar,Web Directa,251.02,170.59,80.43,8,1
+TR5-11217,2025-10-22,NOA,Indumentaria,App Móvil,80.86,43.54,37.32,7,2
+TR5-10579,2025-10-22,PBA,Deportes,Email Marketing,713.65,410.35,303.3,10,1
+TR5-11005,2025-10-23,NOA,Deportes,Marketplace,498.48,316.7,181.78,8,2
+TR5-10196,2025-10-23,Cuyo,Hogar,Web Directa,443.45,271.05,172.4,10,2
+TR5-11759,2025-10-24,Centro,Electrónica,Web Directa,260.98,197.06,63.92,8,4
+TR5-10031,2025-10-24,Cuyo,Deportes,App Móvil,350.04,193.47,156.57,7,3
+TR5-10137,2025-10-25,Cuyo,Indumentaria,Web Directa,79.0,43.6,35.4,10,2
+TR5-11551,2025-10-25,Centro,Deportes,App Móvil,357.98,223.34,134.64,9,2
+TR5-10372,2025-10-26,PBA,Electrónica,Marketplace,134.41,106.25,28.16,3,2
+TR5-11413,2025-10-26,Cuyo,Electrónica,Web Directa,266.35,198.64,67.71,5,2
+TR5-10867,2025-10-26,Centro,Deportes,Web Directa,74.51,45.39,29.12,9,2
+TR5-11425,2025-10-26,Centro,Electrónica,Web Directa,171.62,133.2,38.42,9,1
+TR5-11251,2025-10-26,Patagonia,Deportes,App Móvil,89.24,61.18,28.06,10,2
+TR5-11465,2025-10-26,Cuyo,Hogar,Web Directa,171.88,114.07,57.81,9,4
+TR5-10286,2025-10-26,Cuyo,Deportes,Web Directa,158.58,106.11,52.47,9,2
+TR5-11534,2025-10-26,PBA,Electrónica,App Móvil,243.8,195.65,48.15,9,5
+TR5-10268,2025-10-27,Centro,Electrónica,App Móvil,636.7,509.68,127.02,8,3
+TR5-11293,2025-10-27,Patagonia,Indumentaria,Marketplace,98.42,55.29,43.13,9,6
+TR5-11359,2025-10-27,Centro,Deportes,Marketplace,498.95,334.88,164.07,7,3
+TR5-10730,2025-10-28,PBA,Hogar,App Móvil,181.57,132.61,48.96,10,4
+TR5-11662,2025-10-28,Centro,Hogar,App Móvil,1856.92,1386.33,470.59,9,1
+TR5-10634,2025-10-28,PBA,Deportes,Web Directa,194.28,125.77,68.51,10,2
+TR5-11438,2025-10-28,Cuyo,Deportes,Email Marketing,65.03,38.12,26.91,9,2
+TR5-10786,2025-10-28,Centro,Indumentaria,Web Directa,104.78,57.52,47.26,6,4
+TR5-10528,2025-10-29,PBA,Hogar,App Móvil,145.06,106.86,38.2,6,3
+TR5-10523,2025-10-29,Cuyo,Electrónica,Web Directa,390.78,290.99,99.79,10,10
+TR5-10221,2025-10-29,Patagonia,Hogar,Web Directa,261.06,163.67,97.39,8,2
+TR5-10997,2025-10-29,Cuyo,Hogar,Web Directa,415.17,303.29,111.88,10,3
+TR5-11545,2025-10-29,Centro,Electrónica,Web Directa,488.95,368.23,120.72,8,2
+TR5-10184,2025-10-29,NOA,Electrónica,App Móvil,431.68,340.75,90.93,10,3
+TR5-11099,2025-10-29,PBA,Electrónica,Marketplace,373.56,299.52,74.04,8,3
+TR5-10425,2025-10-29,Cuyo,Electrónica,Web Directa,148.91,115.54,33.37,8,3
+TR5-11797,2025-10-30,PBA,Hogar,App Móvil,122.17,81.05,41.12,9,1
+TR5-10537,2025-10-30,Cuyo,Indumentaria,App Móvil,90.44,52.54,37.9,9,3
+TR5-10266,2025-10-30,Centro,Indumentaria,Marketplace,90.54,58.18,32.36,9,1
+TR5-11583,2025-10-31,Centro,Indumentaria,App Móvil,46.0,27.36,18.64,7,6
+TR5-10189,2025-10-31,Cuyo,Deportes,Web Directa,290.55,194.16,96.39,10,4
+TR5-10846,2025-10-31,Cuyo,Electrónica,Web Directa,188.6,152.53,36.07,10,3
+TR5-10387,2025-11-01,NOA,Hogar,Email Marketing,392.1,291.67,100.43,8,3
+TR5-10015,2025-11-01,NOA,Electrónica,Web Directa,900.68,667.14,233.54,10,3
+TR5-11349,2025-11-01,PBA,Electrónica,Marketplace,202.46,147.9,54.56,7,6
+TR5-10582,2025-11-01,PBA,Hogar,Web Directa,85.98,59.84,26.14,10,1
+TR5-11704,2025-11-01,Centro,Deportes,App Móvil,263.23,183.62,79.61,9,2
+TR5-10393,2025-11-02,PBA,Indumentaria,Web Directa,92.61,46.85,45.76,9,3
+TR5-11318,2025-11-02,Centro,Deportes,Web Directa,437.35,263.64,173.71,10,2
+TR5-11706,2025-11-02,Patagonia,Deportes,Marketplace,96.24,67.15,29.09,9,3
+TR5-11636,2025-11-03,Cuyo,Electrónica,App Móvil,738.7,597.93,140.77,8,3
+TR5-10720,2025-11-03,Centro,Electrónica,App Móvil,570.36,430.9,139.46,9,4
+TR5-10272,2025-11-03,NOA,Indumentaria,App Móvil,612.76,398.03,214.73,10,3
+TR5-11020,2025-11-03,PBA,Indumentaria,App Móvil,125.84,73.94,51.9,3,1
+TR5-10927,2025-11-03,NOA,Hogar,Marketplace,912.88,665.99,246.89,8,2
+TR5-10640,2025-11-03,Cuyo,Deportes,Marketplace,456.69,253.39,203.3,8,3
+TR5-10068,2025-11-04,Patagonia,Hogar,Marketplace,95.55,60.52,35.03,10,3
+TR5-11370,2025-11-04,PBA,Electrónica,Web Directa,751.91,603.68,148.23,8,1
+TR5-11641,2025-11-04,Cuyo,Indumentaria,App Móvil,81.52,42.5,39.02,10,2
+TR5-10187,2025-11-04,Patagonia,Indumentaria,Marketplace,74.68,38.7,35.98,9,1
+TR5-11629,2025-11-04,PBA,Deportes,Marketplace,440.43,243.44,196.99,10,2
+TR5-10832,2025-11-04,PBA,Electrónica,Web Directa,127.77,96.7,31.07,6,5
+TR5-10225,2025-11-04,Patagonia,Deportes,Web Directa,354.25,230.79,123.46,10,4
+TR5-10302,2025-11-05,Cuyo,Hogar,Web Directa,525.45,358.55,166.9,10,6
+TR5-10341,2025-11-05,NOA,Indumentaria,Marketplace,41.21,26.07,15.14,8,3
+TR5-11199,2025-11-05,PBA,Deportes,App Móvil,165.46,109.19,56.27,8,1
+TR5-10405,2025-11-05,Patagonia,Hogar,Marketplace,193.63,129.02,64.61,10,2
+TR5-10987,2025-11-05,PBA,Electrónica,Marketplace,264.15,209.49,54.66,9,4
+TR5-10209,2025-11-05,Centro,Deportes,Web Directa,385.14,255.9,129.24,10,2
+TR5-11364,2025-11-06,PBA,Hogar,Email Marketing,146.94,104.89,42.05,5,4
+TR5-10680,2025-11-06,NOA,Electrónica,App Móvil,330.79,238.66,92.13,6,1
+TR5-11312,2025-11-06,PBA,Deportes,Marketplace,578.13,348.87,229.26,7,10
+TR5-11702,2025-11-06,PBA,Electrónica,Web Directa,160.67,128.37,32.3,5,1
+TR5-10951,2025-11-06,PBA,Deportes,Marketplace,118.9,71.35,47.55,8,2
+TR5-10468,2025-11-07,NOA,Hogar,Marketplace,116.1,74.55,41.55,6,2
+TR5-10207,2025-11-07,Centro,Deportes,App Móvil,333.17,195.53,137.64,5,1
+TR5-11088,2025-11-07,Patagonia,Deportes,App Móvil,573.22,346.83,226.39,10,2
+TR5-11781,2025-11-07,NOA,Electrónica,Marketplace,749.98,572.21,177.77,10,1
+TR5-11193,2025-11-07,PBA,Electrónica,Marketplace,184.98,151.45,33.53,8,2
+TR5-10952,2025-11-08,PBA,Hogar,Web Directa,443.54,269.47,174.07,8,2
+TR5-10234,2025-11-08,Cuyo,Electrónica,Marketplace,143.22,116.05,27.17,9,3
+TR5-10042,2025-11-08,Cuyo,Hogar,Web Directa,150.9,104.68,46.22,9,5
+TR5-11472,2025-11-08,NOA,Hogar,Email Marketing,277.65,170.79,106.86,5,2
+TR5-10076,2025-11-08,PBA,Hogar,Web Directa,261.61,184.77,76.84,9,5
+TR5-11751,2025-11-08,Centro,Indumentaria,Web Directa,74.39,48.02,26.37,8,3
+TR5-11133,2025-11-09,Patagonia,Deportes,Web Directa,187.03,111.92,75.11,3,3
+TR5-10469,2025-11-09,Centro,Hogar,Marketplace,300.97,211.48,89.49,4,3
+TR5-10145,2025-11-10,PBA,Hogar,Marketplace,685.22,421.77,263.45,8,1
+TR5-10350,2025-11-10,NOA,Hogar,Web Directa,275.95,193.94,82.01,8,6
+TR5-11232,2025-11-11,Centro,Deportes,Web Directa,196.58,134.52,62.06,9,5
+TR5-10313,2025-11-11,PBA,Electrónica,Marketplace,719.6,540.56,179.04,10,1
+TR5-10662,2025-11-11,PBA,Deportes,App Móvil,69.06,48.15,20.91,9,1
+TR5-10262,2025-11-12,Patagonia,Electrónica,Marketplace,342.51,257.98,84.53,9,2
+TR5-10909,2025-11-13,PBA,Electrónica,Marketplace,440.32,321.73,118.59,8,1
+TR5-10020,2025-11-13,PBA,Indumentaria,Marketplace,81.56,40.96,40.6,7,3
+TR5-11591,2025-11-13,PBA,Hogar,Web Directa,89.82,58.33,31.49,10,2
+TR5-11589,2025-11-13,PBA,Deportes,Web Directa,87.09,60.96,26.13,9,10
+TR5-10869,2025-11-13,Cuyo,Deportes,Marketplace,123.83,76.52,47.31,10,3
+TR5-11691,2025-11-13,Cuyo,Indumentaria,App Móvil,71.02,39.07,31.95,7,3
+TR5-10117,2025-11-13,Centro,Deportes,Web Directa,277.56,167.91,109.65,9,3
+TR5-10594,2025-11-13,PBA,Hogar,Web Directa,280.53,179.55,100.98,9,5
+TR5-10058,2025-11-14,PBA,Electrónica,Web Directa,425.63,341.42,84.21,10,2
+TR5-11484,2025-11-14,PBA,Hogar,Marketplace,95.53,65.46,30.07,8,1
+TR5-11327,2025-11-14,Patagonia,Electrónica,App Móvil,621.62,473.78,147.84,9,3
+TR5-11109,2025-11-14,Patagonia,Indumentaria,Marketplace,85.2,51.29,33.91,10,2
+TR5-11646,2025-11-15,Cuyo,Hogar,Email Marketing,242.98,146.48,96.5,10,3
+TR5-10668,2025-11-15,Centro,Hogar,App Móvil,161.51,117.73,43.78,10,2
+TR5-10805,2025-11-15,PBA,Electrónica,App Móvil,295.44,221.65,73.79,10,4
+TR5-11470,2025-11-15,NOA,Hogar,Web Directa,89.05,64.03,25.02,10,1
+TR5-11219,2025-11-15,NOA,Hogar,Email Marketing,506.37,331.63,174.74,10,2
+TR5-10282,2025-11-15,Patagonia,Indumentaria,Web Directa,127.36,69.66,57.7,5,2
+TR5-10253,2025-11-15,PBA,Hogar,Marketplace,106.66,66.37,40.29,7,2
+TR5-11633,2025-11-15,PBA,Electrónica,Web Directa,195.58,152.74,42.84,10,5
+TR5-10115,2025-11-16,PBA,Indumentaria,App Móvil,441.28,285.39,155.89,9,2
+TR5-11283,2025-11-16,Patagonia,Hogar,App Móvil,256.29,166.45,89.84,10,3
+TR5-10328,2025-11-17,Centro,Deportes,App Móvil,123.98,73.25,50.73,9,1
+TR5-11404,2025-11-17,PBA,Deportes,App Móvil,270.83,172.26,98.57,9,6
+TR5-10604,2025-11-17,Patagonia,Deportes,Web Directa,147.16,89.37,57.79,9,1
+TR5-10856,2025-11-17,Centro,Electrónica,Web Directa,306.94,249.85,57.09,10,4
+TR5-11012,2025-11-17,PBA,Hogar,Email Marketing,537.98,346.05,191.93,6,3
+TR5-10064,2025-11-17,PBA,Indumentaria,Email Marketing,172.39,89.31,83.08,9,2
+TR5-11418,2025-11-18,NOA,Deportes,Web Directa,93.12,54.68,38.44,9,2
+TR5-10904,2025-11-18,PBA,Hogar,App Móvil,746.91,496.92,249.99,7,3
+TR5-10676,2025-11-18,PBA,Electrónica,Web Directa,1161.16,928.95,232.21,10,1
+TR5-11242,2025-11-18,Centro,Electrónica,App Móvil,140.37,104.4,35.97,7,1
+TR5-11798,2025-11-19,Patagonia,Indumentaria,App Móvil,98.97,61.65,37.32,10,5
+TR5-10613,2025-11-19,PBA,Deportes,App Móvil,727.92,450.65,277.27,8,1
+TR5-10517,2025-11-19,PBA,Indumentaria,Marketplace,221.76,134.16,87.6,9,1
+TR5-10724,2025-11-20,Centro,Electrónica,Web Directa,340.84,275.41,65.43,10,14
+TR5-11222,2025-11-20,PBA,Indumentaria,Web Directa,203.15,113.41,89.74,4,2
+TR5-10402,2025-11-20,Centro,Hogar,App Móvil,706.38,483.49,222.89,10,3
+TR5-10110,2025-11-21,PBA,Indumentaria,Web Directa,439.84,231.31,208.53,6,2
+TR5-10637,2025-11-21,NOA,Hogar,Marketplace,150.52,90.49,60.03,10,3
+TR5-11018,2025-11-21,Centro,Electrónica,App Móvil,254.2,195.0,59.2,9,6
+TR5-10018,2025-11-21,Centro,Hogar,Web Directa,144.28,106.07,38.21,7,4
+TR5-10371,2025-11-21,PBA,Indumentaria,Web Directa,124.04,74.85,49.19,8,6
+TR5-11342,2025-11-22,PBA,Hogar,Marketplace,256.69,169.15,87.54,7,5
+TR5-10126,2025-11-22,Cuyo,Indumentaria,Web Directa,85.96,50.93,35.03,7,2
+TR5-10327,2025-11-22,PBA,Electrónica,Web Directa,281.44,212.89,68.55,9,2
+TR5-10287,2025-11-22,Cuyo,Deportes,Marketplace,334.96,192.51,142.45,7,2
+TR5-11392,2025-11-22,NOA,Electrónica,Marketplace,383.73,312.68,71.05,10,5
+TR5-11037,2025-11-22,Centro,Electrónica,Web Directa,531.27,421.81,109.46,8,2
+TR5-10236,2025-11-23,PBA,Hogar,Web Directa,391.81,272.62,119.19,9,3
+TR5-10029,2025-11-23,Centro,Deportes,Marketplace,61.3,37.85,23.45,6,3
+TR5-10527,2025-11-23,Centro,Indumentaria,App Móvil,66.29,34.36,31.93,8,3
+TR5-10729,2025-11-23,PBA,Hogar,App Móvil,176.69,129.1,47.59,8,4
+TR5-10501,2025-11-23,PBA,Deportes,Web Directa,351.27,216.39,134.88,2,1
+TR5-10726,2025-11-23,Centro,Electrónica,Marketplace,168.3,131.64,36.66,7,1
+TR5-11220,2025-11-23,PBA,Electrónica,Marketplace,195.15,157.89,37.26,9,1
+TR5-11380,2025-11-23,PBA,Indumentaria,Web Directa,127.2,65.14,62.06,10,3
+TR5-10299,2025-11-23,Patagonia,Hogar,Marketplace,284.03,212.67,71.36,10,2
+TR5-10339,2025-11-23,NOA,Indumentaria,Web Directa,100.95,64.01,36.94,6,4
+TR5-10803,2025-11-24,Patagonia,Hogar,Marketplace,267.91,188.78,79.13,10,5
+TR5-11065,2025-11-24,NOA,Deportes,Marketplace,74.72,52.17,22.55,9,2
+TR5-10989,2025-11-24,Cuyo,Indumentaria,Web Directa,143.88,84.7,59.18,8,1
+TR5-10524,2025-11-24,PBA,Hogar,Web Directa,287.65,192.58,95.07,9,6
+TR5-11795,2025-11-25,Cuyo,Indumentaria,App Móvil,172.43,100.49,71.94,7,3
+TR5-10881,2025-11-25,Centro,Hogar,Web Directa,923.44,627.58,295.86,10,4
+TR5-10105,2025-11-25,Centro,Hogar,Marketplace,162.28,119.3,42.98,10,3
+TR5-11786,2025-11-25,Centro,Deportes,Marketplace,381.67,263.38,118.29,2,3
+TR5-11071,2025-11-25,PBA,Deportes,Web Directa,74.46,48.06,26.4,10,10
+TR5-10572,2025-11-26,PBA,Indumentaria,App Móvil,130.79,76.27,54.52,10,1
+TR5-11514,2025-11-26,PBA,Hogar,App Móvil,1656.71,1087.71,569.0,9,2
+TR5-11422,2025-11-26,PBA,Electrónica,Email Marketing,150.99,120.33,30.66,5,1
+TR5-11247,2025-11-26,PBA,Indumentaria,App Móvil,133.98,71.08,62.9,9,1
+TR5-10860,2025-11-26,Cuyo,Indumentaria,Web Directa,94.04,50.69,43.35,9,2
+TR5-11221,2025-11-27,PBA,Deportes,App Móvil,115.74,68.45,47.29,7,3
+TR5-11016,2025-11-27,Centro,Electrónica,Marketplace,430.7,323.18,107.52,9,1
+TR5-11783,2025-11-27,Centro,Electrónica,Marketplace,133.63,102.87,30.76,6,3
+TR5-11737,2025-11-27,Centro,Indumentaria,App Móvil,112.27,66.84,45.43,9,2
+TR5-11596,2025-11-28,Centro,Hogar,Web Directa,269.17,185.23,83.94,9,1
+TR5-10631,2025-11-28,NOA,Deportes,Marketplace,1093.37,754.63,338.74,9,3
+TR5-11481,2025-11-28,PBA,Deportes,App Móvil,145.83,99.14,46.69,10,4
+TR5-11296,2025-11-29,NOA,Electrónica,App Móvil,165.79,123.23,42.56,9,3
+TR5-11138,2025-11-29,Centro,Deportes,App Móvil,284.89,170.31,114.58,6,1
+TR5-11158,2025-11-29,NOA,Indumentaria,Marketplace,90.9,50.83,40.07,2,2
+TR5-10330,2025-11-29,NOA,Electrónica,App Móvil,263.99,204.01,59.98,8,1
+TR5-10968,2025-11-29,PBA,Deportes,Web Directa,232.6,156.12,76.48,8,4
+TR5-10003,2025-11-30,PBA,Deportes,App Móvil,339.66,201.39,138.27,10,4
+TR5-10149,2025-11-30,Patagonia,Hogar,Web Directa,114.05,85.34,28.71,8,5
+TR5-11782,2025-11-30,NOA,Hogar,Web Directa,96.15,63.57,32.58,10,6
+TR5-11799,2025-11-30,PBA,Electrónica,Marketplace,217.32,169.68,47.64,10,3
+TR5-11572,2025-11-30,PBA,Deportes,Web Directa,75.96,52.06,23.9,9,1
+TR5-10509,2025-11-30,PBA,Hogar,Web Directa,631.77,443.25,188.52,10,1
+TR5-11214,2025-11-30,PBA,Deportes,App Móvil,92.05,58.0,34.05,10,1
+TR5-11198,2025-11-30,Centro,Indumentaria,Web Directa,178.56,97.13,81.43,4,3
+TR5-11098,2025-12-01,Centro,Indumentaria,App Móvil,56.39,31.29,25.1,8,2
+TR5-10222,2025-12-01,Patagonia,Indumentaria,Web Directa,388.49,233.71,154.78,8,2
+TR5-10983,2025-12-01,NOA,Electrónica,App Móvil,160.7,128.29,32.41,6,2
+TR5-11354,2025-12-01,Patagonia,Deportes,Web Directa,279.41,189.34,90.07,9,2
+TR5-10066,2025-12-01,PBA,Hogar,Web Directa,438.64,269.45,169.19,3,3
+TR5-10897,2025-12-01,PBA,Hogar,Marketplace,427.89,267.08,160.81,10,2
+TR5-10191,2025-12-02,PBA,Electrónica,Web Directa,1020.73,764.18,256.55,9,1
+TR5-10616,2025-12-02,Centro,Hogar,App Móvil,433.27,273.37,159.9,10,2
+TR5-11333,2025-12-03,Cuyo,Hogar,Web Directa,1011.85,636.52,375.33,10,3
+TR5-10835,2025-12-04,Centro,Deportes,Marketplace,92.06,60.2,31.86,9,10
+TR5-10836,2025-12-04,Centro,Deportes,App Móvil,362.27,218.2,144.07,8,3
+TR5-11443,2025-12-04,NOA,Hogar,Web Directa,168.82,123.1,45.72,10,1
+TR5-11361,2025-12-04,PBA,Hogar,Web Directa,391.64,251.33,140.31,2,1
+TR5-11094,2025-12-05,PBA,Electrónica,App Móvil,183.14,142.04,41.1,7,3
+TR5-10275,2025-12-05,Centro,Deportes,Web Directa,190.27,116.95,73.32,10,1
+TR5-11003,2025-12-05,PBA,Indumentaria,Web Directa,90.31,51.47,38.84,10,3
+TR5-11239,2025-12-05,Centro,Electrónica,Web Directa,245.63,181.02,64.61,6,5
+TR5-10731,2025-12-05,Cuyo,Electrónica,Web Directa,389.01,300.4,88.61,9,2
+TR5-11028,2025-12-05,PBA,Deportes,Web Directa,94.43,63.73,30.7,10,5
+TR5-11411,2025-12-06,Centro,Electrónica,Web Directa,692.87,525.6,167.27,9,2
+TR5-10090,2025-12-06,Centro,Hogar,Web Directa,91.22,61.86,29.36,10,4
+TR5-10977,2025-12-06,NOA,Indumentaria,Marketplace,202.55,102.5,100.05,9,2
+TR5-11395,2025-12-07,Cuyo,Electrónica,App Móvil,1306.2,1060.82,245.38,5,5
+TR5-10962,2025-12-07,PBA,Deportes,App Móvil,296.83,199.7,97.13,10,2
+TR5-11367,2025-12-07,NOA,Deportes,Marketplace,271.38,158.54,112.84,8,2
+TR5-11735,2025-12-07,PBA,Hogar,App Móvil,344.28,208.9,135.38,9,4
+TR5-10173,2025-12-07,PBA,Electrónica,App Móvil,192.99,151.15,41.84,7,2
+TR5-10819,2025-12-08,Patagonia,Hogar,Marketplace,322.7,204.2,118.5,9,2
+TR5-11394,2025-12-08,Cuyo,Deportes,App Móvil,111.38,73.48,37.9,7,2
+TR5-10240,2025-12-08,Centro,Indumentaria,App Móvil,254.26,131.59,122.67,10,3
+TR5-10905,2025-12-08,Centro,Indumentaria,Web Directa,126.13,78.1,48.03,10,4
+TR5-11267,2025-12-08,Centro,Hogar,App Móvil,84.87,61.75,23.12,10,3
+TR5-11238,2025-12-08,PBA,Deportes,Marketplace,166.84,97.0,69.84,8,1
+TR5-11286,2025-12-08,Centro,Electrónica,Web Directa,506.31,405.9,100.41,7,6
+TR5-10928,2025-12-09,PBA,Indumentaria,Marketplace,145.4,90.27,55.13,10,4
+TR5-11197,2025-12-09,PBA,Deportes,Web Directa,457.69,292.65,165.04,6,1
+TR5-11501,2025-12-09,Centro,Indumentaria,Email Marketing,361.31,212.95,148.36,8,2
+TR5-10171,2025-12-09,Centro,Electrónica,Web Directa,163.4,126.91,36.49,6,3
+TR5-10675,2025-12-09,Centro,Indumentaria,App Móvil,297.51,168.13,129.38,9,2
+TR5-10827,2025-12-09,NOA,Electrónica,Web Directa,408.53,328.57,79.96,8,1
+TR5-10314,2025-12-10,Cuyo,Electrónica,Marketplace,176.04,127.96,48.08,10,3
+TR5-10674,2025-12-10,PBA,Hogar,Web Directa,118.35,74.44,43.91,10,5
+TR5-10349,2025-12-10,PBA,Hogar,App Móvil,193.26,138.87,54.39,8,4
+TR5-10937,2025-12-10,Centro,Indumentaria,Web Directa,137.36,71.37,65.99,8,6
+TR5-11562,2025-12-10,Centro,Electrónica,Web Directa,236.43,192.63,43.8,10,1
+TR5-11698,2025-12-10,NOA,Hogar,Web Directa,263.77,189.31,74.46,10,4
+TR5-11580,2025-12-10,Centro,Electrónica,Marketplace,280.5,218.26,62.24,9,4
+TR5-10747,2025-12-10,PBA,Hogar,Marketplace,352.57,229.04,123.53,10,3
+TR5-10343,2025-12-11,Patagonia,Indumentaria,Web Directa,311.15,201.64,109.51,10,2
+TR5-10811,2025-12-11,NOA,Deportes,Web Directa,95.88,65.15,30.73,7,2
+TR5-10558,2025-12-11,NOA,Electrónica,App Móvil,507.14,407.96,99.18,10,2
+TR5-10360,2025-12-11,Centro,Indumentaria,App Móvil,73.62,42.63,30.99,9,2
+TR5-11680,2025-12-11,Centro,Indumentaria,App Móvil,185.13,105.07,80.06,10,2
+TR5-10180,2025-12-12,Patagonia,Electrónica,Marketplace,398.42,322.1,76.32,10,7
+TR5-10308,2025-12-12,PBA,Deportes,App Móvil,133.08,91.03,42.05,7,3
+TR5-10583,2025-12-12,Cuyo,Electrónica,Web Directa,1621.33,1262.86,358.47,10,2
+TR5-10829,2025-12-12,Cuyo,Deportes,App Móvil,193.38,120.86,72.52,6,1
+TR5-11044,2025-12-12,PBA,Deportes,Marketplace,394.3,244.26,150.04,9,2
+TR5-11439,2025-12-13,Centro,Indumentaria,App Móvil,138.82,83.91,54.91,9,2
+TR5-10632,2025-12-13,Cuyo,Indumentaria,App Móvil,173.66,98.89,74.77,10,1
+TR5-10771,2025-12-13,PBA,Indumentaria,Marketplace,160.18,99.45,60.73,9,3
+TR5-10424,2025-12-13,Centro,Electrónica,Marketplace,1196.37,893.4,302.97,8,2
+TR5-10307,2025-12-13,Centro,Deportes,Marketplace,180.35,103.32,77.03,10,6
+TR5-11627,2025-12-14,Cuyo,Indumentaria,App Móvil,266.51,167.15,99.36,10,14
+TR5-10438,2025-12-14,PBA,Electrónica,Email Marketing,550.34,445.71,104.63,10,5
+TR5-10440,2025-12-14,Patagonia,Electrónica,App Móvil,231.41,177.07,54.34,10,3
+TR5-10230,2025-12-14,NOA,Hogar,Marketplace,561.31,400.24,161.07,8,4
+TR5-11103,2025-12-14,Centro,Indumentaria,Web Directa,146.8,83.14,63.66,9,1
+TR5-11078,2025-12-14,NOA,Deportes,App Móvil,214.82,131.62,83.2,6,3
+TR5-10506,2025-12-14,PBA,Deportes,Web Directa,198.15,121.94,76.21,10,1
+TR5-10671,2025-12-15,Cuyo,Hogar,Email Marketing,87.59,60.33,27.26,8,2
+TR5-11415,2025-12-16,Cuyo,Indumentaria,Marketplace,52.61,31.55,21.06,10,1
+TR5-11642,2025-12-16,Cuyo,Deportes,Web Directa,373.32,205.92,167.4,9,4
+TR5-11771,2025-12-16,PBA,Hogar,Web Directa,238.0,161.48,76.52,10,2
+TR5-11756,2025-12-16,Centro,Electrónica,App Móvil,752.23,560.48,191.75,9,6
+TR5-10228,2025-12-16,Patagonia,Deportes,App Móvil,169.85,106.95,62.9,1,3
+TR5-11502,2025-12-16,Cuyo,Electrónica,Marketplace,220.71,162.78,57.93,10,4
+TR5-11164,2025-12-17,Centro,Hogar,Email Marketing,489.03,299.72,189.31,9,4
+TR5-10549,2025-12-17,Cuyo,Deportes,Marketplace,414.68,271.4,143.28,8,3
+TR5-10244,2025-12-17,PBA,Indumentaria,App Móvil,140.46,71.63,68.83,10,2
+TR5-10711,2025-12-17,Centro,Indumentaria,Web Directa,66.02,42.64,23.38,9,1
+TR5-11390,2025-12-17,Centro,Hogar,Web Directa,324.96,233.81,91.15,9,4
+TR5-10437,2025-12-17,Centro,Hogar,Web Directa,817.08,562.32,254.76,9,3
+TR5-11155,2025-12-17,Centro,Deportes,App Móvil,596.28,335.12,261.16,9,2
+TR5-10356,2025-12-18,PBA,Electrónica,Web Directa,459.76,370.66,89.1,10,4
+TR5-11123,2025-12-18,NOA,Hogar,Marketplace,382.59,241.67,140.92,7,1
+TR5-10656,2025-12-18,NOA,Deportes,Marketplace,314.97,211.66,103.31,5,3
+TR5-10028,2025-12-18,Patagonia,Electrónica,App Móvil,377.56,277.58,99.98,8,2
+TR5-11174,2025-12-18,PBA,Indumentaria,Web Directa,108.48,54.74,53.74,8,3
+TR5-10488,2025-12-18,PBA,Hogar,Web Directa,348.31,209.41,138.9,9,6
+TR5-10685,2025-12-18,Centro,Deportes,App Móvil,151.09,96.94,54.15,10,4
+TR5-11379,2025-12-19,PBA,Deportes,Email Marketing,673.19,462.42,210.77,2,3
+TR5-11611,2025-12-19,Centro,Hogar,Marketplace,206.96,133.3,73.66,7,3
+TR5-11334,2025-12-19,PBA,Indumentaria,Web Directa,325.84,172.73,153.11,10,1
+TR5-10781,2025-12-19,Centro,Deportes,App Móvil,102.21,69.86,32.35,10,4
+TR5-10150,2025-12-19,PBA,Indumentaria,Web Directa,60.0,38.19,21.81,10,2
+TR5-11237,2025-12-20,NOA,Deportes,App Móvil,159.68,95.49,64.19,4,3
+TR5-10093,2025-12-20,PBA,Deportes,Web Directa,327.85,227.76,100.09,8,2
+TR5-11119,2025-12-20,PBA,Indumentaria,Email Marketing,146.96,73.84,73.12,7,1
+TR5-10812,2025-12-21,PBA,Indumentaria,Web Directa,278.31,143.2,135.11,10,4
+TR5-10887,2025-12-21,Centro,Indumentaria,Web Directa,650.53,419.95,230.58,10,6
+TR5-11602,2025-12-21,Centro,Electrónica,Web Directa,689.97,557.29,132.68,8,2
+TR5-11368,2025-12-21,Centro,Electrónica,Web Directa,552.34,416.66,135.68,9,1
+TR5-11049,2025-12-22,Cuyo,Indumentaria,Marketplace,65.67,34.54,31.13,8,3
+TR5-11053,2025-12-22,PBA,Deportes,Marketplace,184.55,107.32,77.23,8,1
+TR5-10855,2025-12-22,NOA,Indumentaria,Web Directa,54.54,35.39,19.15,9,4
+TR5-10373,2025-12-22,Patagonia,Electrónica,Marketplace,345.73,274.2,71.53,9,3
+TR5-10932,2025-12-22,Cuyo,Hogar,Marketplace,385.95,245.22,140.73,10,3
+TR5-10377,2025-12-22,Centro,Deportes,Marketplace,846.85,535.61,311.24,10,1
+TR5-10901,2025-12-22,Centro,Hogar,Web Directa,101.27,73.13,28.14,9,2
+TR5-10362,2025-12-23,Centro,Deportes,Marketplace,648.12,381.95,266.17,10,5
+TR5-11595,2025-12-23,Centro,Deportes,Marketplace,74.67,49.47,25.2,10,2
+TR5-11616,2025-12-23,PBA,Hogar,Web Directa,824.39,581.35,243.04,9,1
+TR5-10757,2025-12-23,Centro,Electrónica,Email Marketing,683.37,536.83,146.54,10,4
+TR5-11218,2025-12-23,Centro,Deportes,App Móvil,186.26,116.89,69.37,10,2
+TR5-11277,2025-12-24,Centro,Hogar,Web Directa,423.76,311.21,112.55,5,2
+TR5-10448,2025-12-24,NOA,Electrónica,App Móvil,1515.37,1214.69,300.68,9,3
+TR5-11480,2025-12-24,Centro,Deportes,App Móvil,249.29,146.3,102.99,10,1
+TR5-10479,2025-12-24,NOA,Indumentaria,App Móvil,134.63,86.97,47.66,10,3
+TR5-11275,2025-12-24,NOA,Deportes,App Móvil,126.61,80.26,46.35,7,4
+TR5-11077,2025-12-25,PBA,Deportes,Marketplace,88.51,58.92,29.59,10,2
+TR5-11682,2025-12-25,Patagonia,Deportes,Web Directa,84.31,48.66,35.65,9,1
+TR5-10194,2025-12-26,Centro,Deportes,Marketplace,264.67,171.82,92.85,9,4
+TR5-11661,2025-12-26,Cuyo,Deportes,Marketplace,75.44,52.67,22.77,10,2
+TR5-10078,2025-12-26,Centro,Deportes,Email Marketing,217.0,122.33,94.67,7,4
+TR5-11068,2025-12-26,Centro,Deportes,Marketplace,182.59,102.78,79.81,6,4
+TR5-11317,2025-12-26,PBA,Electrónica,Marketplace,179.38,138.88,40.5,10,2
+TR5-11320,2025-12-27,PBA,Deportes,Web Directa,335.86,205.96,129.9,10,4
+TR5-10657,2025-12-27,Cuyo,Indumentaria,Web Directa,575.23,296.81,278.42,5,2
+TR5-10971,2025-12-27,PBA,Deportes,Email Marketing,155.61,100.51,55.1,6,2
+TR5-10027,2025-12-28,PBA,Deportes,Web Directa,144.86,80.02,64.84,9,3
+TR5-11356,2025-12-28,Patagonia,Deportes,App Móvil,73.65,47.3,26.35,9,2
+TR5-10745,2025-12-28,PBA,Electrónica,Web Directa,306.88,245.37,61.51,10,4
+TR5-10476,2025-12-29,PBA,Deportes,Web Directa,396.66,277.58,119.08,7,3
+TR5-11417,2025-12-29,NOA,Electrónica,App Móvil,385.56,278.8,106.76,8,1
+TR5-11528,2025-12-29,Centro,Electrónica,Marketplace,414.29,301.38,112.91,7,2
+TR5-10130,2025-12-29,PBA,Deportes,App Móvil,195.11,111.96,83.15,9,3
+TR5-11014,2025-12-29,PBA,Indumentaria,Marketplace,63.29,33.36,29.93,9,4
+TR5-11792,2025-12-30,PBA,Hogar,Web Directa,107.73,64.77,42.96,10,2
+TR5-10417,2025-12-30,Centro,Hogar,Web Directa,246.94,173.07,73.87,8,10
+TR5-11745,2025-12-30,PBA,Indumentaria,Web Directa,56.03,28.51,27.52,9,6
+TR5-11531,2025-12-30,NOA,Electrónica,Web Directa,137.62,110.33,27.29,6,3
+TR5-11072,2025-12-30,NOA,Deportes,Email Marketing,81.89,52.92,28.97,8,3
+TR5-10535,2025-12-30,Centro,Electrónica,App Móvil,296.56,242.83,53.73,7,3
+TR5-11546,2025-12-30,Centro,Deportes,Web Directa,829.51,571.06,258.45,9,1
+TR5-10733,2025-12-31,Centro,Deportes,Email Marketing,1046.63,697.55,349.08,10,4
+TR5-10411,2025-12-31,PBA,Deportes,App Móvil,144.41,97.09,47.32,10,1
+TR5-11721,2025-12-31,NOA,Hogar,Web Directa,254.28,158.92,95.36,10,1
+TR5-10079,2025-12-31,Patagonia,Electrónica,Web Directa,411.31,333.35,77.96,3,3

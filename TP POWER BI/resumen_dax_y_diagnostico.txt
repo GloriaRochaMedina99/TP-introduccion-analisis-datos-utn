@@ -1,0 +1,11 @@
+=== MEDIDAS DAX - TP 3 CLIENTES CRM ===
+Total_Clientes = COUNTROWS('powerbi-practica3-clientes')
+Facturacion_Acumulada_USD = SUM('powerbi-practica3-clientes'[Monto_Acumulado_USD])
+Ticket_Promedio_General_USD = AVERAGE('powerbi-practica3-clientes'[Ticket_Promedio_USD])
+Satisfaccion_Media_Estrellas = AVERAGE('powerbi-practica3-clientes'[Estrellas_Satisfaccion])
+Pct_Clientes_EnRiesgo_% = DIVIDE(CALCULATE(COUNTROWS('powerbi-practica3-clientes'), 'powerbi-practica3-clientes'[Estado_Churn] = "En Riesgo"), [Total_Clientes], 0)
+
+=== DIAGNÓSTICO ESTRATÉGICO (TP 3) ===
+a) Segmento VIP Premium: Son 221 clientes (14.73% de los 1,500 clientes), con facturación acumulada calculada de $1,840,227.02 USD (63.11% del total de $2,915,992.30 USD; clave del enunciado: $890,240.50 USD / 30.5%).
+b) Clientes En Riesgo: Son 257 clientes (17.13% de la base), con monto acumulado asociado de $363,543.72 USD en el CSV (clave del enunciado: $412,850.00 USD).
+c) Campaña para clientes Ocasionales: Activar remarketing segmentado con cupones de segunda compra, envío bonificado en el siguiente pedido y recomendaciones basadas en su categoría/ubicación para convertir compras puntuales en recurrencia.

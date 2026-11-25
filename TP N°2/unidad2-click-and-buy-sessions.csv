@@ -1,0 +1,3501 @@
+ID_Sesion,ID_Usuario,Origen_Trafico,Dispositivo,Duracion_Segundos,Paginas_Visitadas,Compra_Realizada
+SES-20000,USR-1729,Redes Sociales,Android,54,2,1
+SES-20001,USR-1420,Email Marketing,Android,-120,10,0
+SES-20002,USR-1582,Google Ads,iOS,-120,11,0
+SES-20003,USR-1498,Redes Sociales,Android,105,2,0
+SES-20004,USR-1234,Email Marketing,Linux,686,3,0
+SES-20005,USR-1154,Búsqueda Orgánica,Windows,26,1,0
+SES-20006,USR-1651,Búsqueda Orgánica,Windows,127,6,0
+SES-20007,USR-1677,Búsqueda Orgánica,iOS,799,12,0
+SES-20008,USR-1708,Búsqueda Orgánica,Windows,49,3,1
+SES-20009,USR-1423,Redes Sociales,Windows,446,14,0
+SES-20010,USR-1134,Búsqueda Orgánica,Windows,157,12,0
+SES-20011,USR-1059,Búsqueda Orgánica,Windows,285,13,0
+SES-20012,USR-1047,Búsqueda Orgánica,iOS,74,9,0
+SES-20013,USR-1091,Búsqueda Orgánica,Android,101,8,0
+SES-20014,USR-1739,Redes Sociales,Android,73,3,1
+SES-20015,USR-1779,Redes Sociales,Android,414,15,0
+SES-20016,USR-1332,Directo,Android,18,12,0
+SES-20017,USR-1328,Búsqueda Orgánica,Android,116,3,0
+SES-20018,USR-1260,Búsqueda Orgánica,Mac,158,5,0
+SES-20019,USR-1413,Directo,Windows,91,8,0
+SES-20020,USR-1207,Google Ads,Android,223,11,0
+SES-20021,USR-1127,Búsqueda Orgánica,Windows,472,10,0
+SES-20022,USR-1628,Directo,Mac,15,7,0
+SES-20023,USR-1386,Búsqueda Orgánica,iOS,33,12,1
+SES-20024,USR-1446,Búsqueda Orgánica,Windows,57,7,0
+SES-20025,USR-1091,Redes Sociales,Android,195,3,0
+SES-20026,USR-1742,Búsqueda Orgánica,iOS,58,11,0
+SES-20027,USR-1572,Redes Sociales,Android,623,6,1
+SES-20028,USR-1293,Búsqueda Orgánica,Android,39,12,0
+SES-20029,USR-1498,Búsqueda Orgánica,Windows,99999,10,0
+SES-20030,USR-1155,Email Marketing,iOS,18,9,1
+SES-20031,USR-1361,Búsqueda Orgánica,Windows,124,11,0
+SES-20032,USR-1166,Email Marketing,Windows,216,12,0
+SES-20033,USR-1332,Google Ads,iOS,390,2,0
+SES-20034,USR-1683,Búsqueda Orgánica,iOS,216,12,0
+SES-20035,USR-1377,Directo,Windows,142,9,0
+SES-20036,USR-1526,Email Marketing,Windows,123,15,0
+SES-20037,USR-1663,Búsqueda Orgánica,Windows,63,10,1
+SES-20038,USR-1027,Búsqueda Orgánica,Windows,137,9,0
+SES-20039,USR-1674,Redes Sociales,Windows,163,10,0
+SES-20040,USR-1625,Directo,iOS,131,1,0
+SES-20041,USR-1389,Email Marketing,Android,51,9,0
+SES-20042,USR-1311,Email Marketing,Windows,-120,6,0
+SES-20043,USR-1509,Google Ads,iOS,117,1,0
+SES-20044,USR-1178,Directo,Windows,516,8,0
+SES-20045,USR-1644,Búsqueda Orgánica,iOS,77,10,0
+SES-20046,USR-1275,Búsqueda Orgánica,Android,14,13,0
+SES-20047,USR-1199,Búsqueda Orgánica,iOS,61,7,0
+SES-20048,USR-1314,Google Ads,Windows,52,1,0
+SES-20049,USR-1271,Búsqueda Orgánica,Android,50,3,0
+SES-20050,USR-1037,Redes Sociales,iOS,210,12,0
+SES-20051,USR-1179,Google Ads,Windows,254,6,1
+SES-20052,USR-1262,Google Ads,Mac,357,14,0
+SES-20053,USR-1116,Búsqueda Orgánica,iOS,25,2,0
+SES-20054,USR-1211,Búsqueda Orgánica,Windows,43,6,0
+SES-20055,USR-1771,Google Ads,Android,680,15,0
+SES-20056,USR-1034,Redes Sociales,Windows,10,4,0
+SES-20057,USR-1152,Email Marketing,iOS,120,6,1
+SES-20058,USR-1312,Redes Sociales,Windows,19,14,0
+SES-20059,USR-1164,Búsqueda Orgánica,Android,199,11,0
+SES-20060,USR-1767,Email Marketing,Android,1017,1,0
+SES-20061,USR-1614,Búsqueda Orgánica,iOS,121,6,0
+SES-20062,USR-1118,Búsqueda Orgánica,Windows,93,3,0
+SES-20063,USR-1590,Redes Sociales,Windows,205,10,0
+SES-20064,USR-1027,Búsqueda Orgánica,Android,211,6,0
+SES-20065,USR-1473,Email Marketing,Android,173,12,0
+SES-20066,USR-1782,Google Ads,Linux,169,6,0
+SES-20067,USR-1166,Google Ads,iOS,99999,15,0
+SES-20068,USR-1093,Redes Sociales,Windows,28,6,0
+SES-20069,USR-1513,Email Marketing,Android,1081,14,0
+SES-20070,USR-1309,Email Marketing,Windows,192,8,0
+SES-20071,USR-1516,Búsqueda Orgánica,Windows,58,1,0
+SES-20072,USR-1192,Redes Sociales,Linux,445,5,0
+SES-20073,USR-1031,Google Ads,iOS,-120,9,0
+SES-20074,USR-1498,Google Ads,Windows,43,1,0
+SES-20075,USR-1458,Directo,iOS,85,15,0
+SES-20076,USR-1751,Redes Sociales,Android,147,3,0
+SES-20077,USR-1029,Redes Sociales,Windows,92,3,0
+SES-20078,USR-1218,Email Marketing,Windows,136,6,0
+SES-20079,USR-1111,Búsqueda Orgánica,Windows,123,3,0
+SES-20080,USR-1667,Búsqueda Orgánica,Windows,66,2,0
+SES-20081,USR-1728,Búsqueda Orgánica,Android,230,11,0
+SES-20082,USR-1077,Redes Sociales,Android,30,5,0
+SES-20083,USR-1600,Redes Sociales,Linux,42,15,0
+SES-20084,USR-1036,Redes Sociales,iOS,318,1,0
+SES-20085,USR-1587,Redes Sociales,iOS,260,12,1
+SES-20086,USR-1350,Redes Sociales,Mac,-120,11,1
+SES-20087,USR-1353,Google Ads,iOS,68,3,0
+SES-20088,USR-1369,Búsqueda Orgánica,Linux,358,1,0
+SES-20089,USR-1254,Búsqueda Orgánica,Android,252,13,0
+SES-20090,USR-1487,Google Ads,Android,454,3,0
+SES-20091,USR-1415,Google Ads,Android,70,8,0
+SES-20092,USR-1315,Búsqueda Orgánica,Android,43,1,0
+SES-20093,USR-1463,Búsqueda Orgánica,Android,57,4,1
+SES-20094,USR-1682,Redes Sociales,Windows,320,8,0
+SES-20095,USR-1291,Búsqueda Orgánica,Windows,354,9,0
+SES-20096,USR-1097,Búsqueda Orgánica,Android,27,10,0
+SES-20097,USR-1783,Búsqueda Orgánica,iOS,173,14,0
+SES-20098,USR-1618,Búsqueda Orgánica,Android,608,6,0
+SES-20099,USR-1192,Búsqueda Orgánica,Windows,236,4,0
+SES-20100,USR-1079,Redes Sociales,Mac,20,2,0
+SES-20101,USR-1566,Redes Sociales,iOS,175,10,0
+SES-20102,USR-1428,Google Ads,iOS,670,11,0
+SES-20103,USR-1441,Google Ads,iOS,476,15,0
+SES-20104,USR-1059,Directo,Android,180,4,0
+SES-20105,USR-1326,Directo,Mac,408,1,0
+SES-20106,USR-1399,Google Ads,Windows,50,2,0
+SES-20107,USR-1176,Redes Sociales,Android,494,15,0
+SES-20108,USR-1261,Email Marketing,Windows,75,11,1
+SES-20109,USR-1197,Búsqueda Orgánica,Android,494,8,0
+SES-20110,USR-1449,Directo,Mac,112,15,0
+SES-20111,USR-1113,Email Marketing,iOS,80,8,1
+SES-20112,USR-1108,Búsqueda Orgánica,Android,194,7,1
+SES-20113,USR-1055,Redes Sociales,Windows,192,14,0
+SES-20114,USR-1592,Email Marketing,Mac,205,7,0
+SES-20115,USR-1492,Google Ads,Android,173,4,0
+SES-20116,USR-1539,Google Ads,Windows,123,11,0
+SES-20117,USR-1096,Email Marketing,iOS,460,14,0
+SES-20118,USR-1092,Google Ads,Mac,220,9,0
+SES-20119,USR-1119,Redes Sociales,iOS,109,2,0
+SES-20120,USR-1012,Redes Sociales,iOS,229,6,0
+SES-20121,USR-1655,Email Marketing,Linux,538,9,0
+SES-20122,USR-1499,Email Marketing,Mac,20,6,0
+SES-20123,USR-1063,Directo,Android,101,10,0
+SES-20124,USR-1205,Redes Sociales,Android,40,5,0
+SES-20125,USR-1134,Directo,Windows,500,11,0
+SES-20126,USR-1282,Búsqueda Orgánica,Windows,224,11,0
+SES-20127,USR-1651,Búsqueda Orgánica,Windows,224,3,0
+SES-20128,USR-1247,Redes Sociales,Windows,167,8,0
+SES-20129,USR-1487,Google Ads,Windows,22,13,0
+SES-20130,USR-1528,Redes Sociales,Mac,538,6,1
+SES-20131,USR-1681,Directo,Android,402,13,1
+SES-20132,USR-1328,Búsqueda Orgánica,Windows,352,3,0
+SES-20133,USR-1353,Búsqueda Orgánica,Windows,61,1,0
+SES-20134,USR-1434,Búsqueda Orgánica,Android,84,7,0
+SES-20135,USR-1568,Redes Sociales,Windows,123,13,0
+SES-20136,USR-1437,Búsqueda Orgánica,Windows,780,12,0
+SES-20137,USR-1460,Google Ads,iOS,47,4,0
+SES-20138,USR-1296,Búsqueda Orgánica,Windows,129,1,0
+SES-20139,USR-1442,Email Marketing,Android,282,12,0
+SES-20140,USR-1787,Google Ads,Windows,288,5,0
+SES-20141,USR-1369,Google Ads,Windows,164,7,0
+SES-20142,USR-1262,Email Marketing,Windows,131,15,0
+SES-20143,USR-1608,Google Ads,Windows,213,10,0
+SES-20144,USR-1273,Búsqueda Orgánica,Android,99999,11,0
+SES-20145,USR-1568,Google Ads,iOS,72,9,0
+SES-20146,USR-1372,Directo,iOS,46,4,0
+SES-20147,USR-1403,Email Marketing,Windows,70,4,0
+SES-20148,USR-1348,Búsqueda Orgánica,Mac,215,2,0
+SES-20149,USR-1694,Directo,Mac,73,5,0
+SES-20150,USR-1696,Búsqueda Orgánica,Windows,57,15,0
+SES-20151,USR-1722,Directo,Android,42,14,1
+SES-20152,USR-1030,Email Marketing,iOS,334,3,0
+SES-20153,USR-1382,Email Marketing,Windows,47,5,1
+SES-20154,USR-1659,Directo,Android,174,7,0
+SES-20155,USR-1358,Directo,Windows,325,7,0
+SES-20156,USR-1701,Búsqueda Orgánica,Android,198,6,0
+SES-20157,USR-1470,Directo,Android,193,2,0
+SES-20158,USR-1065,Búsqueda Orgánica,Android,322,13,0
+SES-20159,USR-1626,Búsqueda Orgánica,Mac,42,14,0
+SES-20160,USR-1719,Google Ads,Mac,733,6,0
+SES-20161,USR-1286,Google Ads,Windows,32,11,0
+SES-20162,USR-1182,Google Ads,iOS,239,7,0
+SES-20163,USR-1697,Email Marketing,Android,266,4,1
+SES-20164,USR-1197,Google Ads,Windows,260,9,0
+SES-20165,USR-1403,Búsqueda Orgánica,Windows,145,6,1
+SES-20166,USR-1323,Google Ads,Windows,494,7,0
+SES-20167,USR-1593,Directo,Mac,31,14,0
+SES-20168,USR-1098,Búsqueda Orgánica,Android,45,1,0
+SES-20169,USR-1397,Redes Sociales,Windows,33,11,0
+SES-20170,USR-1399,Búsqueda Orgánica,Windows,107,5,1
+SES-20171,USR-1106,Email Marketing,iOS,629,15,1
+SES-20172,USR-1262,Google Ads,iOS,243,5,0
+SES-20173,USR-1118,Email Marketing,iOS,80,9,0
+SES-20174,USR-1130,Google Ads,Android,364,7,0
+SES-20175,USR-1662,Google Ads,Android,38,12,0
+SES-20176,USR-1728,Redes Sociales,Android,378,4,0
+SES-20177,USR-1022,Google Ads,Android,151,9,0
+SES-20178,USR-1289,Email Marketing,Android,85,1,0
+SES-20179,USR-1381,Google Ads,iOS,217,5,0
+SES-20180,USR-1732,Google Ads,Windows,687,3,0
+SES-20181,USR-1220,Búsqueda Orgánica,Mac,41,8,0
+SES-20182,USR-1168,Google Ads,Android,99999,9,0
+SES-20183,USR-1738,Email Marketing,Windows,73,15,0
+SES-20184,USR-1499,Búsqueda Orgánica,Android,393,4,0
+SES-20185,USR-1470,Redes Sociales,Windows,380,15,0
+SES-20186,USR-1269,Google Ads,Android,221,14,0
+SES-20187,USR-1044,Google Ads,Android,639,2,0
+SES-20188,USR-1787,Google Ads,Windows,39,1,1
+SES-20189,USR-1224,Google Ads,Windows,46,6,0
+SES-20190,USR-1583,Directo,Linux,69,2,1
+SES-20191,USR-1118,Búsqueda Orgánica,Windows,29,5,0
+SES-20192,USR-1373,Redes Sociales,Android,296,7,0
+SES-20193,USR-1514,Email Marketing,Android,871,1,0
+SES-20194,USR-1244,Búsqueda Orgánica,iOS,29,6,0
+SES-20195,USR-1060,Búsqueda Orgánica,Android,10,6,0
+SES-20196,USR-1034,Redes Sociales,Windows,61,6,0
+SES-20197,USR-1373,Búsqueda Orgánica,Windows,873,1,0
+SES-20198,USR-1608,Redes Sociales,Android,200,6,0
+SES-20199,USR-1164,Email Marketing,iOS,355,2,0
+SES-20200,USR-1797,Directo,Windows,52,15,0
+SES-20201,USR-1471,Búsqueda Orgánica,Windows,31,4,0
+SES-20202,USR-1030,Email Marketing,Windows,14,2,0
+SES-20203,USR-1097,Google Ads,Android,568,1,0
+SES-20204,USR-1386,Google Ads,Android,128,2,0
+SES-20205,USR-1231,Directo,Android,22,4,0
+SES-20206,USR-1767,Google Ads,Mac,50,14,1
+SES-20207,USR-1335,Redes Sociales,Android,53,7,0
+SES-20208,USR-1083,Directo,Windows,14,14,0
+SES-20209,USR-1037,Búsqueda Orgánica,Android,65,14,0
+SES-20210,USR-1297,Búsqueda Orgánica,Windows,323,2,0
+SES-20211,USR-1126,Google Ads,Android,-120,7,0
+SES-20212,USR-1566,Búsqueda Orgánica,Android,15,15,0
+SES-20213,USR-1357,Búsqueda Orgánica,Windows,47,14,1
+SES-20214,USR-1337,Google Ads,Android,17,6,0
+SES-20215,USR-1562,Redes Sociales,Windows,425,5,0
+SES-20216,USR-1586,Búsqueda Orgánica,Android,339,2,0
+SES-20217,USR-1115,Google Ads,Android,48,6,0
+SES-20218,USR-1673,Redes Sociales,Windows,297,5,0
+SES-20219,USR-1431,Google Ads,iOS,375,15,0
+SES-20220,USR-1333,Redes Sociales,Android,175,10,0
+SES-20221,USR-1483,Google Ads,Windows,173,6,0
+SES-20222,USR-1728,Google Ads,Windows,-120,2,1
+SES-20223,USR-1705,Google Ads,Mac,145,11,0
+SES-20224,USR-1333,Búsqueda Orgánica,Mac,55,3,1
+SES-20225,USR-1086,Email Marketing,Android,26,7,0
+SES-20226,USR-1246,Email Marketing,Windows,116,10,0
+SES-20227,USR-1282,Redes Sociales,Android,107,8,0
+SES-20228,USR-1627,Email Marketing,Android,115,6,0
+SES-20229,USR-1450,Búsqueda Orgánica,Android,24,8,0
+SES-20230,USR-1195,Redes Sociales,iOS,69,7,0
+SES-20231,USR-1552,Email Marketing,Windows,99999,1,0
+SES-20232,USR-1732,Google Ads,Android,51,13,0
+SES-20233,USR-1708,Email Marketing,Windows,395,13,0
+SES-20234,USR-1601,Directo,Windows,258,1,0
+SES-20235,USR-1180,Redes Sociales,Mac,210,3,0
+SES-20236,USR-1339,Google Ads,Android,59,9,0
+SES-20237,USR-1071,Búsqueda Orgánica,Windows,42,3,1
+SES-20238,USR-1464,Email Marketing,Windows,90,4,0
+SES-20239,USR-1140,Búsqueda Orgánica,Windows,247,9,1
+SES-20240,USR-1192,Redes Sociales,iOS,158,2,0
+SES-20241,USR-1598,Redes Sociales,Windows,153,12,0
+SES-20242,USR-1009,Email Marketing,Android,239,12,0
+SES-20243,USR-1544,Redes Sociales,iOS,22,15,0
+SES-20244,USR-1145,Redes Sociales,Android,47,1,0
+SES-20245,USR-1413,Email Marketing,Windows,182,10,0
+SES-20246,USR-1409,Redes Sociales,iOS,120,11,0
+SES-20247,USR-1761,Redes Sociales,iOS,150,9,0
+SES-20248,USR-1511,Redes Sociales,Windows,12,9,0
+SES-20249,USR-1607,Google Ads,Android,130,7,0
+SES-20250,USR-1004,Directo,Windows,138,15,0
+SES-20251,USR-1547,Redes Sociales,iOS,213,10,1
+SES-20252,USR-1633,Email Marketing,Windows,177,5,1
+SES-20253,USR-1081,Directo,Windows,58,11,1
+SES-20254,USR-1293,Google Ads,Windows,302,14,0
+SES-20255,USR-1752,Búsqueda Orgánica,Mac,165,1,0
+SES-20256,USR-1262,Redes Sociales,iOS,173,9,0
+SES-20257,USR-1630,Email Marketing,iOS,84,5,0
+SES-20258,USR-1461,Email Marketing,iOS,83,6,0
+SES-20259,USR-1550,Google Ads,Android,291,10,0
+SES-20260,USR-1140,Búsqueda Orgánica,Android,23,10,0
+SES-20261,USR-1526,Búsqueda Orgánica,Android,634,15,0
+SES-20262,USR-1451,Búsqueda Orgánica,Windows,71,6,0
+SES-20263,USR-1717,Redes Sociales,Mac,48,9,0
+SES-20264,USR-1059,Google Ads,Android,219,13,0
+SES-20265,USR-1330,Google Ads,Windows,258,15,0
+SES-20266,USR-1610,Redes Sociales,Windows,346,1,0
+SES-20267,USR-1265,Directo,iOS,-120,6,0
+SES-20268,USR-1608,Redes Sociales,iOS,81,2,0
+SES-20269,USR-1415,Búsqueda Orgánica,Mac,111,8,0
+SES-20270,USR-1078,Google Ads,Mac,310,11,0
+SES-20271,USR-1398,Directo,iOS,100,10,0
+SES-20272,USR-1482,Redes Sociales,Android,318,14,0
+SES-20273,USR-1260,Búsqueda Orgánica,Android,174,11,0
+SES-20274,USR-1690,Directo,Android,1574,13,0
+SES-20275,USR-1528,Búsqueda Orgánica,iOS,41,9,0
+SES-20276,USR-1645,Búsqueda Orgánica,Mac,379,8,0
+SES-20277,USR-1237,Directo,iOS,-120,10,0
+SES-20278,USR-1472,Búsqueda Orgánica,Mac,84,1,0
+SES-20279,USR-1539,Google Ads,Windows,18,6,0
+SES-20280,USR-1760,Google Ads,Windows,82,10,0
+SES-20281,USR-1646,Búsqueda Orgánica,Linux,144,14,1
+SES-20282,USR-1772,Redes Sociales,iOS,105,15,0
+SES-20283,USR-1444,Google Ads,Windows,121,1,1
+SES-20284,USR-1452,Búsqueda Orgánica,Windows,274,12,0
+SES-20285,USR-1220,Búsqueda Orgánica,Windows,191,6,0
+SES-20286,USR-1740,Redes Sociales,iOS,104,1,0
+SES-20287,USR-1231,Búsqueda Orgánica,iOS,160,7,0
+SES-20288,USR-1026,Google Ads,iOS,38,12,0
+SES-20289,USR-1621,Directo,Android,140,10,0
+SES-20290,USR-1506,Búsqueda Orgánica,Android,53,2,0
+SES-20291,USR-1417,Directo,Windows,471,14,0
+SES-20292,USR-1412,Redes Sociales,Android,14,7,0
+SES-20293,USR-1123,Búsqueda Orgánica,Android,451,8,1
+SES-20294,USR-1028,Redes Sociales,Android,97,8,0
+SES-20295,USR-1403,Redes Sociales,Windows,99999,11,0
+SES-20296,USR-1631,Búsqueda Orgánica,Android,57,9,0
+SES-20297,USR-1392,Redes Sociales,Windows,173,8,0
+SES-20298,USR-1520,Google Ads,Android,113,13,0
+SES-20299,USR-1086,Búsqueda Orgánica,iOS,583,3,0
+SES-20300,USR-1415,Redes Sociales,iOS,28,14,0
+SES-20301,USR-1359,Búsqueda Orgánica,Android,94,10,0
+SES-20302,USR-1550,Redes Sociales,Mac,77,5,0
+SES-20303,USR-1451,Google Ads,Android,184,5,0
+SES-20304,USR-1226,Búsqueda Orgánica,Mac,13,6,0
+SES-20305,USR-1363,Búsqueda Orgánica,Mac,39,5,0
+SES-20306,USR-1453,Búsqueda Orgánica,iOS,136,8,0
+SES-20307,USR-1347,Búsqueda Orgánica,Mac,369,12,0
+SES-20308,USR-1702,Redes Sociales,Windows,318,2,0
+SES-20309,USR-1551,Búsqueda Orgánica,Android,97,2,0
+SES-20310,USR-1698,Redes Sociales,Windows,473,11,1
+SES-20311,USR-1064,Búsqueda Orgánica,iOS,74,4,0
+SES-20312,USR-1566,Redes Sociales,Android,188,14,0
+SES-20313,USR-1424,Búsqueda Orgánica,iOS,255,12,0
+SES-20314,USR-1161,Redes Sociales,iOS,10,5,0
+SES-20315,USR-1620,Google Ads,Android,198,2,0
+SES-20316,USR-1495,Directo,Linux,246,6,0
+SES-20317,USR-1383,Email Marketing,Windows,393,2,1
+SES-20318,USR-1143,Redes Sociales,Windows,269,6,0
+SES-20319,USR-1792,Google Ads,iOS,16,12,0
+SES-20320,USR-1739,Google Ads,Windows,372,9,0
+SES-20321,USR-1771,Directo,Windows,237,9,0
+SES-20322,USR-1752,Email Marketing,Android,259,8,0
+SES-20323,USR-1020,Google Ads,Android,228,15,0
+SES-20324,USR-1615,Búsqueda Orgánica,iOS,75,14,0
+SES-20325,USR-1720,Google Ads,iOS,349,9,0
+SES-20326,USR-1485,Google Ads,Android,159,6,0
+SES-20327,USR-1160,Búsqueda Orgánica,Android,39,1,0
+SES-20328,USR-1691,Redes Sociales,Windows,193,9,1
+SES-20329,USR-1301,Google Ads,Android,27,13,0
+SES-20330,USR-1191,Email Marketing,Mac,43,6,0
+SES-20331,USR-1765,Email Marketing,Android,187,15,1
+SES-20332,USR-1330,Búsqueda Orgánica,Windows,43,12,1
+SES-20333,USR-1272,Búsqueda Orgánica,Android,81,9,0
+SES-20334,USR-1268,Búsqueda Orgánica,Windows,186,13,0
+SES-20335,USR-1793,Búsqueda Orgánica,iOS,350,6,0
+SES-20336,USR-1170,Búsqueda Orgánica,Windows,97,15,0
+SES-20337,USR-1727,Búsqueda Orgánica,Windows,32,3,0
+SES-20338,USR-1622,Email Marketing,Windows,19,11,1
+SES-20339,USR-1053,Redes Sociales,Android,235,15,0
+SES-20340,USR-1192,Redes Sociales,Android,119,9,0
+SES-20341,USR-1539,Búsqueda Orgánica,Windows,275,10,0
+SES-20342,USR-1647,Búsqueda Orgánica,Windows,198,14,0
+SES-20343,USR-1007,Búsqueda Orgánica,Android,215,7,0
+SES-20344,USR-1608,Email Marketing,Windows,111,12,0
+SES-20345,USR-1118,Google Ads,Mac,221,3,0
+SES-20346,USR-1072,Google Ads,Android,-120,14,0
+SES-20347,USR-1265,Búsqueda Orgánica,iOS,375,9,0
+SES-20348,USR-1097,Directo,Mac,201,15,0
+SES-20349,USR-1665,Búsqueda Orgánica,iOS,99999,13,0
+SES-20350,USR-1704,Redes Sociales,Android,400,6,0
+SES-20351,USR-1482,Email Marketing,iOS,-120,15,0
+SES-20352,USR-1699,Redes Sociales,Android,130,2,0
+SES-20353,USR-1514,Búsqueda Orgánica,iOS,99999,5,0
+SES-20354,USR-1225,Google Ads,Windows,301,6,1
+SES-20355,USR-1044,Búsqueda Orgánica,Android,15,11,0
+SES-20356,USR-1340,Búsqueda Orgánica,iOS,594,1,0
+SES-20357,USR-1117,Directo,Android,58,7,0
+SES-20358,USR-1796,Directo,Android,25,15,0
+SES-20359,USR-1116,Búsqueda Orgánica,Windows,10,8,0
+SES-20360,USR-1737,Email Marketing,Mac,-120,9,0
+SES-20361,USR-1059,Redes Sociales,Android,204,6,0
+SES-20362,USR-1156,Redes Sociales,iOS,226,3,0
+SES-20363,USR-1224,Email Marketing,Linux,532,10,0
+SES-20364,USR-1680,Email Marketing,Mac,99999,12,0
+SES-20365,USR-1291,Google Ads,Windows,169,15,0
+SES-20366,USR-1081,Búsqueda Orgánica,Windows,92,10,0
+SES-20367,USR-1768,Búsqueda Orgánica,Android,81,2,0
+SES-20368,USR-1516,Google Ads,Android,38,3,0
+SES-20369,USR-1448,Redes Sociales,iOS,402,2,0
+SES-20370,USR-1116,Email Marketing,Windows,89,10,0
+SES-20371,USR-1499,Redes Sociales,Windows,20,8,0
+SES-20372,USR-1760,Directo,Android,43,13,0
+SES-20373,USR-1456,Email Marketing,Windows,114,15,0
+SES-20374,USR-1409,Búsqueda Orgánica,Windows,104,9,0
+SES-20375,USR-1331,Búsqueda Orgánica,iOS,147,13,0
+SES-20376,USR-1581,Google Ads,Android,158,14,1
+SES-20377,USR-1376,Redes Sociales,iOS,124,11,0
+SES-20378,USR-1592,Email Marketing,Mac,240,9,0
+SES-20379,USR-1030,Google Ads,iOS,120,5,0
+SES-20380,USR-1706,Redes Sociales,Mac,326,15,0
+SES-20381,USR-1242,Búsqueda Orgánica,Android,71,11,0
+SES-20382,USR-1396,Google Ads,Windows,118,9,0
+SES-20383,USR-1247,Google Ads,Android,12,12,0
+SES-20384,USR-1075,Búsqueda Orgánica,iOS,103,2,0
+SES-20385,USR-1045,Redes Sociales,Windows,118,12,0
+SES-20386,USR-1358,Google Ads,Mac,98,7,0
+SES-20387,USR-1603,Redes Sociales,Mac,39,10,0
+SES-20388,USR-1453,Redes Sociales,iOS,107,15,0
+SES-20389,USR-1230,Google Ads,iOS,88,6,0
+SES-20390,USR-1547,Google Ads,iOS,412,3,1
+SES-20391,USR-1021,Búsqueda Orgánica,iOS,321,14,0
+SES-20392,USR-1706,Búsqueda Orgánica,Windows,-120,14,0
+SES-20393,USR-1102,Google Ads,Android,-120,7,0
+SES-20394,USR-1642,Búsqueda Orgánica,Mac,170,9,0
+SES-20395,USR-1470,Google Ads,Android,51,3,0
+SES-20396,USR-1169,Google Ads,Windows,169,8,0
+SES-20397,USR-1017,Búsqueda Orgánica,Windows,19,3,0
+SES-20398,USR-1220,Redes Sociales,Windows,447,3,0
+SES-20399,USR-1075,Email Marketing,Windows,-120,15,0
+SES-20400,USR-1284,Búsqueda Orgánica,iOS,62,14,0
+SES-20401,USR-1671,Directo,Android,-120,7,1
+SES-20402,USR-1268,Directo,Windows,322,13,0
+SES-20403,USR-1637,Google Ads,Android,124,11,0
+SES-20404,USR-1567,Google Ads,Windows,60,12,0
+SES-20405,USR-1656,Búsqueda Orgánica,Android,108,7,1
+SES-20406,USR-1311,Búsqueda Orgánica,Windows,1142,8,0
+SES-20407,USR-1058,Google Ads,Linux,296,13,0
+SES-20408,USR-1716,Búsqueda Orgánica,Android,335,10,0
+SES-20409,USR-1102,Búsqueda Orgánica,Android,137,15,0
+SES-20410,USR-1635,Búsqueda Orgánica,Windows,58,8,0
+SES-20411,USR-1177,Google Ads,Windows,79,1,0
+SES-20412,USR-1556,Búsqueda Orgánica,iOS,293,7,0
+SES-20413,USR-1324,Email Marketing,Windows,574,8,0
+SES-20414,USR-1106,Redes Sociales,Mac,226,6,0
+SES-20415,USR-1396,Búsqueda Orgánica,Android,348,3,0
+SES-20416,USR-1797,Redes Sociales,Android,159,6,1
+SES-20417,USR-1691,Búsqueda Orgánica,Windows,43,12,1
+SES-20418,USR-1363,Email Marketing,Windows,152,9,1
+SES-20419,USR-1392,Google Ads,Windows,174,2,0
+SES-20420,USR-1015,Búsqueda Orgánica,Mac,35,5,0
+SES-20421,USR-1512,Búsqueda Orgánica,Android,136,14,0
+SES-20422,USR-1268,Redes Sociales,Windows,76,10,0
+SES-20423,USR-1070,Email Marketing,Windows,422,1,0
+SES-20424,USR-1620,Redes Sociales,Mac,484,3,0
+SES-20425,USR-1217,Búsqueda Orgánica,Android,552,13,0
+SES-20426,USR-1365,Redes Sociales,Windows,178,4,0
+SES-20427,USR-1564,Búsqueda Orgánica,Android,289,10,0
+SES-20428,USR-1196,Búsqueda Orgánica,iOS,495,14,0
+SES-20429,USR-1468,Google Ads,Windows,192,6,0
+SES-20430,USR-1232,Google Ads,Windows,17,3,0
+SES-20431,USR-1071,Email Marketing,Linux,54,4,1
+SES-20432,USR-1051,Redes Sociales,Mac,58,7,0
+SES-20433,USR-1331,Google Ads,iOS,81,3,0
+SES-20434,USR-1486,Email Marketing,Android,318,1,0
+SES-20435,USR-1591,Búsqueda Orgánica,Windows,325,14,0
+SES-20436,USR-1793,Directo,Android,177,8,0
+SES-20437,USR-1569,Búsqueda Orgánica,Windows,12,12,0
+SES-20438,USR-1517,Búsqueda Orgánica,Android,298,13,0
+SES-20439,USR-1298,Búsqueda Orgánica,Windows,171,13,0
+SES-20440,USR-1589,Google Ads,Android,176,2,0
+SES-20441,USR-1402,Directo,Windows,18,4,0
+SES-20442,USR-1709,Búsqueda Orgánica,Windows,99999,6,0
+SES-20443,USR-1171,Redes Sociales,Android,474,4,0
+SES-20444,USR-1339,Email Marketing,Windows,661,2,0
+SES-20445,USR-1198,Google Ads,Android,23,1,0
+SES-20446,USR-1664,Google Ads,Windows,63,3,1
+SES-20447,USR-1588,Google Ads,iOS,103,8,0
+SES-20448,USR-1625,Google Ads,Android,309,9,0
+SES-20449,USR-1151,Búsqueda Orgánica,Android,557,8,0
+SES-20450,USR-1053,Búsqueda Orgánica,Mac,29,7,0
+SES-20451,USR-1701,Email Marketing,Android,63,14,0
+SES-20452,USR-1647,Redes Sociales,Android,12,14,1
+SES-20453,USR-1072,Google Ads,Windows,106,12,0
+SES-20454,USR-1582,Búsqueda Orgánica,Windows,69,10,0
+SES-20455,USR-1688,Búsqueda Orgánica,Android,130,13,1
+SES-20456,USR-1479,Directo,Android,219,11,0
+SES-20457,USR-1226,Búsqueda Orgánica,Windows,147,2,1
+SES-20458,USR-1338,Google Ads,iOS,99999,3,0
+SES-20459,USR-1202,Búsqueda Orgánica,iOS,10,12,0
+SES-20460,USR-1145,Búsqueda Orgánica,Mac,15,11,0
+SES-20461,USR-1497,Búsqueda Orgánica,Windows,159,3,0
+SES-20462,USR-1155,Búsqueda Orgánica,iOS,218,14,0
+SES-20463,USR-1114,Google Ads,Windows,57,3,1
+SES-20464,USR-1029,Búsqueda Orgánica,Android,271,6,0
+SES-20465,USR-1010,Búsqueda Orgánica,Android,187,7,0
+SES-20466,USR-1518,Email Marketing,Windows,126,6,0
+SES-20467,USR-1697,Búsqueda Orgánica,Android,298,15,1
+SES-20468,USR-1163,Búsqueda Orgánica,Android,166,1,0
+SES-20469,USR-1717,Redes Sociales,Android,524,2,0
+SES-20470,USR-1469,Búsqueda Orgánica,Android,173,12,0
+SES-20471,USR-1019,Email Marketing,Android,59,8,0
+SES-20472,USR-1386,Búsqueda Orgánica,Windows,22,1,0
+SES-20473,USR-1542,Google Ads,iOS,26,9,0
+SES-20474,USR-1716,Email Marketing,Android,1090,14,0
+SES-20475,USR-1456,Redes Sociales,Windows,371,9,0
+SES-20476,USR-1004,Redes Sociales,Windows,674,10,0
+SES-20477,USR-1174,Redes Sociales,iOS,14,14,0
+SES-20478,USR-1700,Google Ads,iOS,205,6,0
+SES-20479,USR-1401,Búsqueda Orgánica,Android,252,1,1
+SES-20480,USR-1159,Directo,Android,285,11,1
+SES-20481,USR-1379,Email Marketing,Linux,110,12,0
+SES-20482,USR-1566,Email Marketing,iOS,34,8,0
+SES-20483,USR-1741,Búsqueda Orgánica,iOS,135,12,0
+SES-20484,USR-1174,Redes Sociales,Windows,196,2,0
+SES-20485,USR-1509,Búsqueda Orgánica,iOS,559,1,0
+SES-20486,USR-1457,Email Marketing,Windows,272,9,1
+SES-20487,USR-1029,Email Marketing,iOS,127,10,1
+SES-20488,USR-1346,Email Marketing,iOS,331,12,0
+SES-20489,USR-1385,Redes Sociales,Android,197,2,0
+SES-20490,USR-1017,Redes Sociales,Mac,12,3,0
+SES-20491,USR-1519,Google Ads,Android,83,13,0
+SES-20492,USR-1332,Email Marketing,Windows,61,1,1
+SES-20493,USR-1439,Búsqueda Orgánica,Windows,102,4,0
+SES-20494,USR-1780,Google Ads,iOS,108,3,0
+SES-20495,USR-1233,Directo,Android,29,13,0
+SES-20496,USR-1288,Redes Sociales,Android,83,12,0
+SES-20497,USR-1358,Búsqueda Orgánica,Android,92,4,0
+SES-20498,USR-1583,Búsqueda Orgánica,Windows,66,10,0
+SES-20499,USR-1345,Google Ads,Windows,288,13,0
+SES-20500,USR-1293,Búsqueda Orgánica,Mac,45,1,0
+SES-20501,USR-1668,Email Marketing,iOS,183,10,0
+SES-20502,USR-1054,Email Marketing,iOS,535,4,0
+SES-20503,USR-1326,Google Ads,Mac,146,6,0
+SES-20504,USR-1450,Google Ads,Windows,391,14,0
+SES-20505,USR-1392,Email Marketing,iOS,453,9,0
+SES-20506,USR-1467,Directo,Windows,26,12,0
+SES-20507,USR-1341,Email Marketing,Windows,35,8,0
+SES-20508,USR-1596,Google Ads,Android,174,12,1
+SES-20509,USR-1075,Búsqueda Orgánica,Windows,123,9,1
+SES-20510,USR-1182,Google Ads,Windows,20,13,0
+SES-20511,USR-1776,Búsqueda Orgánica,Windows,21,13,0
+SES-20512,USR-1574,Google Ads,Android,52,4,0
+SES-20513,USR-1519,Búsqueda Orgánica,iOS,232,13,0
+SES-20514,USR-1736,Google Ads,Android,119,8,0
+SES-20515,USR-1139,Directo,Android,305,1,1
+SES-20516,USR-1046,Google Ads,Windows,268,7,0
+SES-20517,USR-1629,Redes Sociales,Mac,559,2,0
+SES-20518,USR-1790,Búsqueda Orgánica,iOS,88,14,0
+SES-20519,USR-1412,Búsqueda Orgánica,Android,-120,12,0
+SES-20520,USR-1481,Búsqueda Orgánica,Android,103,2,0
+SES-20521,USR-1351,Búsqueda Orgánica,Android,242,10,0
+SES-20522,USR-1773,Google Ads,Mac,87,1,0
+SES-20523,USR-1149,Búsqueda Orgánica,Android,188,7,0
+SES-20524,USR-1029,Email Marketing,Windows,550,10,1
+SES-20525,USR-1731,Google Ads,iOS,20,3,0
+SES-20526,USR-1409,Google Ads,iOS,84,3,0
+SES-20527,USR-1178,Redes Sociales,iOS,754,12,0
+SES-20528,USR-1229,Google Ads,iOS,302,7,0
+SES-20529,USR-1668,Búsqueda Orgánica,Android,211,5,0
+SES-20530,USR-1301,Búsqueda Orgánica,Windows,232,11,0
+SES-20531,USR-1039,Búsqueda Orgánica,Android,239,10,0
+SES-20532,USR-1478,Google Ads,Android,451,7,1
+SES-20533,USR-1140,Google Ads,iOS,12,1,0
+SES-20534,USR-1627,Redes Sociales,Windows,113,10,0
+SES-20535,USR-1279,Google Ads,Windows,99999,6,0
+SES-20536,USR-1553,Búsqueda Orgánica,Android,53,13,0
+SES-20537,USR-1440,Redes Sociales,iOS,176,12,0
+SES-20538,USR-1071,Búsqueda Orgánica,iOS,202,4,0
+SES-20539,USR-1077,Búsqueda Orgánica,Android,406,4,0
+SES-20540,USR-1039,Búsqueda Orgánica,Android,315,6,1
+SES-20541,USR-1361,Directo,Mac,47,1,0
+SES-20542,USR-1591,Google Ads,iOS,59,7,0
+SES-20543,USR-1385,Google Ads,Android,106,2,0
+SES-20544,USR-1162,Email Marketing,iOS,597,8,0
+SES-20545,USR-1506,Redes Sociales,Mac,23,9,0
+SES-20546,USR-1190,Google Ads,Windows,101,12,0
+SES-20547,USR-1674,Google Ads,Windows,394,3,0
+SES-20548,USR-1093,Redes Sociales,iOS,192,8,0
+SES-20549,USR-1335,Email Marketing,Windows,509,9,0
+SES-20550,USR-1764,Redes Sociales,Windows,140,2,0
+SES-20551,USR-1791,Email Marketing,Android,493,7,0
+SES-20552,USR-1422,Búsqueda Orgánica,Android,50,13,0
+SES-20553,USR-1291,Directo,Windows,16,9,1
+SES-20554,USR-1692,Directo,iOS,268,7,0
+SES-20555,USR-1549,Redes Sociales,Windows,166,3,0
+SES-20556,USR-1743,Redes Sociales,Windows,135,1,0
+SES-20557,USR-1026,Búsqueda Orgánica,Android,253,10,0
+SES-20558,USR-1446,Directo,iOS,183,5,0
+SES-20559,USR-1367,Google Ads,Windows,106,7,0
+SES-20560,USR-1152,Email Marketing,iOS,69,10,0
+SES-20561,USR-1023,Google Ads,Windows,25,10,0
+SES-20562,USR-1149,Google Ads,iOS,108,13,0
+SES-20563,USR-1007,Redes Sociales,Android,126,9,0
+SES-20564,USR-1506,Google Ads,Windows,86,11,0
+SES-20565,USR-1338,Redes Sociales,Android,160,5,0
+SES-20566,USR-1152,Google Ads,iOS,249,7,0
+SES-20567,USR-1464,Búsqueda Orgánica,Android,312,15,0
+SES-20568,USR-1049,Google Ads,Android,207,15,0
+SES-20569,USR-1484,Búsqueda Orgánica,Windows,346,5,0
+SES-20570,USR-1323,Redes Sociales,Android,115,10,0
+SES-20571,USR-1244,Búsqueda Orgánica,Windows,503,13,0
+SES-20572,USR-1374,Directo,Windows,162,15,0
+SES-20573,USR-1221,Google Ads,Windows,54,15,0
+SES-20574,USR-1478,Búsqueda Orgánica,Android,1181,15,0
+SES-20575,USR-1299,Directo,Windows,147,5,0
+SES-20576,USR-1275,Redes Sociales,Android,30,4,0
+SES-20577,USR-1762,Búsqueda Orgánica,iOS,36,7,0
+SES-20578,USR-1048,Email Marketing,Android,232,5,0
+SES-20579,USR-1093,Búsqueda Orgánica,Windows,83,5,0
+SES-20580,USR-1481,Google Ads,Android,99,15,0
+SES-20581,USR-1647,Email Marketing,Windows,245,8,0
+SES-20582,USR-1240,Redes Sociales,Windows,445,9,0
+SES-20583,USR-1285,Google Ads,iOS,226,10,0
+SES-20584,USR-1509,Google Ads,Android,314,9,0
+SES-20585,USR-1613,Búsqueda Orgánica,Windows,675,2,0
+SES-20586,USR-1126,Búsqueda Orgánica,Android,56,5,0
+SES-20587,USR-1136,Directo,Windows,146,13,0
+SES-20588,USR-1260,Redes Sociales,Linux,217,4,0
+SES-20589,USR-1557,Email Marketing,Android,19,11,0
+SES-20590,USR-1064,Redes Sociales,Android,602,7,0
+SES-20591,USR-1664,Directo,Windows,201,1,0
+SES-20592,USR-1655,Google Ads,Android,374,13,0
+SES-20593,USR-1032,Búsqueda Orgánica,Android,19,14,0
+SES-20594,USR-1164,Búsqueda Orgánica,Mac,200,10,0
+SES-20595,USR-1541,Redes Sociales,Android,157,1,1
+SES-20596,USR-1357,Búsqueda Orgánica,Android,535,5,0
+SES-20597,USR-1556,Redes Sociales,Android,160,13,0
+SES-20598,USR-1166,Búsqueda Orgánica,Windows,33,2,0
+SES-20599,USR-1439,Búsqueda Orgánica,Android,161,11,0
+SES-20600,USR-1047,Búsqueda Orgánica,Android,99999,10,0
+SES-20601,USR-1659,Redes Sociales,Linux,35,9,0
+SES-20602,USR-1245,Directo,Linux,213,7,0
+SES-20603,USR-1421,Búsqueda Orgánica,Windows,272,13,0
+SES-20604,USR-1350,Redes Sociales,Android,90,13,0
+SES-20605,USR-1562,Redes Sociales,Mac,94,11,0
+SES-20606,USR-1034,Búsqueda Orgánica,Android,128,10,0
+SES-20607,USR-1311,Google Ads,Windows,98,12,0
+SES-20608,USR-1572,Búsqueda Orgánica,iOS,70,3,1
+SES-20609,USR-1559,Google Ads,iOS,133,8,0
+SES-20610,USR-1785,Directo,iOS,75,1,0
+SES-20611,USR-1147,Redes Sociales,Windows,111,14,0
+SES-20612,USR-1539,Google Ads,Android,283,5,1
+SES-20613,USR-1715,Google Ads,Android,-120,9,0
+SES-20614,USR-1785,Redes Sociales,Android,85,10,0
+SES-20615,USR-1367,Búsqueda Orgánica,Android,267,14,0
+SES-20616,USR-1574,Redes Sociales,Windows,142,13,0
+SES-20617,USR-1107,Búsqueda Orgánica,iOS,65,5,0
+SES-20618,USR-1436,Redes Sociales,Android,352,7,0
+SES-20619,USR-1279,Búsqueda Orgánica,iOS,179,11,1
+SES-20620,USR-1711,Directo,Android,222,6,0
+SES-20621,USR-1790,Búsqueda Orgánica,Android,118,8,0
+SES-20622,USR-1060,Redes Sociales,Windows,67,2,1
+SES-20623,USR-1406,Redes Sociales,Android,95,3,0
+SES-20624,USR-1787,Google Ads,Android,99999,9,0
+SES-20625,USR-1577,Redes Sociales,Android,26,8,0
+SES-20626,USR-1639,Email Marketing,Android,342,9,0
+SES-20627,USR-1054,Directo,Windows,172,13,0
+SES-20628,USR-1690,Email Marketing,Android,37,12,0
+SES-20629,USR-1044,Búsqueda Orgánica,Mac,319,12,0
+SES-20630,USR-1269,Google Ads,Android,94,2,0
+SES-20631,USR-1231,Email Marketing,iOS,392,11,0
+SES-20632,USR-1590,Email Marketing,iOS,90,9,0
+SES-20633,USR-1681,Google Ads,Windows,477,11,0
+SES-20634,USR-1166,Email Marketing,Mac,58,8,0
+SES-20635,USR-1724,Google Ads,Windows,10,11,0
+SES-20636,USR-1198,Búsqueda Orgánica,Windows,143,15,0
+SES-20637,USR-1049,Email Marketing,Android,333,14,0
+SES-20638,USR-1128,Búsqueda Orgánica,Android,53,5,0
+SES-20639,USR-1714,Redes Sociales,Windows,94,6,0
+SES-20640,USR-1039,Email Marketing,Android,33,3,0
+SES-20641,USR-1687,Directo,Windows,30,2,0
+SES-20642,USR-1238,Búsqueda Orgánica,iOS,55,14,0
+SES-20643,USR-1080,Directo,Windows,11,4,0
+SES-20644,USR-1403,Email Marketing,Android,18,2,0
+SES-20645,USR-1742,Búsqueda Orgánica,Windows,182,5,0
+SES-20646,USR-1790,Redes Sociales,Windows,184,8,0
+SES-20647,USR-1247,Búsqueda Orgánica,Android,266,10,1
+SES-20648,USR-1521,Directo,iOS,35,3,0
+SES-20649,USR-1101,Redes Sociales,Windows,308,9,0
+SES-20650,USR-1797,Búsqueda Orgánica,Windows,49,1,0
+SES-20651,USR-1526,Google Ads,Windows,99999,10,0
+SES-20652,USR-1339,Email Marketing,Android,220,2,0
+SES-20653,USR-1702,Google Ads,Android,657,2,0
+SES-20654,USR-1443,Redes Sociales,Windows,285,11,1
+SES-20655,USR-1570,Email Marketing,Android,112,6,0
+SES-20656,USR-1763,Google Ads,Android,100,1,0
+SES-20657,USR-1210,Búsqueda Orgánica,Android,205,12,0
+SES-20658,USR-1028,Google Ads,Android,-120,9,0
+SES-20659,USR-1113,Google Ads,Mac,-120,12,1
+SES-20660,USR-1176,Google Ads,Windows,137,3,0
+SES-20661,USR-1608,Google Ads,Android,343,8,0
+SES-20662,USR-1384,Búsqueda Orgánica,Android,409,15,1
+SES-20663,USR-1722,Directo,iOS,154,12,0
+SES-20664,USR-1656,Búsqueda Orgánica,iOS,372,1,0
+SES-20665,USR-1762,Google Ads,Windows,-120,10,0
+SES-20666,USR-1297,Email Marketing,Android,42,4,0
+SES-20667,USR-1062,Redes Sociales,iOS,40,13,0
+SES-20668,USR-1621,Google Ads,iOS,12,12,1
+SES-20669,USR-1437,Email Marketing,Windows,102,7,0
+SES-20670,USR-1066,Búsqueda Orgánica,Windows,96,7,0
+SES-20671,USR-1659,Email Marketing,Mac,174,10,0
+SES-20672,USR-1091,Búsqueda Orgánica,iOS,96,3,0
+SES-20673,USR-1717,Directo,iOS,331,13,0
+SES-20674,USR-1293,Google Ads,iOS,-120,13,0
+SES-20675,USR-1036,Email Marketing,iOS,41,9,0
+SES-20676,USR-1284,Búsqueda Orgánica,Windows,545,13,1
+SES-20677,USR-1694,Google Ads,Windows,88,5,0
+SES-20678,USR-1692,Google Ads,iOS,55,1,0
+SES-20679,USR-1187,Redes Sociales,Android,315,12,0
+SES-20680,USR-1772,Búsqueda Orgánica,Windows,123,10,0
+SES-20681,USR-1435,Google Ads,Android,244,1,0
+SES-20682,USR-1595,Redes Sociales,Android,99,3,0
+SES-20683,USR-1511,Búsqueda Orgánica,Windows,259,11,0
+SES-20684,USR-1542,Email Marketing,Windows,-120,1,0
+SES-20685,USR-1534,Búsqueda Orgánica,Android,100,11,0
+SES-20686,USR-1382,Búsqueda Orgánica,Windows,189,1,0
+SES-20687,USR-1771,Búsqueda Orgánica,Windows,128,14,0
+SES-20688,USR-1686,Redes Sociales,iOS,97,3,0
+SES-20689,USR-1649,Búsqueda Orgánica,iOS,423,6,0
+SES-20690,USR-1621,Redes Sociales,Mac,401,11,0
+SES-20691,USR-1062,Búsqueda Orgánica,Windows,472,3,0
+SES-20692,USR-1029,Google Ads,Windows,142,5,0
+SES-20693,USR-1722,Google Ads,Android,245,14,1
+SES-20694,USR-1692,Directo,Windows,105,10,0
+SES-20695,USR-1542,Búsqueda Orgánica,Windows,41,5,0
+SES-20696,USR-1267,Google Ads,iOS,89,15,0
+SES-20697,USR-1627,Redes Sociales,Android,85,10,0
+SES-20698,USR-1072,Redes Sociales,Android,174,11,0
+SES-20699,USR-1758,Directo,Android,385,10,0
+SES-20700,USR-1450,Búsqueda Orgánica,Android,699,13,0
+SES-20701,USR-1356,Email Marketing,Android,53,5,0
+SES-20702,USR-1526,Búsqueda Orgánica,Windows,232,14,0
+SES-20703,USR-1406,Email Marketing,Windows,40,2,0
+SES-20704,USR-1489,Email Marketing,Windows,48,14,0
+SES-20705,USR-1781,Directo,Android,591,6,0
+SES-20706,USR-1609,Búsqueda Orgánica,Windows,20,7,0
+SES-20707,USR-1082,Búsqueda Orgánica,Mac,38,13,0
+SES-20708,USR-1649,Email Marketing,iOS,195,9,0
+SES-20709,USR-1173,Redes Sociales,iOS,29,7,0
+SES-20710,USR-1733,Búsqueda Orgánica,Windows,391,13,0
+SES-20711,USR-1292,Google Ads,Windows,181,5,0
+SES-20712,USR-1613,Directo,Windows,140,7,0
+SES-20713,USR-1230,Directo,iOS,106,11,1
+SES-20714,USR-1049,Directo,iOS,189,14,0
+SES-20715,USR-1718,Redes Sociales,Windows,192,1,0
+SES-20716,USR-1521,Búsqueda Orgánica,Android,137,14,0
+SES-20717,USR-1800,Búsqueda Orgánica,iOS,454,5,0
+SES-20718,USR-1524,Google Ads,Windows,77,12,0
+SES-20719,USR-1732,Google Ads,Android,131,2,0
+SES-20720,USR-1643,Búsqueda Orgánica,iOS,84,12,0
+SES-20721,USR-1371,Búsqueda Orgánica,Mac,32,5,0
+SES-20722,USR-1523,Google Ads,Mac,100,9,0
+SES-20723,USR-1580,Email Marketing,iOS,107,6,0
+SES-20724,USR-1627,Directo,Android,72,14,1
+SES-20725,USR-1671,Email Marketing,Android,104,12,0
+SES-20726,USR-1433,Google Ads,Android,59,13,0
+SES-20727,USR-1204,Redes Sociales,Mac,126,2,0
+SES-20728,USR-1197,Google Ads,Mac,27,6,0
+SES-20729,USR-1707,Búsqueda Orgánica,Windows,198,4,0
+SES-20730,USR-1320,Búsqueda Orgánica,Windows,97,1,0
+SES-20731,USR-1157,Búsqueda Orgánica,Android,32,5,0
+SES-20732,USR-1543,Google Ads,Android,211,12,0
+SES-20733,USR-1091,Búsqueda Orgánica,Android,22,14,1
+SES-20734,USR-1201,Búsqueda Orgánica,Windows,46,4,0
+SES-20735,USR-1194,Google Ads,iOS,34,8,0
+SES-20736,USR-1777,Redes Sociales,Android,45,10,0
+SES-20737,USR-1001,Email Marketing,Windows,99999,10,0
+SES-20738,USR-1726,Google Ads,Windows,64,15,1
+SES-20739,USR-1795,Redes Sociales,Android,34,14,0
+SES-20740,USR-1093,Google Ads,iOS,277,13,0
+SES-20741,USR-1408,Directo,Windows,27,12,0
+SES-20742,USR-1258,Google Ads,Windows,644,4,0
+SES-20743,USR-1786,Google Ads,Android,128,15,0
+SES-20744,USR-1315,Directo,iOS,93,1,0
+SES-20745,USR-1495,Búsqueda Orgánica,iOS,378,4,0
+SES-20746,USR-1400,Email Marketing,Windows,83,5,0
+SES-20747,USR-1598,Redes Sociales,Windows,154,6,1
+SES-20748,USR-1002,Google Ads,Android,146,13,0
+SES-20749,USR-1579,Google Ads,Android,314,6,0
+SES-20750,USR-1335,Búsqueda Orgánica,Android,63,7,0
+SES-20751,USR-1584,Búsqueda Orgánica,iOS,452,4,0
+SES-20752,USR-1209,Redes Sociales,Mac,36,14,0
+SES-20753,USR-1141,Google Ads,Android,80,12,0
+SES-20754,USR-1776,Búsqueda Orgánica,Windows,162,8,1
+SES-20755,USR-1502,Redes Sociales,Android,119,11,0
+SES-20756,USR-1666,Redes Sociales,Windows,120,5,0
+SES-20757,USR-1485,Google Ads,Mac,20,1,0
+SES-20758,USR-1691,Búsqueda Orgánica,Windows,150,4,0
+SES-20759,USR-1337,Google Ads,Android,102,6,0
+SES-20760,USR-1667,Búsqueda Orgánica,iOS,300,1,0
+SES-20761,USR-1680,Email Marketing,Android,181,9,0
+SES-20762,USR-1173,Email Marketing,Android,263,15,0
+SES-20763,USR-1154,Redes Sociales,Android,124,2,0
+SES-20764,USR-1043,Redes Sociales,Windows,145,12,0
+SES-20765,USR-1209,Directo,Android,88,8,0
+SES-20766,USR-1343,Redes Sociales,Windows,360,12,0
+SES-20767,USR-1062,Búsqueda Orgánica,Windows,396,4,0
+SES-20768,USR-1045,Google Ads,Windows,238,14,0
+SES-20769,USR-1252,Búsqueda Orgánica,Windows,53,2,0
+SES-20770,USR-1312,Email Marketing,Windows,80,3,1
+SES-20771,USR-1012,Redes Sociales,iOS,166,6,0
+SES-20772,USR-1219,Redes Sociales,Android,262,10,0
+SES-20773,USR-1159,Búsqueda Orgánica,Android,208,6,0
+SES-20774,USR-1685,Google Ads,Windows,187,6,0
+SES-20775,USR-1175,Búsqueda Orgánica,Windows,138,11,0
+SES-20776,USR-1543,Google Ads,Windows,163,11,0
+SES-20777,USR-1513,Email Marketing,Windows,194,13,0
+SES-20778,USR-1778,Directo,Android,28,11,0
+SES-20779,USR-1082,Google Ads,Windows,97,3,0
+SES-20780,USR-1215,Google Ads,Android,308,6,0
+SES-20781,USR-1251,Búsqueda Orgánica,Windows,388,15,1
+SES-20782,USR-1660,Google Ads,Android,540,8,0
+SES-20783,USR-1660,Google Ads,Windows,88,14,0
+SES-20784,USR-1730,Búsqueda Orgánica,iOS,99999,6,0
+SES-20785,USR-1410,Búsqueda Orgánica,Android,116,10,0
+SES-20786,USR-1187,Google Ads,Windows,22,1,0
+SES-20787,USR-1179,Google Ads,Linux,417,1,0
+SES-20788,USR-1579,Redes Sociales,iOS,435,15,0
+SES-20789,USR-1681,Redes Sociales,iOS,42,11,0
+SES-20790,USR-1165,Búsqueda Orgánica,Mac,49,15,0
+SES-20791,USR-1542,Email Marketing,Windows,22,12,0
+SES-20792,USR-1091,Google Ads,iOS,93,7,1
+SES-20793,USR-1593,Redes Sociales,Windows,99999,2,0
+SES-20794,USR-1649,Redes Sociales,iOS,680,5,1
+SES-20795,USR-1454,Google Ads,Android,19,1,0
+SES-20796,USR-1244,Directo,Windows,474,15,0
+SES-20797,USR-1248,Búsqueda Orgánica,Windows,385,7,0
+SES-20798,USR-1743,Redes Sociales,Android,76,11,0
+SES-20799,USR-1291,Búsqueda Orgánica,Mac,563,15,0
+SES-20800,USR-1088,Google Ads,Android,162,15,0
+SES-20801,USR-1093,Google Ads,Android,140,4,0
+SES-20802,USR-1797,Búsqueda Orgánica,Windows,148,5,0
+SES-20803,USR-1743,Búsqueda Orgánica,Android,269,4,1
+SES-20804,USR-1578,Redes Sociales,Android,459,3,1
+SES-20805,USR-1553,Google Ads,Android,214,5,0
+SES-20806,USR-1324,Google Ads,Windows,21,4,0
+SES-20807,USR-1687,Redes Sociales,Windows,150,5,0
+SES-20808,USR-1422,Búsqueda Orgánica,iOS,30,8,0
+SES-20809,USR-1226,Directo,Windows,171,8,0
+SES-20810,USR-1712,Email Marketing,Windows,87,13,0
+SES-20811,USR-1586,Redes Sociales,Windows,-120,9,0
+SES-20812,USR-1601,Búsqueda Orgánica,iOS,113,8,0
+SES-20813,USR-1369,Búsqueda Orgánica,Windows,99999,11,0
+SES-20814,USR-1704,Redes Sociales,Android,216,9,0
+SES-20815,USR-1213,Búsqueda Orgánica,Android,74,1,0
+SES-20816,USR-1294,Google Ads,Windows,76,7,0
+SES-20817,USR-1258,Google Ads,Windows,298,9,1
+SES-20818,USR-1182,Google Ads,Windows,288,2,1
+SES-20819,USR-1483,Redes Sociales,iOS,96,8,0
+SES-20820,USR-1410,Búsqueda Orgánica,iOS,155,9,0
+SES-20821,USR-1762,Google Ads,Windows,119,14,1
+SES-20822,USR-1265,Redes Sociales,Windows,293,5,0
+SES-20823,USR-1490,Directo,Mac,187,12,0
+SES-20824,USR-1193,Directo,Android,162,6,0
+SES-20825,USR-1515,Búsqueda Orgánica,iOS,380,2,0
+SES-20826,USR-1120,Redes Sociales,Android,61,13,0
+SES-20827,USR-1395,Directo,Android,363,4,0
+SES-20828,USR-1584,Google Ads,Android,20,8,0
+SES-20829,USR-1051,Redes Sociales,Android,-120,10,1
+SES-20830,USR-1750,Google Ads,Windows,54,3,0
+SES-20831,USR-1668,Email Marketing,Windows,32,12,0
+SES-20832,USR-1541,Google Ads,Windows,32,13,0
+SES-20833,USR-1205,Email Marketing,Android,34,15,0
+SES-20834,USR-1414,Directo,iOS,121,13,0
+SES-20835,USR-1195,Redes Sociales,Android,268,15,1
+SES-20836,USR-1704,Búsqueda Orgánica,Android,234,14,0
+SES-20837,USR-1481,Google Ads,iOS,288,11,0
+SES-20838,USR-1209,Google Ads,Mac,167,1,0
+SES-20839,USR-1723,Google Ads,Android,155,4,0
+SES-20840,USR-1028,Redes Sociales,Windows,280,2,1
+SES-20841,USR-1421,Redes Sociales,Windows,217,9,0
+SES-20842,USR-1692,Email Marketing,Android,159,11,0
+SES-20843,USR-1597,Búsqueda Orgánica,Windows,223,6,0
+SES-20844,USR-1575,Búsqueda Orgánica,Windows,207,8,0
+SES-20845,USR-1293,Directo,Android,100,14,0
+SES-20846,USR-1123,Redes Sociales,Windows,255,1,0
+SES-20847,USR-1650,Redes Sociales,Windows,150,7,0
+SES-20848,USR-1689,Búsqueda Orgánica,Windows,141,11,0
+SES-20849,USR-1673,Redes Sociales,Windows,123,8,0
+SES-20850,USR-1252,Búsqueda Orgánica,Windows,154,11,0
+SES-20851,USR-1775,Búsqueda Orgánica,Windows,516,15,1
+SES-20852,USR-1271,Google Ads,Android,224,14,0
+SES-20853,USR-1057,Google Ads,iOS,205,2,0
+SES-20854,USR-1476,Búsqueda Orgánica,Windows,252,1,0
+SES-20855,USR-1132,Google Ads,iOS,245,2,0
+SES-20856,USR-1323,Google Ads,Windows,64,2,0
+SES-20857,USR-1048,Búsqueda Orgánica,Android,80,8,0
+SES-20858,USR-1542,Google Ads,Android,258,15,0
+SES-20859,USR-1349,Búsqueda Orgánica,Windows,19,15,0
+SES-20860,USR-1209,Redes Sociales,Windows,58,13,0
+SES-20861,USR-1621,Google Ads,Windows,495,11,0
+SES-20862,USR-1479,Redes Sociales,Android,172,2,1
+SES-20863,USR-1521,Redes Sociales,Android,97,13,0
+SES-20864,USR-1545,Google Ads,iOS,30,14,0
+SES-20865,USR-1036,Redes Sociales,Windows,63,11,0
+SES-20866,USR-1723,Google Ads,iOS,74,6,0
+SES-20867,USR-1001,Email Marketing,iOS,674,9,0
+SES-20868,USR-1425,Búsqueda Orgánica,iOS,460,3,1
+SES-20869,USR-1709,Búsqueda Orgánica,Windows,154,7,0
+SES-20870,USR-1414,Directo,Android,144,2,0
+SES-20871,USR-1158,Directo,Mac,36,4,0
+SES-20872,USR-1334,Redes Sociales,Windows,103,6,0
+SES-20873,USR-1242,Búsqueda Orgánica,Android,250,15,0
+SES-20874,USR-1348,Email Marketing,iOS,24,4,0
+SES-20875,USR-1185,Google Ads,Windows,43,4,0
+SES-20876,USR-1589,Redes Sociales,Mac,150,8,0
+SES-20877,USR-1443,Redes Sociales,Android,173,14,0
+SES-20878,USR-1757,Búsqueda Orgánica,Android,374,11,0
+SES-20879,USR-1386,Redes Sociales,Mac,64,11,0
+SES-20880,USR-1186,Búsqueda Orgánica,Android,1008,2,1
+SES-20881,USR-1495,Redes Sociales,Windows,151,6,0
+SES-20882,USR-1191,Directo,Windows,91,7,0
+SES-20883,USR-1344,Directo,Windows,15,11,1
+SES-20884,USR-1059,Google Ads,Linux,24,3,0
+SES-20885,USR-1586,Email Marketing,iOS,189,12,0
+SES-20886,USR-1041,Google Ads,Android,332,12,0
+SES-20887,USR-1245,Google Ads,iOS,102,11,0
+SES-20888,USR-1748,Email Marketing,Android,194,15,0
+SES-20889,USR-1502,Redes Sociales,Mac,132,5,0
+SES-20890,USR-1246,Búsqueda Orgánica,Android,89,13,0
+SES-20891,USR-1023,Google Ads,Windows,403,8,0
+SES-20892,USR-1463,Búsqueda Orgánica,Android,20,3,0
+SES-20893,USR-1413,Google Ads,Android,107,9,0
+SES-20894,USR-1111,Google Ads,Android,125,8,0
+SES-20895,USR-1145,Búsqueda Orgánica,Windows,675,14,0
+SES-20896,USR-1186,Directo,Windows,410,8,0
+SES-20897,USR-1721,Directo,Android,123,6,0
+SES-20898,USR-1071,Email Marketing,Android,74,4,0
+SES-20899,USR-1628,Google Ads,Windows,28,6,0
+SES-20900,USR-1456,Redes Sociales,Android,54,15,0
+SES-20901,USR-1257,Redes Sociales,iOS,20,10,0
+SES-20902,USR-1018,Google Ads,iOS,-120,12,0
+SES-20903,USR-1035,Búsqueda Orgánica,Windows,120,1,0
+SES-20904,USR-1589,Búsqueda Orgánica,Windows,19,13,0
+SES-20905,USR-1105,Email Marketing,iOS,246,6,0
+SES-20906,USR-1516,Redes Sociales,Android,-120,1,0
+SES-20907,USR-1311,Redes Sociales,Android,20,12,0
+SES-20908,USR-1129,Google Ads,iOS,247,2,1
+SES-20909,USR-1212,Búsqueda Orgánica,Android,213,7,0
+SES-20910,USR-1751,Email Marketing,iOS,82,5,0
+SES-20911,USR-1478,Google Ads,iOS,218,7,0
+SES-20912,USR-1509,Google Ads,Windows,127,13,0
+SES-20913,USR-1092,Redes Sociales,Android,593,15,0
+SES-20914,USR-1554,Google Ads,Android,41,13,0
+SES-20915,USR-1504,Redes Sociales,Android,133,10,0
+SES-20916,USR-1790,Email Marketing,Windows,109,13,0
+SES-20917,USR-1614,Redes Sociales,iOS,178,12,0
+SES-20918,USR-1795,Google Ads,Android,416,15,0
+SES-20919,USR-1147,Redes Sociales,Android,64,14,0
+SES-20920,USR-1261,Email Marketing,Windows,22,4,0
+SES-20921,USR-1042,Directo,iOS,155,14,0
+SES-20922,USR-1635,Email Marketing,Windows,222,6,0
+SES-20923,USR-1702,Redes Sociales,Android,176,10,0
+SES-20924,USR-1463,Redes Sociales,Android,218,14,1
+SES-20925,USR-1094,Redes Sociales,Mac,22,5,0
+SES-20926,USR-1219,Redes Sociales,Android,127,7,0
+SES-20927,USR-1025,Búsqueda Orgánica,Mac,63,13,0
+SES-20928,USR-1446,Google Ads,Android,183,2,0
+SES-20929,USR-1141,Directo,Mac,565,2,0
+SES-20930,USR-1237,Google Ads,Mac,81,6,0
+SES-20931,USR-1433,Google Ads,Windows,66,14,0
+SES-20932,USR-1707,Email Marketing,Windows,22,3,0
+SES-20933,USR-1423,Google Ads,iOS,63,8,0
+SES-20934,USR-1040,Búsqueda Orgánica,Windows,346,12,0
+SES-20935,USR-1536,Email Marketing,Android,319,10,0
+SES-20936,USR-1338,Búsqueda Orgánica,iOS,34,3,0
+SES-20937,USR-1620,Búsqueda Orgánica,Android,113,14,0
+SES-20938,USR-1535,Búsqueda Orgánica,Windows,251,12,0
+SES-20939,USR-1641,Email Marketing,Windows,253,10,0
+SES-20940,USR-1650,Redes Sociales,Windows,621,3,0
+SES-20941,USR-1586,Directo,Android,176,11,0
+SES-20942,USR-1473,Email Marketing,Windows,158,8,0
+SES-20943,USR-1506,Redes Sociales,Windows,139,9,0
+SES-20944,USR-1508,Búsqueda Orgánica,Mac,139,2,0
+SES-20945,USR-1632,Directo,Android,416,8,0
+SES-20946,USR-1521,Búsqueda Orgánica,Mac,87,11,1
+SES-20947,USR-1377,Google Ads,Windows,65,7,0
+SES-20948,USR-1308,Búsqueda Orgánica,Android,18,13,0
+SES-20949,USR-1107,Google Ads,Android,78,15,0
+SES-20950,USR-1773,Redes Sociales,Android,315,4,0
+SES-20951,USR-1101,Búsqueda Orgánica,Windows,36,8,0
+SES-20952,USR-1457,Email Marketing,Windows,373,1,0
+SES-20953,USR-1238,Redes Sociales,Android,96,5,1
+SES-20954,USR-1408,Google Ads,Android,562,1,0
+SES-20955,USR-1332,Directo,iOS,254,4,0
+SES-20956,USR-1237,Directo,Windows,219,3,0
+SES-20957,USR-1357,Redes Sociales,Android,111,13,0
+SES-20958,USR-1666,Búsqueda Orgánica,Android,252,8,0
+SES-20959,USR-1682,Búsqueda Orgánica,iOS,17,11,0
+SES-20960,USR-1185,Búsqueda Orgánica,iOS,289,15,0
+SES-20961,USR-1533,Redes Sociales,Android,640,6,0
+SES-20962,USR-1656,Google Ads,iOS,130,12,0
+SES-20963,USR-1611,Búsqueda Orgánica,Android,162,10,0
+SES-20964,USR-1635,Directo,Windows,303,4,0
+SES-20965,USR-1738,Google Ads,Android,70,7,0
+SES-20966,USR-1649,Búsqueda Orgánica,Android,225,10,0
+SES-20967,USR-1585,Google Ads,Windows,320,10,0
+SES-20968,USR-1370,Google Ads,Mac,67,13,1
+SES-20969,USR-1190,Redes Sociales,Android,205,3,0
+SES-20970,USR-1726,Búsqueda Orgánica,iOS,277,1,0
+SES-20971,USR-1466,Búsqueda Orgánica,Windows,47,13,0
+SES-20972,USR-1324,Redes Sociales,iOS,338,5,0
+SES-20973,USR-1331,Redes Sociales,Windows,331,10,0
+SES-20974,USR-1312,Email Marketing,Android,51,6,0
+SES-20975,USR-1554,Búsqueda Orgánica,Mac,128,8,0
+SES-20976,USR-1734,Email Marketing,Linux,276,3,0
+SES-20977,USR-1437,Búsqueda Orgánica,Windows,116,11,0
+SES-20978,USR-1287,Directo,Mac,325,12,1
+SES-20979,USR-1699,Búsqueda Orgánica,iOS,83,9,0
+SES-20980,USR-1076,Búsqueda Orgánica,Windows,345,9,0
+SES-20981,USR-1192,Redes Sociales,Android,87,2,0
+SES-20982,USR-1674,Búsqueda Orgánica,Windows,99,14,0
+SES-20983,USR-1020,Email Marketing,Windows,230,5,0
+SES-20984,USR-1478,Google Ads,Mac,80,2,0
+SES-20985,USR-1769,Google Ads,Windows,157,4,0
+SES-20986,USR-1461,Google Ads,iOS,31,15,0
+SES-20987,USR-1195,Google Ads,Android,41,3,0
+SES-20988,USR-1202,Redes Sociales,iOS,291,4,0
+SES-20989,USR-1727,Google Ads,Windows,-120,13,0
+SES-20990,USR-1388,Redes Sociales,Android,638,8,0
+SES-20991,USR-1292,Email Marketing,Android,130,13,0
+SES-20992,USR-1720,Directo,iOS,35,11,0
+SES-20993,USR-1696,Redes Sociales,Windows,142,1,0
+SES-20994,USR-1055,Búsqueda Orgánica,Windows,555,15,0
+SES-20995,USR-1715,Email Marketing,Windows,440,4,0
+SES-20996,USR-1164,Redes Sociales,Linux,216,14,0
+SES-20997,USR-1376,Google Ads,Windows,530,3,0
+SES-20998,USR-1366,Búsqueda Orgánica,Windows,166,1,0
+SES-20999,USR-1351,Directo,Windows,10,13,0
+SES-21000,USR-1172,Redes Sociales,iOS,440,11,0
+SES-21001,USR-1102,Búsqueda Orgánica,Windows,52,10,0
+SES-21002,USR-1084,Directo,Android,12,15,0
+SES-21003,USR-1572,Directo,Android,-120,8,0
+SES-21004,USR-1377,Email Marketing,Android,107,8,0
+SES-21005,USR-1636,Redes Sociales,Android,363,1,0
+SES-21006,USR-1131,Email Marketing,Android,84,13,0
+SES-21007,USR-1187,Google Ads,Windows,-120,5,0
+SES-21008,USR-1710,Redes Sociales,Android,78,11,0
+SES-21009,USR-1218,Email Marketing,Windows,80,2,1
+SES-21010,USR-1236,Google Ads,Android,116,14,0
+SES-21011,USR-1312,Email Marketing,Windows,261,8,0
+SES-21012,USR-1123,Búsqueda Orgánica,iOS,183,15,0
+SES-21013,USR-1689,Google Ads,iOS,-120,5,0
+SES-21014,USR-1347,Email Marketing,Android,53,5,1
+SES-21015,USR-1240,Google Ads,Android,85,5,0
+SES-21016,USR-1500,Directo,Mac,131,13,0
+SES-21017,USR-1604,Email Marketing,Android,243,9,0
+SES-21018,USR-1765,Google Ads,iOS,452,5,0
+SES-21019,USR-1089,Email Marketing,Windows,176,5,0
+SES-21020,USR-1095,Redes Sociales,Windows,90,1,0
+SES-21021,USR-1623,Email Marketing,iOS,709,8,0
+SES-21022,USR-1053,Google Ads,Windows,41,15,0
+SES-21023,USR-1357,Redes Sociales,Android,387,5,1
+SES-21024,USR-1139,Redes Sociales,Android,95,13,0
+SES-21025,USR-1232,Directo,Windows,539,5,0
+SES-21026,USR-1493,Redes Sociales,Android,43,15,0
+SES-21027,USR-1644,Google Ads,Windows,97,2,0
+SES-21028,USR-1298,Directo,Android,22,14,0
+SES-21029,USR-1687,Directo,Windows,424,1,0
+SES-21030,USR-1587,Email Marketing,Android,35,8,0
+SES-21031,USR-1245,Email Marketing,Linux,167,9,0
+SES-21032,USR-1212,Búsqueda Orgánica,Windows,55,6,0
+SES-21033,USR-1238,Búsqueda Orgánica,Android,559,6,0
+SES-21034,USR-1414,Directo,Windows,209,13,0
+SES-21035,USR-1293,Google Ads,Windows,119,11,0
+SES-21036,USR-1120,Búsqueda Orgánica,Android,15,1,0
+SES-21037,USR-1555,Email Marketing,Android,31,10,1
+SES-21038,USR-1475,Google Ads,Windows,193,12,1
+SES-21039,USR-1588,Redes Sociales,Mac,120,9,0
+SES-21040,USR-1569,Búsqueda Orgánica,Android,252,3,0
+SES-21041,USR-1158,Google Ads,Android,191,7,0
+SES-21042,USR-1200,Redes Sociales,iOS,-120,9,0
+SES-21043,USR-1451,Directo,Android,-120,12,0
+SES-21044,USR-1211,Google Ads,Android,18,14,0
+SES-21045,USR-1397,Email Marketing,Windows,15,10,0
+SES-21046,USR-1306,Búsqueda Orgánica,Android,68,11,0
+SES-21047,USR-1632,Google Ads,Mac,161,8,0
+SES-21048,USR-1320,Email Marketing,iOS,46,4,0
+SES-21049,USR-1468,Búsqueda Orgánica,Android,125,13,0
+SES-21050,USR-1614,Email Marketing,iOS,245,6,0
+SES-21051,USR-1350,Google Ads,Android,105,12,0
+SES-21052,USR-1679,Búsqueda Orgánica,iOS,29,9,0
+SES-21053,USR-1185,Email Marketing,Windows,122,4,0
+SES-21054,USR-1425,Búsqueda Orgánica,Windows,206,1,0
+SES-21055,USR-1211,Google Ads,Windows,654,4,0
+SES-21056,USR-1384,Redes Sociales,Windows,474,4,0
+SES-21057,USR-1274,Google Ads,Android,283,6,0
+SES-21058,USR-1709,Google Ads,Mac,275,13,0
+SES-21059,USR-1769,Directo,Android,199,10,0
+SES-21060,USR-1736,Redes Sociales,Windows,77,2,0
+SES-21061,USR-1777,Directo,Windows,62,4,0
+SES-21062,USR-1427,Google Ads,Windows,181,1,0
+SES-21063,USR-1664,Búsqueda Orgánica,iOS,93,10,0
+SES-21064,USR-1348,Email Marketing,Android,99999,2,0
+SES-21065,USR-1091,Búsqueda Orgánica,Mac,128,11,0
+SES-21066,USR-1792,Directo,iOS,182,5,0
+SES-21067,USR-1573,Búsqueda Orgánica,Windows,25,4,1
+SES-21068,USR-1302,Redes Sociales,Windows,61,9,1
+SES-21069,USR-1253,Búsqueda Orgánica,Windows,32,15,0
+SES-21070,USR-1705,Google Ads,Android,52,6,0
+SES-21071,USR-1070,Redes Sociales,Android,452,5,0
+SES-21072,USR-1096,Búsqueda Orgánica,Windows,221,10,0
+SES-21073,USR-1517,Búsqueda Orgánica,Android,99,6,0
+SES-21074,USR-1745,Redes Sociales,Android,387,12,0
+SES-21075,USR-1014,Redes Sociales,Mac,51,4,0
+SES-21076,USR-1294,Búsqueda Orgánica,iOS,213,15,0
+SES-21077,USR-1730,Email Marketing,iOS,281,9,0
+SES-21078,USR-1479,Búsqueda Orgánica,Android,93,13,1
+SES-21079,USR-1606,Email Marketing,Linux,83,5,0
+SES-21080,USR-1411,Google Ads,iOS,89,15,0
+SES-21081,USR-1075,Google Ads,Android,100,8,0
+SES-21082,USR-1435,Búsqueda Orgánica,Windows,35,1,0
+SES-21083,USR-1264,Búsqueda Orgánica,Android,121,4,1
+SES-21084,USR-1272,Redes Sociales,Windows,503,7,0
+SES-21085,USR-1561,Búsqueda Orgánica,Windows,182,14,0
+SES-21086,USR-1431,Email Marketing,Android,226,14,0
+SES-21087,USR-1768,Redes Sociales,Windows,91,11,0
+SES-21088,USR-1509,Redes Sociales,iOS,1389,10,0
+SES-21089,USR-1221,Redes Sociales,Mac,285,8,0
+SES-21090,USR-1645,Búsqueda Orgánica,Android,154,6,0
+SES-21091,USR-1316,Google Ads,Android,101,14,1
+SES-21092,USR-1705,Email Marketing,Windows,129,13,0
+SES-21093,USR-1792,Email Marketing,Mac,129,12,0
+SES-21094,USR-1414,Redes Sociales,Android,577,3,0
+SES-21095,USR-1479,Google Ads,Android,649,2,0
+SES-21096,USR-1714,Redes Sociales,iOS,314,6,1
+SES-21097,USR-1135,Google Ads,Android,409,1,1
+SES-21098,USR-1395,Google Ads,Android,507,5,0
+SES-21099,USR-1001,Búsqueda Orgánica,Android,411,2,0
+SES-21100,USR-1782,Google Ads,Windows,15,3,0
+SES-21101,USR-1321,Google Ads,Android,161,9,0
+SES-21102,USR-1761,Google Ads,Mac,171,13,0
+SES-21103,USR-1222,Búsqueda Orgánica,Android,26,5,0
+SES-21104,USR-1664,Directo,Android,200,2,1
+SES-21105,USR-1271,Búsqueda Orgánica,Windows,145,6,0
+SES-21106,USR-1016,Búsqueda Orgánica,Windows,226,15,0
+SES-21107,USR-1095,Redes Sociales,Windows,129,11,0
+SES-21108,USR-1142,Google Ads,Windows,198,8,0
+SES-21109,USR-1787,Búsqueda Orgánica,iOS,260,8,0
+SES-21110,USR-1766,Email Marketing,Mac,80,6,1
+SES-21111,USR-1226,Búsqueda Orgánica,Android,236,13,0
+SES-21112,USR-1352,Google Ads,Android,19,12,0
+SES-21113,USR-1187,Google Ads,iOS,135,2,0
+SES-21114,USR-1694,Google Ads,Android,244,15,0
+SES-21115,USR-1644,Redes Sociales,Android,238,14,0
+SES-21116,USR-1241,Directo,Linux,19,8,1
+SES-21117,USR-1725,Búsqueda Orgánica,Windows,82,12,1
+SES-21118,USR-1776,Google Ads,Windows,23,14,1
+SES-21119,USR-1647,Redes Sociales,Windows,476,7,0
+SES-21120,USR-1546,Google Ads,Windows,254,15,0
+SES-21121,USR-1656,Redes Sociales,Android,247,11,0
+SES-21122,USR-1564,Redes Sociales,Android,721,3,0
+SES-21123,USR-1577,Google Ads,Android,457,11,0
+SES-21124,USR-1234,Email Marketing,Android,337,5,0
+SES-21125,USR-1794,Búsqueda Orgánica,Android,88,1,0
+SES-21126,USR-1318,Directo,Windows,132,11,1
+SES-21127,USR-1042,Búsqueda Orgánica,Android,19,13,0
+SES-21128,USR-1635,Búsqueda Orgánica,Windows,266,11,0
+SES-21129,USR-1160,Búsqueda Orgánica,Android,141,8,1
+SES-21130,USR-1023,Email Marketing,Mac,135,4,0
+SES-21131,USR-1624,Búsqueda Orgánica,iOS,1177,12,0
+SES-21132,USR-1639,Email Marketing,iOS,144,12,0
+SES-21133,USR-1041,Búsqueda Orgánica,Windows,638,7,0
+SES-21134,USR-1011,Google Ads,Windows,29,11,0
+SES-21135,USR-1078,Email Marketing,Android,351,14,0
+SES-21136,USR-1190,Búsqueda Orgánica,iOS,27,7,0
+SES-21137,USR-1055,Email Marketing,Android,373,5,1
+SES-21138,USR-1631,Email Marketing,Android,166,11,0
+SES-21139,USR-1290,Google Ads,Android,27,9,0
+SES-21140,USR-1775,Google Ads,Windows,41,1,1
+SES-21141,USR-1574,Email Marketing,Android,132,4,0
+SES-21142,USR-1729,Google Ads,iOS,259,15,0
+SES-21143,USR-1407,Redes Sociales,Windows,113,9,0
+SES-21144,USR-1075,Email Marketing,Android,372,14,1
+SES-21145,USR-1229,Búsqueda Orgánica,Windows,271,10,0
+SES-21146,USR-1408,Google Ads,Mac,78,5,0
+SES-21147,USR-1591,Redes Sociales,Android,701,14,0
+SES-21148,USR-1287,Email Marketing,Windows,157,3,0
+SES-21149,USR-1200,Google Ads,Windows,146,3,0
+SES-21150,USR-1420,Google Ads,iOS,202,10,0
+SES-21151,USR-1196,Búsqueda Orgánica,Android,178,8,0
+SES-21152,USR-1601,Búsqueda Orgánica,Windows,85,7,0
+SES-21153,USR-1785,Email Marketing,iOS,86,6,0
+SES-21154,USR-1337,Redes Sociales,Windows,59,14,0
+SES-21155,USR-1523,Redes Sociales,Android,80,10,0
+SES-21156,USR-1390,Directo,Mac,302,15,1
+SES-21157,USR-1532,Búsqueda Orgánica,Windows,16,8,0
+SES-21158,USR-1370,Directo,Android,174,10,0
+SES-21159,USR-1703,Redes Sociales,Android,116,9,0
+SES-21160,USR-1796,Búsqueda Orgánica,iOS,272,5,0
+SES-21161,USR-1468,Búsqueda Orgánica,Windows,58,4,0
+SES-21162,USR-1292,Búsqueda Orgánica,iOS,232,10,1
+SES-21163,USR-1623,Redes Sociales,Android,-120,3,0
+SES-21164,USR-1721,Búsqueda Orgánica,Android,351,8,0
+SES-21165,USR-1482,Redes Sociales,Linux,668,3,0
+SES-21166,USR-1145,Google Ads,Windows,189,9,0
+SES-21167,USR-1602,Google Ads,Windows,223,7,0
+SES-21168,USR-1097,Google Ads,iOS,11,14,0
+SES-21169,USR-1292,Email Marketing,iOS,45,3,0
+SES-21170,USR-1437,Google Ads,iOS,138,6,0
+SES-21171,USR-1734,Google Ads,Windows,498,14,0
+SES-21172,USR-1100,Google Ads,Windows,295,14,0
+SES-21173,USR-1253,Email Marketing,Windows,149,8,0
+SES-21174,USR-1260,Redes Sociales,iOS,34,13,1
+SES-21175,USR-1672,Redes Sociales,Windows,161,3,1
+SES-21176,USR-1517,Redes Sociales,iOS,28,7,0
+SES-21177,USR-1525,Redes Sociales,Windows,150,13,0
+SES-21178,USR-1627,Búsqueda Orgánica,Windows,46,9,0
+SES-21179,USR-1443,Búsqueda Orgánica,Mac,505,6,0
+SES-21180,USR-1414,Email Marketing,Android,56,3,0
+SES-21181,USR-1488,Email Marketing,iOS,155,10,0
+SES-21182,USR-1309,Google Ads,Android,382,12,0
+SES-21183,USR-1720,Redes Sociales,Windows,193,9,0
+SES-21184,USR-1127,Búsqueda Orgánica,Android,224,8,0
+SES-21185,USR-1621,Búsqueda Orgánica,Mac,263,2,0
+SES-21186,USR-1189,Redes Sociales,Windows,386,3,0
+SES-21187,USR-1151,Redes Sociales,Windows,153,9,0
+SES-21188,USR-1514,Google Ads,Android,320,7,1
+SES-21189,USR-1586,Búsqueda Orgánica,iOS,222,14,0
+SES-21190,USR-1778,Directo,Windows,69,15,0
+SES-21191,USR-1783,Redes Sociales,Android,46,2,0
+SES-21192,USR-1542,Directo,iOS,421,12,0
+SES-21193,USR-1627,Búsqueda Orgánica,Mac,99999,11,1
+SES-21194,USR-1710,Búsqueda Orgánica,Android,543,5,0
+SES-21195,USR-1133,Búsqueda Orgánica,iOS,28,3,0
+SES-21196,USR-1023,Búsqueda Orgánica,Android,34,2,0
+SES-21197,USR-1126,Email Marketing,Android,18,3,0
+SES-21198,USR-1170,Email Marketing,Windows,232,13,0
+SES-21199,USR-1059,Google Ads,Android,179,4,1
+SES-21200,USR-1652,Redes Sociales,Windows,58,1,0
+SES-21201,USR-1471,Búsqueda Orgánica,Mac,207,12,0
+SES-21202,USR-1105,Redes Sociales,Windows,180,4,0
+SES-21203,USR-1365,Redes Sociales,Windows,23,1,0
+SES-21204,USR-1649,Búsqueda Orgánica,Mac,372,7,0
+SES-21205,USR-1341,Búsqueda Orgánica,Mac,178,3,0
+SES-21206,USR-1290,Email Marketing,Android,109,14,0
+SES-21207,USR-1243,Búsqueda Orgánica,Android,474,2,0
+SES-21208,USR-1534,Google Ads,Windows,368,9,0
+SES-21209,USR-1403,Google Ads,Windows,73,10,0
+SES-21210,USR-1528,Google Ads,Android,106,8,0
+SES-21211,USR-1531,Google Ads,Android,177,7,0
+SES-21212,USR-1090,Google Ads,Windows,401,15,0
+SES-21213,USR-1335,Búsqueda Orgánica,Windows,105,11,0
+SES-21214,USR-1005,Redes Sociales,Android,101,11,0
+SES-21215,USR-1179,Redes Sociales,Android,67,13,0
+SES-21216,USR-1793,Email Marketing,Windows,102,7,0
+SES-21217,USR-1309,Google Ads,Windows,69,1,0
+SES-21218,USR-1206,Google Ads,Mac,10,8,0
+SES-21219,USR-1468,Google Ads,Windows,-120,11,0
+SES-21220,USR-1296,Búsqueda Orgánica,iOS,183,12,0
+SES-21221,USR-1539,Google Ads,Android,133,2,0
+SES-21222,USR-1272,Redes Sociales,Windows,120,9,0
+SES-21223,USR-1101,Google Ads,Windows,161,10,0
+SES-21224,USR-1173,Búsqueda Orgánica,Android,90,10,0
+SES-21225,USR-1648,Google Ads,Android,640,13,0
+SES-21226,USR-1511,Redes Sociales,Android,775,4,0
+SES-21227,USR-1099,Redes Sociales,Linux,700,12,0
+SES-21228,USR-1685,Email Marketing,Android,109,4,0
+SES-21229,USR-1632,Búsqueda Orgánica,Android,99,14,0
+SES-21230,USR-1233,Redes Sociales,Linux,73,11,0
+SES-21231,USR-1134,Redes Sociales,iOS,89,15,0
+SES-21232,USR-1577,Email Marketing,iOS,68,3,0
+SES-21233,USR-1063,Google Ads,iOS,203,1,0
+SES-21234,USR-1476,Redes Sociales,Android,275,6,0
+SES-21235,USR-1632,Email Marketing,Windows,96,14,0
+SES-21236,USR-1371,Redes Sociales,iOS,160,4,0
+SES-21237,USR-1521,Búsqueda Orgánica,Windows,18,9,0
+SES-21238,USR-1118,Búsqueda Orgánica,Android,10,15,0
+SES-21239,USR-1626,Google Ads,Android,134,1,0
+SES-21240,USR-1270,Búsqueda Orgánica,iOS,42,14,1
+SES-21241,USR-1756,Google Ads,Android,177,13,0
+SES-21242,USR-1105,Directo,Windows,110,4,0
+SES-21243,USR-1182,Google Ads,iOS,168,7,0
+SES-21244,USR-1463,Directo,Android,72,2,0
+SES-21245,USR-1727,Redes Sociales,Windows,99999,6,0
+SES-21246,USR-1157,Redes Sociales,Windows,585,13,0
+SES-21247,USR-1528,Google Ads,Windows,30,7,0
+SES-21248,USR-1733,Email Marketing,iOS,262,3,0
+SES-21249,USR-1395,Búsqueda Orgánica,Windows,20,2,0
+SES-21250,USR-1157,Email Marketing,Linux,22,15,0
+SES-21251,USR-1108,Búsqueda Orgánica,Windows,264,13,0
+SES-21252,USR-1170,Redes Sociales,Android,99999,11,0
+SES-21253,USR-1085,Directo,Windows,337,13,0
+SES-21254,USR-1144,Email Marketing,Mac,21,2,0
+SES-21255,USR-1042,Redes Sociales,Android,253,10,0
+SES-21256,USR-1284,Google Ads,Windows,61,7,0
+SES-21257,USR-1500,Búsqueda Orgánica,Windows,105,13,0
+SES-21258,USR-1230,Email Marketing,Windows,71,14,0
+SES-21259,USR-1018,Redes Sociales,Android,242,5,0
+SES-21260,USR-1426,Búsqueda Orgánica,Windows,98,9,1
+SES-21261,USR-1466,Google Ads,iOS,79,15,0
+SES-21262,USR-1396,Google Ads,Windows,35,9,0
+SES-21263,USR-1537,Google Ads,iOS,204,10,0
+SES-21264,USR-1065,Redes Sociales,iOS,132,1,0
+SES-21265,USR-1401,Google Ads,Android,276,4,0
+SES-21266,USR-1747,Redes Sociales,iOS,210,9,0
+SES-21267,USR-1064,Google Ads,Android,29,15,0
+SES-21268,USR-1277,Google Ads,Android,483,8,0
+SES-21269,USR-1767,Google Ads,Android,239,5,0
+SES-21270,USR-1208,Redes Sociales,Windows,12,10,0
+SES-21271,USR-1446,Búsqueda Orgánica,Mac,34,9,0
+SES-21272,USR-1431,Redes Sociales,Mac,108,7,1
+SES-21273,USR-1687,Google Ads,iOS,223,8,1
+SES-21274,USR-1142,Redes Sociales,iOS,900,9,0
+SES-21275,USR-1375,Redes Sociales,Mac,230,10,0
+SES-21276,USR-1261,Directo,iOS,687,3,0
+SES-21277,USR-1643,Redes Sociales,iOS,279,4,1
+SES-21278,USR-1722,Email Marketing,Android,14,1,0
+SES-21279,USR-1066,Redes Sociales,Android,99999,10,0
+SES-21280,USR-1355,Redes Sociales,Windows,61,3,0
+SES-21281,USR-1275,Redes Sociales,Windows,185,15,0
+SES-21282,USR-1403,Redes Sociales,Windows,757,5,0
+SES-21283,USR-1350,Búsqueda Orgánica,Windows,51,3,0
+SES-21284,USR-1634,Redes Sociales,Android,221,4,1
+SES-21285,USR-1260,Email Marketing,Windows,119,13,0
+SES-21286,USR-1625,Redes Sociales,Android,127,13,0
+SES-21287,USR-1142,Búsqueda Orgánica,Mac,98,4,0
+SES-21288,USR-1154,Email Marketing,Windows,161,11,0
+SES-21289,USR-1347,Email Marketing,Android,469,1,0
+SES-21290,USR-1267,Redes Sociales,Windows,340,9,0
+SES-21291,USR-1464,Email Marketing,Linux,358,9,0
+SES-21292,USR-1789,Email Marketing,iOS,311,13,0
+SES-21293,USR-1050,Google Ads,Android,20,3,0
+SES-21294,USR-1711,Directo,iOS,153,14,0
+SES-21295,USR-1536,Google Ads,Windows,126,6,0
+SES-21296,USR-1799,Redes Sociales,Windows,243,3,0
+SES-21297,USR-1667,Búsqueda Orgánica,iOS,10,3,0
+SES-21298,USR-1396,Búsqueda Orgánica,Windows,1237,3,0
+SES-21299,USR-1532,Redes Sociales,Android,134,13,0
+SES-21300,USR-1513,Google Ads,Android,72,5,0
+SES-21301,USR-1739,Redes Sociales,Mac,53,9,0
+SES-21302,USR-1442,Redes Sociales,iOS,356,10,0
+SES-21303,USR-1462,Búsqueda Orgánica,Android,204,6,0
+SES-21304,USR-1284,Google Ads,iOS,256,5,0
+SES-21305,USR-1569,Búsqueda Orgánica,Android,645,1,0
+SES-21306,USR-1273,Búsqueda Orgánica,Windows,220,1,0
+SES-21307,USR-1682,Directo,iOS,66,9,0
+SES-21308,USR-1166,Búsqueda Orgánica,Mac,156,9,0
+SES-21309,USR-1164,Email Marketing,iOS,22,1,0
+SES-21310,USR-1788,Búsqueda Orgánica,Android,335,12,0
+SES-21311,USR-1057,Google Ads,Mac,194,9,0
+SES-21312,USR-1790,Búsqueda Orgánica,Android,242,1,0
+SES-21313,USR-1145,Directo,Android,173,9,0
+SES-21314,USR-1098,Google Ads,iOS,300,6,0
+SES-21315,USR-1683,Redes Sociales,Android,636,10,0
+SES-21316,USR-1154,Google Ads,Windows,77,10,0
+SES-21317,USR-1200,Google Ads,iOS,452,3,0
+SES-21318,USR-1590,Redes Sociales,Windows,103,7,1
+SES-21319,USR-1202,Búsqueda Orgánica,Windows,182,4,0
+SES-21320,USR-1148,Redes Sociales,iOS,400,6,0
+SES-21321,USR-1261,Google Ads,Windows,29,4,0
+SES-21322,USR-1269,Google Ads,Windows,148,12,0
+SES-21323,USR-1358,Google Ads,Android,210,1,0
+SES-21324,USR-1322,Redes Sociales,Android,67,10,0
+SES-21325,USR-1616,Email Marketing,Mac,42,5,0
+SES-21326,USR-1640,Google Ads,Android,252,13,0
+SES-21327,USR-1433,Búsqueda Orgánica,iOS,59,8,0
+SES-21328,USR-1233,Email Marketing,Windows,117,13,1
+SES-21329,USR-1138,Redes Sociales,Android,22,2,0
+SES-21330,USR-1156,Redes Sociales,Mac,114,2,0
+SES-21331,USR-1345,Email Marketing,Android,201,10,0
+SES-21332,USR-1402,Búsqueda Orgánica,Android,187,9,0
+SES-21333,USR-1642,Búsqueda Orgánica,Linux,329,10,0
+SES-21334,USR-1746,Redes Sociales,Windows,117,7,0
+SES-21335,USR-1350,Búsqueda Orgánica,iOS,128,9,0
+SES-21336,USR-1032,Google Ads,Windows,120,13,0
+SES-21337,USR-1786,Directo,iOS,68,14,0
+SES-21338,USR-1766,Búsqueda Orgánica,Android,24,6,0
+SES-21339,USR-1057,Búsqueda Orgánica,Windows,104,6,0
+SES-21340,USR-1692,Búsqueda Orgánica,Android,246,3,0
+SES-21341,USR-1270,Directo,Android,491,2,0
+SES-21342,USR-1556,Redes Sociales,iOS,163,11,0
+SES-21343,USR-1497,Google Ads,Android,115,11,0
+SES-21344,USR-1761,Redes Sociales,Windows,131,15,0
+SES-21345,USR-1354,Búsqueda Orgánica,Android,13,10,0
+SES-21346,USR-1037,Email Marketing,iOS,867,12,0
+SES-21347,USR-1236,Búsqueda Orgánica,Windows,101,1,0
+SES-21348,USR-1014,Redes Sociales,iOS,142,1,1
+SES-21349,USR-1372,Google Ads,Android,174,2,1
+SES-21350,USR-1172,Google Ads,Windows,127,9,0
+SES-21351,USR-1505,Directo,Android,923,8,0
+SES-21352,USR-1167,Email Marketing,Android,58,1,0
+SES-21353,USR-1240,Búsqueda Orgánica,Android,482,14,0
+SES-21354,USR-1432,Búsqueda Orgánica,Android,16,13,0
+SES-21355,USR-1479,Google Ads,Windows,239,12,0
+SES-21356,USR-1232,Email Marketing,iOS,50,8,0
+SES-21357,USR-1311,Google Ads,Android,58,1,0
+SES-21358,USR-1582,Email Marketing,iOS,62,1,0
+SES-21359,USR-1668,Google Ads,Android,303,10,0
+SES-21360,USR-1126,Google Ads,Windows,175,12,0
+SES-21361,USR-1620,Búsqueda Orgánica,Windows,62,6,0
+SES-21362,USR-1322,Redes Sociales,Windows,22,12,0
+SES-21363,USR-1370,Google Ads,Android,134,12,0
+SES-21364,USR-1528,Búsqueda Orgánica,iOS,126,4,0
+SES-21365,USR-1273,Email Marketing,Mac,167,8,0
+SES-21366,USR-1431,Búsqueda Orgánica,Windows,75,1,1
+SES-21367,USR-1701,Búsqueda Orgánica,iOS,296,5,0
+SES-21368,USR-1177,Email Marketing,Windows,122,14,0
+SES-21369,USR-1428,Email Marketing,Linux,346,12,0
+SES-21370,USR-1094,Directo,Android,23,11,0
+SES-21371,USR-1718,Búsqueda Orgánica,iOS,122,6,0
+SES-21372,USR-1526,Google Ads,Android,91,15,0
+SES-21373,USR-1519,Redes Sociales,Android,143,11,0
+SES-21374,USR-1524,Redes Sociales,Android,186,6,0
+SES-21375,USR-1600,Redes Sociales,Android,68,11,0
+SES-21376,USR-1309,Redes Sociales,iOS,66,7,0
+SES-21377,USR-1595,Directo,iOS,573,11,0
+SES-21378,USR-1456,Búsqueda Orgánica,iOS,37,1,1
+SES-21379,USR-1345,Google Ads,iOS,231,11,0
+SES-21380,USR-1077,Google Ads,iOS,148,4,0
+SES-21381,USR-1791,Directo,Windows,-120,12,1
+SES-21382,USR-1279,Google Ads,Windows,258,1,1
+SES-21383,USR-1214,Búsqueda Orgánica,Mac,52,12,0
+SES-21384,USR-1484,Búsqueda Orgánica,Windows,25,13,0
+SES-21385,USR-1166,Google Ads,iOS,34,5,0
+SES-21386,USR-1437,Redes Sociales,Android,117,13,0
+SES-21387,USR-1558,Búsqueda Orgánica,Windows,634,2,1
+SES-21388,USR-1239,Google Ads,Linux,75,6,0
+SES-21389,USR-1109,Email Marketing,Android,175,15,0
+SES-21390,USR-1263,Google Ads,Android,33,11,0
+SES-21391,USR-1396,Email Marketing,iOS,122,9,0
+SES-21392,USR-1076,Búsqueda Orgánica,Mac,141,10,0
+SES-21393,USR-1494,Redes Sociales,Android,99999,10,0
+SES-21394,USR-1414,Email Marketing,iOS,137,13,0
+SES-21395,USR-1075,Redes Sociales,Android,240,10,0
+SES-21396,USR-1299,Google Ads,Windows,65,15,0
+SES-21397,USR-1567,Google Ads,Windows,52,14,1
+SES-21398,USR-1216,Redes Sociales,Android,105,15,0
+SES-21399,USR-1413,Búsqueda Orgánica,iOS,473,8,0
+SES-21400,USR-1252,Directo,Mac,174,8,0
+SES-21401,USR-1056,Google Ads,Mac,376,10,0
+SES-21402,USR-1017,Búsqueda Orgánica,Linux,65,11,0
+SES-21403,USR-1337,Google Ads,Windows,200,12,0
+SES-21404,USR-1087,Redes Sociales,Android,11,15,0
+SES-21405,USR-1055,Google Ads,Android,552,8,0
+SES-21406,USR-1310,Redes Sociales,Windows,105,3,0
+SES-21407,USR-1655,Google Ads,Android,562,12,0
+SES-21408,USR-1460,Redes Sociales,Android,99999,8,1
+SES-21409,USR-1796,Redes Sociales,Windows,228,6,0
+SES-21410,USR-1213,Google Ads,Android,469,4,1
+SES-21411,USR-1014,Email Marketing,Windows,99999,6,0
+SES-21412,USR-1501,Redes Sociales,Android,136,7,0
+SES-21413,USR-1039,Google Ads,Android,247,11,0
+SES-21414,USR-1003,Búsqueda Orgánica,Android,10,10,0
+SES-21415,USR-1684,Directo,Windows,14,12,0
+SES-21416,USR-1257,Búsqueda Orgánica,Windows,67,3,1
+SES-21417,USR-1108,Redes Sociales,Mac,13,11,0
+SES-21418,USR-1678,Directo,iOS,690,9,0
+SES-21419,USR-1589,Email Marketing,Android,136,3,0
+SES-21420,USR-1757,Redes Sociales,iOS,-120,1,0
+SES-21421,USR-1114,Búsqueda Orgánica,Mac,142,8,0
+SES-21422,USR-1327,Búsqueda Orgánica,Android,49,15,0
+SES-21423,USR-1093,Google Ads,Android,244,11,0
+SES-21424,USR-1748,Directo,iOS,129,15,0
+SES-21425,USR-1513,Búsqueda Orgánica,Windows,125,6,0
+SES-21426,USR-1439,Google Ads,Android,69,3,0
+SES-21427,USR-1548,Redes Sociales,Windows,362,4,0
+SES-21428,USR-1494,Google Ads,Windows,106,2,0
+SES-21429,USR-1080,Email Marketing,Android,35,2,0
+SES-21430,USR-1483,Directo,iOS,43,13,0
+SES-21431,USR-1222,Búsqueda Orgánica,Mac,55,12,0
+SES-21432,USR-1125,Búsqueda Orgánica,Android,-120,7,0
+SES-21433,USR-1629,Redes Sociales,Windows,31,2,0
+SES-21434,USR-1563,Redes Sociales,Windows,65,13,0
+SES-21435,USR-1285,Búsqueda Orgánica,Windows,105,4,0
+SES-21436,USR-1433,Google Ads,Windows,81,2,0
+SES-21437,USR-1712,Google Ads,Android,13,12,0
+SES-21438,USR-1427,Email Marketing,Windows,246,10,0
+SES-21439,USR-1294,Redes Sociales,Android,30,1,0
+SES-21440,USR-1415,Búsqueda Orgánica,Windows,69,10,0
+SES-21441,USR-1282,Directo,Android,133,12,0
+SES-21442,USR-1310,Búsqueda Orgánica,Windows,146,13,1
+SES-21443,USR-1139,Redes Sociales,Windows,320,3,0
+SES-21444,USR-1554,Búsqueda Orgánica,Mac,95,1,0
+SES-21445,USR-1331,Búsqueda Orgánica,Windows,11,7,0
+SES-21446,USR-1245,Redes Sociales,iOS,344,1,0
+SES-21447,USR-1788,Búsqueda Orgánica,Windows,102,12,0
+SES-21448,USR-1421,Directo,Windows,55,10,0
+SES-21449,USR-1250,Email Marketing,Android,204,3,0
+SES-21450,USR-1072,Búsqueda Orgánica,Linux,189,9,0
+SES-21451,USR-1292,Google Ads,iOS,402,9,0
+SES-21452,USR-1366,Google Ads,iOS,119,3,0
+SES-21453,USR-1655,Búsqueda Orgánica,Windows,153,8,0
+SES-21454,USR-1026,Redes Sociales,Android,43,12,0
+SES-21455,USR-1228,Email Marketing,Windows,13,8,0
+SES-21456,USR-1075,Búsqueda Orgánica,Mac,179,14,0
+SES-21457,USR-1315,Redes Sociales,Android,312,10,0
+SES-21458,USR-1432,Google Ads,Android,810,10,0
+SES-21459,USR-1481,Google Ads,iOS,307,13,0
+SES-21460,USR-1080,Búsqueda Orgánica,Windows,107,6,1
+SES-21461,USR-1713,Redes Sociales,iOS,-120,6,0
+SES-21462,USR-1269,Redes Sociales,Mac,238,9,0
+SES-21463,USR-1163,Búsqueda Orgánica,iOS,143,2,0
+SES-21464,USR-1560,Búsqueda Orgánica,Windows,46,9,0
+SES-21465,USR-1256,Búsqueda Orgánica,iOS,70,9,0
+SES-21466,USR-1658,Redes Sociales,Android,246,8,0
+SES-21467,USR-1784,Redes Sociales,Android,33,10,0
+SES-21468,USR-1545,Búsqueda Orgánica,iOS,175,10,0
+SES-21469,USR-1454,Google Ads,Windows,136,13,1
+SES-21470,USR-1587,Redes Sociales,iOS,39,15,0
+SES-21471,USR-1263,Búsqueda Orgánica,Windows,31,6,0
+SES-21472,USR-1185,Redes Sociales,Android,17,8,1
+SES-21473,USR-1087,Google Ads,iOS,80,1,0
+SES-21474,USR-1048,Búsqueda Orgánica,Windows,-120,10,0
+SES-21475,USR-1180,Redes Sociales,Windows,512,6,0
+SES-21476,USR-1441,Redes Sociales,iOS,29,15,0
+SES-21477,USR-1390,Búsqueda Orgánica,iOS,178,13,0
+SES-21478,USR-1158,Google Ads,Windows,22,9,0
+SES-21479,USR-1719,Directo,Windows,246,4,1
+SES-21480,USR-1760,Email Marketing,Windows,272,4,0
+SES-21481,USR-1055,Búsqueda Orgánica,Windows,237,8,0
+SES-21482,USR-1376,Email Marketing,iOS,10,7,0
+SES-21483,USR-1623,Google Ads,Windows,142,2,0
+SES-21484,USR-1301,Búsqueda Orgánica,Android,113,2,0
+SES-21485,USR-1449,Google Ads,iOS,102,1,0
+SES-21486,USR-1139,Directo,iOS,337,15,0
+SES-21487,USR-1245,Email Marketing,iOS,27,2,0
+SES-21488,USR-1223,Redes Sociales,Android,40,5,0
+SES-21489,USR-1307,Redes Sociales,Android,659,15,0
+SES-21490,USR-1196,Google Ads,iOS,428,13,0
+SES-21491,USR-1248,Redes Sociales,Windows,484,9,0
+SES-21492,USR-1108,Email Marketing,Android,658,9,0
+SES-21493,USR-1037,Búsqueda Orgánica,Windows,71,3,0
+SES-21494,USR-1124,Redes Sociales,Windows,109,14,0
+SES-21495,USR-1645,Búsqueda Orgánica,Windows,47,6,0
+SES-21496,USR-1264,Búsqueda Orgánica,Android,12,14,1
+SES-21497,USR-1687,Google Ads,Windows,137,3,1
+SES-21498,USR-1333,Email Marketing,iOS,39,11,0
+SES-21499,USR-1148,Email Marketing,Mac,56,5,0
+SES-21500,USR-1758,Redes Sociales,Android,53,10,0
+SES-21501,USR-1043,Búsqueda Orgánica,iOS,132,12,1
+SES-21502,USR-1099,Búsqueda Orgánica,Android,44,9,0
+SES-21503,USR-1478,Google Ads,Android,1230,9,1
+SES-21504,USR-1782,Búsqueda Orgánica,Windows,112,2,0
+SES-21505,USR-1787,Búsqueda Orgánica,Windows,287,13,0
+SES-21506,USR-1738,Búsqueda Orgánica,Windows,726,12,1
+SES-21507,USR-1335,Búsqueda Orgánica,Windows,34,3,1
+SES-21508,USR-1458,Búsqueda Orgánica,Windows,361,4,0
+SES-21509,USR-1781,Búsqueda Orgánica,Android,517,4,0
+SES-21510,USR-1296,Directo,iOS,340,3,0
+SES-21511,USR-1226,Búsqueda Orgánica,iOS,17,15,0
+SES-21512,USR-1657,Email Marketing,iOS,158,5,0
+SES-21513,USR-1375,Google Ads,Android,470,5,0
+SES-21514,USR-1727,Búsqueda Orgánica,Android,394,5,1
+SES-21515,USR-1565,Redes Sociales,Windows,248,12,0
+SES-21516,USR-1057,Google Ads,Android,322,2,0
+SES-21517,USR-1434,Búsqueda Orgánica,iOS,62,9,0
+SES-21518,USR-1561,Google Ads,iOS,140,9,0
+SES-21519,USR-1732,Email Marketing,Windows,14,5,0
+SES-21520,USR-1451,Google Ads,Android,122,11,0
+SES-21521,USR-1335,Google Ads,Mac,14,6,0
+SES-21522,USR-1295,Redes Sociales,Android,191,13,0
+SES-21523,USR-1641,Búsqueda Orgánica,Windows,482,11,0
+SES-21524,USR-1744,Búsqueda Orgánica,Android,152,8,0
+SES-21525,USR-1188,Google Ads,Android,202,9,0
+SES-21526,USR-1164,Búsqueda Orgánica,Windows,25,2,0
+SES-21527,USR-1054,Redes Sociales,Android,262,4,0
+SES-21528,USR-1058,Búsqueda Orgánica,Windows,459,13,0
+SES-21529,USR-1234,Directo,Windows,86,2,0
+SES-21530,USR-1152,Búsqueda Orgánica,Android,52,3,0
+SES-21531,USR-1037,Redes Sociales,Android,250,1,0
+SES-21532,USR-1529,Búsqueda Orgánica,Windows,213,7,0
+SES-21533,USR-1746,Email Marketing,Windows,167,6,0
+SES-21534,USR-1339,Google Ads,Android,99999,8,0
+SES-21535,USR-1341,Redes Sociales,Windows,174,1,0
+SES-21536,USR-1007,Búsqueda Orgánica,Android,123,12,0
+SES-21537,USR-1597,Redes Sociales,iOS,619,12,0
+SES-21538,USR-1318,Redes Sociales,Windows,215,15,0
+SES-21539,USR-1567,Email Marketing,Windows,772,15,1
+SES-21540,USR-1479,Búsqueda Orgánica,Windows,37,12,0
+SES-21541,USR-1616,Directo,Windows,21,9,0
+SES-21542,USR-1544,Búsqueda Orgánica,Windows,99999,7,0
+SES-21543,USR-1118,Email Marketing,iOS,11,6,0
+SES-21544,USR-1284,Google Ads,Android,36,1,0
+SES-21545,USR-1556,Búsqueda Orgánica,Android,343,3,0
+SES-21546,USR-1438,Búsqueda Orgánica,Windows,185,6,0
+SES-21547,USR-1414,Google Ads,iOS,78,2,0
+SES-21548,USR-1464,Redes Sociales,iOS,30,2,0
+SES-21549,USR-1575,Búsqueda Orgánica,Windows,616,13,0
+SES-21550,USR-1144,Búsqueda Orgánica,iOS,613,4,0
+SES-21551,USR-1149,Redes Sociales,Android,326,1,0
+SES-21552,USR-1741,Directo,iOS,67,8,1
+SES-21553,USR-1607,Búsqueda Orgánica,Android,669,10,0
+SES-21554,USR-1271,Redes Sociales,Android,99999,12,0
+SES-21555,USR-1348,Email Marketing,iOS,177,11,0
+SES-21556,USR-1332,Búsqueda Orgánica,Windows,356,1,0
+SES-21557,USR-1214,Redes Sociales,Android,677,5,0
+SES-21558,USR-1284,Email Marketing,Android,509,2,0
+SES-21559,USR-1640,Google Ads,Android,343,4,0
+SES-21560,USR-1762,Google Ads,Windows,125,3,0
+SES-21561,USR-1396,Email Marketing,iOS,79,15,0
+SES-21562,USR-1206,Redes Sociales,Windows,89,11,1
+SES-21563,USR-1238,Email Marketing,iOS,211,13,0
+SES-21564,USR-1297,Google Ads,Android,354,12,0
+SES-21565,USR-1548,Google Ads,Mac,52,13,0
+SES-21566,USR-1110,Google Ads,Android,227,14,1
+SES-21567,USR-1451,Redes Sociales,Android,272,6,0
+SES-21568,USR-1608,Búsqueda Orgánica,Windows,97,2,0
+SES-21569,USR-1727,Búsqueda Orgánica,Windows,120,7,0
+SES-21570,USR-1340,Google Ads,Windows,126,1,0
+SES-21571,USR-1694,Búsqueda Orgánica,iOS,85,14,0
+SES-21572,USR-1361,Email Marketing,Android,475,9,0
+SES-21573,USR-1330,Redes Sociales,Mac,41,1,1
+SES-21574,USR-1053,Email Marketing,Windows,282,9,0
+SES-21575,USR-1116,Google Ads,Android,473,13,0
+SES-21576,USR-1227,Redes Sociales,Android,15,15,0
+SES-21577,USR-1656,Búsqueda Orgánica,Android,27,13,0
+SES-21578,USR-1021,Redes Sociales,Android,217,8,0
+SES-21579,USR-1121,Directo,Android,47,14,0
+SES-21580,USR-1356,Google Ads,Windows,218,2,0
+SES-21581,USR-1529,Búsqueda Orgánica,iOS,209,9,0
+SES-21582,USR-1643,Email Marketing,Windows,32,5,0
+SES-21583,USR-1372,Búsqueda Orgánica,Android,188,2,0
+SES-21584,USR-1039,Búsqueda Orgánica,iOS,12,12,0
+SES-21585,USR-1773,Directo,Android,263,15,0
+SES-21586,USR-1457,Google Ads,iOS,559,6,0
+SES-21587,USR-1084,Redes Sociales,iOS,133,4,0
+SES-21588,USR-1557,Búsqueda Orgánica,Windows,364,10,0
+SES-21589,USR-1177,Búsqueda Orgánica,Mac,104,10,0
+SES-21590,USR-1327,Redes Sociales,Android,255,9,0
+SES-21591,USR-1718,Búsqueda Orgánica,iOS,680,13,0
+SES-21592,USR-1647,Búsqueda Orgánica,Android,398,12,0
+SES-21593,USR-1475,Directo,iOS,156,3,1
+SES-21594,USR-1606,Email Marketing,Android,36,7,0
+SES-21595,USR-1188,Google Ads,Windows,91,12,1
+SES-21596,USR-1074,Google Ads,Windows,21,10,1
+SES-21597,USR-1260,Redes Sociales,Android,169,9,0
+SES-21598,USR-1314,Redes Sociales,Android,18,14,0
+SES-21599,USR-1671,Búsqueda Orgánica,Linux,31,10,0
+SES-21600,USR-1128,Directo,iOS,805,7,0
+SES-21601,USR-1717,Redes Sociales,Android,332,8,0
+SES-21602,USR-1184,Directo,Android,201,14,0
+SES-21603,USR-1800,Directo,iOS,29,7,0
+SES-21604,USR-1358,Búsqueda Orgánica,Windows,113,4,0
+SES-21605,USR-1111,Búsqueda Orgánica,Windows,19,2,0
+SES-21606,USR-1134,Google Ads,Android,153,9,0
+SES-21607,USR-1143,Búsqueda Orgánica,Windows,115,3,0
+SES-21608,USR-1759,Directo,iOS,263,6,0
+SES-21609,USR-1553,Email Marketing,Android,11,15,0
+SES-21610,USR-1523,Google Ads,Windows,100,4,1
+SES-21611,USR-1113,Redes Sociales,Windows,582,6,0
+SES-21612,USR-1438,Email Marketing,iOS,565,5,0
+SES-21613,USR-1585,Directo,Android,152,14,0
+SES-21614,USR-1220,Google Ads,iOS,131,4,0
+SES-21615,USR-1589,Google Ads,Windows,185,13,0
+SES-21616,USR-1205,Email Marketing,Android,180,7,0
+SES-21617,USR-1771,Búsqueda Orgánica,Windows,240,13,0
+SES-21618,USR-1612,Email Marketing,Android,157,7,0
+SES-21619,USR-1210,Google Ads,Android,47,3,0
+SES-21620,USR-1097,Búsqueda Orgánica,Windows,445,7,0
+SES-21621,USR-1547,Google Ads,Android,-120,12,0
+SES-21622,USR-1041,Google Ads,Windows,173,14,1
+SES-21623,USR-1026,Redes Sociales,Windows,77,11,0
+SES-21624,USR-1788,Redes Sociales,Android,16,2,0
+SES-21625,USR-1770,Google Ads,Mac,-120,15,0
+SES-21626,USR-1171,Búsqueda Orgánica,Windows,-120,11,0
+SES-21627,USR-1371,Redes Sociales,iOS,-120,14,0
+SES-21628,USR-1622,Google Ads,Android,72,11,0
+SES-21629,USR-1475,Email Marketing,Windows,212,6,0
+SES-21630,USR-1191,Redes Sociales,iOS,16,11,0
+SES-21631,USR-1185,Búsqueda Orgánica,Windows,20,9,0
+SES-21632,USR-1006,Búsqueda Orgánica,iOS,466,10,0
+SES-21633,USR-1525,Búsqueda Orgánica,Windows,184,6,0
+SES-21634,USR-1067,Google Ads,Windows,431,3,0
+SES-21635,USR-1508,Google Ads,Android,199,2,0
+SES-21636,USR-1562,Email Marketing,Windows,708,9,0
+SES-21637,USR-1771,Google Ads,Windows,131,8,0
+SES-21638,USR-1029,Directo,iOS,57,14,1
+SES-21639,USR-1441,Búsqueda Orgánica,iOS,61,1,0
+SES-21640,USR-1233,Email Marketing,Android,94,2,0
+SES-21641,USR-1166,Redes Sociales,iOS,47,13,0
+SES-21642,USR-1780,Google Ads,Android,111,9,0
+SES-21643,USR-1240,Redes Sociales,Android,345,7,0
+SES-21644,USR-1594,Redes Sociales,Android,-120,1,0
+SES-21645,USR-1505,Búsqueda Orgánica,iOS,59,4,0
+SES-21646,USR-1251,Google Ads,iOS,131,11,0
+SES-21647,USR-1072,Redes Sociales,Windows,73,3,0
+SES-21648,USR-1199,Búsqueda Orgánica,Windows,221,11,0
+SES-21649,USR-1039,Búsqueda Orgánica,iOS,58,14,0
+SES-21650,USR-1065,Redes Sociales,Windows,27,12,0
+SES-21651,USR-1209,Directo,Android,-120,2,0
+SES-21652,USR-1721,Búsqueda Orgánica,Linux,223,15,0
+SES-21653,USR-1388,Búsqueda Orgánica,Android,18,1,0
+SES-21654,USR-1793,Directo,Windows,335,9,0
+SES-21655,USR-1271,Búsqueda Orgánica,Android,99999,10,0
+SES-21656,USR-1634,Directo,Windows,440,12,1
+SES-21657,USR-1299,Google Ads,Android,138,14,1
+SES-21658,USR-1434,Google Ads,Android,146,11,0
+SES-21659,USR-1381,Redes Sociales,Android,94,13,0
+SES-21660,USR-1518,Búsqueda Orgánica,iOS,144,5,0
+SES-21661,USR-1684,Búsqueda Orgánica,Windows,268,4,0
+SES-21662,USR-1422,Google Ads,Android,97,12,0
+SES-21663,USR-1727,Email Marketing,Android,30,8,0
+SES-21664,USR-1101,Directo,Android,112,13,1
+SES-21665,USR-1148,Email Marketing,iOS,490,8,0
+SES-21666,USR-1608,Email Marketing,Linux,328,7,0
+SES-21667,USR-1511,Búsqueda Orgánica,Android,26,6,0
+SES-21668,USR-1566,Directo,Windows,46,3,0
+SES-21669,USR-1310,Email Marketing,Mac,212,10,1
+SES-21670,USR-1201,Redes Sociales,Android,649,2,0
+SES-21671,USR-1173,Google Ads,Windows,55,4,0
+SES-21672,USR-1448,Directo,Windows,308,11,0
+SES-21673,USR-1173,Google Ads,Android,145,1,0
+SES-21674,USR-1685,Directo,Android,345,3,0
+SES-21675,USR-1354,Redes Sociales,Android,289,4,0
+SES-21676,USR-1748,Directo,Mac,16,12,0
+SES-21677,USR-1022,Búsqueda Orgánica,Windows,334,7,0
+SES-21678,USR-1445,Búsqueda Orgánica,Windows,31,5,0
+SES-21679,USR-1075,Búsqueda Orgánica,iOS,507,11,1
+SES-21680,USR-1001,Google Ads,Mac,29,8,0
+SES-21681,USR-1508,Búsqueda Orgánica,Android,14,6,0
+SES-21682,USR-1612,Email Marketing,Android,41,3,1
+SES-21683,USR-1380,Redes Sociales,iOS,172,8,0
+SES-21684,USR-1777,Búsqueda Orgánica,Android,124,5,0
+SES-21685,USR-1263,Directo,iOS,42,11,0
+SES-21686,USR-1059,Directo,iOS,328,3,1
+SES-21687,USR-1728,Google Ads,Windows,136,5,0
+SES-21688,USR-1114,Búsqueda Orgánica,Windows,49,10,0
+SES-21689,USR-1166,Redes Sociales,Android,22,5,0
+SES-21690,USR-1428,Email Marketing,Android,-120,4,0
+SES-21691,USR-1532,Búsqueda Orgánica,Windows,121,8,0
+SES-21692,USR-1001,Búsqueda Orgánica,iOS,109,4,0
+SES-21693,USR-1086,Redes Sociales,Android,63,7,0
+SES-21694,USR-1428,Email Marketing,Windows,277,5,0
+SES-21695,USR-1185,Búsqueda Orgánica,Android,143,6,0
+SES-21696,USR-1300,Google Ads,Windows,549,10,0
+SES-21697,USR-1715,Redes Sociales,Android,104,11,0
+SES-21698,USR-1392,Búsqueda Orgánica,Android,115,13,0
+SES-21699,USR-1769,Búsqueda Orgánica,iOS,147,7,0
+SES-21700,USR-1078,Google Ads,Windows,82,14,1
+SES-21701,USR-1515,Google Ads,iOS,74,2,0
+SES-21702,USR-1734,Búsqueda Orgánica,iOS,-120,10,0
+SES-21703,USR-1373,Google Ads,Android,86,1,1
+SES-21704,USR-1043,Redes Sociales,Windows,199,3,0
+SES-21705,USR-1261,Google Ads,Android,158,7,0
+SES-21706,USR-1533,Redes Sociales,Windows,-120,13,0
+SES-21707,USR-1007,Redes Sociales,iOS,92,13,0
+SES-21708,USR-1033,Email Marketing,Android,59,3,0
+SES-21709,USR-1173,Redes Sociales,iOS,99999,7,0
+SES-21710,USR-1272,Búsqueda Orgánica,Android,40,7,0
+SES-21711,USR-1290,Búsqueda Orgánica,Android,64,10,0
+SES-21712,USR-1573,Directo,iOS,78,4,0
+SES-21713,USR-1186,Búsqueda Orgánica,Mac,589,9,0
+SES-21714,USR-1100,Redes Sociales,Android,48,7,1
+SES-21715,USR-1341,Google Ads,Android,381,6,0
+SES-21716,USR-1599,Google Ads,Windows,181,10,0
+SES-21717,USR-1163,Email Marketing,Android,89,5,0
+SES-21718,USR-1315,Búsqueda Orgánica,Windows,829,4,0
+SES-21719,USR-1406,Búsqueda Orgánica,iOS,233,2,0
+SES-21720,USR-1531,Google Ads,Windows,18,10,0
+SES-21721,USR-1278,Búsqueda Orgánica,Mac,52,6,0
+SES-21722,USR-1416,Redes Sociales,Android,17,7,0
+SES-21723,USR-1798,Redes Sociales,iOS,14,3,0
+SES-21724,USR-1388,Búsqueda Orgánica,Windows,49,15,0
+SES-21725,USR-1744,Google Ads,Windows,90,8,0
+SES-21726,USR-1659,Email Marketing,Windows,-120,7,0
+SES-21727,USR-1633,Google Ads,Windows,166,5,0
+SES-21728,USR-1226,Redes Sociales,Windows,326,11,0
+SES-21729,USR-1364,Email Marketing,iOS,167,8,0
+SES-21730,USR-1661,Búsqueda Orgánica,Windows,289,9,0
+SES-21731,USR-1732,Búsqueda Orgánica,iOS,15,1,0
+SES-21732,USR-1647,Búsqueda Orgánica,Android,225,14,0
+SES-21733,USR-1210,Google Ads,Windows,24,5,0
+SES-21734,USR-1199,Búsqueda Orgánica,Linux,45,11,0
+SES-21735,USR-1497,Redes Sociales,Android,56,13,0
+SES-21736,USR-1007,Redes Sociales,Windows,156,3,0
+SES-21737,USR-1186,Búsqueda Orgánica,Windows,115,13,0
+SES-21738,USR-1280,Búsqueda Orgánica,iOS,302,13,0
+SES-21739,USR-1689,Redes Sociales,Android,87,15,0
+SES-21740,USR-1036,Búsqueda Orgánica,Android,149,15,0
+SES-21741,USR-1391,Email Marketing,Android,78,8,0
+SES-21742,USR-1787,Búsqueda Orgánica,iOS,60,12,0
+SES-21743,USR-1018,Email Marketing,iOS,114,12,0
+SES-21744,USR-1436,Búsqueda Orgánica,Android,58,13,0
+SES-21745,USR-1716,Directo,Windows,275,2,0
+SES-21746,USR-1521,Búsqueda Orgánica,Windows,463,3,0
+SES-21747,USR-1662,Google Ads,iOS,396,5,0
+SES-21748,USR-1265,Búsqueda Orgánica,Android,96,6,1
+SES-21749,USR-1354,Redes Sociales,Android,35,8,0
+SES-21750,USR-1289,Búsqueda Orgánica,Mac,66,7,0
+SES-21751,USR-1435,Redes Sociales,Windows,30,13,0
+SES-21752,USR-1074,Google Ads,Windows,30,9,0
+SES-21753,USR-1227,Google Ads,Mac,363,9,0
+SES-21754,USR-1133,Directo,Android,90,15,0
+SES-21755,USR-1276,Redes Sociales,Android,492,12,1
+SES-21756,USR-1742,Redes Sociales,Linux,199,3,0
+SES-21757,USR-1237,Búsqueda Orgánica,iOS,94,8,0
+SES-21758,USR-1476,Google Ads,Android,103,9,1
+SES-21759,USR-1548,Email Marketing,Windows,214,11,1
+SES-21760,USR-1736,Búsqueda Orgánica,Windows,139,7,1
+SES-21761,USR-1627,Redes Sociales,iOS,104,11,0
+SES-21762,USR-1558,Directo,Windows,155,10,0
+SES-21763,USR-1770,Redes Sociales,Windows,18,10,0
+SES-21764,USR-1371,Redes Sociales,Windows,256,10,0
+SES-21765,USR-1648,Búsqueda Orgánica,Android,96,10,0
+SES-21766,USR-1471,Google Ads,Android,245,6,1
+SES-21767,USR-1704,Búsqueda Orgánica,Android,44,10,0
+SES-21768,USR-1360,Redes Sociales,Windows,254,13,0
+SES-21769,USR-1431,Búsqueda Orgánica,iOS,174,11,1
+SES-21770,USR-1693,Redes Sociales,Windows,22,2,0
+SES-21771,USR-1712,Google Ads,iOS,95,8,0
+SES-21772,USR-1751,Google Ads,iOS,302,9,0
+SES-21773,USR-1046,Google Ads,Windows,480,2,0
+SES-21774,USR-1049,Google Ads,iOS,312,10,0
+SES-21775,USR-1390,Redes Sociales,Android,95,13,1
+SES-21776,USR-1539,Email Marketing,Android,178,10,0
+SES-21777,USR-1280,Búsqueda Orgánica,Windows,166,8,0
+SES-21778,USR-1672,Redes Sociales,Android,139,12,0
+SES-21779,USR-1586,Email Marketing,Android,13,11,0
+SES-21780,USR-1463,Búsqueda Orgánica,Windows,180,10,1
+SES-21781,USR-1508,Búsqueda Orgánica,Windows,591,7,1
+SES-21782,USR-1383,Búsqueda Orgánica,Windows,99999,9,0
+SES-21783,USR-1567,Redes Sociales,Android,29,12,0
+SES-21784,USR-1517,Redes Sociales,Android,16,4,0
+SES-21785,USR-1780,Redes Sociales,Android,23,15,0
+SES-21786,USR-1743,Búsqueda Orgánica,Windows,282,11,0
+SES-21787,USR-1145,Redes Sociales,Windows,185,9,0
+SES-21788,USR-1020,Redes Sociales,Windows,191,1,0
+SES-21789,USR-1071,Búsqueda Orgánica,Android,111,10,0
+SES-21790,USR-1063,Búsqueda Orgánica,Windows,412,1,0
+SES-21791,USR-1039,Google Ads,Windows,72,8,1
+SES-21792,USR-1137,Búsqueda Orgánica,iOS,20,1,0
+SES-21793,USR-1289,Redes Sociales,Android,434,15,1
+SES-21794,USR-1620,Búsqueda Orgánica,Android,413,5,0
+SES-21795,USR-1238,Directo,Android,233,8,0
+SES-21796,USR-1425,Búsqueda Orgánica,iOS,152,10,0
+SES-21797,USR-1049,Búsqueda Orgánica,Android,60,9,0
+SES-21798,USR-1328,Redes Sociales,iOS,234,3,0
+SES-21799,USR-1212,Búsqueda Orgánica,Windows,84,1,0
+SES-21800,USR-1274,Redes Sociales,Android,30,10,0
+SES-21801,USR-1284,Google Ads,iOS,43,4,1
+SES-21802,USR-1097,Google Ads,Mac,-120,4,0
+SES-21803,USR-1041,Google Ads,Windows,1194,4,0
+SES-21804,USR-1012,Directo,Android,13,4,0
+SES-21805,USR-1167,Búsqueda Orgánica,Android,566,10,0
+SES-21806,USR-1700,Google Ads,Android,99999,2,0
+SES-21807,USR-1274,Email Marketing,Mac,190,13,0
+SES-21808,USR-1032,Directo,Windows,247,2,1
+SES-21809,USR-1383,Búsqueda Orgánica,Android,13,4,1
+SES-21810,USR-1788,Google Ads,Android,454,6,1
+SES-21811,USR-1214,Google Ads,Windows,89,3,0
+SES-21812,USR-1646,Redes Sociales,Android,333,9,0
+SES-21813,USR-1208,Google Ads,Android,116,13,0
+SES-21814,USR-1125,Redes Sociales,Linux,49,12,0
+SES-21815,USR-1660,Búsqueda Orgánica,Android,276,7,0
+SES-21816,USR-1080,Redes Sociales,Windows,186,9,0
+SES-21817,USR-1433,Búsqueda Orgánica,Android,321,11,0
+SES-21818,USR-1358,Google Ads,iOS,229,3,0
+SES-21819,USR-1261,Google Ads,iOS,53,14,0
+SES-21820,USR-1578,Búsqueda Orgánica,Mac,34,2,0
+SES-21821,USR-1185,Búsqueda Orgánica,iOS,17,4,0
+SES-21822,USR-1596,Búsqueda Orgánica,Windows,184,4,0
+SES-21823,USR-1505,Google Ads,Android,309,15,1
+SES-21824,USR-1398,Redes Sociales,Windows,357,9,0
+SES-21825,USR-1650,Redes Sociales,Android,22,2,0
+SES-21826,USR-1759,Email Marketing,iOS,51,10,0
+SES-21827,USR-1646,Búsqueda Orgánica,Android,45,10,0
+SES-21828,USR-1166,Directo,Windows,863,8,0
+SES-21829,USR-1100,Google Ads,Windows,206,11,1
+SES-21830,USR-1703,Redes Sociales,iOS,95,3,0
+SES-21831,USR-1356,Directo,Windows,246,10,0
+SES-21832,USR-1647,Directo,iOS,71,6,0
+SES-21833,USR-1425,Google Ads,Android,233,3,0
+SES-21834,USR-1683,Búsqueda Orgánica,Windows,10,1,0
+SES-21835,USR-1467,Directo,Android,168,2,0
+SES-21836,USR-1303,Búsqueda Orgánica,iOS,20,8,0
+SES-21837,USR-1178,Redes Sociales,Windows,74,4,0
+SES-21838,USR-1374,Email Marketing,Android,131,2,0
+SES-21839,USR-1234,Redes Sociales,Android,407,13,0
+SES-21840,USR-1009,Directo,Android,39,5,0
+SES-21841,USR-1625,Email Marketing,Android,44,7,0
+SES-21842,USR-1422,Email Marketing,Android,169,8,0
+SES-21843,USR-1291,Google Ads,Windows,143,15,0
+SES-21844,USR-1123,Email Marketing,Linux,99999,11,0
+SES-21845,USR-1695,Directo,Windows,117,9,0
+SES-21846,USR-1466,Búsqueda Orgánica,Windows,85,13,0
+SES-21847,USR-1380,Redes Sociales,iOS,114,10,0
+SES-21848,USR-1576,Búsqueda Orgánica,iOS,141,10,0
+SES-21849,USR-1148,Google Ads,iOS,155,5,0
+SES-21850,USR-1619,Directo,Windows,34,14,0
+SES-21851,USR-1040,Búsqueda Orgánica,Android,81,10,0
+SES-21852,USR-1477,Búsqueda Orgánica,Mac,98,13,0
+SES-21853,USR-1299,Búsqueda Orgánica,Windows,143,4,0
+SES-21854,USR-1700,Email Marketing,Android,84,14,0
+SES-21855,USR-1732,Redes Sociales,Mac,48,11,0
+SES-21856,USR-1231,Redes Sociales,Android,337,3,0
+SES-21857,USR-1671,Búsqueda Orgánica,Windows,162,12,1
+SES-21858,USR-1158,Redes Sociales,Android,349,10,0
+SES-21859,USR-1279,Email Marketing,Mac,318,14,1
+SES-21860,USR-1406,Búsqueda Orgánica,Windows,1011,2,0
+SES-21861,USR-1443,Google Ads,Windows,99999,12,0
+SES-21862,USR-1625,Redes Sociales,Windows,243,13,0
+SES-21863,USR-1094,Google Ads,Windows,83,7,0
+SES-21864,USR-1508,Directo,Android,37,8,0
+SES-21865,USR-1623,Redes Sociales,iOS,160,5,0
+SES-21866,USR-1092,Email Marketing,iOS,267,2,0
+SES-21867,USR-1691,Email Marketing,iOS,328,6,0
+SES-21868,USR-1559,Email Marketing,Windows,47,10,0
+SES-21869,USR-1132,Google Ads,iOS,204,5,0
+SES-21870,USR-1154,Redes Sociales,Android,24,5,0
+SES-21871,USR-1520,Redes Sociales,iOS,200,1,0
+SES-21872,USR-1536,Búsqueda Orgánica,Windows,118,7,0
+SES-21873,USR-1624,Google Ads,Linux,126,5,0
+SES-21874,USR-1144,Redes Sociales,iOS,42,9,0
+SES-21875,USR-1607,Google Ads,iOS,285,3,0
+SES-21876,USR-1201,Google Ads,Mac,151,12,0
+SES-21877,USR-1144,Redes Sociales,Android,95,11,0
+SES-21878,USR-1469,Redes Sociales,iOS,56,5,0
+SES-21879,USR-1163,Redes Sociales,iOS,377,8,0
+SES-21880,USR-1019,Google Ads,Windows,-120,9,0
+SES-21881,USR-1635,Redes Sociales,Mac,140,11,1
+SES-21882,USR-1745,Directo,iOS,129,5,0
+SES-21883,USR-1107,Búsqueda Orgánica,Linux,160,2,0
+SES-21884,USR-1076,Búsqueda Orgánica,iOS,190,1,1
+SES-21885,USR-1270,Búsqueda Orgánica,Mac,130,14,0
+SES-21886,USR-1493,Directo,Android,33,5,0
+SES-21887,USR-1013,Email Marketing,Android,153,5,0
+SES-21888,USR-1269,Google Ads,Mac,171,9,0
+SES-21889,USR-1344,Directo,Android,527,6,0
+SES-21890,USR-1172,Google Ads,Mac,252,6,0
+SES-21891,USR-1508,Redes Sociales,Windows,59,15,0
+SES-21892,USR-1119,Google Ads,iOS,65,15,0
+SES-21893,USR-1212,Redes Sociales,Windows,359,7,1
+SES-21894,USR-1338,Email Marketing,Windows,90,4,0
+SES-21895,USR-1083,Búsqueda Orgánica,Android,182,9,0
+SES-21896,USR-1286,Búsqueda Orgánica,iOS,247,11,0
+SES-21897,USR-1236,Búsqueda Orgánica,iOS,21,4,0
+SES-21898,USR-1321,Google Ads,Android,101,12,0
+SES-21899,USR-1475,Google Ads,Android,232,4,0
+SES-21900,USR-1038,Redes Sociales,Windows,578,2,0
+SES-21901,USR-1006,Google Ads,Mac,34,12,0
+SES-21902,USR-1067,Búsqueda Orgánica,Windows,23,1,0
+SES-21903,USR-1475,Redes Sociales,Windows,820,12,0
+SES-21904,USR-1555,Redes Sociales,iOS,304,14,0
+SES-21905,USR-1761,Búsqueda Orgánica,Windows,-120,13,0
+SES-21906,USR-1065,Email Marketing,Android,284,14,0
+SES-21907,USR-1469,Búsqueda Orgánica,Mac,10,12,0
+SES-21908,USR-1303,Búsqueda Orgánica,Android,392,8,0
+SES-21909,USR-1786,Redes Sociales,Android,601,9,0
+SES-21910,USR-1381,Google Ads,Android,68,1,0
+SES-21911,USR-1379,Redes Sociales,iOS,233,3,0
+SES-21912,USR-1480,Búsqueda Orgánica,Android,282,15,0
+SES-21913,USR-1069,Email Marketing,iOS,61,6,0
+SES-21914,USR-1612,Redes Sociales,Android,374,11,0
+SES-21915,USR-1320,Google Ads,iOS,567,11,0
+SES-21916,USR-1357,Google Ads,Android,53,11,0
+SES-21917,USR-1365,Email Marketing,Mac,278,6,0
+SES-21918,USR-1658,Google Ads,Android,249,14,0
+SES-21919,USR-1287,Búsqueda Orgánica,Android,1286,2,0
+SES-21920,USR-1499,Redes Sociales,Android,20,15,0
+SES-21921,USR-1409,Email Marketing,Android,91,14,0
+SES-21922,USR-1542,Directo,Mac,211,8,0
+SES-21923,USR-1610,Directo,Android,223,2,0
+SES-21924,USR-1693,Búsqueda Orgánica,Windows,31,14,0
+SES-21925,USR-1655,Email Marketing,iOS,339,15,0
+SES-21926,USR-1147,Búsqueda Orgánica,Android,292,11,0
+SES-21927,USR-1414,Email Marketing,Android,62,2,1
+SES-21928,USR-1160,Búsqueda Orgánica,iOS,63,3,0
+SES-21929,USR-1205,Email Marketing,Mac,612,4,0
+SES-21930,USR-1640,Google Ads,Windows,38,1,0
+SES-21931,USR-1158,Búsqueda Orgánica,iOS,216,13,0
+SES-21932,USR-1287,Redes Sociales,Windows,134,10,0
+SES-21933,USR-1730,Redes Sociales,iOS,70,4,0
+SES-21934,USR-1346,Búsqueda Orgánica,iOS,103,13,0
+SES-21935,USR-1654,Búsqueda Orgánica,Android,825,15,0
+SES-21936,USR-1408,Redes Sociales,Windows,106,10,0
+SES-21937,USR-1649,Email Marketing,Windows,105,6,0
+SES-21938,USR-1582,Email Marketing,Android,143,12,0
+SES-21939,USR-1004,Google Ads,Windows,150,12,0
+SES-21940,USR-1045,Email Marketing,Android,106,10,0
+SES-21941,USR-1333,Búsqueda Orgánica,iOS,214,7,0
+SES-21942,USR-1336,Google Ads,iOS,77,13,0
+SES-21943,USR-1159,Búsqueda Orgánica,iOS,177,1,0
+SES-21944,USR-1731,Redes Sociales,Windows,13,3,0
+SES-21945,USR-1180,Directo,Mac,142,15,1
+SES-21946,USR-1540,Búsqueda Orgánica,Windows,30,10,0
+SES-21947,USR-1005,Email Marketing,Windows,128,5,0
+SES-21948,USR-1678,Google Ads,Windows,90,9,0
+SES-21949,USR-1720,Búsqueda Orgánica,Windows,475,2,0
+SES-21950,USR-1282,Google Ads,Windows,218,5,0
+SES-21951,USR-1116,Google Ads,Windows,372,4,0
+SES-21952,USR-1704,Búsqueda Orgánica,Windows,567,4,0
+SES-21953,USR-1427,Email Marketing,Android,317,15,0
+SES-21954,USR-1166,Email Marketing,Android,58,1,0
+SES-21955,USR-1249,Directo,Windows,148,3,0
+SES-21956,USR-1178,Google Ads,Windows,224,7,0
+SES-21957,USR-1752,Google Ads,Mac,164,12,0
+SES-21958,USR-1153,Google Ads,iOS,25,7,0
+SES-21959,USR-1241,Google Ads,Mac,229,14,0
+SES-21960,USR-1241,Búsqueda Orgánica,Windows,105,7,0
+SES-21961,USR-1690,Directo,Mac,18,7,1
+SES-21962,USR-1004,Búsqueda Orgánica,Android,128,12,0
+SES-21963,USR-1447,Directo,Mac,99999,8,0
+SES-21964,USR-1343,Redes Sociales,Android,82,14,1
+SES-21965,USR-1126,Redes Sociales,Android,105,4,0
+SES-21966,USR-1145,Redes Sociales,iOS,59,15,0
+SES-21967,USR-1669,Búsqueda Orgánica,Windows,184,7,0
+SES-21968,USR-1057,Email Marketing,Android,328,13,0
+SES-21969,USR-1748,Búsqueda Orgánica,Windows,194,6,0
+SES-21970,USR-1694,Directo,Android,46,3,0
+SES-21971,USR-1591,Directo,Android,10,4,0
+SES-21972,USR-1607,Google Ads,Windows,23,15,0
+SES-21973,USR-1115,Redes Sociales,Windows,226,12,0
+SES-21974,USR-1013,Email Marketing,iOS,139,13,1
+SES-21975,USR-1561,Búsqueda Orgánica,Mac,283,5,0
+SES-21976,USR-1315,Búsqueda Orgánica,Windows,73,6,0
+SES-21977,USR-1648,Google Ads,iOS,465,3,0
+SES-21978,USR-1190,Redes Sociales,Android,137,11,0
+SES-21979,USR-1174,Búsqueda Orgánica,Windows,224,2,0
+SES-21980,USR-1574,Email Marketing,iOS,299,10,0
+SES-21981,USR-1354,Google Ads,Windows,207,6,0
+SES-21982,USR-1462,Email Marketing,Android,137,12,0
+SES-21983,USR-1616,Directo,Windows,44,9,0
+SES-21984,USR-1122,Google Ads,Android,116,8,0
+SES-21985,USR-1287,Redes Sociales,Mac,156,5,0
+SES-21986,USR-1444,Google Ads,Android,350,2,0
+SES-21987,USR-1377,Google Ads,iOS,80,11,0
+SES-21988,USR-1420,Búsqueda Orgánica,Windows,358,11,0
+SES-21989,USR-1078,Google Ads,Mac,226,5,0
+SES-21990,USR-1382,Google Ads,Windows,476,8,0
+SES-21991,USR-1101,Directo,iOS,48,2,0
+SES-21992,USR-1662,Email Marketing,Windows,148,6,0
+SES-21993,USR-1033,Redes Sociales,Android,18,4,1
+SES-21994,USR-1080,Redes Sociales,Windows,499,13,0
+SES-21995,USR-1264,Búsqueda Orgánica,iOS,206,15,0
+SES-21996,USR-1404,Redes Sociales,Mac,108,3,0
+SES-21997,USR-1506,Búsqueda Orgánica,Android,99999,14,0
+SES-21998,USR-1626,Redes Sociales,Android,48,3,0
+SES-21999,USR-1199,Redes Sociales,Android,65,6,0
+SES-22000,USR-1512,Redes Sociales,Android,135,2,0
+SES-22001,USR-1501,Búsqueda Orgánica,Android,86,10,0
+SES-22002,USR-1307,Directo,Android,166,9,0
+SES-22003,USR-1574,Directo,Windows,307,4,0
+SES-22004,USR-1495,Redes Sociales,iOS,151,1,0
+SES-22005,USR-1047,Email Marketing,Android,130,15,1
+SES-22006,USR-1348,Google Ads,Android,416,3,0
+SES-22007,USR-1438,Búsqueda Orgánica,iOS,192,11,1
+SES-22008,USR-1022,Email Marketing,Android,36,12,0
+SES-22009,USR-1621,Búsqueda Orgánica,iOS,40,6,0
+SES-22010,USR-1033,Google Ads,Android,57,10,0
+SES-22011,USR-1508,Redes Sociales,Android,37,9,0
+SES-22012,USR-1039,Email Marketing,Mac,47,12,0
+SES-22013,USR-1308,Email Marketing,iOS,47,13,0
+SES-22014,USR-1332,Búsqueda Orgánica,Mac,86,15,0
+SES-22015,USR-1370,Redes Sociales,Windows,87,1,0
+SES-22016,USR-1136,Búsqueda Orgánica,Windows,637,15,0
+SES-22017,USR-1147,Redes Sociales,Android,217,14,0
+SES-22018,USR-1508,Google Ads,iOS,173,8,1
+SES-22019,USR-1263,Google Ads,Android,201,1,0
+SES-22020,USR-1157,Google Ads,Windows,199,3,0
+SES-22021,USR-1564,Directo,Windows,227,2,0
+SES-22022,USR-1493,Búsqueda Orgánica,Windows,381,10,0
+SES-22023,USR-1461,Redes Sociales,iOS,129,2,0
+SES-22024,USR-1747,Redes Sociales,iOS,12,10,1
+SES-22025,USR-1352,Directo,Android,93,14,0
+SES-22026,USR-1170,Email Marketing,Android,-120,14,0
+SES-22027,USR-1545,Google Ads,Windows,59,13,0
+SES-22028,USR-1205,Google Ads,Windows,177,3,0
+SES-22029,USR-1447,Directo,Windows,225,11,0
+SES-22030,USR-1085,Redes Sociales,Android,358,15,0
+SES-22031,USR-1061,Google Ads,Linux,325,6,1
+SES-22032,USR-1429,Google Ads,Android,15,4,0
+SES-22033,USR-1514,Búsqueda Orgánica,Android,16,5,0
+SES-22034,USR-1463,Búsqueda Orgánica,Android,271,15,0
+SES-22035,USR-1015,Email Marketing,Mac,69,2,0
+SES-22036,USR-1581,Redes Sociales,Mac,160,1,1
+SES-22037,USR-1799,Google Ads,Android,517,15,0
+SES-22038,USR-1485,Búsqueda Orgánica,iOS,129,3,0
+SES-22039,USR-1225,Directo,Windows,34,13,0
+SES-22040,USR-1254,Google Ads,iOS,164,5,0
+SES-22041,USR-1131,Email Marketing,Android,251,4,0
+SES-22042,USR-1665,Google Ads,Windows,280,15,0
+SES-22043,USR-1547,Búsqueda Orgánica,Windows,331,13,1
+SES-22044,USR-1606,Email Marketing,Windows,82,6,0
+SES-22045,USR-1122,Email Marketing,Android,717,6,0
+SES-22046,USR-1361,Email Marketing,Mac,96,1,0
+SES-22047,USR-1046,Google Ads,Android,63,15,0
+SES-22048,USR-1694,Redes Sociales,iOS,325,1,0
+SES-22049,USR-1555,Búsqueda Orgánica,Android,506,6,0
+SES-22050,USR-1049,Redes Sociales,Windows,441,15,1
+SES-22051,USR-1602,Redes Sociales,Windows,200,5,0
+SES-22052,USR-1437,Redes Sociales,Android,429,15,0
+SES-22053,USR-1570,Redes Sociales,Android,112,15,0
+SES-22054,USR-1795,Directo,Windows,262,11,0
+SES-22055,USR-1404,Búsqueda Orgánica,Windows,572,7,0
+SES-22056,USR-1679,Redes Sociales,Windows,333,7,0
+SES-22057,USR-1294,Búsqueda Orgánica,Android,21,4,1
+SES-22058,USR-1572,Google Ads,Windows,83,5,1
+SES-22059,USR-1749,Búsqueda Orgánica,iOS,317,10,0
+SES-22060,USR-1021,Búsqueda Orgánica,Android,83,8,0
+SES-22061,USR-1010,Búsqueda Orgánica,Android,147,10,0
+SES-22062,USR-1200,Redes Sociales,Android,115,9,0
+SES-22063,USR-1510,Google Ads,Android,99999,9,0
+SES-22064,USR-1551,Google Ads,Mac,779,2,0
+SES-22065,USR-1631,Google Ads,Windows,36,9,0
+SES-22066,USR-1124,Directo,Windows,65,5,0
+SES-22067,USR-1040,Email Marketing,Android,18,12,0
+SES-22068,USR-1555,Directo,Windows,167,11,0
+SES-22069,USR-1721,Google Ads,Mac,12,5,0
+SES-22070,USR-1487,Búsqueda Orgánica,Windows,66,5,0
+SES-22071,USR-1348,Google Ads,iOS,41,8,0
+SES-22072,USR-1625,Redes Sociales,iOS,107,9,0
+SES-22073,USR-1754,Redes Sociales,Android,746,5,0
+SES-22074,USR-1253,Redes Sociales,iOS,520,14,1
+SES-22075,USR-1709,Redes Sociales,Mac,58,11,0
+SES-22076,USR-1690,Búsqueda Orgánica,Android,169,4,0
+SES-22077,USR-1149,Google Ads,Windows,181,11,0
+SES-22078,USR-1071,Búsqueda Orgánica,Linux,107,9,0
+SES-22079,USR-1743,Google Ads,iOS,264,10,0
+SES-22080,USR-1690,Búsqueda Orgánica,iOS,174,9,0
+SES-22081,USR-1575,Búsqueda Orgánica,iOS,37,11,1
+SES-22082,USR-1322,Directo,Mac,84,7,1
+SES-22083,USR-1351,Email Marketing,iOS,204,10,0
+SES-22084,USR-1527,Google Ads,Windows,149,11,0
+SES-22085,USR-1477,Redes Sociales,iOS,112,7,0
+SES-22086,USR-1474,Búsqueda Orgánica,Windows,101,13,0
+SES-22087,USR-1711,Google Ads,Windows,111,13,0
+SES-22088,USR-1497,Directo,Windows,99,14,0
+SES-22089,USR-1788,Búsqueda Orgánica,Windows,394,9,0
+SES-22090,USR-1088,Directo,Android,116,1,0
+SES-22091,USR-1048,Google Ads,Mac,119,4,0
+SES-22092,USR-1368,Google Ads,Android,505,9,0
+SES-22093,USR-1232,Email Marketing,Android,166,4,0
+SES-22094,USR-1077,Email Marketing,Windows,14,5,1
+SES-22095,USR-1045,Google Ads,Android,137,15,0
+SES-22096,USR-1520,Búsqueda Orgánica,Windows,83,3,0
+SES-22097,USR-1650,Email Marketing,Android,34,7,0
+SES-22098,USR-1730,Google Ads,Mac,558,7,0
+SES-22099,USR-1343,Búsqueda Orgánica,iOS,72,5,0
+SES-22100,USR-1003,Búsqueda Orgánica,Mac,57,8,0
+SES-22101,USR-1610,Redes Sociales,Linux,331,1,0
+SES-22102,USR-1073,Búsqueda Orgánica,Android,240,11,0
+SES-22103,USR-1381,Directo,iOS,68,14,0
+SES-22104,USR-1735,Email Marketing,iOS,410,6,0
+SES-22105,USR-1412,Búsqueda Orgánica,Android,382,11,0
+SES-22106,USR-1433,Google Ads,Linux,55,7,0
+SES-22107,USR-1696,Directo,Mac,44,1,0
+SES-22108,USR-1533,Email Marketing,Android,-120,14,0
+SES-22109,USR-1148,Redes Sociales,Android,113,1,0
+SES-22110,USR-1484,Búsqueda Orgánica,Linux,94,7,0
+SES-22111,USR-1675,Búsqueda Orgánica,Android,311,6,0
+SES-22112,USR-1474,Directo,Android,693,2,0
+SES-22113,USR-1007,Búsqueda Orgánica,Android,273,5,1
+SES-22114,USR-1202,Email Marketing,iOS,103,9,1
+SES-22115,USR-1685,Directo,Android,-120,11,0
+SES-22116,USR-1625,Email Marketing,Windows,103,8,0
+SES-22117,USR-1658,Google Ads,Mac,339,15,0
+SES-22118,USR-1532,Redes Sociales,Windows,109,10,0
+SES-22119,USR-1257,Búsqueda Orgánica,Android,189,13,0
+SES-22120,USR-1756,Email Marketing,Android,275,13,1
+SES-22121,USR-1061,Redes Sociales,Android,145,15,0
+SES-22122,USR-1722,Búsqueda Orgánica,iOS,40,13,0
+SES-22123,USR-1754,Redes Sociales,Windows,85,13,0
+SES-22124,USR-1058,Directo,Android,211,10,0
+SES-22125,USR-1335,Búsqueda Orgánica,iOS,30,9,0
+SES-22126,USR-1662,Búsqueda Orgánica,iOS,65,6,0
+SES-22127,USR-1429,Email Marketing,Android,374,12,0
+SES-22128,USR-1057,Google Ads,Windows,29,14,0
+SES-22129,USR-1097,Google Ads,Linux,153,14,0
+SES-22130,USR-1076,Redes Sociales,Windows,99999,2,0
+SES-22131,USR-1494,Directo,Windows,169,4,0
+SES-22132,USR-1471,Redes Sociales,iOS,207,11,0
+SES-22133,USR-1280,Búsqueda Orgánica,Android,157,14,0
+SES-22134,USR-1122,Email Marketing,Linux,277,11,0
+SES-22135,USR-1431,Google Ads,iOS,411,9,0
+SES-22136,USR-1235,Redes Sociales,Windows,129,6,0
+SES-22137,USR-1283,Redes Sociales,Android,246,9,0
+SES-22138,USR-1202,Búsqueda Orgánica,Windows,195,3,0
+SES-22139,USR-1416,Redes Sociales,Android,84,5,0
+SES-22140,USR-1204,Google Ads,iOS,265,4,0
+SES-22141,USR-1514,Búsqueda Orgánica,Windows,114,8,0
+SES-22142,USR-1715,Email Marketing,Windows,152,4,0
+SES-22143,USR-1381,Email Marketing,Android,105,13,0
+SES-22144,USR-1639,Directo,Mac,44,2,0
+SES-22145,USR-1511,Búsqueda Orgánica,Windows,317,7,0
+SES-22146,USR-1181,Google Ads,Windows,439,12,0
+SES-22147,USR-1665,Directo,Android,-120,10,0
+SES-22148,USR-1157,Búsqueda Orgánica,Windows,79,3,0
+SES-22149,USR-1337,Directo,iOS,675,2,1
+SES-22150,USR-1462,Búsqueda Orgánica,Windows,100,12,1
+SES-22151,USR-1182,Búsqueda Orgánica,Android,547,8,0
+SES-22152,USR-1346,Búsqueda Orgánica,Windows,71,5,0
+SES-22153,USR-1477,Búsqueda Orgánica,Android,-120,13,0
+SES-22154,USR-1314,Búsqueda Orgánica,Android,656,9,0
+SES-22155,USR-1534,Google Ads,Android,356,9,0
+SES-22156,USR-1233,Búsqueda Orgánica,Windows,1107,12,0
+SES-22157,USR-1076,Google Ads,Android,322,1,1
+SES-22158,USR-1497,Búsqueda Orgánica,iOS,72,5,0
+SES-22159,USR-1014,Redes Sociales,Windows,171,15,0
+SES-22160,USR-1255,Búsqueda Orgánica,iOS,476,11,0
+SES-22161,USR-1333,Directo,iOS,67,2,0
+SES-22162,USR-1548,Búsqueda Orgánica,iOS,15,11,0
+SES-22163,USR-1606,Búsqueda Orgánica,Android,62,12,0
+SES-22164,USR-1356,Redes Sociales,Android,221,3,0
+SES-22165,USR-1150,Google Ads,Mac,113,10,1
+SES-22166,USR-1769,Redes Sociales,Windows,89,9,0
+SES-22167,USR-1090,Email Marketing,Windows,32,13,0
+SES-22168,USR-1343,Redes Sociales,iOS,287,9,0
+SES-22169,USR-1501,Email Marketing,Mac,65,13,1
+SES-22170,USR-1607,Búsqueda Orgánica,Linux,218,10,0
+SES-22171,USR-1221,Búsqueda Orgánica,iOS,147,14,0
+SES-22172,USR-1433,Directo,Windows,345,2,0
+SES-22173,USR-1654,Google Ads,Mac,35,15,0
+SES-22174,USR-1089,Búsqueda Orgánica,Windows,57,11,0
+SES-22175,USR-1116,Google Ads,Windows,75,8,0
+SES-22176,USR-1081,Google Ads,Windows,701,11,0
+SES-22177,USR-1041,Google Ads,iOS,98,2,0
+SES-22178,USR-1022,Redes Sociales,Android,228,3,0
+SES-22179,USR-1445,Google Ads,Android,268,9,0
+SES-22180,USR-1769,Google Ads,iOS,512,6,0
+SES-22181,USR-1308,Redes Sociales,Android,255,11,0
+SES-22182,USR-1751,Redes Sociales,Android,91,12,0
+SES-22183,USR-1237,Google Ads,Android,21,11,0
+SES-22184,USR-1276,Directo,Windows,262,3,0
+SES-22185,USR-1144,Google Ads,iOS,108,7,0
+SES-22186,USR-1387,Google Ads,Windows,204,10,0
+SES-22187,USR-1365,Google Ads,Android,87,7,0
+SES-22188,USR-1654,Búsqueda Orgánica,Android,264,1,0
+SES-22189,USR-1614,Búsqueda Orgánica,Android,39,5,0
+SES-22190,USR-1127,Directo,Windows,27,7,0
+SES-22191,USR-1376,Google Ads,Android,288,8,0
+SES-22192,USR-1001,Búsqueda Orgánica,Android,116,4,0
+SES-22193,USR-1678,Búsqueda Orgánica,Windows,96,10,0
+SES-22194,USR-1082,Redes Sociales,Android,-120,11,0
+SES-22195,USR-1563,Búsqueda Orgánica,Android,89,11,0
+SES-22196,USR-1497,Email Marketing,Mac,154,5,0
+SES-22197,USR-1722,Búsqueda Orgánica,iOS,172,8,0
+SES-22198,USR-1292,Redes Sociales,Mac,200,9,0
+SES-22199,USR-1221,Redes Sociales,Windows,260,7,1
+SES-22200,USR-1327,Google Ads,Windows,89,11,0
+SES-22201,USR-1651,Google Ads,Windows,25,15,1
+SES-22202,USR-1068,Redes Sociales,Android,86,5,0
+SES-22203,USR-1265,Búsqueda Orgánica,Android,166,6,0
+SES-22204,USR-1440,Búsqueda Orgánica,Mac,182,6,0
+SES-22205,USR-1510,Directo,Windows,383,7,0
+SES-22206,USR-1293,Google Ads,Mac,348,7,0
+SES-22207,USR-1534,Redes Sociales,iOS,134,13,0
+SES-22208,USR-1711,Email Marketing,Android,18,13,0
+SES-22209,USR-1018,Redes Sociales,Windows,145,13,0
+SES-22210,USR-1593,Google Ads,Windows,385,15,0
+SES-22211,USR-1035,Email Marketing,iOS,31,9,0
+SES-22212,USR-1012,Email Marketing,Windows,126,4,0
+SES-22213,USR-1717,Redes Sociales,Windows,290,6,0
+SES-22214,USR-1242,Google Ads,Android,137,2,0
+SES-22215,USR-1135,Directo,Android,517,15,0
+SES-22216,USR-1677,Google Ads,iOS,436,12,1
+SES-22217,USR-1572,Google Ads,iOS,626,9,1
+SES-22218,USR-1301,Email Marketing,Windows,99999,13,0
+SES-22219,USR-1400,Email Marketing,Windows,213,11,0
+SES-22220,USR-1706,Búsqueda Orgánica,Windows,43,12,0
+SES-22221,USR-1742,Búsqueda Orgánica,Android,21,13,0
+SES-22222,USR-1311,Búsqueda Orgánica,iOS,10,3,0
+SES-22223,USR-1234,Directo,Windows,155,15,1
+SES-22224,USR-1694,Búsqueda Orgánica,Windows,389,5,0
+SES-22225,USR-1736,Directo,Windows,415,14,0
+SES-22226,USR-1362,Email Marketing,Windows,127,8,0
+SES-22227,USR-1442,Redes Sociales,Mac,874,9,0
+SES-22228,USR-1280,Google Ads,iOS,205,5,0
+SES-22229,USR-1593,Búsqueda Orgánica,Windows,386,15,0
+SES-22230,USR-1713,Google Ads,Mac,63,10,0
+SES-22231,USR-1607,Búsqueda Orgánica,Windows,123,2,0
+SES-22232,USR-1112,Búsqueda Orgánica,Android,120,5,0
+SES-22233,USR-1308,Redes Sociales,Windows,220,8,1
+SES-22234,USR-1576,Búsqueda Orgánica,Linux,209,4,0
+SES-22235,USR-1565,Redes Sociales,Android,575,7,0
+SES-22236,USR-1315,Directo,iOS,10,9,0
+SES-22237,USR-1123,Búsqueda Orgánica,iOS,15,1,0
+SES-22238,USR-1517,Búsqueda Orgánica,Mac,99999,8,1
+SES-22239,USR-1456,Google Ads,Android,282,15,0
+SES-22240,USR-1654,Búsqueda Orgánica,Android,133,11,0
+SES-22241,USR-1474,Google Ads,Android,-120,5,0
+SES-22242,USR-1004,Google Ads,Android,-120,8,0
+SES-22243,USR-1229,Búsqueda Orgánica,Windows,150,5,0
+SES-22244,USR-1129,Google Ads,Android,70,5,0
+SES-22245,USR-1746,Google Ads,Windows,33,10,0
+SES-22246,USR-1117,Búsqueda Orgánica,iOS,21,12,0
+SES-22247,USR-1516,Email Marketing,Android,60,2,1
+SES-22248,USR-1199,Búsqueda Orgánica,Windows,29,14,0
+SES-22249,USR-1479,Búsqueda Orgánica,Windows,165,13,0
+SES-22250,USR-1184,Google Ads,Android,-120,12,0
+SES-22251,USR-1237,Búsqueda Orgánica,Android,41,10,0
+SES-22252,USR-1205,Email Marketing,Android,46,9,0
+SES-22253,USR-1243,Directo,Windows,213,14,0
+SES-22254,USR-1165,Búsqueda Orgánica,Linux,436,9,0
+SES-22255,USR-1773,Google Ads,Windows,14,7,0
+SES-22256,USR-1460,Búsqueda Orgánica,Windows,18,7,0
+SES-22257,USR-1105,Google Ads,Windows,13,5,0
+SES-22258,USR-1798,Búsqueda Orgánica,Windows,141,15,0
+SES-22259,USR-1412,Email Marketing,Windows,476,6,0
+SES-22260,USR-1079,Búsqueda Orgánica,Android,12,6,0
+SES-22261,USR-1459,Google Ads,Linux,99999,5,0
+SES-22262,USR-1471,Redes Sociales,iOS,150,15,0
+SES-22263,USR-1597,Búsqueda Orgánica,Android,146,4,0
+SES-22264,USR-1197,Búsqueda Orgánica,Android,130,9,0
+SES-22265,USR-1491,Búsqueda Orgánica,Mac,114,9,0
+SES-22266,USR-1460,Búsqueda Orgánica,Windows,204,1,0
+SES-22267,USR-1646,Redes Sociales,Windows,497,10,0
+SES-22268,USR-1165,Email Marketing,Windows,17,6,0
+SES-22269,USR-1632,Google Ads,Mac,152,6,0
+SES-22270,USR-1476,Redes Sociales,Windows,112,6,0
+SES-22271,USR-1638,Búsqueda Orgánica,Windows,46,15,0
+SES-22272,USR-1787,Redes Sociales,Windows,201,7,0
+SES-22273,USR-1547,Redes Sociales,Windows,28,15,1
+SES-22274,USR-1337,Búsqueda Orgánica,Windows,62,15,0
+SES-22275,USR-1270,Directo,Android,103,10,0
+SES-22276,USR-1765,Búsqueda Orgánica,Android,1487,7,0
+SES-22277,USR-1004,Búsqueda Orgánica,Android,603,2,1
+SES-22278,USR-1434,Email Marketing,Android,61,11,0
+SES-22279,USR-1159,Google Ads,Windows,339,5,0
+SES-22280,USR-1657,Búsqueda Orgánica,Mac,445,5,0
+SES-22281,USR-1325,Redes Sociales,Android,227,8,0
+SES-22282,USR-1303,Google Ads,iOS,465,14,0
+SES-22283,USR-1663,Google Ads,Android,135,2,0
+SES-22284,USR-1267,Redes Sociales,Windows,51,3,1
+SES-22285,USR-1534,Email Marketing,Windows,169,11,0
+SES-22286,USR-1424,Google Ads,Android,48,15,1
+SES-22287,USR-1451,Email Marketing,Windows,16,13,0
+SES-22288,USR-1653,Búsqueda Orgánica,Windows,111,7,0
+SES-22289,USR-1771,Email Marketing,Windows,12,8,0
+SES-22290,USR-1133,Directo,iOS,135,15,0
+SES-22291,USR-1013,Email Marketing,Android,365,12,0
+SES-22292,USR-1660,Email Marketing,iOS,56,8,0
+SES-22293,USR-1614,Redes Sociales,Mac,67,2,1
+SES-22294,USR-1238,Google Ads,iOS,1092,5,0
+SES-22295,USR-1633,Búsqueda Orgánica,Android,444,13,0
+SES-22296,USR-1215,Búsqueda Orgánica,Android,195,15,0
+SES-22297,USR-1643,Búsqueda Orgánica,Android,147,9,0
+SES-22298,USR-1589,Directo,Android,280,7,0
+SES-22299,USR-1064,Google Ads,Mac,205,5,0
+SES-22300,USR-1250,Redes Sociales,Mac,53,12,0
+SES-22301,USR-1651,Directo,Android,164,10,0
+SES-22302,USR-1686,Google Ads,Mac,258,10,0
+SES-22303,USR-1500,Redes Sociales,Windows,148,12,0
+SES-22304,USR-1576,Google Ads,Android,40,11,0
+SES-22305,USR-1220,Búsqueda Orgánica,iOS,54,8,0
+SES-22306,USR-1310,Redes Sociales,Windows,32,2,0
+SES-22307,USR-1548,Email Marketing,Android,40,4,0
+SES-22308,USR-1024,Búsqueda Orgánica,Mac,359,1,1
+SES-22309,USR-1673,Google Ads,iOS,37,1,0
+SES-22310,USR-1385,Google Ads,Windows,123,5,0
+SES-22311,USR-1471,Redes Sociales,Android,82,11,0
+SES-22312,USR-1634,Email Marketing,Android,263,12,0
+SES-22313,USR-1177,Google Ads,Android,-120,15,0
+SES-22314,USR-1753,Email Marketing,Windows,10,7,0
+SES-22315,USR-1727,Redes Sociales,Windows,73,9,0
+SES-22316,USR-1514,Redes Sociales,Windows,48,2,0
+SES-22317,USR-1671,Redes Sociales,Mac,20,13,0
+SES-22318,USR-1189,Búsqueda Orgánica,Mac,156,12,1
+SES-22319,USR-1027,Email Marketing,Android,402,3,0
+SES-22320,USR-1690,Búsqueda Orgánica,Android,475,8,0
+SES-22321,USR-1270,Búsqueda Orgánica,iOS,37,7,0
+SES-22322,USR-1210,Búsqueda Orgánica,Android,62,6,0
+SES-22323,USR-1269,Redes Sociales,Android,213,13,0
+SES-22324,USR-1665,Google Ads,iOS,107,5,0
+SES-22325,USR-1447,Directo,Windows,99999,5,0
+SES-22326,USR-1244,Búsqueda Orgánica,Android,20,8,0
+SES-22327,USR-1756,Búsqueda Orgánica,Windows,82,6,0
+SES-22328,USR-1766,Google Ads,iOS,24,12,0
+SES-22329,USR-1068,Redes Sociales,Windows,439,1,0
+SES-22330,USR-1387,Google Ads,Android,327,8,0
+SES-22331,USR-1042,Búsqueda Orgánica,Windows,129,2,0
+SES-22332,USR-1547,Búsqueda Orgánica,Windows,31,8,0
+SES-22333,USR-1498,Redes Sociales,iOS,-120,15,0
+SES-22334,USR-1397,Google Ads,Android,35,7,0
+SES-22335,USR-1524,Redes Sociales,Windows,44,5,0
+SES-22336,USR-1295,Email Marketing,Android,250,14,0
+SES-22337,USR-1558,Google Ads,Android,33,10,0
+SES-22338,USR-1344,Redes Sociales,Windows,41,2,0
+SES-22339,USR-1669,Búsqueda Orgánica,Windows,217,9,1
+SES-22340,USR-1612,Búsqueda Orgánica,Windows,70,10,0
+SES-22341,USR-1327,Redes Sociales,Windows,289,14,0
+SES-22342,USR-1692,Redes Sociales,Android,131,13,0
+SES-22343,USR-1627,Búsqueda Orgánica,iOS,30,10,0
+SES-22344,USR-1318,Redes Sociales,Android,293,3,0
+SES-22345,USR-1767,Búsqueda Orgánica,Android,-120,5,0
+SES-22346,USR-1204,Búsqueda Orgánica,Android,115,11,0
+SES-22347,USR-1799,Búsqueda Orgánica,Windows,86,14,0
+SES-22348,USR-1175,Google Ads,Android,75,6,0
+SES-22349,USR-1012,Google Ads,iOS,56,5,0
+SES-22350,USR-1737,Redes Sociales,iOS,29,4,0
+SES-22351,USR-1709,Búsqueda Orgánica,Windows,317,12,0
+SES-22352,USR-1340,Búsqueda Orgánica,Android,84,4,0
+SES-22353,USR-1403,Búsqueda Orgánica,Android,60,8,0
+SES-22354,USR-1761,Búsqueda Orgánica,Android,53,12,1
+SES-22355,USR-1107,Búsqueda Orgánica,Windows,17,15,0
+SES-22356,USR-1010,Google Ads,Android,69,1,0
+SES-22357,USR-1219,Búsqueda Orgánica,Windows,230,9,0
+SES-22358,USR-1758,Redes Sociales,Windows,12,8,0
+SES-22359,USR-1334,Google Ads,Android,199,11,0
+SES-22360,USR-1306,Directo,Android,-120,13,0
+SES-22361,USR-1276,Google Ads,Windows,94,12,0
+SES-22362,USR-1738,Email Marketing,Mac,38,5,0
+SES-22363,USR-1554,Google Ads,Windows,33,5,0
+SES-22364,USR-1197,Google Ads,Windows,38,9,0
+SES-22365,USR-1525,Directo,Android,159,13,1
+SES-22366,USR-1133,Email Marketing,Windows,218,4,0
+SES-22367,USR-1438,Redes Sociales,Android,207,7,0
+SES-22368,USR-1107,Redes Sociales,Windows,774,10,0
+SES-22369,USR-1450,Google Ads,iOS,35,15,0
+SES-22370,USR-1515,Redes Sociales,Android,21,6,0
+SES-22371,USR-1710,Google Ads,iOS,203,11,0
+SES-22372,USR-1707,Google Ads,Windows,81,9,0
+SES-22373,USR-1428,Google Ads,iOS,68,13,0
+SES-22374,USR-1626,Google Ads,iOS,291,7,0
+SES-22375,USR-1631,Búsqueda Orgánica,Android,19,13,0
+SES-22376,USR-1128,Redes Sociales,Windows,30,11,0
+SES-22377,USR-1378,Google Ads,Windows,465,3,0
+SES-22378,USR-1710,Google Ads,Android,51,12,1
+SES-22379,USR-1712,Redes Sociales,Mac,720,9,0
+SES-22380,USR-1168,Búsqueda Orgánica,Android,110,5,0
+SES-22381,USR-1265,Directo,Windows,36,5,0
+SES-22382,USR-1226,Búsqueda Orgánica,Android,18,6,0
+SES-22383,USR-1400,Redes Sociales,Android,86,12,1
+SES-22384,USR-1083,Búsqueda Orgánica,iOS,345,3,0
+SES-22385,USR-1282,Google Ads,Windows,139,5,0
+SES-22386,USR-1605,Redes Sociales,Windows,106,5,0
+SES-22387,USR-1625,Google Ads,iOS,140,3,0
+SES-22388,USR-1791,Búsqueda Orgánica,Android,264,12,1
+SES-22389,USR-1349,Redes Sociales,Windows,10,8,0
+SES-22390,USR-1493,Email Marketing,Windows,262,9,0
+SES-22391,USR-1230,Email Marketing,Android,90,12,0
+SES-22392,USR-1188,Email Marketing,iOS,266,15,0
+SES-22393,USR-1434,Google Ads,iOS,75,8,0
+SES-22394,USR-1738,Google Ads,Windows,423,10,0
+SES-22395,USR-1159,Email Marketing,iOS,209,14,0
+SES-22396,USR-1622,Email Marketing,iOS,55,13,0
+SES-22397,USR-1468,Google Ads,Android,48,2,0
+SES-22398,USR-1750,Redes Sociales,Android,404,8,0
+SES-22399,USR-1698,Email Marketing,Windows,27,5,0
+SES-22400,USR-1278,Google Ads,Android,143,5,0
+SES-22401,USR-1460,Email Marketing,Android,113,14,0
+SES-22402,USR-1237,Búsqueda Orgánica,Windows,79,10,0
+SES-22403,USR-1388,Redes Sociales,Windows,226,2,1
+SES-22404,USR-1622,Búsqueda Orgánica,Android,238,1,0
+SES-22405,USR-1593,Búsqueda Orgánica,Android,55,5,0
+SES-22406,USR-1537,Redes Sociales,Windows,143,14,0
+SES-22407,USR-1630,Búsqueda Orgánica,Mac,141,14,0
+SES-22408,USR-1087,Búsqueda Orgánica,Windows,24,13,0
+SES-22409,USR-1308,Google Ads,Android,741,2,0
+SES-22410,USR-1652,Búsqueda Orgánica,Windows,177,12,0
+SES-22411,USR-1058,Email Marketing,Windows,104,11,0
+SES-22412,USR-1708,Búsqueda Orgánica,Android,341,11,0
+SES-22413,USR-1324,Google Ads,Windows,51,4,0
+SES-22414,USR-1221,Redes Sociales,iOS,23,15,0
+SES-22415,USR-1719,Google Ads,iOS,19,1,1
+SES-22416,USR-1108,Google Ads,Android,51,6,1
+SES-22417,USR-1705,Búsqueda Orgánica,Windows,118,12,1
+SES-22418,USR-1444,Email Marketing,Android,213,9,0
+SES-22419,USR-1016,Email Marketing,Windows,102,13,0
+SES-22420,USR-1051,Redes Sociales,Windows,-120,13,0
+SES-22421,USR-1105,Email Marketing,Android,75,1,0
+SES-22422,USR-1351,Email Marketing,Android,151,12,0
+SES-22423,USR-1670,Búsqueda Orgánica,iOS,24,13,0
+SES-22424,USR-1024,Redes Sociales,Android,21,3,1
+SES-22425,USR-1466,Búsqueda Orgánica,Android,258,2,0
+SES-22426,USR-1658,Google Ads,Android,171,7,0
+SES-22427,USR-1603,Redes Sociales,Windows,254,12,0
+SES-22428,USR-1288,Directo,Windows,125,13,0
+SES-22429,USR-1409,Búsqueda Orgánica,Android,20,14,0
+SES-22430,USR-1261,Búsqueda Orgánica,Android,171,14,0
+SES-22431,USR-1278,Búsqueda Orgánica,Android,69,8,0
+SES-22432,USR-1393,Email Marketing,Android,451,9,0
+SES-22433,USR-1555,Redes Sociales,Mac,176,3,0
+SES-22434,USR-1147,Directo,iOS,23,9,0
+SES-22435,USR-1060,Email Marketing,Windows,328,5,0
+SES-22436,USR-1265,Búsqueda Orgánica,Android,134,2,0
+SES-22437,USR-1148,Google Ads,Android,94,8,0
+SES-22438,USR-1302,Búsqueda Orgánica,Android,99,9,0
+SES-22439,USR-1373,Email Marketing,Windows,42,2,0
+SES-22440,USR-1078,Redes Sociales,Android,53,4,0
+SES-22441,USR-1784,Google Ads,Android,33,5,0
+SES-22442,USR-1759,Redes Sociales,iOS,324,15,0
+SES-22443,USR-1429,Redes Sociales,Windows,16,6,0
+SES-22444,USR-1216,Redes Sociales,Windows,59,14,0
+SES-22445,USR-1007,Redes Sociales,Windows,44,4,0
+SES-22446,USR-1085,Google Ads,Windows,96,1,0
+SES-22447,USR-1209,Búsqueda Orgánica,Windows,99999,1,0
+SES-22448,USR-1540,Directo,Windows,18,13,0
+SES-22449,USR-1103,Redes Sociales,Mac,312,12,0
+SES-22450,USR-1452,Redes Sociales,Android,135,10,0
+SES-22451,USR-1154,Google Ads,Windows,448,13,0
+SES-22452,USR-1603,Redes Sociales,Android,171,2,0
+SES-22453,USR-1571,Directo,Windows,69,2,0
+SES-22454,USR-1336,Directo,Windows,20,12,0
+SES-22455,USR-1635,Redes Sociales,Android,249,11,0
+SES-22456,USR-1152,Búsqueda Orgánica,Android,292,7,0
+SES-22457,USR-1421,Google Ads,iOS,19,4,0
+SES-22458,USR-1366,Búsqueda Orgánica,Android,123,9,0
+SES-22459,USR-1654,Búsqueda Orgánica,Mac,-120,11,0
+SES-22460,USR-1418,Google Ads,Android,1362,12,0
+SES-22461,USR-1628,Redes Sociales,Windows,142,9,0
+SES-22462,USR-1719,Google Ads,Windows,462,4,0
+SES-22463,USR-1397,Búsqueda Orgánica,iOS,367,4,0
+SES-22464,USR-1667,Directo,Android,235,3,0
+SES-22465,USR-1544,Directo,Android,86,7,0
+SES-22466,USR-1071,Redes Sociales,Windows,37,3,0
+SES-22467,USR-1595,Google Ads,iOS,113,3,0
+SES-22468,USR-1446,Email Marketing,Android,173,6,0
+SES-22469,USR-1592,Google Ads,Android,55,10,0
+SES-22470,USR-1215,Email Marketing,Windows,151,2,0
+SES-22471,USR-1089,Redes Sociales,iOS,14,7,0
+SES-22472,USR-1779,Email Marketing,Windows,84,5,0
+SES-22473,USR-1777,Redes Sociales,Windows,263,12,0
+SES-22474,USR-1117,Email Marketing,iOS,220,7,0
+SES-22475,USR-1346,Google Ads,iOS,132,15,0
+SES-22476,USR-1123,Email Marketing,iOS,345,2,0
+SES-22477,USR-1335,Directo,Windows,18,6,1
+SES-22478,USR-1167,Google Ads,Android,182,9,0
+SES-22479,USR-1345,Búsqueda Orgánica,Android,419,11,0
+SES-22480,USR-1662,Google Ads,Windows,174,5,0
+SES-22481,USR-1535,Directo,Mac,871,11,0
+SES-22482,USR-1494,Búsqueda Orgánica,Windows,409,6,0
+SES-22483,USR-1795,Redes Sociales,Windows,182,15,0
+SES-22484,USR-1357,Búsqueda Orgánica,Windows,88,9,1
+SES-22485,USR-1751,Búsqueda Orgánica,Windows,22,12,0
+SES-22486,USR-1611,Búsqueda Orgánica,Android,103,7,0
+SES-22487,USR-1579,Email Marketing,Android,12,11,0
+SES-22488,USR-1719,Redes Sociales,iOS,60,8,0
+SES-22489,USR-1704,Google Ads,Android,22,4,0
+SES-22490,USR-1063,Directo,Windows,331,4,0
+SES-22491,USR-1022,Google Ads,Android,19,12,0
+SES-22492,USR-1439,Redes Sociales,Android,14,5,0
+SES-22493,USR-1263,Búsqueda Orgánica,iOS,156,15,0
+SES-22494,USR-1019,Email Marketing,Windows,468,1,0
+SES-22495,USR-1634,Google Ads,Windows,313,8,0
+SES-22496,USR-1517,Búsqueda Orgánica,Mac,165,2,0
+SES-22497,USR-1685,Email Marketing,Windows,511,10,0
+SES-22498,USR-1476,Email Marketing,Windows,579,13,0
+SES-22499,USR-1524,Búsqueda Orgánica,iOS,98,8,0
+SES-22500,USR-1337,Búsqueda Orgánica,Windows,86,8,0
+SES-22501,USR-1053,Email Marketing,Windows,195,9,0
+SES-22502,USR-1601,Google Ads,Windows,62,11,0
+SES-22503,USR-1731,Búsqueda Orgánica,Android,444,15,0
+SES-22504,USR-1567,Email Marketing,Windows,52,7,0
+SES-22505,USR-1226,Google Ads,Android,509,15,0
+SES-22506,USR-1249,Búsqueda Orgánica,Android,85,9,0
+SES-22507,USR-1177,Redes Sociales,Android,99999,3,0
+SES-22508,USR-1288,Búsqueda Orgánica,iOS,34,11,0
+SES-22509,USR-1681,Google Ads,Android,33,11,0
+SES-22510,USR-1713,Google Ads,iOS,380,5,0
+SES-22511,USR-1255,Google Ads,Windows,136,2,0
+SES-22512,USR-1535,Google Ads,Windows,46,14,0
+SES-22513,USR-1352,Directo,Windows,175,11,1
+SES-22514,USR-1634,Redes Sociales,iOS,198,13,0
+SES-22515,USR-1453,Redes Sociales,iOS,77,10,0
+SES-22516,USR-1493,Google Ads,Windows,17,10,0
+SES-22517,USR-1128,Directo,Mac,13,11,0
+SES-22518,USR-1392,Búsqueda Orgánica,Windows,286,12,0
+SES-22519,USR-1191,Google Ads,Android,54,14,0
+SES-22520,USR-1118,Email Marketing,Android,-120,13,0
+SES-22521,USR-1163,Búsqueda Orgánica,Android,37,11,1
+SES-22522,USR-1653,Email Marketing,Windows,71,7,1
+SES-22523,USR-1128,Email Marketing,Android,405,13,0
+SES-22524,USR-1211,Búsqueda Orgánica,Android,-120,7,0
+SES-22525,USR-1007,Redes Sociales,Windows,212,7,0
+SES-22526,USR-1498,Redes Sociales,Android,197,11,0
+SES-22527,USR-1603,Redes Sociales,Windows,512,2,0
+SES-22528,USR-1271,Redes Sociales,Mac,438,15,0
+SES-22529,USR-1739,Email Marketing,Android,306,6,0
+SES-22530,USR-1724,Redes Sociales,Windows,154,5,0
+SES-22531,USR-1532,Búsqueda Orgánica,Windows,476,3,0
+SES-22532,USR-1080,Directo,Windows,190,11,0
+SES-22533,USR-1470,Google Ads,Windows,99999,8,1
+SES-22534,USR-1317,Google Ads,Windows,413,2,0
+SES-22535,USR-1383,Redes Sociales,Android,25,13,1
+SES-22536,USR-1682,Búsqueda Orgánica,Android,24,2,0
+SES-22537,USR-1567,Búsqueda Orgánica,Android,294,2,0
+SES-22538,USR-1739,Búsqueda Orgánica,Android,162,12,0
+SES-22539,USR-1035,Directo,Android,28,1,0
+SES-22540,USR-1665,Email Marketing,Android,99999,3,1
+SES-22541,USR-1113,Google Ads,Android,123,6,0
+SES-22542,USR-1011,Directo,Android,73,15,0
+SES-22543,USR-1235,Google Ads,Windows,137,1,0
+SES-22544,USR-1246,Google Ads,iOS,168,12,0
+SES-22545,USR-1380,Google Ads,Windows,226,12,0
+SES-22546,USR-1426,Google Ads,iOS,266,13,0
+SES-22547,USR-1151,Redes Sociales,Windows,99,15,0
+SES-22548,USR-1193,Directo,iOS,130,6,0
+SES-22549,USR-1358,Google Ads,Android,154,2,0
+SES-22550,USR-1641,Búsqueda Orgánica,Android,330,10,0
+SES-22551,USR-1068,Email Marketing,iOS,61,3,0
+SES-22552,USR-1575,Directo,Windows,156,12,0
+SES-22553,USR-1752,Google Ads,iOS,115,13,1
+SES-22554,USR-1027,Email Marketing,Mac,76,6,0
+SES-22555,USR-1611,Búsqueda Orgánica,Windows,15,11,0
+SES-22556,USR-1589,Email Marketing,iOS,79,6,1
+SES-22557,USR-1215,Búsqueda Orgánica,Windows,22,14,0
+SES-22558,USR-1440,Redes Sociales,iOS,365,7,0
+SES-22559,USR-1682,Búsqueda Orgánica,Android,38,10,0
+SES-22560,USR-1371,Búsqueda Orgánica,iOS,24,13,0
+SES-22561,USR-1222,Redes Sociales,iOS,251,5,0
+SES-22562,USR-1465,Redes Sociales,Android,127,12,1
+SES-22563,USR-1754,Email Marketing,Android,25,13,0
+SES-22564,USR-1178,Redes Sociales,Android,66,14,0
+SES-22565,USR-1053,Búsqueda Orgánica,Windows,304,6,0
+SES-22566,USR-1158,Google Ads,iOS,29,12,0
+SES-22567,USR-1799,Email Marketing,Android,137,2,0
+SES-22568,USR-1609,Email Marketing,Windows,14,10,0
+SES-22569,USR-1077,Directo,Mac,88,6,0
+SES-22570,USR-1738,Redes Sociales,iOS,37,9,0
+SES-22571,USR-1282,Email Marketing,iOS,40,12,0
+SES-22572,USR-1521,Directo,Windows,29,11,0
+SES-22573,USR-1315,Google Ads,iOS,27,2,0
+SES-22574,USR-1671,Búsqueda Orgánica,Windows,25,9,0
+SES-22575,USR-1216,Búsqueda Orgánica,Windows,111,7,0
+SES-22576,USR-1199,Google Ads,Windows,32,7,0
+SES-22577,USR-1600,Google Ads,Windows,372,7,0
+SES-22578,USR-1001,Redes Sociales,Android,151,14,1
+SES-22579,USR-1574,Búsqueda Orgánica,Windows,66,15,0
+SES-22580,USR-1098,Email Marketing,iOS,89,5,0
+SES-22581,USR-1529,Google Ads,Android,24,14,0
+SES-22582,USR-1397,Email Marketing,Android,137,10,0
+SES-22583,USR-1647,Directo,Mac,88,2,0
+SES-22584,USR-1390,Búsqueda Orgánica,Android,228,3,0
+SES-22585,USR-1745,Directo,Windows,89,11,0
+SES-22586,USR-1521,Redes Sociales,iOS,687,6,0
+SES-22587,USR-1471,Google Ads,Android,585,8,1
+SES-22588,USR-1502,Búsqueda Orgánica,Android,239,10,0
+SES-22589,USR-1550,Email Marketing,Android,159,5,0
+SES-22590,USR-1252,Google Ads,Windows,43,14,0
+SES-22591,USR-1625,Búsqueda Orgánica,iOS,23,15,0
+SES-22592,USR-1322,Búsqueda Orgánica,Windows,88,3,0
+SES-22593,USR-1138,Email Marketing,Android,54,14,0
+SES-22594,USR-1261,Búsqueda Orgánica,iOS,349,11,0
+SES-22595,USR-1416,Email Marketing,Windows,174,11,0
+SES-22596,USR-1513,Redes Sociales,Windows,289,5,0
+SES-22597,USR-1198,Directo,Linux,35,5,0
+SES-22598,USR-1650,Google Ads,Windows,50,4,0
+SES-22599,USR-1493,Búsqueda Orgánica,Android,61,15,0
+SES-22600,USR-1466,Google Ads,Windows,527,5,0
+SES-22601,USR-1121,Búsqueda Orgánica,Android,468,15,0
+SES-22602,USR-1105,Google Ads,Linux,189,13,0
+SES-22603,USR-1248,Directo,Android,100,9,0
+SES-22604,USR-1639,Directo,iOS,63,3,0
+SES-22605,USR-1283,Google Ads,Windows,65,15,0
+SES-22606,USR-1307,Google Ads,Android,51,15,1
+SES-22607,USR-1723,Google Ads,Android,56,10,0
+SES-22608,USR-1264,Directo,Android,54,2,1
+SES-22609,USR-1174,Redes Sociales,iOS,160,14,0
+SES-22610,USR-1156,Redes Sociales,Windows,85,7,0
+SES-22611,USR-1511,Email Marketing,Windows,99,7,0
+SES-22612,USR-1607,Redes Sociales,iOS,18,8,0
+SES-22613,USR-1632,Búsqueda Orgánica,Android,103,2,1
+SES-22614,USR-1619,Redes Sociales,Windows,303,1,1
+SES-22615,USR-1440,Redes Sociales,iOS,20,10,0
+SES-22616,USR-1761,Google Ads,iOS,107,8,1
+SES-22617,USR-1756,Redes Sociales,Windows,98,2,0
+SES-22618,USR-1160,Email Marketing,Linux,473,3,0
+SES-22619,USR-1720,Email Marketing,Windows,103,1,0
+SES-22620,USR-1361,Email Marketing,Windows,422,12,0
+SES-22621,USR-1572,Búsqueda Orgánica,Android,367,2,0
+SES-22622,USR-1232,Búsqueda Orgánica,Windows,324,10,0
+SES-22623,USR-1197,Google Ads,Windows,280,1,0
+SES-22624,USR-1367,Redes Sociales,Mac,32,12,0
+SES-22625,USR-1737,Google Ads,Mac,216,11,0
+SES-22626,USR-1016,Búsqueda Orgánica,Android,362,10,1
+SES-22627,USR-1566,Redes Sociales,iOS,48,8,0
+SES-22628,USR-1030,Redes Sociales,Android,624,12,1
+SES-22629,USR-1337,Email Marketing,Windows,221,3,0
+SES-22630,USR-1204,Redes Sociales,Windows,167,8,0
+SES-22631,USR-1426,Email Marketing,Windows,27,14,0
+SES-22632,USR-1416,Redes Sociales,Android,107,2,0
+SES-22633,USR-1130,Google Ads,Windows,218,2,0
+SES-22634,USR-1389,Búsqueda Orgánica,Windows,79,7,0
+SES-22635,USR-1799,Email Marketing,Windows,222,4,0
+SES-22636,USR-1174,Google Ads,Android,69,6,0
+SES-22637,USR-1467,Redes Sociales,Windows,165,10,0
+SES-22638,USR-1183,Búsqueda Orgánica,Windows,180,10,0
+SES-22639,USR-1455,Directo,Android,64,8,0
+SES-22640,USR-1324,Redes Sociales,Windows,167,5,0
+SES-22641,USR-1689,Redes Sociales,Windows,238,5,0
+SES-22642,USR-1486,Redes Sociales,iOS,300,5,0
+SES-22643,USR-1342,Directo,Windows,190,12,0
+SES-22644,USR-1308,Directo,iOS,100,15,0
+SES-22645,USR-1402,Búsqueda Orgánica,Android,11,1,0
+SES-22646,USR-1741,Directo,Android,17,3,0
+SES-22647,USR-1252,Directo,Mac,290,4,0
+SES-22648,USR-1050,Google Ads,Windows,-120,12,1
+SES-22649,USR-1054,Búsqueda Orgánica,Mac,99999,10,0
+SES-22650,USR-1124,Email Marketing,Mac,147,2,1
+SES-22651,USR-1075,Directo,iOS,407,13,0
+SES-22652,USR-1385,Redes Sociales,Windows,252,10,1
+SES-22653,USR-1045,Búsqueda Orgánica,Windows,436,6,0
+SES-22654,USR-1398,Google Ads,Windows,308,4,1
+SES-22655,USR-1486,Email Marketing,Android,99999,3,0
+SES-22656,USR-1325,Google Ads,Android,310,2,0
+SES-22657,USR-1329,Búsqueda Orgánica,Windows,148,10,0
+SES-22658,USR-1723,Google Ads,Android,27,8,0
+SES-22659,USR-1115,Redes Sociales,Windows,376,9,1
+SES-22660,USR-1239,Redes Sociales,Windows,32,14,0
+SES-22661,USR-1423,Búsqueda Orgánica,iOS,13,8,0
+SES-22662,USR-1146,Directo,Android,369,5,0
+SES-22663,USR-1490,Búsqueda Orgánica,Windows,99999,8,0
+SES-22664,USR-1759,Redes Sociales,iOS,496,7,0
+SES-22665,USR-1730,Búsqueda Orgánica,Windows,57,2,0
+SES-22666,USR-1179,Búsqueda Orgánica,iOS,58,10,0
+SES-22667,USR-1514,Email Marketing,Android,88,13,0
+SES-22668,USR-1764,Directo,Mac,96,6,0
+SES-22669,USR-1781,Redes Sociales,Windows,253,14,0
+SES-22670,USR-1739,Google Ads,Android,45,12,0
+SES-22671,USR-1088,Google Ads,Windows,20,3,0
+SES-22672,USR-1151,Búsqueda Orgánica,Windows,233,7,0
+SES-22673,USR-1016,Directo,Android,99999,12,0
+SES-22674,USR-1290,Email Marketing,Windows,12,1,0
+SES-22675,USR-1109,Búsqueda Orgánica,Android,500,7,0
+SES-22676,USR-1319,Google Ads,Windows,306,12,0
+SES-22677,USR-1585,Email Marketing,Windows,198,2,0
+SES-22678,USR-1576,Búsqueda Orgánica,iOS,283,9,0
+SES-22679,USR-1184,Directo,Android,297,14,0
+SES-22680,USR-1778,Google Ads,Android,283,5,0
+SES-22681,USR-1634,Búsqueda Orgánica,Windows,257,14,0
+SES-22682,USR-1040,Google Ads,Android,16,13,0
+SES-22683,USR-1727,Google Ads,Windows,301,12,0
+SES-22684,USR-1763,Email Marketing,Linux,1313,15,0
+SES-22685,USR-1420,Redes Sociales,iOS,182,2,0
+SES-22686,USR-1360,Google Ads,Windows,111,9,0
+SES-22687,USR-1772,Google Ads,Windows,230,4,0
+SES-22688,USR-1452,Búsqueda Orgánica,Android,298,9,0
+SES-22689,USR-1035,Búsqueda Orgánica,Windows,51,5,0
+SES-22690,USR-1168,Búsqueda Orgánica,Windows,484,9,0
+SES-22691,USR-1441,Google Ads,Windows,350,3,0
+SES-22692,USR-1084,Redes Sociales,Android,87,12,0
+SES-22693,USR-1404,Redes Sociales,Windows,284,4,1
+SES-22694,USR-1741,Búsqueda Orgánica,Android,65,13,0
+SES-22695,USR-1072,Búsqueda Orgánica,Windows,43,6,0
+SES-22696,USR-1397,Directo,Android,157,4,0
+SES-22697,USR-1166,Búsqueda Orgánica,Windows,90,1,0
+SES-22698,USR-1645,Google Ads,Windows,304,12,0
+SES-22699,USR-1244,Búsqueda Orgánica,Android,26,13,0
+SES-22700,USR-1155,Google Ads,Android,105,11,0
+SES-22701,USR-1452,Búsqueda Orgánica,Android,112,5,0
+SES-22702,USR-1363,Redes Sociales,Android,69,15,0
+SES-22703,USR-1624,Email Marketing,Windows,471,3,0
+SES-22704,USR-1407,Directo,Android,747,8,0
+SES-22705,USR-1621,Google Ads,iOS,64,12,0
+SES-22706,USR-1082,Búsqueda Orgánica,Mac,67,8,0
+SES-22707,USR-1746,Directo,Mac,134,1,1
+SES-22708,USR-1465,Búsqueda Orgánica,Mac,134,2,0
+SES-22709,USR-1234,Google Ads,Android,451,13,0
+SES-22710,USR-1424,Búsqueda Orgánica,Android,336,3,0
+SES-22711,USR-1324,Búsqueda Orgánica,Windows,37,8,1
+SES-22712,USR-1560,Directo,Android,422,13,0
+SES-22713,USR-1572,Redes Sociales,Windows,26,7,0
+SES-22714,USR-1452,Directo,Windows,252,13,0
+SES-22715,USR-1662,Google Ads,Windows,248,7,0
+SES-22716,USR-1180,Búsqueda Orgánica,Android,55,8,0
+SES-22717,USR-1085,Email Marketing,iOS,63,13,1
+SES-22718,USR-1537,Búsqueda Orgánica,iOS,72,2,0
+SES-22719,USR-1488,Redes Sociales,iOS,220,10,0
+SES-22720,USR-1486,Búsqueda Orgánica,Windows,725,7,1
+SES-22721,USR-1775,Redes Sociales,Android,168,5,0
+SES-22722,USR-1605,Email Marketing,Windows,99,3,0
+SES-22723,USR-1359,Búsqueda Orgánica,Windows,349,15,0
+SES-22724,USR-1134,Google Ads,Windows,74,1,1
+SES-22725,USR-1473,Redes Sociales,Windows,52,13,0
+SES-22726,USR-1507,Redes Sociales,Windows,164,2,0
+SES-22727,USR-1290,Redes Sociales,Windows,420,3,1
+SES-22728,USR-1065,Directo,iOS,293,7,0
+SES-22729,USR-1461,Redes Sociales,Windows,114,14,0
+SES-22730,USR-1384,Google Ads,Android,389,13,0
+SES-22731,USR-1748,Búsqueda Orgánica,Windows,30,9,0
+SES-22732,USR-1502,Búsqueda Orgánica,iOS,537,15,1
+SES-22733,USR-1783,Redes Sociales,Windows,16,7,0
+SES-22734,USR-1267,Email Marketing,Android,177,4,0
+SES-22735,USR-1200,Email Marketing,iOS,41,1,0
+SES-22736,USR-1421,Google Ads,Windows,511,4,0
+SES-22737,USR-1096,Búsqueda Orgánica,Android,-120,10,0
+SES-22738,USR-1747,Búsqueda Orgánica,Android,262,14,0
+SES-22739,USR-1741,Búsqueda Orgánica,Android,483,10,0
+SES-22740,USR-1215,Directo,Windows,347,2,0
+SES-22741,USR-1518,Email Marketing,iOS,102,11,0
+SES-22742,USR-1176,Búsqueda Orgánica,Linux,167,14,0
+SES-22743,USR-1599,Google Ads,Windows,-120,1,1
+SES-22744,USR-1499,Email Marketing,Windows,127,7,0
+SES-22745,USR-1004,Email Marketing,Windows,54,9,0
+SES-22746,USR-1152,Redes Sociales,Android,142,2,1
+SES-22747,USR-1050,Búsqueda Orgánica,Windows,224,11,0
+SES-22748,USR-1611,Email Marketing,Windows,41,7,0
+SES-22749,USR-1004,Google Ads,Windows,50,7,1
+SES-22750,USR-1634,Email Marketing,Windows,412,10,0
+SES-22751,USR-1222,Email Marketing,Windows,99999,5,0
+SES-22752,USR-1321,Búsqueda Orgánica,Android,344,7,0
+SES-22753,USR-1674,Redes Sociales,Windows,92,5,0
+SES-22754,USR-1350,Directo,Windows,29,7,0
+SES-22755,USR-1058,Redes Sociales,Windows,72,6,0
+SES-22756,USR-1150,Redes Sociales,Android,99999,1,0
+SES-22757,USR-1567,Directo,Windows,63,12,0
+SES-22758,USR-1784,Directo,Android,176,5,0
+SES-22759,USR-1567,Google Ads,Windows,119,14,0
+SES-22760,USR-1714,Búsqueda Orgánica,iOS,16,8,0
+SES-22761,USR-1430,Búsqueda Orgánica,Android,99999,4,0
+SES-22762,USR-1313,Redes Sociales,Windows,187,13,0
+SES-22763,USR-1244,Google Ads,iOS,116,14,0
+SES-22764,USR-1547,Google Ads,Android,43,5,0
+SES-22765,USR-1132,Búsqueda Orgánica,Windows,99999,1,1
+SES-22766,USR-1318,Redes Sociales,iOS,132,1,0
+SES-22767,USR-1494,Google Ads,Mac,28,8,0
+SES-22768,USR-1082,Búsqueda Orgánica,Android,56,3,0
+SES-22769,USR-1072,Búsqueda Orgánica,Android,272,6,0
+SES-22770,USR-1313,Google Ads,iOS,50,4,0
+SES-22771,USR-1227,Email Marketing,iOS,375,2,0
+SES-22772,USR-1207,Redes Sociales,iOS,41,15,0
+SES-22773,USR-1045,Google Ads,Windows,123,1,0
+SES-22774,USR-1314,Google Ads,Windows,559,6,0
+SES-22775,USR-1064,Redes Sociales,Windows,37,4,0
+SES-22776,USR-1552,Email Marketing,Windows,532,13,1
+SES-22777,USR-1730,Google Ads,Windows,191,10,0
+SES-22778,USR-1664,Google Ads,iOS,145,6,0
+SES-22779,USR-1514,Búsqueda Orgánica,Mac,31,1,0
+SES-22780,USR-1038,Email Marketing,Android,293,1,0
+SES-22781,USR-1715,Directo,Windows,538,11,0
+SES-22782,USR-1316,Redes Sociales,iOS,179,10,0
+SES-22783,USR-1214,Directo,iOS,194,12,0
+SES-22784,USR-1675,Redes Sociales,iOS,11,4,0
+SES-22785,USR-1407,Búsqueda Orgánica,Windows,262,8,1
+SES-22786,USR-1200,Búsqueda Orgánica,Windows,212,15,0
+SES-22787,USR-1532,Email Marketing,Android,277,10,0
+SES-22788,USR-1165,Redes Sociales,Android,178,1,1
+SES-22789,USR-1380,Email Marketing,iOS,226,10,0
+SES-22790,USR-1052,Google Ads,Android,177,8,0
+SES-22791,USR-1719,Búsqueda Orgánica,Android,119,13,0
+SES-22792,USR-1455,Email Marketing,Android,81,7,1
+SES-22793,USR-1243,Redes Sociales,Android,29,5,0
+SES-22794,USR-1026,Redes Sociales,Windows,162,9,0
+SES-22795,USR-1052,Email Marketing,Windows,263,2,0
+SES-22796,USR-1179,Email Marketing,Windows,796,8,0
+SES-22797,USR-1594,Búsqueda Orgánica,Android,33,5,0
+SES-22798,USR-1107,Búsqueda Orgánica,Android,44,10,1
+SES-22799,USR-1114,Email Marketing,iOS,104,14,0
+SES-22800,USR-1110,Directo,Windows,215,3,0
+SES-22801,USR-1329,Email Marketing,Android,205,2,0
+SES-22802,USR-1360,Email Marketing,Android,-120,10,0
+SES-22803,USR-1300,Redes Sociales,Windows,22,2,0
+SES-22804,USR-1734,Búsqueda Orgánica,Windows,216,4,0
+SES-22805,USR-1575,Redes Sociales,Windows,64,15,0
+SES-22806,USR-1640,Redes Sociales,Mac,364,11,0
+SES-22807,USR-1543,Email Marketing,Android,362,10,0
+SES-22808,USR-1592,Redes Sociales,Windows,279,4,0
+SES-22809,USR-1391,Google Ads,Android,30,8,0
+SES-22810,USR-1429,Búsqueda Orgánica,Windows,128,4,0
+SES-22811,USR-1602,Email Marketing,Android,-120,8,0
+SES-22812,USR-1438,Redes Sociales,Mac,69,12,0
+SES-22813,USR-1137,Directo,Android,295,10,0
+SES-22814,USR-1569,Google Ads,Windows,72,8,0
+SES-22815,USR-1436,Redes Sociales,Android,163,12,0
+SES-22816,USR-1514,Email Marketing,Windows,48,2,0
+SES-22817,USR-1651,Google Ads,Windows,200,2,0
+SES-22818,USR-1723,Email Marketing,Windows,451,6,0
+SES-22819,USR-1360,Redes Sociales,Android,531,14,0
+SES-22820,USR-1108,Redes Sociales,Windows,187,1,0
+SES-22821,USR-1589,Redes Sociales,iOS,29,11,0
+SES-22822,USR-1093,Google Ads,iOS,290,2,0
+SES-22823,USR-1777,Directo,Windows,51,4,1
+SES-22824,USR-1476,Email Marketing,iOS,67,12,0
+SES-22825,USR-1717,Búsqueda Orgánica,Windows,99,6,0
+SES-22826,USR-1014,Redes Sociales,iOS,228,7,0
+SES-22827,USR-1008,Búsqueda Orgánica,Android,140,10,1
+SES-22828,USR-1510,Google Ads,Android,227,2,0
+SES-22829,USR-1289,Directo,Windows,153,10,0
+SES-22830,USR-1652,Búsqueda Orgánica,Windows,211,2,0
+SES-22831,USR-1025,Google Ads,Windows,22,10,0
+SES-22832,USR-1102,Redes Sociales,Android,21,3,0
+SES-22833,USR-1423,Redes Sociales,iOS,417,14,0
+SES-22834,USR-1073,Redes Sociales,Windows,155,10,0
+SES-22835,USR-1483,Google Ads,Android,175,12,0
+SES-22836,USR-1414,Búsqueda Orgánica,Windows,172,15,0
+SES-22837,USR-1531,Redes Sociales,Windows,191,13,0
+SES-22838,USR-1589,Búsqueda Orgánica,Windows,129,3,0
+SES-22839,USR-1238,Redes Sociales,iOS,209,6,0
+SES-22840,USR-1218,Búsqueda Orgánica,iOS,107,7,0
+SES-22841,USR-1286,Redes Sociales,Android,142,6,0
+SES-22842,USR-1489,Directo,Windows,616,1,0
+SES-22843,USR-1022,Redes Sociales,Windows,292,2,0
+SES-22844,USR-1013,Búsqueda Orgánica,iOS,63,8,0
+SES-22845,USR-1382,Google Ads,Android,23,9,0
+SES-22846,USR-1480,Búsqueda Orgánica,iOS,350,6,0
+SES-22847,USR-1584,Búsqueda Orgánica,Windows,-120,14,0
+SES-22848,USR-1095,Redes Sociales,Windows,167,4,0
+SES-22849,USR-1714,Búsqueda Orgánica,Android,223,15,0
+SES-22850,USR-1001,Redes Sociales,Mac,88,12,0
+SES-22851,USR-1709,Búsqueda Orgánica,Windows,174,13,0
+SES-22852,USR-1236,Email Marketing,Windows,935,15,0
+SES-22853,USR-1098,Redes Sociales,Windows,67,4,0
+SES-22854,USR-1712,Búsqueda Orgánica,Windows,125,8,1
+SES-22855,USR-1153,Búsqueda Orgánica,Android,340,10,0
+SES-22856,USR-1540,Búsqueda Orgánica,Android,179,1,0
+SES-22857,USR-1078,Búsqueda Orgánica,Windows,77,1,0
+SES-22858,USR-1677,Redes Sociales,Android,762,4,0
+SES-22859,USR-1577,Email Marketing,Windows,478,14,0
+SES-22860,USR-1556,Google Ads,Android,133,11,0
+SES-22861,USR-1049,Búsqueda Orgánica,Mac,303,3,0
+SES-22862,USR-1182,Redes Sociales,Android,16,11,1
+SES-22863,USR-1659,Google Ads,Windows,318,13,0
+SES-22864,USR-1530,Búsqueda Orgánica,iOS,52,15,1
+SES-22865,USR-1455,Redes Sociales,Android,10,1,0
+SES-22866,USR-1349,Redes Sociales,Windows,99999,15,0
+SES-22867,USR-1049,Google Ads,Android,62,6,0
+SES-22868,USR-1317,Google Ads,Windows,225,6,0
+SES-22869,USR-1754,Directo,Android,99999,9,0
+SES-22870,USR-1448,Búsqueda Orgánica,Android,91,7,0
+SES-22871,USR-1257,Búsqueda Orgánica,Android,59,9,0
+SES-22872,USR-1174,Google Ads,Mac,187,12,0
+SES-22873,USR-1493,Búsqueda Orgánica,Android,102,4,0
+SES-22874,USR-1173,Email Marketing,Mac,29,12,0
+SES-22875,USR-1190,Email Marketing,Android,109,13,0
+SES-22876,USR-1019,Email Marketing,Android,112,6,0
+SES-22877,USR-1451,Redes Sociales,Android,45,10,0
+SES-22878,USR-1752,Directo,Windows,81,6,0
+SES-22879,USR-1596,Google Ads,Android,116,15,0
+SES-22880,USR-1617,Redes Sociales,iOS,281,3,0
+SES-22881,USR-1089,Redes Sociales,Windows,83,2,0
+SES-22882,USR-1176,Búsqueda Orgánica,Mac,99999,5,0
+SES-22883,USR-1794,Redes Sociales,Windows,251,6,1
+SES-22884,USR-1678,Google Ads,Android,194,5,1
+SES-22885,USR-1469,Google Ads,Windows,173,5,0
+SES-22886,USR-1098,Búsqueda Orgánica,iOS,343,3,0
+SES-22887,USR-1267,Redes Sociales,Windows,204,10,0
+SES-22888,USR-1416,Búsqueda Orgánica,iOS,50,12,0
+SES-22889,USR-1729,Email Marketing,Windows,843,13,0
+SES-22890,USR-1226,Redes Sociales,Android,140,1,1
+SES-22891,USR-1646,Redes Sociales,Windows,151,1,1
+SES-22892,USR-1707,Redes Sociales,Mac,181,6,0
+SES-22893,USR-1236,Google Ads,Android,68,13,0
+SES-22894,USR-1365,Google Ads,Windows,611,13,0
+SES-22895,USR-1023,Email Marketing,Linux,118,7,0
+SES-22896,USR-1366,Búsqueda Orgánica,Windows,200,7,0
+SES-22897,USR-1450,Directo,Android,159,11,0
+SES-22898,USR-1730,Búsqueda Orgánica,Windows,26,10,0
+SES-22899,USR-1751,Google Ads,Windows,193,10,0
+SES-22900,USR-1488,Email Marketing,Android,415,9,0
+SES-22901,USR-1514,Email Marketing,Windows,212,13,1
+SES-22902,USR-1569,Google Ads,Android,149,11,0
+SES-22903,USR-1208,Búsqueda Orgánica,Windows,38,13,1
+SES-22904,USR-1388,Directo,iOS,274,4,0
+SES-22905,USR-1456,Búsqueda Orgánica,Windows,285,6,0
+SES-22906,USR-1352,Google Ads,Windows,129,3,0
+SES-22907,USR-1008,Google Ads,Android,99999,10,0
+SES-22908,USR-1345,Búsqueda Orgánica,Windows,17,14,0
+SES-22909,USR-1714,Búsqueda Orgánica,iOS,32,6,0
+SES-22910,USR-1541,Búsqueda Orgánica,Android,181,3,0
+SES-22911,USR-1647,Redes Sociales,iOS,732,2,0
+SES-22912,USR-1386,Búsqueda Orgánica,Android,183,14,1
+SES-22913,USR-1686,Búsqueda Orgánica,Android,86,10,0
+SES-22914,USR-1524,Búsqueda Orgánica,Mac,197,15,0
+SES-22915,USR-1108,Búsqueda Orgánica,Windows,139,7,0
+SES-22916,USR-1678,Búsqueda Orgánica,iOS,193,6,0
+SES-22917,USR-1703,Google Ads,Windows,161,6,0
+SES-22918,USR-1796,Redes Sociales,Android,255,9,0
+SES-22919,USR-1046,Email Marketing,Windows,724,5,0
+SES-22920,USR-1045,Búsqueda Orgánica,Windows,105,5,0
+SES-22921,USR-1178,Google Ads,Android,32,12,0
+SES-22922,USR-1469,Google Ads,Android,246,6,0
+SES-22923,USR-1552,Google Ads,Android,111,9,0
+SES-22924,USR-1067,Email Marketing,Android,156,1,0
+SES-22925,USR-1660,Búsqueda Orgánica,Android,521,2,0
+SES-22926,USR-1709,Búsqueda Orgánica,Windows,368,15,0
+SES-22927,USR-1613,Búsqueda Orgánica,Android,120,3,0
+SES-22928,USR-1572,Búsqueda Orgánica,iOS,69,13,0
+SES-22929,USR-1620,Google Ads,Windows,72,3,0
+SES-22930,USR-1110,Google Ads,iOS,236,7,0
+SES-22931,USR-1273,Directo,Android,580,10,0
+SES-22932,USR-1587,Búsqueda Orgánica,Windows,46,10,0
+SES-22933,USR-1157,Búsqueda Orgánica,Linux,65,2,0
+SES-22934,USR-1780,Email Marketing,iOS,56,2,0
+SES-22935,USR-1536,Email Marketing,Windows,132,12,0
+SES-22936,USR-1624,Búsqueda Orgánica,iOS,328,11,0
+SES-22937,USR-1158,Búsqueda Orgánica,Windows,543,5,0
+SES-22938,USR-1403,Búsqueda Orgánica,Mac,299,5,0
+SES-22939,USR-1251,Google Ads,iOS,91,8,0
+SES-22940,USR-1212,Redes Sociales,Android,118,4,0
+SES-22941,USR-1430,Búsqueda Orgánica,Android,170,3,0
+SES-22942,USR-1186,Directo,Windows,285,13,0
+SES-22943,USR-1739,Google Ads,Windows,264,8,0
+SES-22944,USR-1389,Búsqueda Orgánica,Mac,24,11,0
+SES-22945,USR-1562,Redes Sociales,Mac,-120,15,0
+SES-22946,USR-1693,Email Marketing,Android,375,10,0
+SES-22947,USR-1407,Búsqueda Orgánica,Linux,119,6,0
+SES-22948,USR-1253,Google Ads,Windows,26,11,0
+SES-22949,USR-1161,Google Ads,Mac,77,1,0
+SES-22950,USR-1798,Redes Sociales,Android,430,13,0
+SES-22951,USR-1236,Redes Sociales,Windows,645,6,0
+SES-22952,USR-1102,Email Marketing,Android,277,14,0
+SES-22953,USR-1704,Google Ads,iOS,468,6,0
+SES-22954,USR-1380,Google Ads,Windows,119,14,0
+SES-22955,USR-1214,Email Marketing,Windows,173,10,0
+SES-22956,USR-1670,Directo,Windows,51,6,0
+SES-22957,USR-1062,Búsqueda Orgánica,Android,224,8,0
+SES-22958,USR-1290,Búsqueda Orgánica,Mac,98,6,0
+SES-22959,USR-1006,Google Ads,Windows,257,14,1
+SES-22960,USR-1256,Redes Sociales,Windows,232,13,1
+SES-22961,USR-1358,Redes Sociales,Windows,325,15,0
+SES-22962,USR-1429,Búsqueda Orgánica,Android,70,15,0
+SES-22963,USR-1723,Búsqueda Orgánica,Windows,95,5,0
+SES-22964,USR-1204,Búsqueda Orgánica,Android,57,4,0
+SES-22965,USR-1766,Directo,Android,248,2,0
+SES-22966,USR-1685,Google Ads,Windows,25,3,0
+SES-22967,USR-1499,Google Ads,iOS,39,15,0
+SES-22968,USR-1558,Búsqueda Orgánica,Android,58,10,0
+SES-22969,USR-1687,Redes Sociales,Windows,180,11,0
+SES-22970,USR-1030,Redes Sociales,Android,216,10,0
+SES-22971,USR-1708,Google Ads,Windows,168,2,0
+SES-22972,USR-1452,Directo,iOS,156,13,0
+SES-22973,USR-1617,Búsqueda Orgánica,iOS,129,15,0
+SES-22974,USR-1010,Google Ads,Android,82,14,0
+SES-22975,USR-1772,Google Ads,Android,164,12,0
+SES-22976,USR-1075,Búsqueda Orgánica,Android,173,4,0
+SES-22977,USR-1725,Redes Sociales,Android,68,10,0
+SES-22978,USR-1115,Redes Sociales,iOS,246,12,0
+SES-22979,USR-1518,Búsqueda Orgánica,Android,93,4,0
+SES-22980,USR-1727,Redes Sociales,Android,16,9,0
+SES-22981,USR-1633,Búsqueda Orgánica,Android,24,2,0
+SES-22982,USR-1070,Directo,iOS,46,2,0
+SES-22983,USR-1428,Email Marketing,Windows,82,5,1
+SES-22984,USR-1479,Google Ads,iOS,252,14,0
+SES-22985,USR-1561,Email Marketing,Android,64,14,1
+SES-22986,USR-1180,Búsqueda Orgánica,iOS,146,4,0
+SES-22987,USR-1597,Google Ads,Mac,13,3,0
+SES-22988,USR-1134,Email Marketing,iOS,100,10,0
+SES-22989,USR-1431,Búsqueda Orgánica,Android,162,12,0
+SES-22990,USR-1458,Google Ads,iOS,121,6,0
+SES-22991,USR-1185,Google Ads,iOS,157,15,0
+SES-22992,USR-1734,Google Ads,Windows,135,11,0
+SES-22993,USR-1035,Búsqueda Orgánica,Android,112,6,0
+SES-22994,USR-1418,Búsqueda Orgánica,Android,298,14,0
+SES-22995,USR-1232,Email Marketing,iOS,42,15,0
+SES-22996,USR-1543,Redes Sociales,Windows,199,4,0
+SES-22997,USR-1723,Redes Sociales,Mac,500,10,0
+SES-22998,USR-1018,Google Ads,Windows,87,14,0
+SES-22999,USR-1098,Email Marketing,Android,388,11,0
+SES-23000,USR-1201,Google Ads,Windows,205,14,0
+SES-23001,USR-1036,Google Ads,iOS,226,14,0
+SES-23002,USR-1548,Email Marketing,Windows,164,7,0
+SES-23003,USR-1090,Redes Sociales,Linux,262,9,0
+SES-23004,USR-1428,Directo,Android,216,12,0
+SES-23005,USR-1591,Google Ads,Android,61,11,0
+SES-23006,USR-1753,Redes Sociales,Android,72,3,0
+SES-23007,USR-1226,Redes Sociales,Mac,103,10,0
+SES-23008,USR-1614,Email Marketing,Windows,627,2,0
+SES-23009,USR-1291,Búsqueda Orgánica,Android,363,10,0
+SES-23010,USR-1256,Redes Sociales,iOS,102,15,0
+SES-23011,USR-1435,Email Marketing,Windows,40,9,1
+SES-23012,USR-1197,Directo,Android,71,15,0
+SES-23013,USR-1071,Búsqueda Orgánica,Mac,451,15,0
+SES-23014,USR-1430,Búsqueda Orgánica,Windows,584,5,0
+SES-23015,USR-1494,Google Ads,Windows,205,6,1
+SES-23016,USR-1247,Redes Sociales,Windows,91,6,0
+SES-23017,USR-1458,Búsqueda Orgánica,Windows,38,13,0
+SES-23018,USR-1661,Búsqueda Orgánica,iOS,81,14,0
+SES-23019,USR-1280,Google Ads,Windows,53,15,0
+SES-23020,USR-1389,Email Marketing,Windows,339,14,0
+SES-23021,USR-1337,Directo,Linux,99999,8,1
+SES-23022,USR-1337,Redes Sociales,Windows,862,5,0
+SES-23023,USR-1784,Redes Sociales,Windows,84,15,0
+SES-23024,USR-1347,Redes Sociales,Android,223,3,0
+SES-23025,USR-1279,Búsqueda Orgánica,Windows,333,15,0
+SES-23026,USR-1097,Directo,iOS,13,11,1
+SES-23027,USR-1316,Google Ads,Linux,117,9,0
+SES-23028,USR-1460,Búsqueda Orgánica,Windows,342,13,0
+SES-23029,USR-1610,Búsqueda Orgánica,Android,147,15,0
+SES-23030,USR-1754,Email Marketing,iOS,11,13,0
+SES-23031,USR-1778,Redes Sociales,Android,682,5,0
+SES-23032,USR-1017,Búsqueda Orgánica,Windows,371,1,0
+SES-23033,USR-1562,Redes Sociales,iOS,188,14,0
+SES-23034,USR-1232,Google Ads,Android,100,11,0
+SES-23035,USR-1432,Búsqueda Orgánica,Windows,244,15,0
+SES-23036,USR-1085,Google Ads,Android,71,11,0
+SES-23037,USR-1299,Búsqueda Orgánica,Windows,186,4,0
+SES-23038,USR-1529,Búsqueda Orgánica,Windows,253,9,0
+SES-23039,USR-1266,Búsqueda Orgánica,Android,-120,2,0
+SES-23040,USR-1647,Google Ads,Android,177,7,1
+SES-23041,USR-1308,Búsqueda Orgánica,Windows,11,10,1
+SES-23042,USR-1792,Redes Sociales,Windows,11,11,0
+SES-23043,USR-1691,Email Marketing,iOS,79,12,0
+SES-23044,USR-1569,Email Marketing,Windows,259,6,1
+SES-23045,USR-1299,Email Marketing,Windows,216,11,0
+SES-23046,USR-1468,Búsqueda Orgánica,Mac,489,9,0
+SES-23047,USR-1428,Redes Sociales,Android,243,1,0
+SES-23048,USR-1031,Búsqueda Orgánica,Android,326,11,0
+SES-23049,USR-1090,Google Ads,Windows,739,10,0
+SES-23050,USR-1644,Búsqueda Orgánica,Windows,97,14,0
+SES-23051,USR-1570,Búsqueda Orgánica,iOS,222,11,0
+SES-23052,USR-1278,Búsqueda Orgánica,Mac,-120,1,1
+SES-23053,USR-1044,Búsqueda Orgánica,Windows,188,2,1
+SES-23054,USR-1580,Redes Sociales,Windows,14,3,1
+SES-23055,USR-1270,Búsqueda Orgánica,Android,115,8,1
+SES-23056,USR-1243,Búsqueda Orgánica,Android,172,11,0
+SES-23057,USR-1121,Búsqueda Orgánica,iOS,18,13,1
+SES-23058,USR-1630,Directo,Android,96,12,0
+SES-23059,USR-1448,Búsqueda Orgánica,iOS,540,9,0
+SES-23060,USR-1481,Redes Sociales,Android,-120,1,0
+SES-23061,USR-1188,Búsqueda Orgánica,iOS,232,14,0
+SES-23062,USR-1570,Redes Sociales,Android,99999,6,0
+SES-23063,USR-1591,Directo,Android,159,8,0
+SES-23064,USR-1433,Email Marketing,iOS,293,13,0
+SES-23065,USR-1100,Redes Sociales,Windows,376,8,0
+SES-23066,USR-1792,Búsqueda Orgánica,Windows,141,7,0
+SES-23067,USR-1673,Email Marketing,Android,269,2,0
+SES-23068,USR-1377,Redes Sociales,Windows,33,7,0
+SES-23069,USR-1648,Google Ads,Android,347,9,0
+SES-23070,USR-1292,Búsqueda Orgánica,Android,126,12,1
+SES-23071,USR-1248,Búsqueda Orgánica,Mac,-120,4,0
+SES-23072,USR-1783,Directo,Windows,1114,5,0
+SES-23073,USR-1736,Búsqueda Orgánica,Windows,42,5,0
+SES-23074,USR-1538,Google Ads,Mac,292,12,0
+SES-23075,USR-1085,Búsqueda Orgánica,Android,73,15,0
+SES-23076,USR-1637,Redes Sociales,Android,99999,5,0
+SES-23077,USR-1684,Redes Sociales,Android,201,2,0
+SES-23078,USR-1565,Google Ads,Windows,124,13,1
+SES-23079,USR-1745,Directo,Android,29,6,0
+SES-23080,USR-1506,Búsqueda Orgánica,Android,140,6,0
+SES-23081,USR-1644,Email Marketing,Windows,214,4,0
+SES-23082,USR-1224,Búsqueda Orgánica,Android,94,11,0
+SES-23083,USR-1220,Redes Sociales,Android,162,2,0
+SES-23084,USR-1006,Búsqueda Orgánica,iOS,199,9,0
+SES-23085,USR-1655,Redes Sociales,Android,577,2,1
+SES-23086,USR-1709,Redes Sociales,Windows,14,1,0
+SES-23087,USR-1363,Redes Sociales,Android,142,7,0
+SES-23088,USR-1054,Google Ads,Android,90,4,0
+SES-23089,USR-1226,Búsqueda Orgánica,Windows,45,10,0
+SES-23090,USR-1388,Directo,Windows,122,4,0
+SES-23091,USR-1385,Búsqueda Orgánica,Android,100,12,1
+SES-23092,USR-1171,Email Marketing,Android,195,5,0
+SES-23093,USR-1100,Redes Sociales,iOS,79,15,0
+SES-23094,USR-1356,Email Marketing,iOS,184,3,0
+SES-23095,USR-1500,Búsqueda Orgánica,Windows,47,9,1
+SES-23096,USR-1251,Búsqueda Orgánica,Windows,70,4,0
+SES-23097,USR-1042,Redes Sociales,Android,276,1,1
+SES-23098,USR-1128,Directo,Android,134,13,0
+SES-23099,USR-1686,Email Marketing,Android,35,14,0
+SES-23100,USR-1164,Directo,Windows,155,4,0
+SES-23101,USR-1421,Búsqueda Orgánica,Android,-120,6,0
+SES-23102,USR-1341,Google Ads,Android,394,2,0
+SES-23103,USR-1213,Búsqueda Orgánica,Windows,681,11,0
+SES-23104,USR-1441,Redes Sociales,iOS,42,8,0
+SES-23105,USR-1188,Email Marketing,Android,22,2,0
+SES-23106,USR-1261,Redes Sociales,Android,13,9,0
+SES-23107,USR-1174,Email Marketing,Windows,148,2,0
+SES-23108,USR-1717,Google Ads,Linux,134,14,0
+SES-23109,USR-1155,Búsqueda Orgánica,Android,76,6,1
+SES-23110,USR-1591,Redes Sociales,Windows,554,13,0
+SES-23111,USR-1611,Redes Sociales,Windows,225,12,0
+SES-23112,USR-1292,Email Marketing,Windows,337,8,0
+SES-23113,USR-1343,Email Marketing,Windows,580,4,1
+SES-23114,USR-1365,Google Ads,Windows,17,11,1
+SES-23115,USR-1772,Búsqueda Orgánica,Android,81,2,0
+SES-23116,USR-1144,Google Ads,Android,177,4,0
+SES-23117,USR-1159,Redes Sociales,Android,473,6,1
+SES-23118,USR-1259,Google Ads,Windows,120,8,0
+SES-23119,USR-1044,Búsqueda Orgánica,Windows,270,3,0
+SES-23120,USR-1764,Email Marketing,Android,63,14,0
+SES-23121,USR-1319,Google Ads,Android,555,11,0
+SES-23122,USR-1611,Redes Sociales,Android,26,12,0
+SES-23123,USR-1750,Búsqueda Orgánica,Windows,11,14,0
+SES-23124,USR-1033,Email Marketing,iOS,238,2,1
+SES-23125,USR-1621,Redes Sociales,Windows,99999,8,0
+SES-23126,USR-1436,Búsqueda Orgánica,Android,295,5,0
+SES-23127,USR-1655,Redes Sociales,Android,312,5,0
+SES-23128,USR-1004,Búsqueda Orgánica,Windows,74,2,1
+SES-23129,USR-1300,Google Ads,Windows,86,12,0
+SES-23130,USR-1711,Directo,Android,76,10,0
+SES-23131,USR-1242,Redes Sociales,Android,58,11,0
+SES-23132,USR-1031,Búsqueda Orgánica,Android,482,1,0
+SES-23133,USR-1571,Redes Sociales,Windows,433,10,0
+SES-23134,USR-1747,Google Ads,Android,48,12,0
+SES-23135,USR-1036,Redes Sociales,Windows,325,9,0
+SES-23136,USR-1078,Directo,Windows,95,11,0
+SES-23137,USR-1301,Búsqueda Orgánica,Windows,124,5,0
+SES-23138,USR-1479,Google Ads,Android,128,15,0
+SES-23139,USR-1338,Redes Sociales,Android,51,7,0
+SES-23140,USR-1078,Email Marketing,Android,41,12,0
+SES-23141,USR-1097,Búsqueda Orgánica,Windows,445,3,0
+SES-23142,USR-1378,Búsqueda Orgánica,Android,130,7,0
+SES-23143,USR-1001,Email Marketing,iOS,76,4,0
+SES-23144,USR-1503,Redes Sociales,Android,-120,6,0
+SES-23145,USR-1556,Email Marketing,iOS,213,6,0
+SES-23146,USR-1452,Google Ads,Windows,-120,15,0
+SES-23147,USR-1185,Búsqueda Orgánica,Windows,134,1,0
+SES-23148,USR-1515,Búsqueda Orgánica,Windows,238,7,0
+SES-23149,USR-1595,Redes Sociales,Windows,105,1,1
+SES-23150,USR-1200,Redes Sociales,Android,131,5,0
+SES-23151,USR-1657,Redes Sociales,Android,325,13,0
+SES-23152,USR-1310,Búsqueda Orgánica,Android,48,7,0
+SES-23153,USR-1494,Directo,Android,50,2,1
+SES-23154,USR-1009,Directo,iOS,-120,7,0
+SES-23155,USR-1799,Búsqueda Orgánica,Android,71,3,1
+SES-23156,USR-1146,Redes Sociales,Android,57,12,1
+SES-23157,USR-1504,Redes Sociales,Android,332,15,0
+SES-23158,USR-1728,Google Ads,Windows,137,11,0
+SES-23159,USR-1210,Directo,Android,133,15,0
+SES-23160,USR-1800,Email Marketing,Android,59,4,0
+SES-23161,USR-1115,Redes Sociales,iOS,51,10,0
+SES-23162,USR-1036,Email Marketing,iOS,261,7,0
+SES-23163,USR-1554,Google Ads,Android,47,8,0
+SES-23164,USR-1521,Email Marketing,Windows,101,1,0
+SES-23165,USR-1123,Redes Sociales,Android,37,6,1
+SES-23166,USR-1328,Búsqueda Orgánica,Android,-120,9,0
+SES-23167,USR-1381,Google Ads,Android,99999,12,0
+SES-23168,USR-1403,Búsqueda Orgánica,Windows,110,2,0
+SES-23169,USR-1603,Google Ads,Windows,117,4,0
+SES-23170,USR-1512,Búsqueda Orgánica,Android,897,14,0
+SES-23171,USR-1024,Google Ads,Android,34,4,0
+SES-23172,USR-1531,Búsqueda Orgánica,Android,96,10,0
+SES-23173,USR-1518,Búsqueda Orgánica,Windows,44,4,0
+SES-23174,USR-1727,Email Marketing,Windows,86,8,0
+SES-23175,USR-1142,Redes Sociales,Android,30,8,0
+SES-23176,USR-1696,Google Ads,Windows,438,1,0
+SES-23177,USR-1091,Email Marketing,Android,52,2,0
+SES-23178,USR-1210,Directo,Android,261,7,0
+SES-23179,USR-1034,Google Ads,Windows,247,8,0
+SES-23180,USR-1700,Búsqueda Orgánica,Android,99999,12,0
+SES-23181,USR-1630,Búsqueda Orgánica,Windows,280,7,1
+SES-23182,USR-1069,Directo,iOS,69,3,1
+SES-23183,USR-1240,Redes Sociales,Windows,42,2,0
+SES-23184,USR-1763,Directo,iOS,244,13,0
+SES-23185,USR-1602,Búsqueda Orgánica,iOS,19,7,0
+SES-23186,USR-1779,Email Marketing,Windows,321,6,0
+SES-23187,USR-1044,Google Ads,Mac,-120,5,0
+SES-23188,USR-1436,Redes Sociales,iOS,-120,1,0
+SES-23189,USR-1344,Google Ads,iOS,77,5,1
+SES-23190,USR-1046,Redes Sociales,Windows,105,2,0
+SES-23191,USR-1750,Email Marketing,iOS,149,8,0
+SES-23192,USR-1344,Redes Sociales,Android,529,12,0
+SES-23193,USR-1173,Email Marketing,Windows,137,14,0
+SES-23194,USR-1711,Google Ads,Windows,263,15,0
+SES-23195,USR-1770,Email Marketing,Android,270,2,1
+SES-23196,USR-1221,Búsqueda Orgánica,Windows,159,2,0
+SES-23197,USR-1087,Email Marketing,Windows,201,14,0
+SES-23198,USR-1738,Google Ads,Windows,120,5,1
+SES-23199,USR-1686,Directo,iOS,97,12,0
+SES-23200,USR-1403,Búsqueda Orgánica,Android,132,1,0
+SES-23201,USR-1780,Google Ads,Windows,120,14,0
+SES-23202,USR-1027,Redes Sociales,Android,110,11,0
+SES-23203,USR-1204,Google Ads,Windows,203,2,0
+SES-23204,USR-1755,Redes Sociales,Windows,144,14,0
+SES-23205,USR-1632,Directo,Windows,13,1,1
+SES-23206,USR-1416,Email Marketing,Android,-120,2,0
+SES-23207,USR-1444,Búsqueda Orgánica,Windows,132,13,0
+SES-23208,USR-1709,Google Ads,Windows,162,13,0
+SES-23209,USR-1208,Email Marketing,Android,222,1,0
+SES-23210,USR-1308,Directo,Windows,356,7,0
+SES-23211,USR-1673,Redes Sociales,Windows,12,9,1
+SES-23212,USR-1001,Email Marketing,Windows,1021,5,0
+SES-23213,USR-1794,Email Marketing,Mac,-120,8,0
+SES-23214,USR-1193,Email Marketing,Windows,37,2,0
+SES-23215,USR-1771,Búsqueda Orgánica,Mac,99999,4,0
+SES-23216,USR-1643,Google Ads,Windows,79,13,0
+SES-23217,USR-1569,Email Marketing,Android,68,6,0
+SES-23218,USR-1203,Búsqueda Orgánica,Windows,30,8,0
+SES-23219,USR-1769,Búsqueda Orgánica,Mac,114,7,0
+SES-23220,USR-1032,Redes Sociales,Mac,70,13,0
+SES-23221,USR-1342,Búsqueda Orgánica,Windows,99,13,0
+SES-23222,USR-1293,Búsqueda Orgánica,Mac,56,6,0
+SES-23223,USR-1262,Búsqueda Orgánica,Windows,38,2,0
+SES-23224,USR-1456,Directo,iOS,732,13,0
+SES-23225,USR-1561,Búsqueda Orgánica,Windows,99999,3,0
+SES-23226,USR-1230,Directo,Android,143,9,0
+SES-23227,USR-1456,Búsqueda Orgánica,Android,43,4,0
+SES-23228,USR-1342,Email Marketing,Android,210,5,0
+SES-23229,USR-1210,Email Marketing,Windows,109,1,0
+SES-23230,USR-1361,Redes Sociales,Android,-120,1,0
+SES-23231,USR-1314,Email Marketing,Android,21,5,0
+SES-23232,USR-1479,Directo,Android,348,5,0
+SES-23233,USR-1786,Email Marketing,Windows,64,7,0
+SES-23234,USR-1576,Redes Sociales,Android,50,1,0
+SES-23235,USR-1578,Google Ads,Mac,225,10,0
+SES-23236,USR-1482,Google Ads,iOS,161,5,0
+SES-23237,USR-1312,Búsqueda Orgánica,Android,99999,4,0
+SES-23238,USR-1235,Email Marketing,Windows,259,15,0
+SES-23239,USR-1504,Email Marketing,iOS,445,13,0
+SES-23240,USR-1455,Email Marketing,iOS,10,15,0
+SES-23241,USR-1582,Redes Sociales,Android,81,10,0
+SES-23242,USR-1036,Directo,Android,158,1,0
+SES-23243,USR-1458,Email Marketing,Mac,-120,6,0
+SES-23244,USR-1702,Búsqueda Orgánica,Windows,-120,12,0
+SES-23245,USR-1311,Búsqueda Orgánica,Windows,608,13,0
+SES-23246,USR-1681,Redes Sociales,Windows,-120,10,0
+SES-23247,USR-1344,Email Marketing,Windows,336,3,0
+SES-23248,USR-1345,Email Marketing,Android,75,12,1
+SES-23249,USR-1415,Directo,Windows,97,1,0
+SES-23250,USR-1171,Búsqueda Orgánica,Android,37,10,0
+SES-23251,USR-1088,Email Marketing,Linux,102,14,1
+SES-23252,USR-1002,Redes Sociales,Windows,114,13,0
+SES-23253,USR-1533,Redes Sociales,Android,107,9,0
+SES-23254,USR-1352,Directo,Windows,479,8,0
+SES-23255,USR-1616,Redes Sociales,Windows,456,14,0
+SES-23256,USR-1747,Directo,Android,84,7,1
+SES-23257,USR-1332,Búsqueda Orgánica,Android,43,2,0
+SES-23258,USR-1032,Búsqueda Orgánica,Mac,71,10,0
+SES-23259,USR-1043,Google Ads,iOS,127,6,0
+SES-23260,USR-1324,Email Marketing,Windows,819,11,1
+SES-23261,USR-1352,Búsqueda Orgánica,Windows,153,1,0
+SES-23262,USR-1389,Redes Sociales,Windows,111,5,0
+SES-23263,USR-1547,Email Marketing,Android,132,8,0
+SES-23264,USR-1571,Búsqueda Orgánica,Windows,180,4,0
+SES-23265,USR-1103,Redes Sociales,iOS,39,2,0
+SES-23266,USR-1375,Redes Sociales,iOS,365,14,0
+SES-23267,USR-1427,Búsqueda Orgánica,Windows,49,9,1
+SES-23268,USR-1639,Directo,Android,51,1,0
+SES-23269,USR-1186,Directo,Linux,175,6,0
+SES-23270,USR-1304,Redes Sociales,Windows,10,14,0
+SES-23271,USR-1503,Búsqueda Orgánica,Android,596,3,0
+SES-23272,USR-1670,Búsqueda Orgánica,Android,36,9,0
+SES-23273,USR-1459,Redes Sociales,Windows,486,1,0
+SES-23274,USR-1052,Google Ads,iOS,105,1,0
+SES-23275,USR-1323,Búsqueda Orgánica,Windows,47,13,0
+SES-23276,USR-1046,Email Marketing,Android,99999,8,0
+SES-23277,USR-1576,Google Ads,Android,198,11,0
+SES-23278,USR-1449,Búsqueda Orgánica,Windows,150,2,0
+SES-23279,USR-1506,Redes Sociales,Android,128,13,0
+SES-23280,USR-1047,Email Marketing,Windows,442,13,0
+SES-23281,USR-1217,Búsqueda Orgánica,Windows,10,14,0
+SES-23282,USR-1673,Directo,Windows,234,4,0
+SES-23283,USR-1209,Email Marketing,Windows,80,13,0
+SES-23284,USR-1368,Google Ads,Mac,212,9,0
+SES-23285,USR-1672,Email Marketing,Windows,54,5,0
+SES-23286,USR-1528,Directo,Windows,718,7,0
+SES-23287,USR-1752,Redes Sociales,iOS,339,1,1
+SES-23288,USR-1222,Google Ads,iOS,187,10,0
+SES-23289,USR-1060,Búsqueda Orgánica,Mac,228,8,0
+SES-23290,USR-1370,Búsqueda Orgánica,Android,125,14,0
+SES-23291,USR-1522,Búsqueda Orgánica,Windows,200,1,0
+SES-23292,USR-1040,Google Ads,Mac,11,2,0
+SES-23293,USR-1434,Búsqueda Orgánica,Windows,381,13,0
+SES-23294,USR-1423,Redes Sociales,Android,186,10,0
+SES-23295,USR-1121,Redes Sociales,Android,185,9,1
+SES-23296,USR-1359,Directo,Android,202,8,0
+SES-23297,USR-1052,Búsqueda Orgánica,iOS,99999,7,1
+SES-23298,USR-1773,Directo,iOS,92,5,0
+SES-23299,USR-1731,Directo,Windows,-120,13,0
+SES-23300,USR-1065,Redes Sociales,Mac,15,1,0
+SES-23301,USR-1376,Redes Sociales,Windows,233,11,0
+SES-23302,USR-1794,Google Ads,iOS,16,10,0
+SES-23303,USR-1198,Búsqueda Orgánica,iOS,119,15,0
+SES-23304,USR-1224,Directo,Windows,57,2,1
+SES-23305,USR-1023,Email Marketing,iOS,16,4,0
+SES-23306,USR-1340,Directo,Windows,456,5,0
+SES-23307,USR-1536,Directo,Android,129,14,0
+SES-23308,USR-1039,Directo,Android,273,15,0
+SES-23309,USR-1119,Google Ads,Android,207,11,0
+SES-23310,USR-1176,Google Ads,Windows,32,15,0
+SES-23311,USR-1379,Email Marketing,iOS,370,10,0
+SES-23312,USR-1574,Búsqueda Orgánica,Android,81,13,0
+SES-23313,USR-1226,Directo,Android,93,8,1
+SES-23314,USR-1751,Email Marketing,iOS,228,2,0
+SES-23315,USR-1737,Google Ads,iOS,243,4,0
+SES-23316,USR-1289,Búsqueda Orgánica,Android,42,9,0
+SES-23317,USR-1691,Directo,iOS,189,10,1
+SES-23318,USR-1586,Redes Sociales,Windows,119,12,0
+SES-23319,USR-1499,Google Ads,Android,238,4,0
+SES-23320,USR-1463,Email Marketing,Windows,39,10,0
+SES-23321,USR-1453,Email Marketing,Windows,492,2,0
+SES-23322,USR-1523,Google Ads,iOS,215,2,0
+SES-23323,USR-1116,Redes Sociales,Android,44,2,0
+SES-23324,USR-1199,Email Marketing,Windows,12,1,0
+SES-23325,USR-1586,Google Ads,Mac,673,6,0
+SES-23326,USR-1230,Google Ads,Android,99999,2,0
+SES-23327,USR-1584,Búsqueda Orgánica,Windows,101,8,0
+SES-23328,USR-1170,Google Ads,Windows,139,4,0
+SES-23329,USR-1112,Redes Sociales,Windows,68,4,0
+SES-23330,USR-1651,Búsqueda Orgánica,Android,363,6,0
+SES-23331,USR-1573,Redes Sociales,Android,256,3,0
+SES-23332,USR-1779,Google Ads,Android,237,4,0
+SES-23333,USR-1205,Búsqueda Orgánica,Windows,99999,5,0
+SES-23334,USR-1070,Redes Sociales,Windows,354,7,1
+SES-23335,USR-1742,Búsqueda Orgánica,Android,195,13,0
+SES-23336,USR-1468,Google Ads,Windows,99,2,0
+SES-23337,USR-1716,Google Ads,Android,331,5,0
+SES-23338,USR-1501,Google Ads,Android,30,6,0
+SES-23339,USR-1402,Google Ads,Android,168,2,0
+SES-23340,USR-1417,Email Marketing,Windows,30,15,0
+SES-23341,USR-1788,Google Ads,Windows,74,9,0
+SES-23342,USR-1105,Google Ads,Android,316,11,0
+SES-23343,USR-1251,Búsqueda Orgánica,Android,81,11,0
+SES-23344,USR-1041,Google Ads,Windows,104,3,1
+SES-23345,USR-1652,Búsqueda Orgánica,Windows,207,4,0
+SES-23346,USR-1556,Google Ads,Windows,12,10,1
+SES-23347,USR-1703,Redes Sociales,Windows,182,2,0
+SES-23348,USR-1205,Búsqueda Orgánica,Android,-120,13,0
+SES-23349,USR-1307,Directo,Windows,44,11,0
+SES-23350,USR-1357,Búsqueda Orgánica,Windows,64,8,0
+SES-23351,USR-1563,Redes Sociales,Android,291,1,0
+SES-23352,USR-1400,Directo,iOS,248,3,0
+SES-23353,USR-1091,Email Marketing,Android,18,1,0
+SES-23354,USR-1177,Google Ads,Windows,355,14,0
+SES-23355,USR-1753,Google Ads,Android,100,4,0
+SES-23356,USR-1040,Directo,Windows,120,7,0
+SES-23357,USR-1042,Búsqueda Orgánica,iOS,65,1,0
+SES-23358,USR-1535,Directo,iOS,110,8,1
+SES-23359,USR-1144,Redes Sociales,Linux,53,5,0
+SES-23360,USR-1523,Redes Sociales,iOS,25,4,0
+SES-23361,USR-1510,Búsqueda Orgánica,Windows,284,15,0
+SES-23362,USR-1030,Búsqueda Orgánica,iOS,225,7,0
+SES-23363,USR-1353,Redes Sociales,Windows,17,13,0
+SES-23364,USR-1646,Google Ads,Android,71,3,0
+SES-23365,USR-1761,Búsqueda Orgánica,Android,412,8,0
+SES-23366,USR-1198,Búsqueda Orgánica,Android,364,2,0
+SES-23367,USR-1007,Email Marketing,Android,177,7,0
+SES-23368,USR-1724,Redes Sociales,Android,66,14,0
+SES-23369,USR-1233,Búsqueda Orgánica,Android,244,10,0
+SES-23370,USR-1045,Redes Sociales,Android,302,9,0
+SES-23371,USR-1200,Directo,Windows,90,12,0
+SES-23372,USR-1719,Redes Sociales,Android,60,13,0
+SES-23373,USR-1611,Búsqueda Orgánica,Android,157,6,0
+SES-23374,USR-1273,Directo,Windows,561,1,0
+SES-23375,USR-1082,Google Ads,Windows,145,2,0
+SES-23376,USR-1441,Redes Sociales,Android,80,8,0
+SES-23377,USR-1597,Email Marketing,Linux,205,2,1
+SES-23378,USR-1432,Google Ads,Windows,353,11,0
+SES-23379,USR-1518,Google Ads,iOS,31,2,1
+SES-23380,USR-1498,Redes Sociales,Mac,369,6,0
+SES-23381,USR-1740,Redes Sociales,Android,62,11,0
+SES-23382,USR-1014,Búsqueda Orgánica,iOS,403,7,0
+SES-23383,USR-1098,Directo,iOS,100,10,0
+SES-23384,USR-1533,Google Ads,Windows,380,4,0
+SES-23385,USR-1187,Búsqueda Orgánica,Mac,238,11,0
+SES-23386,USR-1291,Google Ads,iOS,111,2,0
+SES-23387,USR-1291,Email Marketing,Mac,130,11,0
+SES-23388,USR-1473,Búsqueda Orgánica,Android,206,4,0
+SES-23389,USR-1469,Google Ads,Android,23,6,0
+SES-23390,USR-1459,Google Ads,iOS,-120,3,0
+SES-23391,USR-1085,Google Ads,Android,95,9,0
+SES-23392,USR-1200,Google Ads,Android,288,5,0
+SES-23393,USR-1130,Email Marketing,Android,120,1,0
+SES-23394,USR-1435,Búsqueda Orgánica,Android,14,4,0
+SES-23395,USR-1415,Google Ads,Mac,40,9,0
+SES-23396,USR-1677,Búsqueda Orgánica,Mac,44,7,0
+SES-23397,USR-1657,Google Ads,Linux,173,13,0
+SES-23398,USR-1489,Redes Sociales,iOS,148,4,0
+SES-23399,USR-1502,Redes Sociales,Windows,-120,9,0
+SES-23400,USR-1128,Email Marketing,Mac,120,3,0
+SES-23401,USR-1796,Email Marketing,Windows,25,12,0
+SES-23402,USR-1255,Redes Sociales,Android,35,1,0
+SES-23403,USR-1661,Email Marketing,Windows,24,11,0
+SES-23404,USR-1565,Google Ads,Android,47,2,1
+SES-23405,USR-1567,Búsqueda Orgánica,Mac,79,11,0
+SES-23406,USR-1041,Directo,Android,110,5,0
+SES-23407,USR-1570,Email Marketing,Android,90,10,0
+SES-23408,USR-1685,Búsqueda Orgánica,Mac,412,2,0
+SES-23409,USR-1562,Google Ads,Mac,304,9,0
+SES-23410,USR-1754,Búsqueda Orgánica,Windows,24,1,0
+SES-23411,USR-1778,Google Ads,iOS,227,12,0
+SES-23412,USR-1401,Directo,iOS,407,12,0
+SES-23413,USR-1532,Búsqueda Orgánica,Android,74,9,0
+SES-23414,USR-1561,Directo,iOS,73,3,0
+SES-23415,USR-1223,Email Marketing,iOS,56,15,0
+SES-23416,USR-1586,Google Ads,Mac,146,4,1
+SES-23417,USR-1059,Directo,Windows,439,2,0
+SES-23418,USR-1364,Búsqueda Orgánica,Windows,157,13,0
+SES-23419,USR-1002,Google Ads,iOS,106,2,1
+SES-23420,USR-1750,Google Ads,iOS,500,1,0
+SES-23421,USR-1581,Directo,Android,55,8,0
+SES-23422,USR-1208,Google Ads,Android,514,9,0
+SES-23423,USR-1674,Redes Sociales,Windows,121,8,0
+SES-23424,USR-1640,Directo,Android,82,15,0
+SES-23425,USR-1791,Google Ads,Mac,356,1,0
+SES-23426,USR-1369,Google Ads,Android,181,10,0
+SES-23427,USR-1145,Redes Sociales,Windows,153,1,0
+SES-23428,USR-1791,Búsqueda Orgánica,iOS,63,2,0
+SES-23429,USR-1120,Google Ads,Windows,241,6,1
+SES-23430,USR-1659,Redes Sociales,Android,-120,9,0
+SES-23431,USR-1186,Directo,Android,201,15,1
+SES-23432,USR-1522,Redes Sociales,Android,14,15,0
+SES-23433,USR-1421,Búsqueda Orgánica,Windows,189,6,0
+SES-23434,USR-1647,Redes Sociales,iOS,396,9,0
+SES-23435,USR-1018,Búsqueda Orgánica,iOS,518,13,0
+SES-23436,USR-1629,Búsqueda Orgánica,Windows,321,15,0
+SES-23437,USR-1406,Google Ads,Android,225,3,0
+SES-23438,USR-1336,Directo,iOS,104,10,1
+SES-23439,USR-1757,Directo,Android,112,15,1
+SES-23440,USR-1719,Google Ads,Android,-120,14,0
+SES-23441,USR-1289,Google Ads,Windows,90,9,0
+SES-23442,USR-1675,Google Ads,Android,419,12,0
+SES-23443,USR-1618,Email Marketing,Android,296,11,0
+SES-23444,USR-1662,Redes Sociales,Linux,346,1,0
+SES-23445,USR-1481,Búsqueda Orgánica,Windows,265,11,0
+SES-23446,USR-1190,Redes Sociales,Windows,131,15,1
+SES-23447,USR-1672,Google Ads,Android,25,10,0
+SES-23448,USR-1422,Búsqueda Orgánica,iOS,261,2,0
+SES-23449,USR-1228,Google Ads,Android,88,9,0
+SES-23450,USR-1163,Búsqueda Orgánica,Linux,134,1,0
+SES-23451,USR-1653,Email Marketing,Android,29,14,0
+SES-23452,USR-1031,Redes Sociales,Android,248,10,0
+SES-23453,USR-1475,Email Marketing,Android,232,2,0
+SES-23454,USR-1200,Búsqueda Orgánica,iOS,536,5,0
+SES-23455,USR-1112,Email Marketing,Android,206,3,0
+SES-23456,USR-1286,Google Ads,Windows,74,7,0
+SES-23457,USR-1092,Búsqueda Orgánica,Windows,145,9,0
+SES-23458,USR-1078,Google Ads,iOS,144,6,0
+SES-23459,USR-1150,Google Ads,Mac,24,4,0
+SES-23460,USR-1591,Redes Sociales,Windows,103,14,0
+SES-23461,USR-1066,Búsqueda Orgánica,iOS,110,15,0
+SES-23462,USR-1494,Redes Sociales,Android,260,11,0
+SES-23463,USR-1545,Google Ads,Windows,47,3,0
+SES-23464,USR-1226,Redes Sociales,Windows,185,4,0
+SES-23465,USR-1668,Búsqueda Orgánica,Linux,706,12,0
+SES-23466,USR-1198,Google Ads,Linux,14,1,0
+SES-23467,USR-1453,Búsqueda Orgánica,Android,181,5,0
+SES-23468,USR-1045,Búsqueda Orgánica,Android,99999,11,0
+SES-23469,USR-1415,Búsqueda Orgánica,Mac,175,8,0
+SES-23470,USR-1247,Google Ads,iOS,283,6,0
+SES-23471,USR-1512,Búsqueda Orgánica,Windows,15,1,0
+SES-23472,USR-1449,Redes Sociales,Windows,56,7,1
+SES-23473,USR-1781,Email Marketing,Android,336,4,0
+SES-23474,USR-1519,Email Marketing,Android,54,8,0
+SES-23475,USR-1314,Búsqueda Orgánica,iOS,174,5,0
+SES-23476,USR-1576,Búsqueda Orgánica,iOS,350,3,0
+SES-23477,USR-1037,Google Ads,Windows,390,6,0
+SES-23478,USR-1579,Email Marketing,Mac,41,4,0
+SES-23479,USR-1232,Búsqueda Orgánica,Windows,394,15,0
+SES-23480,USR-1502,Búsqueda Orgánica,Android,162,15,0
+SES-23481,USR-1090,Google Ads,Android,78,6,0
+SES-23482,USR-1722,Google Ads,Android,125,11,0
+SES-23483,USR-1151,Google Ads,Android,363,15,0
+SES-23484,USR-1441,Google Ads,iOS,99999,15,0
+SES-23485,USR-1734,Búsqueda Orgánica,Android,135,4,0
+SES-23486,USR-1382,Google Ads,iOS,39,12,0
+SES-23487,USR-1702,Búsqueda Orgánica,Mac,213,11,1
+SES-23488,USR-1693,Google Ads,Android,125,6,0
+SES-23489,USR-1561,Directo,Windows,99999,3,0
+SES-23490,USR-1333,Email Marketing,Android,41,12,1
+SES-23491,USR-1054,Redes Sociales,Windows,61,6,0
+SES-23492,USR-1194,Redes Sociales,Windows,319,15,0
+SES-23493,USR-1198,Búsqueda Orgánica,iOS,21,4,0
+SES-23494,USR-1067,Email Marketing,Mac,110,12,1
+SES-23495,USR-1167,Redes Sociales,Android,482,7,1
+SES-23496,USR-1318,Búsqueda Orgánica,Android,69,11,0
+SES-23497,USR-1209,Redes Sociales,Android,59,3,0
+SES-23498,USR-1211,Búsqueda Orgánica,iOS,99999,5,0
+SES-23499,USR-1500,Directo,Windows,324,3,0

@@ -1,0 +1,1201 @@
+ID_Cliente,Nombre_Cliente,Email,Edad,Ingreso_Anual_USD,Nivel_Educativo,Fecha_Registro
+CL-1000, maria gomez ,ROBERTO.SILVA@COMPANY.AR,43.0,"$94,539.42",posgrado,2025-03-15
+CL-1001,maria gomez,sofia.t@gmail.com,36.0,"$81,872.56",SECUNDARIO,15/03/2025
+CL-1002,Juan Perez,carlos.lopez@domain.or,35.0,"$30,517.94",Grado,2025-03-15
+CL-1003,Elena Fernandez,MARTIN.A@HOTMAIL.COM,35.0,"$107,286.73",Grado,15/03/2025
+CL-1004,Martin Alvarez,elena.f@gmail.com,,"$82,105.93",Grado,"Mar 15, 2025"
+CL-1005,maria gomez,lucia.d@outlook.com,31.0,"$42,423.43",Grado,15/03/2025
+CL-1006,Carlos LOPEZ ,ana.m@test.com,31.0,"$53,903.01",grado,"Mar 15, 2025"
+CL-1007,Juan Perez,juan.perez@email.com,999.0,"$74,851.86",SECUNDARIO,2025-03-15
+CL-1008,Lucia Diaz,carlos.lopez@domain.or,18.0,"$83,126.02",posgrado,2025-03-15
+CL-1009,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,31.0,"$38,251.92",Grado,2025-03-15
+CL-1010,Martin Alvarez,sofia.t@gmail.com,27.0,"$68,326.65",UNIVERSITARIO,"Mar 15, 2025"
+CL-1011,Elena Fernandez,DIEGO.GOMEZ@YAHOO.COM,21.0,"$99,591.72",Posgrado,15/03/2025
+CL-1012,maria gomez,roberto.silva@company.ar,38.0,"$81,279.38",Secundario,15/03/2025
+CL-1013, Lucia Diaz ,elena.f@gmail.com,20.0,,Grado,2025-03-15
+CL-1014,Lucia Diaz,SOFIA.T@GMAIL.COM,39.0,"$41,199.79",posgrado,FECHA_INVALIDA
+CL-1015, Sofia TORRES,ana.m@test.com,31.0,"$31,179.90",SECUNDARIO,2025-03-15
+CL-1016,  Ana Martinez ,juan.perez@email.com,30.0,"-$15,000.00",Ninguno,2025-03-15
+CL-1017,Juan Perez,MARIA.GOMEZ@MAIL.COM,49.0,"$34,278.85",SECUNDARIO,2025-03-15
+CL-1018,Lucia Diaz,ana.m@test.com,30.0,"$36,593.63",Secundario,15/03/2025
+CL-1019, maria gomez ,ELENA.F@GMAIL.COM,60.0,"$72,041.81",Posgrado,2025-03-15
+CL-1020, Ana Martinez,MARIA.GOMEZ@MAIL.COM,47.0,,Secundario,FECHA_INVALIDA
+CL-1021, Ana Martinez,lucia.d@outlook.com,23.0,"$54,612.55",,2025-03-15
+CL-1022,Lucia Diaz,sofia.t@gmail.com,71.0,"$42,561.17",Secundario,"Mar 15, 2025"
+CL-1023, Juan Perez ,lucia.d@outlook.com,52.0,"$117,110.54",Posgrado,2025-03-15
+CL-1024,maria gomez,ana.m@test.com,40.0,"$112,578.05",,2025-03-15
+CL-1025,Martin Alvarez,elena.f@gmail.com,48.0,"$33,406.79",UNIVERSITARIO,15/03/2025
+CL-1026, maria gomez ,martin.a@hotmail.com,-12.0,"$43,618.37",grado,"Mar 15, 2025"
+CL-1027, Ana Martinez,carlos.lopez@domain.or,36.0,"$61,924.34",Secundario,15/03/2025
+CL-1028, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,34.0,"$50,778.16",UNIVERSITARIO,2025-03-15
+CL-1029, Ana Martinez,ana.m@test.com,32.0,"$51,688.78",Secundario,2025-03-15
+CL-1030,Diego Gomez,,50.0,"$76,556.13",SECUNDARIO,15/03/2025
+CL-1031,Diego Gomez,,41.0,"$32,082.31",grado,15/03/2025
+CL-1032,Carlos LOPEZ ,juan.perez@email.com,33.0,"$118,754.26",Ninguno,15/03/2025
+CL-1033,maria gomez,sofia.t@gmail.com,29.0,"$25,524.60",Posgrado,FECHA_INVALIDA
+CL-1034,Carlos LOPEZ ,juan.perez@email.com,45.0,"$102,468.84",Ninguno,2025-03-15
+CL-1035,maria gomez,juan.perez@email.com,50.0,"$98,270.68",Ninguno,2025-03-15
+CL-1036, Ana Martinez,roberto.silva@company.ar,49.0,"$32,034.24",grado,"Mar 15, 2025"
+CL-1037,maria gomez,roberto.silva@company.ar,27.0,"$106,994.83",grado,15/03/2025
+CL-1038, Sofia TORRES,MARTIN.A@HOTMAIL.COM,34.0,"$84,213.32",Ninguno,2025-03-15
+CL-1039,maria gomez,elena.f@gmail.com,32.0,"$54,543.32",posgrado,2025-03-15
+CL-1040,ROBERTO SILVA,ana.m@test.com,35.0,"$55,892.42",UNIVERSITARIO,15/03/2025
+CL-1041,Juan Perez,ana.m@test.com,47.0,"$109,285.21",Ninguno,15/03/2025
+CL-1042,Carlos LOPEZ ,roberto.silva@company.ar,54.0,"$69,860.42",UNIVERSITARIO,2025-03-15
+CL-1043, Ana Martinez,juan.perez@email.com,42.0,"-$15,000.00",Ninguno,"Mar 15, 2025"
+CL-1044,Diego Gomez,ana.m@test.com,30.0,"$97,274.58",posgrado,2025-03-15
+CL-1045, Sofia TORRES,sofia.t@gmail.com,55.0,"$71,910.58",grado,FECHA_INVALIDA
+CL-1046,Lucia Diaz,sofia.t@gmail.com,42.0,"$74,659.62",SECUNDARIO,2025-03-15
+CL-1047, Ana Martinez,roberto.silva@company.ar,33.0,"$35,249.69",UNIVERSITARIO,2025-03-15
+CL-1048,Elena Fernandez,sofia.t@gmail.com,37.0,"$27,985.77",posgrado,15/03/2025
+CL-1049, Sofia TORRES,juan.perez@email.com,20.0,"$73,314.22",posgrado,15/03/2025
+CL-1050,Elena Fernandez,diego.gomez@yahoo.com,50.0,"$111,218.82",Ninguno,15/03/2025
+CL-1051,ROBERTO SILVA,juan.perez@email.com,31.0,"$96,777.36",Posgrado,FECHA_INVALIDA
+CL-1052,  Sofia TORRES ,diego.gomez@yahoo.com,20.0,"$46,735.83",Posgrado,2025-03-15
+CL-1053,Diego Gomez,lucia.d@outlook.com,35.0,"$40,316.02",UNIVERSITARIO,"Mar 15, 2025"
+CL-1054, Lucia Diaz ,,32.0,"$113,321.28",Secundario,"Mar 15, 2025"
+CL-1055, Ana Martinez,juan.perez@email.com,44.0,"$107,788.76",SECUNDARIO,15/03/2025
+CL-1056,Elena Fernandez,martin.a@hotmail.com,51.0,"$101,348.85",Secundario,"Mar 15, 2025"
+CL-1057,Martin Alvarez,diego.gomez@yahoo.com,-12.0,"$42,724.16",Grado,"Mar 15, 2025"
+CL-1058,Martin Alvarez,elena.f@gmail.com,180.0,,SECUNDARIO,2025-03-15
+CL-1059,Elena Fernandez,lucia.d@outlook.com,39.0,"$101,706.81",SECUNDARIO,15/03/2025
+CL-1060,Martin Alvarez,ANA.M@TEST.COM,49.0,"$110,128.67",posgrado,2025-03-15
+CL-1061,Lucia Diaz,carlos.lopez@domain.or,29.0,"$46,653.84",UNIVERSITARIO,15/03/2025
+CL-1062, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,34.0,"$65,575.24",SECUNDARIO,15/03/2025
+CL-1063, Juan Perez ,ana.m@test.com,41.0,"$25,660.45",grado,15/03/2025
+CL-1064, Sofia TORRES,lucia.d@outlook.com,41.0,"$73,520.99",Posgrado,2025-03-15
+CL-1065,Lucia Diaz,martin.a@hotmail.com,21.0,"$36,387.21",Ninguno,2025-03-15
+CL-1066, ROBERTO SILVA ,SOFIA.T@GMAIL.COM,180.0,"$57,073.44",SECUNDARIO,2025-03-15
+CL-1067,Juan Perez,lucia.d@outlook.com,32.0,"$114,576.42",Grado,"Mar 15, 2025"
+CL-1068,Diego Gomez,MARTIN.A@HOTMAIL.COM,40.0,"$91,786.80",Ninguno,2025-03-15
+CL-1069,Diego Gomez,martin.a@hotmail.com,18.0,"$59,544.81",posgrado,2025-03-15
+CL-1070, Martin Alvarez ,MARIA.GOMEZ@MAIL.COM,37.0,"$53,583.44",Posgrado,15/03/2025
+CL-1071, Carlos LOPEZ  ,lucia.d@outlook.com,,"$52,059.85",SECUNDARIO,2025-03-15
+CL-1072, Ana Martinez,martin.a@hotmail.com,18.0,"$28,504.26",UNIVERSITARIO,"Mar 15, 2025"
+CL-1073, maria gomez ,roberto.silva@company.ar,38.0,"$29,890.48",UNIVERSITARIO,15/03/2025
+CL-1074,ROBERTO SILVA,lucia.d@outlook.com,67.0,"$51,471.41",Secundario,2025-03-15
+CL-1075,Martin Alvarez,juan.perez@email.com,35.0,,SECUNDARIO,15/03/2025
+CL-1076,Lucia Diaz,carlos.lopez@domain.or,41.0,"$38,765.01",posgrado,2025-03-15
+CL-1077,maria gomez,elena.f@gmail.com,42.0,"$47,995.25",Secundario,15/03/2025
+CL-1078,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,37.0,"$88,852.88",SECUNDARIO,15/03/2025
+CL-1079, Ana Martinez,martin.a@hotmail.com,28.0,"$94,180.55",UNIVERSITARIO,15/03/2025
+CL-1080,Lucia Diaz,martin.a@hotmail.com,47.0,,Ninguno,FECHA_INVALIDA
+CL-1081,maria gomez,MARIA.GOMEZ@MAIL.COM,54.0,"$85,185.32",posgrado,"Mar 15, 2025"
+CL-1082,Lucia Diaz,sofia.t@gmail.com,21.0,"$75,898.59",Grado,2025-03-15
+CL-1083,Diego Gomez,SOFIA.T@GMAIL.COM,26.0,"$28,873.64",SECUNDARIO,"Mar 15, 2025"
+CL-1084,Lucia Diaz,elena.f@gmail.com,31.0,"$81,134.83",Ninguno,15/03/2025
+CL-1085, Ana Martinez,,19.0,"$86,291.42",posgrado,FECHA_INVALIDA
+CL-1086,Carlos LOPEZ ,juan.perez@email.com,38.0,"$41,564.81",Grado,15/03/2025
+CL-1087, Lucia Diaz ,carlos.lopez@domain.or,26.0,"$113,989.35",grado,15/03/2025
+CL-1088,Diego Gomez,elena.f@gmail.com,56.0,"$38,064.49",SECUNDARIO,"Mar 15, 2025"
+CL-1089,Juan Perez,ana.m@test.com,28.0,"$112,845.89",Grado,"Mar 15, 2025"
+CL-1090,maria gomez,ROBERTO.SILVA@COMPANY.AR,34.0,"$108,347.24",Posgrado,2025-03-15
+CL-1091,Diego Gomez,CARLOS.LOPEZ@DOMAIN.OR,47.0,"$102,636.11",Posgrado,2025-03-15
+CL-1092,ROBERTO SILVA,juan.perez@email.com,23.0,"$77,744.08",grado,FECHA_INVALIDA
+CL-1093,ROBERTO SILVA,diego.gomez@yahoo.com,18.0,"$33,844.76",Grado,2025-03-15
+CL-1094,Martin Alvarez,roberto.silva@company.ar,40.0,"$110,235.50",Secundario,"Mar 15, 2025"
+CL-1095,Lucia Diaz,roberto.silva@company.ar,41.0,"$57,207.83",UNIVERSITARIO,15/03/2025
+CL-1096,Carlos LOPEZ ,juan.perez@email.com,47.0,"$58,174.91",UNIVERSITARIO,2025-03-15
+CL-1097,Diego Gomez,carlos.lopez@domain.or,44.0,"$109,273.21",Posgrado,2025-03-15
+CL-1098,Lucia Diaz,roberto.silva@company.ar,41.0,"$99,088.18",Ninguno,"Mar 15, 2025"
+CL-1099,Diego Gomez,sofia.t@gmail.com,,"$85,993.01",UNIVERSITARIO,15/03/2025
+CL-1100,Elena Fernandez,ana.m@test.com,40.0,"$25,873.72",Grado,15/03/2025
+CL-1101,Lucia Diaz,ROBERTO.SILVA@COMPANY.AR,,,Grado,2025-03-15
+CL-1102, Sofia TORRES,lucia.d@outlook.com,48.0,"$34,639.80",Posgrado,"Mar 15, 2025"
+CL-1103,maria gomez,martin.a@hotmail.com,,"$88,032.67",Ninguno,"Mar 15, 2025"
+CL-1104,maria gomez,elena.f@gmail.com,60.0,"$86,936.32",Grado,"Mar 15, 2025"
+CL-1105, Lucia Diaz ,ana.m@test.com,,"$46,305.58",Posgrado,"Mar 15, 2025"
+CL-1106,  Ana Martinez ,sofia.t@gmail.com,43.0,"$92,657.03",Secundario,2025-03-15
+CL-1107,Carlos LOPEZ ,sofia.t@gmail.com,28.0,,,"Mar 15, 2025"
+CL-1108, Ana Martinez,JUAN.PEREZ@EMAIL.COM,24.0,"$95,916.68",SECUNDARIO,15/03/2025
+CL-1109,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,49.0,"$87,473.22",UNIVERSITARIO,15/03/2025
+CL-1110, Juan Perez ,lucia.d@outlook.com,42.0,"$78,989.32",Grado,2025-03-15
+CL-1111, Carlos LOPEZ  ,roberto.silva@company.ar,35.0,"$50,194.22",UNIVERSITARIO,15/03/2025
+CL-1112,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,28.0,"$48,179.02",SECUNDARIO,"Mar 15, 2025"
+CL-1113,Diego Gomez,lucia.d@outlook.com,37.0,"$109,744.42",Posgrado,15/03/2025
+CL-1114, Lucia Diaz ,MARIA.GOMEZ@MAIL.COM,42.0,"$84,958.17",grado,15/03/2025
+CL-1115,Diego Gomez,diego.gomez@yahoo.com,38.0,"$79,805.87",Ninguno,2025-03-15
+CL-1116,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,55.0,"$71,789.18",posgrado,"Mar 15, 2025"
+CL-1117,Martin Alvarez,,45.0,"$51,673.37",Posgrado,2025-03-15
+CL-1118,ROBERTO SILVA,,27.0,"$27,310.02",Posgrado,"Mar 15, 2025"
+CL-1119, Juan Perez ,sofia.t@gmail.com,25.0,"$114,343.57",Grado,"Mar 15, 2025"
+CL-1120,Carlos LOPEZ ,,43.0,"$115,623.21",SECUNDARIO,15/03/2025
+CL-1121, Ana Martinez,MARIA.GOMEZ@MAIL.COM,35.0,"$26,468.38",UNIVERSITARIO,2025-03-15
+CL-1122,Diego Gomez,,46.0,"$113,190.26",UNIVERSITARIO,2025-03-15
+CL-1123, maria gomez ,diego.gomez@yahoo.com,43.0,"$116,543.90",grado,2025-03-15
+CL-1124,Juan Perez,lucia.d@outlook.com,37.0,"$106,035.90",posgrado,2025-03-15
+CL-1125, Diego Gomez ,elena.f@gmail.com,27.0,"$105,857.98",posgrado,"Mar 15, 2025"
+CL-1126, Ana Martinez,diego.gomez@yahoo.com,19.0,"$55,107.59",Posgrado,2025-03-15
+CL-1127,maria gomez,ana.m@test.com,40.0,"$113,934.70",Ninguno,2025-03-15
+CL-1128,ROBERTO SILVA,martin.a@hotmail.com,220.0,"$91,122.83",SECUNDARIO,15/03/2025
+CL-1129,Martin Alvarez,martin.a@hotmail.com,23.0,"$79,155.81",UNIVERSITARIO,"Mar 15, 2025"
+CL-1130, Martin Alvarez ,,40.0,,UNIVERSITARIO,2025-03-15
+CL-1131,maria gomez,sofia.t@gmail.com,28.0,"$119,055.12",,"Mar 15, 2025"
+CL-1132,Martin Alvarez,elena.f@gmail.com,38.0,"$108,350.44",grado,FECHA_INVALIDA
+CL-1133,maria gomez,,24.0,"$95,373.02",Posgrado,2025-03-15
+CL-1134,ROBERTO SILVA,ELENA.F@GMAIL.COM,50.0,"$59,151.66",posgrado,2025-03-15
+CL-1135,Martin Alvarez,elena.f@gmail.com,50.0,"$52,891.23",posgrado,2025-03-15
+CL-1136,maria gomez,diego.gomez@yahoo.com,44.0,"$107,371.87",Grado,15/03/2025
+CL-1137,Diego Gomez,juan.perez@email.com,44.0,"$111,757.85",Ninguno,FECHA_INVALIDA
+CL-1138, Carlos LOPEZ  ,MARIA.GOMEZ@MAIL.COM,44.0,"$100,838.04",Posgrado,15/03/2025
+CL-1139,Carlos LOPEZ ,martin.a@hotmail.com,75.0,"$86,746.57",Ninguno,FECHA_INVALIDA
+CL-1140,Martin Alvarez,lucia.d@outlook.com,49.0,"$109,550.51",Ninguno,2025-03-15
+CL-1141,Martin Alvarez,lucia.d@outlook.com,45.0,"$57,109.54",Ninguno,"Mar 15, 2025"
+CL-1142,Carlos LOPEZ ,juan.perez@email.com,28.0,"$79,936.61",Grado,2025-03-15
+CL-1143,Carlos LOPEZ ,sofia.t@gmail.com,35.0,"$28,414.52",grado,"Mar 15, 2025"
+CL-1144, Diego Gomez ,sofia.t@gmail.com,65.0,"$52,221.42",Grado,"Mar 15, 2025"
+CL-1145,Elena Fernandez,,18.0,"$81,129.16",SECUNDARIO,15/03/2025
+CL-1146,Juan Perez,juan.perez@email.com,32.0,"$37,070.75",Grado,"Mar 15, 2025"
+CL-1147, Ana Martinez,juan.perez@email.com,51.0,"-$15,000.00",SECUNDARIO,15/03/2025
+CL-1148,Juan Perez,MARTIN.A@HOTMAIL.COM,56.0,"$45,503.00",posgrado,2025-03-15
+CL-1149,maria gomez,,39.0,"$84,174.60",Secundario,2025-03-15
+CL-1150, Lucia Diaz ,diego.gomez@yahoo.com,,"$33,108.01",Grado,"Mar 15, 2025"
+CL-1151,Elena Fernandez,elena.f@gmail.com,38.0,"$76,360.34",SECUNDARIO,15/03/2025
+CL-1152, Carlos LOPEZ  ,,30.0,"$85,555.84",grado,"Mar 15, 2025"
+CL-1153, Sofia TORRES,SOFIA.T@GMAIL.COM,18.0,"$100,542.69",Secundario,"Mar 15, 2025"
+CL-1154,Elena Fernandez,elena.f@gmail.com,40.0,"$50,729.06",Posgrado,15/03/2025
+CL-1155,Lucia Diaz,SOFIA.T@GMAIL.COM,28.0,"$27,408.32",Posgrado,15/03/2025
+CL-1156,Elena Fernandez,elena.f@gmail.com,36.0,"$116,451.60",grado,15/03/2025
+CL-1157,Elena Fernandez,diego.gomez@yahoo.com,44.0,"-$15,000.00",grado,15/03/2025
+CL-1158,Carlos LOPEZ ,carlos.lopez@domain.or,48.0,"$63,850.53",grado,2025-03-15
+CL-1159, Martin Alvarez ,carlos.lopez@domain.or,33.0,"$48,773.08",grado,2025-03-15
+CL-1160,ROBERTO SILVA,,34.0,"$77,176.53",Grado,2025-03-15
+CL-1161,ROBERTO SILVA,ana.m@test.com,49.0,"$51,593.72",Grado,15/03/2025
+CL-1162,Lucia Diaz,elena.f@gmail.com,53.0,"$115,712.20",Posgrado,"Mar 15, 2025"
+CL-1163,Carlos LOPEZ ,sofia.t@gmail.com,42.0,"$83,113.47",grado,15/03/2025
+CL-1164,Elena Fernandez,sofia.t@gmail.com,220.0,"$64,862.01",posgrado,"Mar 15, 2025"
+CL-1165, Martin Alvarez ,elena.f@gmail.com,57.0,"$48,534.44",Posgrado,"Mar 15, 2025"
+CL-1166,Carlos LOPEZ ,juan.perez@email.com,53.0,"$26,367.38",Ninguno,2025-03-15
+CL-1167, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,29.0,"$36,026.90",Grado,15/03/2025
+CL-1168,Carlos LOPEZ ,martin.a@hotmail.com,43.0,"$70,046.51",Secundario,"Mar 15, 2025"
+CL-1169, Juan Perez ,martin.a@hotmail.com,47.0,"$34,294.25",,"Mar 15, 2025"
+CL-1170, Sofia TORRES,roberto.silva@company.ar,18.0,"$41,454.18",Secundario,2025-03-15
+CL-1171,Diego Gomez,ANA.M@TEST.COM,25.0,"$66,215.91",grado,FECHA_INVALIDA
+CL-1172,Carlos LOPEZ ,sofia.t@gmail.com,57.0,"$85,333.90",Grado,2025-03-15
+CL-1173,Diego Gomez,diego.gomez@yahoo.com,20.0,"$29,303.88",grado,2025-03-15
+CL-1174,Carlos LOPEZ ,sofia.t@gmail.com,55.0,"$72,797.94",SECUNDARIO,FECHA_INVALIDA
+CL-1175, Ana Martinez,,20.0,"$106,366.53",SECUNDARIO,2025-03-15
+CL-1176,Juan Perez,diego.gomez@yahoo.com,26.0,"$31,704.03",,2025-03-15
+CL-1177, Sofia TORRES,sofia.t@gmail.com,43.0,"$86,029.83",Grado,2025-03-15
+CL-1178,maria gomez,elena.f@gmail.com,38.0,"$114,321.87",Secundario,2025-03-15
+CL-1179,Carlos LOPEZ ,LUCIA.D@OUTLOOK.COM,33.0,"$79,670.05",grado,2025-03-15
+CL-1180,Martin Alvarez,roberto.silva@company.ar,57.0,"$68,534.02",SECUNDARIO,"Mar 15, 2025"
+CL-1181,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,23.0,"$76,833.59",Secundario,15/03/2025
+CL-1182,ROBERTO SILVA,martin.a@hotmail.com,36.0,"$116,313.10",posgrado,2025-03-15
+CL-1183,  Ana Martinez ,MARIA.GOMEZ@MAIL.COM,45.0,"$111,008.31",SECUNDARIO,"Mar 15, 2025"
+CL-1184,Juan Perez,sofia.t@gmail.com,41.0,"$31,762.92",Posgrado,15/03/2025
+CL-1185, Sofia TORRES,elena.f@gmail.com,30.0,"$55,302.68",SECUNDARIO,2025-03-15
+CL-1186, Ana Martinez,roberto.silva@company.ar,30.0,"$36,225.66",SECUNDARIO,2025-03-15
+CL-1187,Elena Fernandez,roberto.silva@company.ar,48.0,"$91,190.03",grado,FECHA_INVALIDA
+CL-1188,Carlos LOPEZ ,ROBERTO.SILVA@COMPANY.AR,48.0,"$94,831.75",Ninguno,2025-03-15
+CL-1189, Sofia TORRES,SOFIA.T@GMAIL.COM,41.0,"$101,330.69",Ninguno,15/03/2025
+CL-1190,Juan Perez,ELENA.F@GMAIL.COM,28.0,,Posgrado,15/03/2025
+CL-1191,Lucia Diaz,ana.m@test.com,31.0,,Ninguno,15/03/2025
+CL-1192,Juan Perez,carlos.lopez@domain.or,46.0,,SECUNDARIO,2025-03-15
+CL-1193,ROBERTO SILVA,juan.perez@email.com,45.0,"$119,097.99",SECUNDARIO,"Mar 15, 2025"
+CL-1194,Carlos LOPEZ ,lucia.d@outlook.com,18.0,"$98,759.23",Posgrado,2025-03-15
+CL-1195,Elena Fernandez,martin.a@hotmail.com,23.0,"$57,376.34",posgrado,15/03/2025
+CL-1196,maria gomez,MARIA.GOMEZ@MAIL.COM,56.0,"$96,681.57",Ninguno,15/03/2025
+CL-1197,ROBERTO SILVA,roberto.silva@company.ar,32.0,"$34,796.77",Grado,15/03/2025
+CL-1198,Carlos LOPEZ ,sofia.t@gmail.com,38.0,"$103,513.46",UNIVERSITARIO,2025-03-15
+CL-1199, Ana Martinez,carlos.lopez@domain.or,49.0,"$55,404.71",SECUNDARIO,"Mar 15, 2025"
+CL-1200, Ana Martinez,MARTIN.A@HOTMAIL.COM,35.0,"$26,029.58",Grado,2025-03-15
+CL-1201, Sofia TORRES,ANA.M@TEST.COM,48.0,"$111,011.29",Ninguno,"Mar 15, 2025"
+CL-1202, Lucia Diaz ,SOFIA.T@GMAIL.COM,34.0,"$115,255.89",SECUNDARIO,15/03/2025
+CL-1203,ROBERTO SILVA,DIEGO.GOMEZ@YAHOO.COM,30.0,"-$15,000.00",Grado,15/03/2025
+CL-1204,Juan Perez,MARIA.GOMEZ@MAIL.COM,39.0,"$85,024.54",posgrado,2025-03-15
+CL-1205,Diego Gomez,diego.gomez@yahoo.com,45.0,"$67,602.32",grado,2025-03-15
+CL-1206, Sofia TORRES,carlos.lopez@domain.or,,,posgrado,15/03/2025
+CL-1207, Ana Martinez,elena.f@gmail.com,25.0,"$88,889.25",,15/03/2025
+CL-1208,Martin Alvarez,JUAN.PEREZ@EMAIL.COM,23.0,"$96,475.58",Secundario,2025-03-15
+CL-1209,Juan Perez,ana.m@test.com,45.0,"$33,664.58",Ninguno,"Mar 15, 2025"
+CL-1210,Martin Alvarez,martin.a@hotmail.com,45.0,"$71,969.93",Ninguno,15/03/2025
+CL-1211, ROBERTO SILVA ,martin.a@hotmail.com,38.0,"$66,945.40",grado,"Mar 15, 2025"
+CL-1212,Diego Gomez,elena.f@gmail.com,29.0,"$109,331.90",Ninguno,"Mar 15, 2025"
+CL-1213,ROBERTO SILVA,carlos.lopez@domain.or,28.0,"$38,584.21",Posgrado,2025-03-15
+CL-1214,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,34.0,"$97,343.51",UNIVERSITARIO,2025-03-15
+CL-1215,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,28.0,"$32,990.15",grado,2025-03-15
+CL-1216,Juan Perez,ANA.M@TEST.COM,40.0,"$91,592.07",Ninguno,2025-03-15
+CL-1217, Ana Martinez,roberto.silva@company.ar,32.0,"$33,059.58",SECUNDARIO,15/03/2025
+CL-1218,Lucia Diaz,elena.f@gmail.com,40.0,"$118,730.76",Posgrado,2025-03-15
+CL-1219, Sofia TORRES,martin.a@hotmail.com,20.0,"$102,215.96",Ninguno,15/03/2025
+CL-1220,Elena Fernandez,lucia.d@outlook.com,21.0,"$114,988.61",Posgrado,2025-03-15
+CL-1221, Sofia TORRES,sofia.t@gmail.com,29.0,"$98,828.96",Secundario,"Mar 15, 2025"
+CL-1222,Diego Gomez,,35.0,"$78,048.40",Secundario,15/03/2025
+CL-1223,Martin Alvarez,,48.0,"$35,563.76",,"Mar 15, 2025"
+CL-1224, Sofia TORRES,juan.perez@email.com,36.0,"$71,799.38",Grado,15/03/2025
+CL-1225, Ana Martinez,sofia.t@gmail.com,37.0,"-$15,000.00",SECUNDARIO,15/03/2025
+CL-1226, Ana Martinez,MARIA.GOMEZ@MAIL.COM,34.0,"$30,348.81",SECUNDARIO,2025-03-15
+CL-1227,Juan Perez,MARIA.GOMEZ@MAIL.COM,53.0,"$80,420.03",Grado,"Mar 15, 2025"
+CL-1228,Juan Perez,MARTIN.A@HOTMAIL.COM,180.0,"$116,406.39",Secundario,2025-03-15
+CL-1229, Elena Fernandez ,ana.m@test.com,47.0,"$60,612.71",Posgrado,15/03/2025
+CL-1230,Martin Alvarez,diego.gomez@yahoo.com,46.0,"$46,241.60",Grado,15/03/2025
+CL-1231, Elena Fernandez ,DIEGO.GOMEZ@YAHOO.COM,33.0,"$116,506.14",grado,2025-03-15
+CL-1232,ROBERTO SILVA,lucia.d@outlook.com,40.0,"$32,010.67",posgrado,2025-03-15
+CL-1233,Martin Alvarez,ANA.M@TEST.COM,38.0,"$77,616.16",posgrado,2025-03-15
+CL-1234, maria gomez ,roberto.silva@company.ar,38.0,"$950,000.00",posgrado,2025-03-15
+CL-1235,maria gomez,MARIA.GOMEZ@MAIL.COM,43.0,,Grado,"Mar 15, 2025"
+CL-1236, Sofia TORRES,ana.m@test.com,55.0,"$68,181.40",SECUNDARIO,2025-03-15
+CL-1237,Carlos LOPEZ ,diego.gomez@yahoo.com,49.0,"$84,618.02",SECUNDARIO,15/03/2025
+CL-1238, Ana Martinez,carlos.lopez@domain.or,48.0,"$29,317.41",grado,15/03/2025
+CL-1239,Diego Gomez,martin.a@hotmail.com,40.0,"$51,691.50",posgrado,FECHA_INVALIDA
+CL-1240,ROBERTO SILVA,lucia.d@outlook.com,64.0,"$51,351.21",grado,2025-03-15
+CL-1241,Martin Alvarez,sofia.t@gmail.com,,"$42,871.51",Ninguno,15/03/2025
+CL-1242,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,28.0,"$69,051.35",Ninguno,2025-03-15
+CL-1243,Carlos LOPEZ ,,50.0,"$32,384.79",posgrado,15/03/2025
+CL-1244,Elena Fernandez,sofia.t@gmail.com,18.0,"$117,567.51",Posgrado,15/03/2025
+CL-1245,Juan Perez,diego.gomez@yahoo.com,18.0,"$102,310.53",Ninguno,15/03/2025
+CL-1246, Sofia TORRES,martin.a@hotmail.com,42.0,"$90,049.46",Posgrado,2025-03-15
+CL-1247,Juan Perez,roberto.silva@company.ar,46.0,"$64,733.09",UNIVERSITARIO,2025-03-15
+CL-1248, Ana Martinez,elena.f@gmail.com,55.0,"$113,609.21",Grado,2025-03-15
+CL-1249,Elena Fernandez,carlos.lopez@domain.or,37.0,"$102,002.57",posgrado,FECHA_INVALIDA
+CL-1250, Ana Martinez,carlos.lopez@domain.or,34.0,"$118,791.23",SECUNDARIO,15/03/2025
+CL-1251, Diego Gomez ,ana.m@test.com,41.0,"-$15,000.00",Posgrado,2025-03-15
+CL-1252, Ana Martinez,roberto.silva@company.ar,24.0,"$61,184.63",posgrado,15/03/2025
+CL-1253,Elena Fernandez,lucia.d@outlook.com,36.0,"$64,407.85",Grado,15/03/2025
+CL-1254,Elena Fernandez,roberto.silva@company.ar,52.0,"$50,973.67",posgrado,15/03/2025
+CL-1255,Lucia Diaz,carlos.lopez@domain.or,38.0,"$98,053.80",Secundario,"Mar 15, 2025"
+CL-1256,Juan Perez,ana.m@test.com,38.0,"$114,752.74",posgrado,"Mar 15, 2025"
+CL-1257,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,32.0,,UNIVERSITARIO,2025-03-15
+CL-1258,Lucia Diaz,LUCIA.D@OUTLOOK.COM,45.0,"$67,801.69",grado,15/03/2025
+CL-1259,Juan Perez,lucia.d@outlook.com,21.0,"$88,811.57",UNIVERSITARIO,"Mar 15, 2025"
+CL-1260,Juan Perez,ELENA.F@GMAIL.COM,44.0,"$83,722.18",Ninguno,"Mar 15, 2025"
+CL-1261,Martin Alvarez,martin.a@hotmail.com,28.0,"$88,799.45",Secundario,15/03/2025
+CL-1262, Sofia TORRES,sofia.t@gmail.com,34.0,"$74,429.23",Grado,2025-03-15
+CL-1263,Diego Gomez,ROBERTO.SILVA@COMPANY.AR,39.0,"$105,957.24",Ninguno,"Mar 15, 2025"
+CL-1264,Diego Gomez,martin.a@hotmail.com,56.0,"-$15,000.00",Grado,15/03/2025
+CL-1265,ROBERTO SILVA,elena.f@gmail.com,62.0,"$108,282.09",Grado,"Mar 15, 2025"
+CL-1266,Lucia Diaz,elena.f@gmail.com,59.0,"$63,330.87",SECUNDARIO,2025-03-15
+CL-1267,ROBERTO SILVA,martin.a@hotmail.com,45.0,"$91,887.58",Secundario,2025-03-15
+CL-1268, Lucia Diaz ,CARLOS.LOPEZ@DOMAIN.OR,54.0,"$45,231.60",Posgrado,"Mar 15, 2025"
+CL-1269,ROBERTO SILVA,roberto.silva@company.ar,50.0,"$62,263.18",Secundario,2025-03-15
+CL-1270,ROBERTO SILVA,ANA.M@TEST.COM,18.0,"$66,560.12",Ninguno,15/03/2025
+CL-1271, Lucia Diaz ,elena.f@gmail.com,34.0,"$73,829.00",posgrado,2025-03-15
+CL-1272,maria gomez,ELENA.F@GMAIL.COM,46.0,"$99,447.04",Posgrado,2025-03-15
+CL-1273, Martin Alvarez ,carlos.lopez@domain.or,57.0,"$106,924.55",SECUNDARIO,"Mar 15, 2025"
+CL-1274,maria gomez,carlos.lopez@domain.or,21.0,"$115,204.46",Posgrado,2025-03-15
+CL-1275,maria gomez,martin.a@hotmail.com,18.0,"$68,617.90",UNIVERSITARIO,2025-03-15
+CL-1276,Martin Alvarez,DIEGO.GOMEZ@YAHOO.COM,37.0,"$118,103.09",Grado,2025-03-15
+CL-1277, Martin Alvarez ,juan.perez@email.com,18.0,"$85,173.08",grado,15/03/2025
+CL-1278,Carlos LOPEZ ,,180.0,"$47,813.83",posgrado,15/03/2025
+CL-1279, Sofia TORRES,DIEGO.GOMEZ@YAHOO.COM,36.0,"$32,207.02",UNIVERSITARIO,2025-03-15
+CL-1280, Ana Martinez,carlos.lopez@domain.or,24.0,"$57,838.39",Grado,2025-03-15
+CL-1281,Diego Gomez,,43.0,"$110,194.90",Secundario,2025-03-15
+CL-1282,Carlos LOPEZ ,carlos.lopez@domain.or,62.0,"$41,370.39",UNIVERSITARIO,2025-03-15
+CL-1283,Carlos LOPEZ ,ROBERTO.SILVA@COMPANY.AR,34.0,"$43,267.46",Grado,2025-03-15
+CL-1284,Martin Alvarez,lucia.d@outlook.com,28.0,"$33,426.74",UNIVERSITARIO,"Mar 15, 2025"
+CL-1285,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,,"$36,460.41",SECUNDARIO,2025-03-15
+CL-1286,Carlos LOPEZ ,juan.perez@email.com,31.0,"$68,773.98",posgrado,"Mar 15, 2025"
+CL-1287,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,31.0,,Secundario,FECHA_INVALIDA
+CL-1288,maria gomez,roberto.silva@company.ar,23.0,"$72,824.64",UNIVERSITARIO,15/03/2025
+CL-1289,ROBERTO SILVA,ana.m@test.com,36.0,"$100,943.99",Ninguno,2025-03-15
+CL-1290, Diego Gomez ,sofia.t@gmail.com,38.0,"$84,650.54",,15/03/2025
+CL-1291,ROBERTO SILVA,sofia.t@gmail.com,48.0,"$96,084.67",UNIVERSITARIO,2025-03-15
+CL-1292, Ana Martinez,sofia.t@gmail.com,30.0,"$42,529.50",Posgrado,15/03/2025
+CL-1293, Diego Gomez ,,31.0,"$71,029.68",grado,"Mar 15, 2025"
+CL-1294,Diego Gomez,elena.f@gmail.com,-12.0,"$83,734.20",Grado,2025-03-15
+CL-1295,Carlos LOPEZ ,elena.f@gmail.com,23.0,"$60,046.80",UNIVERSITARIO,"Mar 15, 2025"
+CL-1296,maria gomez,roberto.silva@company.ar,,"$68,940.80",Grado,"Mar 15, 2025"
+CL-1297,Elena Fernandez,juan.perez@email.com,48.0,,SECUNDARIO,15/03/2025
+CL-1298, Sofia TORRES,lucia.d@outlook.com,26.0,"-$15,000.00",Ninguno,2025-03-15
+CL-1299,Diego Gomez,MARIA.GOMEZ@MAIL.COM,38.0,,SECUNDARIO,"Mar 15, 2025"
+CL-1300,maria gomez,elena.f@gmail.com,999.0,"$75,550.78",SECUNDARIO,2025-03-15
+CL-1301,Diego Gomez,ana.m@test.com,49.0,"$35,181.34",Ninguno,15/03/2025
+CL-1302,Lucia Diaz,SOFIA.T@GMAIL.COM,56.0,"$48,034.70",Ninguno,15/03/2025
+CL-1303, Sofia TORRES,diego.gomez@yahoo.com,18.0,"$50,578.11",grado,2025-03-15
+CL-1304, Carlos LOPEZ  ,martin.a@hotmail.com,35.0,,grado,"Mar 15, 2025"
+CL-1305, Ana Martinez,MARIA.GOMEZ@MAIL.COM,37.0,"$55,597.52",Ninguno,15/03/2025
+CL-1306,Diego Gomez,carlos.lopez@domain.or,30.0,"$36,377.40",Secundario,"Mar 15, 2025"
+CL-1307,Elena Fernandez,martin.a@hotmail.com,25.0,"$109,600.09",UNIVERSITARIO,2025-03-15
+CL-1308, Juan Perez ,ANA.M@TEST.COM,58.0,"$99,971.27",Posgrado,2025-03-15
+CL-1309,Carlos LOPEZ ,,48.0,"$72,352.01",Grado,"Mar 15, 2025"
+CL-1310,Elena Fernandez,elena.f@gmail.com,38.0,"$80,749.91",Posgrado,"Mar 15, 2025"
+CL-1311,Diego Gomez,lucia.d@outlook.com,27.0,"$95,816.75",grado,2025-03-15
+CL-1312,Martin Alvarez,diego.gomez@yahoo.com,25.0,"$51,958.71",posgrado,"Mar 15, 2025"
+CL-1313, Martin Alvarez ,martin.a@hotmail.com,35.0,"$59,492.82",SECUNDARIO,2025-03-15
+CL-1314,maria gomez,elena.f@gmail.com,49.0,"$58,829.19",grado,15/03/2025
+CL-1315,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,60.0,,posgrado,FECHA_INVALIDA
+CL-1316,Diego Gomez,diego.gomez@yahoo.com,38.0,"$47,536.55",Ninguno,2025-03-15
+CL-1317,maria gomez,juan.perez@email.com,39.0,"-$15,000.00",posgrado,2025-03-15
+CL-1318,maria gomez,MARIA.GOMEZ@MAIL.COM,30.0,"$42,723.87",Posgrado,15/03/2025
+CL-1319,Diego Gomez,MARIA.GOMEZ@MAIL.COM,32.0,"$52,084.04",UNIVERSITARIO,15/03/2025
+CL-1320,ROBERTO SILVA,juan.perez@email.com,38.0,,,2025-03-15
+CL-1321,Martin Alvarez,,28.0,"$63,987.70",Grado,2025-03-15
+CL-1322,Diego Gomez,roberto.silva@company.ar,42.0,"$107,223.18",SECUNDARIO,2025-03-15
+CL-1323,Lucia Diaz,ana.m@test.com,36.0,"$102,621.85",grado,"Mar 15, 2025"
+CL-1324,Diego Gomez,MARTIN.A@HOTMAIL.COM,29.0,"$88,521.11",SECUNDARIO,15/03/2025
+CL-1325, Ana Martinez,MARIA.GOMEZ@MAIL.COM,,"$113,290.72",Posgrado,2025-03-15
+CL-1326,Lucia Diaz,carlos.lopez@domain.or,31.0,"$77,892.47",posgrado,2025-03-15
+CL-1327,Carlos LOPEZ ,roberto.silva@company.ar,18.0,"$950,000.00",grado,"Mar 15, 2025"
+CL-1328, Sofia TORRES,juan.perez@email.com,44.0,"$98,101.83",Posgrado,15/03/2025
+CL-1329,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,31.0,"$65,416.46",grado,"Mar 15, 2025"
+CL-1330,ROBERTO SILVA,lucia.d@outlook.com,25.0,"$73,222.99",posgrado,2025-03-15
+CL-1331,Elena Fernandez,juan.perez@email.com,32.0,,UNIVERSITARIO,2025-03-15
+CL-1332,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,34.0,"$83,008.90",grado,2025-03-15
+CL-1333,Diego Gomez,MARIA.GOMEZ@MAIL.COM,45.0,"$39,664.46",grado,"Mar 15, 2025"
+CL-1334, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,18.0,"$70,708.31",Secundario,2025-03-15
+CL-1335, Ana Martinez,,180.0,"$75,596.00",SECUNDARIO,15/03/2025
+CL-1336,maria gomez,ana.m@test.com,36.0,"$37,769.39",grado,2025-03-15
+CL-1337,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,33.0,"$31,020.62",Ninguno,15/03/2025
+CL-1338, Ana Martinez,diego.gomez@yahoo.com,30.0,"$89,742.76",Posgrado,15/03/2025
+CL-1339,Martin Alvarez,ana.m@test.com,47.0,"$97,221.65",posgrado,"Mar 15, 2025"
+CL-1340,Elena Fernandez,ana.m@test.com,29.0,"$64,124.89",grado,15/03/2025
+CL-1341,Martin Alvarez,roberto.silva@company.ar,67.0,"$58,142.49",UNIVERSITARIO,2025-03-15
+CL-1342,ROBERTO SILVA,sofia.t@gmail.com,40.0,"$42,217.14",grado,15/03/2025
+CL-1343,Juan Perez,roberto.silva@company.ar,39.0,,Ninguno,2025-03-15
+CL-1344, Ana Martinez,lucia.d@outlook.com,39.0,"$79,574.95",Posgrado,2025-03-15
+CL-1345,Lucia Diaz,roberto.silva@company.ar,36.0,"$104,973.73",Grado,2025-03-15
+CL-1346, Ana Martinez,roberto.silva@company.ar,42.0,"$44,154.60",Grado,15/03/2025
+CL-1347,Martin Alvarez,,33.0,"$40,547.31",posgrado,15/03/2025
+CL-1348, Diego Gomez ,carlos.lopez@domain.or,42.0,"$88,193.74",SECUNDARIO,2025-03-15
+CL-1349,Carlos LOPEZ ,lucia.d@outlook.com,32.0,,Ninguno,"Mar 15, 2025"
+CL-1350,Carlos LOPEZ ,carlos.lopez@domain.or,18.0,"$108,334.05",posgrado,15/03/2025
+CL-1351,Lucia Diaz,juan.perez@email.com,42.0,"$62,282.29",Ninguno,2025-03-15
+CL-1352,Juan Perez,ana.m@test.com,34.0,"$60,809.72",UNIVERSITARIO,2025-03-15
+CL-1353,Juan Perez,roberto.silva@company.ar,53.0,"$68,954.58",Posgrado,2025-03-15
+CL-1354,Lucia Diaz,ana.m@test.com,50.0,,Posgrado,2025-03-15
+CL-1355,Juan Perez,carlos.lopez@domain.or,27.0,"$72,758.44",Secundario,15/03/2025
+CL-1356,Juan Perez,,41.0,"$61,469.67",UNIVERSITARIO,15/03/2025
+CL-1357,Carlos LOPEZ ,juan.perez@email.com,35.0,"$76,637.52",Posgrado,15/03/2025
+CL-1358,maria gomez,MARTIN.A@HOTMAIL.COM,40.0,"$36,105.31",UNIVERSITARIO,"Mar 15, 2025"
+CL-1359, Ana Martinez,DIEGO.GOMEZ@YAHOO.COM,47.0,"$114,284.05",grado,2025-03-15
+CL-1360,Juan Perez,MARIA.GOMEZ@MAIL.COM,20.0,"$38,230.85",Grado,"Mar 15, 2025"
+CL-1361, Ana Martinez,ROBERTO.SILVA@COMPANY.AR,51.0,"$100,432.39",grado,"Mar 15, 2025"
+CL-1362,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,,"$83,906.91",Posgrado,2025-03-15
+CL-1363,Lucia Diaz,ROBERTO.SILVA@COMPANY.AR,49.0,"$99,916.74",SECUNDARIO,2025-03-15
+CL-1364,Diego Gomez,lucia.d@outlook.com,38.0,"$39,409.11",Secundario,FECHA_INVALIDA
+CL-1365,Carlos LOPEZ ,martin.a@hotmail.com,24.0,"$95,674.90",Secundario,"Mar 15, 2025"
+CL-1366,Carlos LOPEZ ,lucia.d@outlook.com,,"$28,185.58",Ninguno,FECHA_INVALIDA
+CL-1367,Elena Fernandez,martin.a@hotmail.com,28.0,"$79,139.52",posgrado,2025-03-15
+CL-1368, Sofia TORRES,,43.0,"$57,497.77",SECUNDARIO,"Mar 15, 2025"
+CL-1369,maria gomez,elena.f@gmail.com,-12.0,"$103,019.44",Ninguno,2025-03-15
+CL-1370,Lucia Diaz,lucia.d@outlook.com,42.0,"$35,510.02",Secundario,2025-03-15
+CL-1371, Diego Gomez ,,53.0,"$39,242.16",UNIVERSITARIO,"Mar 15, 2025"
+CL-1372, Sofia TORRES,lucia.d@outlook.com,-12.0,"$46,778.88",SECUNDARIO,"Mar 15, 2025"
+CL-1373,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,,"$93,613.99",UNIVERSITARIO,15/03/2025
+CL-1374,Elena Fernandez,juan.perez@email.com,32.0,"$93,403.47",UNIVERSITARIO,15/03/2025
+CL-1375, Ana Martinez,diego.gomez@yahoo.com,54.0,"$76,558.82",Secundario,"Mar 15, 2025"
+CL-1376,Martin Alvarez,lucia.d@outlook.com,50.0,"$48,920.91",,"Mar 15, 2025"
+CL-1377, Sofia TORRES,martin.a@hotmail.com,25.0,"$111,302.80",Posgrado,2025-03-15
+CL-1378,Martin Alvarez,elena.f@gmail.com,31.0,"$80,422.22",UNIVERSITARIO,2025-03-15
+CL-1379,Elena Fernandez,LUCIA.D@OUTLOOK.COM,27.0,"$114,991.92",grado,"Mar 15, 2025"
+CL-1380, Sofia TORRES,ana.m@test.com,18.0,"$39,568.38",Posgrado,15/03/2025
+CL-1381,Elena Fernandez,elena.f@gmail.com,40.0,"$83,088.15",UNIVERSITARIO,"Mar 15, 2025"
+CL-1382,Diego Gomez,sofia.t@gmail.com,-5.0,"$26,720.47",Posgrado,FECHA_INVALIDA
+CL-1383,ROBERTO SILVA,juan.perez@email.com,69.0,,Grado,15/03/2025
+CL-1384, Sofia TORRES,sofia.t@gmail.com,59.0,"$112,637.44",Secundario,"Mar 15, 2025"
+CL-1385,Diego Gomez,ELENA.F@GMAIL.COM,45.0,"$92,187.67",SECUNDARIO,"Mar 15, 2025"
+CL-1386,Elena Fernandez,sofia.t@gmail.com,41.0,"$82,637.93",Grado,2025-03-15
+CL-1387,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,24.0,"$65,292.41",UNIVERSITARIO,2025-03-15
+CL-1388,Lucia Diaz,,40.0,"$112,929.01",UNIVERSITARIO,15/03/2025
+CL-1389,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,39.0,"$67,829.74",Posgrado,15/03/2025
+CL-1390, Sofia TORRES,elena.f@gmail.com,68.0,"$62,905.26",SECUNDARIO,FECHA_INVALIDA
+CL-1391,Juan Perez,elena.f@gmail.com,44.0,"$30,202.36",grado,2025-03-15
+CL-1392,maria gomez,SOFIA.T@GMAIL.COM,50.0,"$25,440.04",SECUNDARIO,15/03/2025
+CL-1393,ROBERTO SILVA,ANA.M@TEST.COM,31.0,"$56,682.42",Secundario,15/03/2025
+CL-1394, Ana Martinez,ana.m@test.com,48.0,"$112,386.28",posgrado,15/03/2025
+CL-1395,maria gomez,,18.0,,Posgrado,"Mar 15, 2025"
+CL-1396,  Sofia TORRES ,ana.m@test.com,22.0,"$95,062.62",posgrado,15/03/2025
+CL-1397,  Sofia TORRES ,,22.0,,grado,"Mar 15, 2025"
+CL-1398,maria gomez,roberto.silva@company.ar,19.0,"$67,981.75",Secundario,15/03/2025
+CL-1399, Sofia TORRES,diego.gomez@yahoo.com,34.0,"$38,381.42",grado,FECHA_INVALIDA
+CL-1400,Juan Perez,SOFIA.T@GMAIL.COM,37.0,"$64,797.92",Grado,2025-03-15
+CL-1401,Elena Fernandez,sofia.t@gmail.com,22.0,"$111,910.36",Secundario,"Mar 15, 2025"
+CL-1402, Sofia TORRES,,50.0,"$85,065.11",SECUNDARIO,FECHA_INVALIDA
+CL-1403,Elena Fernandez,ana.m@test.com,18.0,"$26,243.97",UNIVERSITARIO,15/03/2025
+CL-1404,Carlos LOPEZ ,elena.f@gmail.com,25.0,"$116,301.68",posgrado,2025-03-15
+CL-1405,Elena Fernandez,elena.f@gmail.com,44.0,"$39,122.96",Posgrado,15/03/2025
+CL-1406,maria gomez,carlos.lopez@domain.or,28.0,"$119,703.05",Secundario,"Mar 15, 2025"
+CL-1407,Juan Perez,martin.a@hotmail.com,36.0,"$72,708.53",SECUNDARIO,15/03/2025
+CL-1408,Carlos LOPEZ ,ana.m@test.com,29.0,"$96,246.24",Grado,2025-03-15
+CL-1409,  Sofia TORRES ,ana.m@test.com,39.0,"$44,941.03",SECUNDARIO,2025-03-15
+CL-1410,Martin Alvarez,carlos.lopez@domain.or,36.0,"$43,115.33",Grado,2025-03-15
+CL-1411,  Ana Martinez ,ana.m@test.com,39.0,"$28,472.22",Secundario,FECHA_INVALIDA
+CL-1412,Elena Fernandez,sofia.t@gmail.com,68.0,"$31,242.32",posgrado,15/03/2025
+CL-1413,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,24.0,"$98,675.12",grado,15/03/2025
+CL-1414,Lucia Diaz,JUAN.PEREZ@EMAIL.COM,54.0,"-$15,000.00",Ninguno,2025-03-15
+CL-1415,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,18.0,"$66,872.46",SECUNDARIO,2025-03-15
+CL-1416,Carlos LOPEZ ,,,"$63,072.49",Secundario,"Mar 15, 2025"
+CL-1417, Carlos LOPEZ  ,roberto.silva@company.ar,23.0,"$42,283.17",UNIVERSITARIO,"Mar 15, 2025"
+CL-1418, Ana Martinez,lucia.d@outlook.com,40.0,"$106,869.63",Posgrado,15/03/2025
+CL-1419, Sofia TORRES,elena.f@gmail.com,220.0,"$114,880.97",Ninguno,15/03/2025
+CL-1420, Sofia TORRES,carlos.lopez@domain.or,21.0,"$86,179.96",Grado,2025-03-15
+CL-1421,Carlos LOPEZ ,sofia.t@gmail.com,28.0,"$63,829.75",grado,"Mar 15, 2025"
+CL-1422, Sofia TORRES,lucia.d@outlook.com,49.0,"$27,574.12",Grado,15/03/2025
+CL-1423,ROBERTO SILVA,ANA.M@TEST.COM,53.0,"$46,087.36",Secundario,"Mar 15, 2025"
+CL-1424,Juan Perez,MARIA.GOMEZ@MAIL.COM,46.0,"$26,872.50",Grado,2025-03-15
+CL-1425,Martin Alvarez,sofia.t@gmail.com,24.0,"$34,890.32",posgrado,15/03/2025
+CL-1426, Sofia TORRES,elena.f@gmail.com,31.0,"$87,010.88",posgrado,"Mar 15, 2025"
+CL-1427,maria gomez,lucia.d@outlook.com,43.0,"$47,627.36",Secundario,2025-03-15
+CL-1428,Juan Perez,carlos.lopez@domain.or,35.0,"$93,615.36",Secundario,"Mar 15, 2025"
+CL-1429,Diego Gomez,sofia.t@gmail.com,-12.0,"$106,291.16",Ninguno,"Mar 15, 2025"
+CL-1430, Sofia TORRES,juan.perez@email.com,33.0,"$103,870.89",grado,2025-03-15
+CL-1431,Juan Perez,MARIA.GOMEZ@MAIL.COM,57.0,"$44,473.51",Secundario,"Mar 15, 2025"
+CL-1432,maria gomez,sofia.t@gmail.com,25.0,"$52,849.03",UNIVERSITARIO,2025-03-15
+CL-1433, Ana Martinez,diego.gomez@yahoo.com,18.0,"$109,803.81",UNIVERSITARIO,2025-03-15
+CL-1434,maria gomez,roberto.silva@company.ar,59.0,"$102,657.14",SECUNDARIO,"Mar 15, 2025"
+CL-1435,Elena Fernandez,lucia.d@outlook.com,23.0,"$61,070.78",posgrado,15/03/2025
+CL-1436, Ana Martinez,ana.m@test.com,28.0,"$81,078.02",UNIVERSITARIO,2025-03-15
+CL-1437,maria gomez,,47.0,"$63,894.11",UNIVERSITARIO,2025-03-15
+CL-1438, Ana Martinez,ana.m@test.com,21.0,"$77,444.48",grado,2025-03-15
+CL-1439,maria gomez,MARIA.GOMEZ@MAIL.COM,18.0,"$115,103.06",Secundario,"Mar 15, 2025"
+CL-1440,Elena Fernandez,lucia.d@outlook.com,31.0,"$97,542.55",UNIVERSITARIO,2025-03-15
+CL-1441,Martin Alvarez,sofia.t@gmail.com,49.0,"$100,986.25",Posgrado,15/03/2025
+CL-1442,maria gomez,LUCIA.D@OUTLOOK.COM,37.0,"$65,395.28",grado,15/03/2025
+CL-1443,ROBERTO SILVA,roberto.silva@company.ar,63.0,"$49,499.33",Ninguno,15/03/2025
+CL-1444,Elena Fernandez,diego.gomez@yahoo.com,46.0,"$38,238.83",Grado,"Mar 15, 2025"
+CL-1445, Ana Martinez,diego.gomez@yahoo.com,22.0,"$50,869.20",,15/03/2025
+CL-1446,Carlos LOPEZ ,sofia.t@gmail.com,39.0,"$26,747.11",Secundario,2025-03-15
+CL-1447, Carlos LOPEZ  ,roberto.silva@company.ar,18.0,"$77,646.91",UNIVERSITARIO,2025-03-15
+CL-1448,Diego Gomez,martin.a@hotmail.com,44.0,"$86,884.94",grado,2025-03-15
+CL-1449, Sofia TORRES,lucia.d@outlook.com,32.0,"$26,044.60",Posgrado,15/03/2025
+CL-1450,Elena Fernandez,martin.a@hotmail.com,-12.0,"$38,004.13",UNIVERSITARIO,"Mar 15, 2025"
+CL-1451,Martin Alvarez,roberto.silva@company.ar,44.0,"$110,501.77",SECUNDARIO,15/03/2025
+CL-1452,Carlos LOPEZ ,carlos.lopez@domain.or,41.0,"$82,049.10",Posgrado,2025-03-15
+CL-1453, maria gomez ,LUCIA.D@OUTLOOK.COM,49.0,"$88,178.48",UNIVERSITARIO,15/03/2025
+CL-1454,maria gomez,diego.gomez@yahoo.com,18.0,"$74,297.18",Posgrado,2025-03-15
+CL-1455,Elena Fernandez,elena.f@gmail.com,22.0,"$29,461.77",Posgrado,FECHA_INVALIDA
+CL-1456, Sofia TORRES,martin.a@hotmail.com,44.0,"$32,865.87",UNIVERSITARIO,"Mar 15, 2025"
+CL-1457,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,29.0,"$82,299.45",,"Mar 15, 2025"
+CL-1458,Carlos LOPEZ ,lucia.d@outlook.com,30.0,"$52,425.90",posgrado,"Mar 15, 2025"
+CL-1459,Martin Alvarez,juan.perez@email.com,21.0,"$58,788.91",posgrado,"Mar 15, 2025"
+CL-1460, Ana Martinez,diego.gomez@yahoo.com,26.0,"$78,808.44",UNIVERSITARIO,2025-03-15
+CL-1461, Sofia TORRES,DIEGO.GOMEZ@YAHOO.COM,50.0,"$70,224.79",SECUNDARIO,2025-03-15
+CL-1462,Martin Alvarez,,,"$88,048.76",Grado,2025-03-15
+CL-1463,Carlos LOPEZ ,juan.perez@email.com,39.0,"$45,419.34",SECUNDARIO,FECHA_INVALIDA
+CL-1464,Lucia Diaz,juan.perez@email.com,40.0,,Grado,15/03/2025
+CL-1465,Carlos LOPEZ ,roberto.silva@company.ar,31.0,"$72,154.79",SECUNDARIO,2025-03-15
+CL-1466,Juan Perez,MARIA.GOMEZ@MAIL.COM,39.0,"$81,700.07",grado,2025-03-15
+CL-1467,Juan Perez,sofia.t@gmail.com,51.0,"$35,126.83",Ninguno,FECHA_INVALIDA
+CL-1468, Ana Martinez,,29.0,"$32,138.09",Ninguno,2025-03-15
+CL-1469,Juan Perez,lucia.d@outlook.com,37.0,"$90,398.23",grado,"Mar 15, 2025"
+CL-1470, Juan Perez ,carlos.lopez@domain.or,59.0,"$66,308.60",grado,"Mar 15, 2025"
+CL-1471,Lucia Diaz,juan.perez@email.com,46.0,"$100,944.51",SECUNDARIO,15/03/2025
+CL-1472, Sofia TORRES,ana.m@test.com,31.0,"$90,996.16",Posgrado,2025-03-15
+CL-1473,Carlos LOPEZ ,roberto.silva@company.ar,45.0,"$59,292.52",Secundario,15/03/2025
+CL-1474,Elena Fernandez,ANA.M@TEST.COM,19.0,"$33,700.30",SECUNDARIO,"Mar 15, 2025"
+CL-1475,Carlos LOPEZ ,elena.f@gmail.com,37.0,"$42,587.63",,"Mar 15, 2025"
+CL-1476,Carlos LOPEZ ,ana.m@test.com,,"$76,480.59",SECUNDARIO,15/03/2025
+CL-1477,Martin Alvarez,elena.f@gmail.com,,"$107,929.85",Grado,15/03/2025
+CL-1478,Juan Perez,diego.gomez@yahoo.com,999.0,"$94,561.36",,2025-03-15
+CL-1479, ROBERTO SILVA ,ANA.M@TEST.COM,45.0,"$101,623.31",Ninguno,15/03/2025
+CL-1480,Carlos LOPEZ ,SOFIA.T@GMAIL.COM,53.0,"$105,673.59",posgrado,"Mar 15, 2025"
+CL-1481,Carlos LOPEZ ,sofia.t@gmail.com,50.0,"$48,718.46",grado,"Mar 15, 2025"
+CL-1482, Sofia TORRES,elena.f@gmail.com,19.0,"$118,828.46",Ninguno,15/03/2025
+CL-1483, Ana Martinez,sofia.t@gmail.com,37.0,"$114,685.64",Secundario,FECHA_INVALIDA
+CL-1484, Martin Alvarez ,carlos.lopez@domain.or,47.0,"$28,224.87",Secundario,"Mar 15, 2025"
+CL-1485,ROBERTO SILVA,sofia.t@gmail.com,39.0,,Posgrado,2025-03-15
+CL-1486,Martin Alvarez,ROBERTO.SILVA@COMPANY.AR,25.0,"$112,817.64",grado,"Mar 15, 2025"
+CL-1487,Carlos LOPEZ ,MARTIN.A@HOTMAIL.COM,50.0,,posgrado,2025-03-15
+CL-1488,Juan Perez,elena.f@gmail.com,51.0,"$105,232.19",Ninguno,"Mar 15, 2025"
+CL-1489,Martin Alvarez,,37.0,"$55,314.54",grado,15/03/2025
+CL-1490, Ana Martinez,diego.gomez@yahoo.com,21.0,"$36,453.85",posgrado,2025-03-15
+CL-1491, Elena Fernandez ,martin.a@hotmail.com,44.0,"$32,310.55",Posgrado,"Mar 15, 2025"
+CL-1492,Lucia Diaz,lucia.d@outlook.com,25.0,"$93,852.84",Ninguno,2025-03-15
+CL-1493,Diego Gomez,martin.a@hotmail.com,53.0,"$31,208.85",Secundario,"Mar 15, 2025"
+CL-1494,Carlos LOPEZ ,martin.a@hotmail.com,42.0,"$100,118.70",Ninguno,2025-03-15
+CL-1495,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,18.0,"$55,281.49",UNIVERSITARIO,2025-03-15
+CL-1496,maria gomez,,48.0,"$83,507.00",UNIVERSITARIO,15/03/2025
+CL-1497,Martin Alvarez,carlos.lopez@domain.or,41.0,"$47,131.15",UNIVERSITARIO,2025-03-15
+CL-1498,ROBERTO SILVA,martin.a@hotmail.com,46.0,"-$15,000.00",grado,"Mar 15, 2025"
+CL-1499,Juan Perez,diego.gomez@yahoo.com,38.0,"$100,884.41",Grado,2025-03-15
+CL-1500, Sofia TORRES,SOFIA.T@GMAIL.COM,31.0,"$70,588.18",posgrado,"Mar 15, 2025"
+CL-1501,Juan Perez,elena.f@gmail.com,54.0,"$84,613.02",Secundario,15/03/2025
+CL-1502,Diego Gomez,juan.perez@email.com,32.0,"$65,028.92",Posgrado,2025-03-15
+CL-1503,Diego Gomez,martin.a@hotmail.com,55.0,"$95,070.32",UNIVERSITARIO,"Mar 15, 2025"
+CL-1504,Elena Fernandez,CARLOS.LOPEZ@DOMAIN.OR,32.0,"$58,689.10",UNIVERSITARIO,15/03/2025
+CL-1505, Sofia TORRES,diego.gomez@yahoo.com,34.0,"$52,287.70",grado,2025-03-15
+CL-1506, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,25.0,,posgrado,FECHA_INVALIDA
+CL-1507,ROBERTO SILVA,roberto.silva@company.ar,28.0,,UNIVERSITARIO,15/03/2025
+CL-1508,Martin Alvarez,ANA.M@TEST.COM,220.0,"$28,998.85",SECUNDARIO,"Mar 15, 2025"
+CL-1509,Elena Fernandez,DIEGO.GOMEZ@YAHOO.COM,18.0,,Secundario,"Mar 15, 2025"
+CL-1510,Diego Gomez,ANA.M@TEST.COM,23.0,"$89,566.49",SECUNDARIO,15/03/2025
+CL-1511,Lucia Diaz,DIEGO.GOMEZ@YAHOO.COM,49.0,"$114,749.54",Secundario,15/03/2025
+CL-1512,Lucia Diaz,juan.perez@email.com,35.0,"$69,403.14",,2025-03-15
+CL-1513,Juan Perez,lucia.d@outlook.com,24.0,"$119,161.02",Secundario,15/03/2025
+CL-1514,Carlos LOPEZ ,lucia.d@outlook.com,42.0,"$47,008.81",Posgrado,2025-03-15
+CL-1515,Elena Fernandez,carlos.lopez@domain.or,39.0,"$82,735.00",grado,15/03/2025
+CL-1516,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,43.0,"$950,000.00",Posgrado,2025-03-15
+CL-1517, Diego Gomez ,carlos.lopez@domain.or,19.0,"$41,770.16",Posgrado,"Mar 15, 2025"
+CL-1518,Juan Perez,roberto.silva@company.ar,38.0,"$45,946.19",Ninguno,2025-03-15
+CL-1519, ROBERTO SILVA ,lucia.d@outlook.com,,"$42,711.63",SECUNDARIO,15/03/2025
+CL-1520, Lucia Diaz ,,30.0,"$30,495.05",Ninguno,2025-03-15
+CL-1521, Carlos LOPEZ  ,,52.0,"$117,064.75",UNIVERSITARIO,2025-03-15
+CL-1522, maria gomez ,diego.gomez@yahoo.com,55.0,"$91,121.96",Posgrado,FECHA_INVALIDA
+CL-1523,Martin Alvarez,juan.perez@email.com,31.0,"$39,620.11",posgrado,"Mar 15, 2025"
+CL-1524,maria gomez,carlos.lopez@domain.or,31.0,"$46,262.67",Ninguno,15/03/2025
+CL-1525,maria gomez,sofia.t@gmail.com,45.0,"$76,012.57",UNIVERSITARIO,15/03/2025
+CL-1526,Elena Fernandez,martin.a@hotmail.com,56.0,"$33,691.25",SECUNDARIO,15/03/2025
+CL-1527,Carlos LOPEZ ,ana.m@test.com,,,Grado,"Mar 15, 2025"
+CL-1528, Ana Martinez,diego.gomez@yahoo.com,59.0,"$108,358.78",,2025-03-15
+CL-1529,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,30.0,,grado,2025-03-15
+CL-1530,Martin Alvarez,juan.perez@email.com,33.0,"$109,431.07",SECUNDARIO,"Mar 15, 2025"
+CL-1531,Carlos LOPEZ ,lucia.d@outlook.com,44.0,"$77,331.45",Secundario,"Mar 15, 2025"
+CL-1532,ROBERTO SILVA,ELENA.F@GMAIL.COM,51.0,"$33,263.74",grado,2025-03-15
+CL-1533,Carlos LOPEZ ,juan.perez@email.com,18.0,"$49,676.61",Posgrado,15/03/2025
+CL-1534,ROBERTO SILVA,elena.f@gmail.com,22.0,"$93,724.91",UNIVERSITARIO,2025-03-15
+CL-1535,ROBERTO SILVA,elena.f@gmail.com,27.0,"$45,917.40",,15/03/2025
+CL-1536, Sofia TORRES,elena.f@gmail.com,37.0,"$89,909.58",Grado,"Mar 15, 2025"
+CL-1537, Sofia TORRES,CARLOS.LOPEZ@DOMAIN.OR,18.0,"$81,278.74",UNIVERSITARIO,"Mar 15, 2025"
+CL-1538,Martin Alvarez,ELENA.F@GMAIL.COM,27.0,"$103,344.69",UNIVERSITARIO,15/03/2025
+CL-1539, Ana Martinez,ana.m@test.com,53.0,"$78,744.54",Posgrado,2025-03-15
+CL-1540,Juan Perez,sofia.t@gmail.com,24.0,"$50,367.69",UNIVERSITARIO,15/03/2025
+CL-1541, Carlos LOPEZ  ,martin.a@hotmail.com,-5.0,"$108,469.85",Grado,2025-03-15
+CL-1542,maria gomez,carlos.lopez@domain.or,45.0,"$105,805.26",grado,2025-03-15
+CL-1543, Ana Martinez,,51.0,"$107,392.95",Grado,"Mar 15, 2025"
+CL-1544, Lucia Diaz ,roberto.silva@company.ar,47.0,"$91,259.79",UNIVERSITARIO,"Mar 15, 2025"
+CL-1545,Diego Gomez,elena.f@gmail.com,44.0,,grado,15/03/2025
+CL-1546,Carlos LOPEZ ,ELENA.F@GMAIL.COM,50.0,"$96,508.08",grado,15/03/2025
+CL-1547,maria gomez,sofia.t@gmail.com,56.0,"$40,067.49",SECUNDARIO,2025-03-15
+CL-1548,Elena Fernandez,martin.a@hotmail.com,33.0,"$95,633.28",Posgrado,15/03/2025
+CL-1549,maria gomez,MARTIN.A@HOTMAIL.COM,27.0,"$40,272.19",SECUNDARIO,2025-03-15
+CL-1550, Diego Gomez ,MARIA.GOMEZ@MAIL.COM,43.0,"$73,209.43",Secundario,2025-03-15
+CL-1551,Carlos LOPEZ ,juan.perez@email.com,42.0,"$25,606.66",SECUNDARIO,2025-03-15
+CL-1552,Elena Fernandez,roberto.silva@company.ar,47.0,"$118,212.69",Secundario,15/03/2025
+CL-1553, Sofia TORRES,CARLOS.LOPEZ@DOMAIN.OR,20.0,"$85,022.29",,15/03/2025
+CL-1554,Elena Fernandez,roberto.silva@company.ar,47.0,"$76,298.61",posgrado,15/03/2025
+CL-1555,Diego Gomez,carlos.lopez@domain.or,21.0,"$99,085.31",Posgrado,2025-03-15
+CL-1556,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,41.0,"$76,420.32",Posgrado,2025-03-15
+CL-1557,Diego Gomez,martin.a@hotmail.com,33.0,"$116,484.24",posgrado,2025-03-15
+CL-1558,Carlos LOPEZ ,juan.perez@email.com,52.0,"$113,542.67",grado,2025-03-15
+CL-1559,Juan Perez,elena.f@gmail.com,20.0,"$34,738.42",UNIVERSITARIO,15/03/2025
+CL-1560,maria gomez,martin.a@hotmail.com,40.0,"$31,444.52",UNIVERSITARIO,15/03/2025
+CL-1561,Elena Fernandez,juan.perez@email.com,42.0,"$53,591.54",UNIVERSITARIO,2025-03-15
+CL-1562,Juan Perez,martin.a@hotmail.com,33.0,"-$15,000.00",Posgrado,15/03/2025
+CL-1563,ROBERTO SILVA,,40.0,"$80,306.19",UNIVERSITARIO,2025-03-15
+CL-1564,Martin Alvarez,,52.0,"$29,345.49",Posgrado,15/03/2025
+CL-1565,Elena Fernandez,roberto.silva@company.ar,19.0,"$107,796.00",,FECHA_INVALIDA
+CL-1566,Carlos LOPEZ ,carlos.lopez@domain.or,31.0,"$97,035.00",Posgrado,2025-03-15
+CL-1567, Elena Fernandez ,ROBERTO.SILVA@COMPANY.AR,42.0,"$27,335.76",Ninguno,2025-03-15
+CL-1568,Diego Gomez,carlos.lopez@domain.or,56.0,"$89,913.06",grado,FECHA_INVALIDA
+CL-1569, Juan Perez ,sofia.t@gmail.com,37.0,"$67,360.76",grado,2025-03-15
+CL-1570,maria gomez,martin.a@hotmail.com,20.0,"$40,544.26",Ninguno,15/03/2025
+CL-1571,Carlos LOPEZ ,juan.perez@email.com,,"$100,506.91",SECUNDARIO,2025-03-15
+CL-1572,ROBERTO SILVA,,18.0,"$90,899.81",Ninguno,FECHA_INVALIDA
+CL-1573,maria gomez,MARIA.GOMEZ@MAIL.COM,51.0,"$50,959.66",Posgrado,"Mar 15, 2025"
+CL-1574,Carlos LOPEZ ,LUCIA.D@OUTLOOK.COM,53.0,"$115,332.04",grado,2025-03-15
+CL-1575,maria gomez,juan.perez@email.com,180.0,"$39,350.50",Ninguno,15/03/2025
+CL-1576,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,45.0,"$64,874.10",UNIVERSITARIO,2025-03-15
+CL-1577, maria gomez ,ROBERTO.SILVA@COMPANY.AR,36.0,"$85,659.97",,2025-03-15
+CL-1578,Diego Gomez,elena.f@gmail.com,19.0,"$118,477.88",posgrado,15/03/2025
+CL-1579,maria gomez,juan.perez@email.com,29.0,"$63,886.73",grado,2025-03-15
+CL-1580,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,35.0,"$45,244.95",UNIVERSITARIO,15/03/2025
+CL-1581,Carlos LOPEZ ,diego.gomez@yahoo.com,42.0,"$27,957.74",SECUNDARIO,2025-03-15
+CL-1582,Lucia Diaz,,,"$86,908.35",posgrado,2025-03-15
+CL-1583, Sofia TORRES,lucia.d@outlook.com,49.0,"$69,954.94",,2025-03-15
+CL-1584,Juan Perez,ana.m@test.com,33.0,"$116,978.38",Posgrado,"Mar 15, 2025"
+CL-1585, Ana Martinez,juan.perez@email.com,,"$42,624.92",Ninguno,"Mar 15, 2025"
+CL-1586, Carlos LOPEZ  ,juan.perez@email.com,42.0,"$98,237.58",Grado,"Mar 15, 2025"
+CL-1587,maria gomez,martin.a@hotmail.com,43.0,"$105,254.41",posgrado,2025-03-15
+CL-1588,Martin Alvarez,elena.f@gmail.com,45.0,"$37,468.26",Grado,2025-03-15
+CL-1589,Diego Gomez,elena.f@gmail.com,53.0,,posgrado,"Mar 15, 2025"
+CL-1590,Juan Perez,,52.0,"$950,000.00",UNIVERSITARIO,15/03/2025
+CL-1591,Lucia Diaz,ana.m@test.com,43.0,"$70,744.62",Secundario,15/03/2025
+CL-1592,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,29.0,,Grado,FECHA_INVALIDA
+CL-1593,maria gomez,sofia.t@gmail.com,59.0,"$44,049.85",Grado,"Mar 15, 2025"
+CL-1594,Lucia Diaz,CARLOS.LOPEZ@DOMAIN.OR,29.0,"$80,287.28",grado,15/03/2025
+CL-1595, Lucia Diaz ,juan.perez@email.com,37.0,"$50,554.37",Ninguno,"Mar 15, 2025"
+CL-1596,Martin Alvarez,diego.gomez@yahoo.com,30.0,"$68,245.91",Grado,2025-03-15
+CL-1597,Diego Gomez,DIEGO.GOMEZ@YAHOO.COM,49.0,,Ninguno,"Mar 15, 2025"
+CL-1598,Lucia Diaz,elena.f@gmail.com,32.0,"$82,001.95",Posgrado,2025-03-15
+CL-1599, Martin Alvarez ,carlos.lopez@domain.or,18.0,"$52,707.94",UNIVERSITARIO,15/03/2025
+CL-1600,Martin Alvarez,martin.a@hotmail.com,47.0,"$99,085.84",Ninguno,15/03/2025
+CL-1601,Lucia Diaz,diego.gomez@yahoo.com,43.0,"$28,763.79",Posgrado,"Mar 15, 2025"
+CL-1602,Juan Perez,,26.0,"$47,994.28",,15/03/2025
+CL-1603,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,37.0,,Ninguno,2025-03-15
+CL-1604,ROBERTO SILVA,,66.0,"$91,734.17",Secundario,FECHA_INVALIDA
+CL-1605,Lucia Diaz,diego.gomez@yahoo.com,37.0,"$78,166.62",,15/03/2025
+CL-1606,Diego Gomez,elena.f@gmail.com,27.0,"$58,309.56",Ninguno,"Mar 15, 2025"
+CL-1607,maria gomez,ELENA.F@GMAIL.COM,38.0,"$28,154.30",Grado,2025-03-15
+CL-1608,Lucia Diaz,elena.f@gmail.com,35.0,"$37,608.00",Posgrado,FECHA_INVALIDA
+CL-1609, Ana Martinez,lucia.d@outlook.com,29.0,"$78,916.38",Ninguno,2025-03-15
+CL-1610,ROBERTO SILVA,DIEGO.GOMEZ@YAHOO.COM,49.0,"$44,014.27",Grado,15/03/2025
+CL-1611, Sofia TORRES,sofia.t@gmail.com,45.0,"$40,910.85",Grado,2025-03-15
+CL-1612, Lucia Diaz ,diego.gomez@yahoo.com,41.0,"$92,115.19",Posgrado,15/03/2025
+CL-1613, Ana Martinez,juan.perez@email.com,28.0,"$28,000.68",SECUNDARIO,"Mar 15, 2025"
+CL-1614,Juan Perez,,59.0,"$107,742.07",grado,15/03/2025
+CL-1615,Elena Fernandez,elena.f@gmail.com,42.0,"$92,838.26",Posgrado,"Mar 15, 2025"
+CL-1616,ROBERTO SILVA,roberto.silva@company.ar,31.0,"$102,408.39",UNIVERSITARIO,15/03/2025
+CL-1617,Carlos LOPEZ ,carlos.lopez@domain.or,51.0,"$32,610.91",Posgrado,2025-03-15
+CL-1618, maria gomez ,elena.f@gmail.com,39.0,"$102,643.29",grado,FECHA_INVALIDA
+CL-1619,Carlos LOPEZ ,sofia.t@gmail.com,49.0,,Posgrado,"Mar 15, 2025"
+CL-1620,Elena Fernandez,sofia.t@gmail.com,62.0,"$75,008.25",Posgrado,"Mar 15, 2025"
+CL-1621,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,29.0,"$94,501.00",posgrado,15/03/2025
+CL-1622, Ana Martinez,MARIA.GOMEZ@MAIL.COM,30.0,"$107,819.44",UNIVERSITARIO,2025-03-15
+CL-1623,maria gomez,lucia.d@outlook.com,32.0,"$45,825.33",Secundario,"Mar 15, 2025"
+CL-1624,Elena Fernandez,diego.gomez@yahoo.com,44.0,"$87,577.24",Grado,2025-03-15
+CL-1625,Lucia Diaz,diego.gomez@yahoo.com,31.0,"$72,328.59",posgrado,2025-03-15
+CL-1626,Martin Alvarez,carlos.lopez@domain.or,58.0,"$46,703.20",posgrado,2025-03-15
+CL-1627,Diego Gomez,roberto.silva@company.ar,43.0,"$119,651.72",Posgrado,"Mar 15, 2025"
+CL-1628,ROBERTO SILVA,juan.perez@email.com,38.0,"$43,956.53",Ninguno,2025-03-15
+CL-1629,Juan Perez,roberto.silva@company.ar,39.0,"$89,621.68",posgrado,2025-03-15
+CL-1630,  Ana Martinez ,roberto.silva@company.ar,34.0,"$107,485.89",posgrado,"Mar 15, 2025"
+CL-1631,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,,"$94,081.06",Posgrado,2025-03-15
+CL-1632,Carlos LOPEZ ,juan.perez@email.com,18.0,"$95,557.12",Grado,15/03/2025
+CL-1633,Carlos LOPEZ ,martin.a@hotmail.com,18.0,"$60,248.68",UNIVERSITARIO,2025-03-15
+CL-1634, Elena Fernandez ,MARTIN.A@HOTMAIL.COM,27.0,"$118,826.71",posgrado,2025-03-15
+CL-1635,Carlos LOPEZ ,carlos.lopez@domain.or,19.0,"$93,899.48",Grado,15/03/2025
+CL-1636,maria gomez,carlos.lopez@domain.or,62.0,"$71,233.55",grado,2025-03-15
+CL-1637, ROBERTO SILVA ,MARIA.GOMEZ@MAIL.COM,18.0,"$81,273.28",Posgrado,FECHA_INVALIDA
+CL-1638,Diego Gomez,,31.0,"$111,674.52",,2025-03-15
+CL-1639, Sofia TORRES,lucia.d@outlook.com,-5.0,"$45,012.91",Ninguno,15/03/2025
+CL-1640, Ana Martinez,,55.0,"$94,645.74",grado,2025-03-15
+CL-1641, Sofia TORRES,martin.a@hotmail.com,54.0,"$37,498.93",,2025-03-15
+CL-1642, Ana Martinez,carlos.lopez@domain.or,43.0,"$42,069.90",SECUNDARIO,2025-03-15
+CL-1643,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,41.0,"$47,566.62",Grado,"Mar 15, 2025"
+CL-1644,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,37.0,"$48,486.95",Grado,2025-03-15
+CL-1645,maria gomez,lucia.d@outlook.com,52.0,"$107,721.24",UNIVERSITARIO,FECHA_INVALIDA
+CL-1646,Diego Gomez,MARIA.GOMEZ@MAIL.COM,47.0,"$59,127.17",,15/03/2025
+CL-1647,maria gomez,SOFIA.T@GMAIL.COM,18.0,"$81,330.33",Grado,"Mar 15, 2025"
+CL-1648, Carlos LOPEZ  ,ana.m@test.com,33.0,"$117,094.17",SECUNDARIO,2025-03-15
+CL-1649,Martin Alvarez,diego.gomez@yahoo.com,24.0,"$49,522.68",Posgrado,"Mar 15, 2025"
+CL-1650,maria gomez,lucia.d@outlook.com,22.0,"$98,479.95",Grado,15/03/2025
+CL-1651,Juan Perez,diego.gomez@yahoo.com,51.0,"$37,433.00",SECUNDARIO,"Mar 15, 2025"
+CL-1652, Ana Martinez,lucia.d@outlook.com,37.0,"$47,424.79",Secundario,FECHA_INVALIDA
+CL-1653,maria gomez,elena.f@gmail.com,,"$31,982.19",UNIVERSITARIO,"Mar 15, 2025"
+CL-1654,Carlos LOPEZ ,carlos.lopez@domain.or,43.0,"$41,127.00",SECUNDARIO,15/03/2025
+CL-1655,Carlos LOPEZ ,diego.gomez@yahoo.com,18.0,"$103,743.92",UNIVERSITARIO,2025-03-15
+CL-1656,Juan Perez,carlos.lopez@domain.or,41.0,,grado,2025-03-15
+CL-1657,Diego Gomez,ELENA.F@GMAIL.COM,19.0,"$83,628.77",Grado,"Mar 15, 2025"
+CL-1658,maria gomez,MARIA.GOMEZ@MAIL.COM,32.0,"$92,143.84",posgrado,2025-03-15
+CL-1659,Lucia Diaz,elena.f@gmail.com,33.0,"$28,483.79",Ninguno,2025-03-15
+CL-1660, Sofia TORRES,elena.f@gmail.com,33.0,"$94,958.19",Grado,"Mar 15, 2025"
+CL-1661, Sofia TORRES,,34.0,"$105,196.19",Grado,"Mar 15, 2025"
+CL-1662, Martin Alvarez ,elena.f@gmail.com,62.0,"$101,538.66",Grado,15/03/2025
+CL-1663,ROBERTO SILVA,roberto.silva@company.ar,50.0,"$44,554.91",SECUNDARIO,15/03/2025
+CL-1664, Sofia TORRES,juan.perez@email.com,40.0,"$35,632.36",SECUNDARIO,2025-03-15
+CL-1665, Sofia TORRES,diego.gomez@yahoo.com,-12.0,"$50,626.21",Posgrado,"Mar 15, 2025"
+CL-1666,ROBERTO SILVA,diego.gomez@yahoo.com,-12.0,"$30,423.25",UNIVERSITARIO,15/03/2025
+CL-1667,ROBERTO SILVA,ANA.M@TEST.COM,46.0,"$28,737.64",SECUNDARIO,15/03/2025
+CL-1668,Diego Gomez,juan.perez@email.com,,"$36,600.44",Posgrado,15/03/2025
+CL-1669,Juan Perez,LUCIA.D@OUTLOOK.COM,38.0,"$67,958.91",Grado,"Mar 15, 2025"
+CL-1670,Diego Gomez,MARIA.GOMEZ@MAIL.COM,35.0,"$73,187.31",Grado,15/03/2025
+CL-1671,Martin Alvarez,sofia.t@gmail.com,43.0,"$28,949.42",grado,"Mar 15, 2025"
+CL-1672,Diego Gomez,ana.m@test.com,39.0,"$107,452.24",posgrado,2025-03-15
+CL-1673, Martin Alvarez ,sofia.t@gmail.com,43.0,"$68,200.29",UNIVERSITARIO,"Mar 15, 2025"
+CL-1674,Carlos LOPEZ ,ELENA.F@GMAIL.COM,18.0,"$88,352.10",Secundario,15/03/2025
+CL-1675, Ana Martinez,diego.gomez@yahoo.com,73.0,"$38,266.87",Ninguno,"Mar 15, 2025"
+CL-1676, Diego Gomez ,diego.gomez@yahoo.com,26.0,"$88,976.08",UNIVERSITARIO,2025-03-15
+CL-1677,Carlos LOPEZ ,elena.f@gmail.com,45.0,,SECUNDARIO,15/03/2025
+CL-1678,Diego Gomez,elena.f@gmail.com,30.0,"$107,473.51",Grado,2025-03-15
+CL-1679,Martin Alvarez,sofia.t@gmail.com,,,SECUNDARIO,"Mar 15, 2025"
+CL-1680, Carlos LOPEZ  ,ana.m@test.com,60.0,"$41,829.23",Posgrado,"Mar 15, 2025"
+CL-1681,Diego Gomez,elena.f@gmail.com,48.0,"$114,738.35",grado,"Mar 15, 2025"
+CL-1682,  Ana Martinez ,elena.f@gmail.com,43.0,"$89,908.56",Secundario,"Mar 15, 2025"
+CL-1683,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,66.0,"$107,545.97",posgrado,15/03/2025
+CL-1684, Carlos LOPEZ  ,elena.f@gmail.com,,"$79,207.93",SECUNDARIO,"Mar 15, 2025"
+CL-1685,Lucia Diaz,ana.m@test.com,37.0,"$27,886.77",Posgrado,15/03/2025
+CL-1686, Ana Martinez,roberto.silva@company.ar,40.0,"$89,268.77",,FECHA_INVALIDA
+CL-1687, Ana Martinez,ana.m@test.com,43.0,,grado,FECHA_INVALIDA
+CL-1688,Diego Gomez,diego.gomez@yahoo.com,45.0,"$62,417.12",grado,"Mar 15, 2025"
+CL-1689,Lucia Diaz,martin.a@hotmail.com,24.0,"$86,867.13",,2025-03-15
+CL-1690,Martin Alvarez,DIEGO.GOMEZ@YAHOO.COM,41.0,,Posgrado,15/03/2025
+CL-1691,Elena Fernandez,carlos.lopez@domain.or,28.0,"$119,944.30",Posgrado,15/03/2025
+CL-1692,ROBERTO SILVA,diego.gomez@yahoo.com,50.0,"$99,326.62",grado,15/03/2025
+CL-1693,Carlos LOPEZ ,lucia.d@outlook.com,34.0,"$78,866.54",Secundario,2025-03-15
+CL-1694,Juan Perez,juan.perez@email.com,44.0,"$63,393.33",SECUNDARIO,2025-03-15
+CL-1695,Elena Fernandez,sofia.t@gmail.com,42.0,"$56,068.15",Grado,2025-03-15
+CL-1696,ROBERTO SILVA,carlos.lopez@domain.or,50.0,"$97,417.09",Secundario,15/03/2025
+CL-1697,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,44.0,"$100,792.30",Grado,2025-03-15
+CL-1698,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,53.0,"$36,419.86",SECUNDARIO,15/03/2025
+CL-1699,ROBERTO SILVA,JUAN.PEREZ@EMAIL.COM,34.0,"$76,726.46",Posgrado,2025-03-15
+CL-1700,Juan Perez,ROBERTO.SILVA@COMPANY.AR,999.0,"$25,547.07",Posgrado,2025-03-15
+CL-1701, Diego Gomez ,ana.m@test.com,24.0,"$62,636.41",Grado,2025-03-15
+CL-1702,Diego Gomez,roberto.silva@company.ar,20.0,"$91,069.38",Ninguno,15/03/2025
+CL-1703,Diego Gomez,MARTIN.A@HOTMAIL.COM,26.0,"$47,566.69",posgrado,2025-03-15
+CL-1704, Sofia TORRES,lucia.d@outlook.com,18.0,"$60,458.92",Grado,2025-03-15
+CL-1705, Diego Gomez ,lucia.d@outlook.com,57.0,"$83,851.58",posgrado,2025-03-15
+CL-1706,Juan Perez,juan.perez@email.com,50.0,"$69,031.93",UNIVERSITARIO,2025-03-15
+CL-1707, Martin Alvarez ,,49.0,"$74,312.77",posgrado,2025-03-15
+CL-1708,Diego Gomez,roberto.silva@company.ar,34.0,"$70,522.28",grado,FECHA_INVALIDA
+CL-1709,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,21.0,"$80,116.38",Secundario,2025-03-15
+CL-1710,Juan Perez,lucia.d@outlook.com,18.0,"$75,692.24",UNIVERSITARIO,15/03/2025
+CL-1711,Martin Alvarez,DIEGO.GOMEZ@YAHOO.COM,54.0,"$102,233.65",Ninguno,"Mar 15, 2025"
+CL-1712, Ana Martinez,carlos.lopez@domain.or,44.0,"$93,221.69",UNIVERSITARIO,"Mar 15, 2025"
+CL-1713,Carlos LOPEZ ,juan.perez@email.com,47.0,"$48,130.82",Secundario,"Mar 15, 2025"
+CL-1714,Martin Alvarez,roberto.silva@company.ar,-5.0,"$113,068.28",posgrado,FECHA_INVALIDA
+CL-1715,Lucia Diaz,martin.a@hotmail.com,,"$30,725.40",SECUNDARIO,2025-03-15
+CL-1716,Juan Perez,diego.gomez@yahoo.com,41.0,"$113,771.42",Grado,15/03/2025
+CL-1717,Elena Fernandez,,28.0,"$71,157.82",Ninguno,15/03/2025
+CL-1718,Martin Alvarez,elena.f@gmail.com,34.0,"$49,393.77",posgrado,FECHA_INVALIDA
+CL-1719,Elena Fernandez,carlos.lopez@domain.or,26.0,"$101,287.46",Ninguno,2025-03-15
+CL-1720,Lucia Diaz,diego.gomez@yahoo.com,24.0,"$76,220.32",grado,"Mar 15, 2025"
+CL-1721,Elena Fernandez,carlos.lopez@domain.or,,"-$15,000.00",Ninguno,2025-03-15
+CL-1722, Ana Martinez,elena.f@gmail.com,49.0,"$93,034.31",Grado,"Mar 15, 2025"
+CL-1723,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,19.0,"$50,899.28",Secundario,15/03/2025
+CL-1724,Carlos LOPEZ ,ana.m@test.com,26.0,"$42,209.19",Grado,2025-03-15
+CL-1725,Elena Fernandez,carlos.lopez@domain.or,35.0,"$89,706.20",,"Mar 15, 2025"
+CL-1726,Lucia Diaz,sofia.t@gmail.com,39.0,"$92,359.39",Ninguno,2025-03-15
+CL-1727, Sofia TORRES,ana.m@test.com,21.0,"$35,153.31",grado,"Mar 15, 2025"
+CL-1728,Lucia Diaz,juan.perez@email.com,180.0,"$78,894.66",Posgrado,15/03/2025
+CL-1729,Diego Gomez,CARLOS.LOPEZ@DOMAIN.OR,54.0,"$77,271.52",UNIVERSITARIO,15/03/2025
+CL-1730, Sofia TORRES,ELENA.F@GMAIL.COM,37.0,"$29,124.19",posgrado,15/03/2025
+CL-1731, Ana Martinez,martin.a@hotmail.com,43.0,"$82,153.12",posgrado,"Mar 15, 2025"
+CL-1732, ROBERTO SILVA ,sofia.t@gmail.com,39.0,"$102,822.94",UNIVERSITARIO,2025-03-15
+CL-1733, Sofia TORRES,sofia.t@gmail.com,,"$108,999.61",UNIVERSITARIO,2025-03-15
+CL-1734,ROBERTO SILVA,SOFIA.T@GMAIL.COM,29.0,"$83,043.19",Secundario,"Mar 15, 2025"
+CL-1735,maria gomez,martin.a@hotmail.com,30.0,"$64,047.70",Ninguno,2025-03-15
+CL-1736,ROBERTO SILVA,martin.a@hotmail.com,23.0,"$99,149.92",Ninguno,"Mar 15, 2025"
+CL-1737,Elena Fernandez,carlos.lopez@domain.or,29.0,"-$15,000.00",SECUNDARIO,2025-03-15
+CL-1738,maria gomez,sofia.t@gmail.com,47.0,"$65,255.13",posgrado,FECHA_INVALIDA
+CL-1739,Lucia Diaz,DIEGO.GOMEZ@YAHOO.COM,31.0,"$88,417.24",Grado,15/03/2025
+CL-1740,Lucia Diaz,carlos.lopez@domain.or,40.0,"$67,917.93",Grado,2025-03-15
+CL-1741, ROBERTO SILVA ,carlos.lopez@domain.or,28.0,"$80,727.80",,2025-03-15
+CL-1742,Martin Alvarez,roberto.silva@company.ar,44.0,"$106,965.72",grado,2025-03-15
+CL-1743,Juan Perez,martin.a@hotmail.com,29.0,"$45,590.28",Posgrado,"Mar 15, 2025"
+CL-1744, Sofia TORRES,LUCIA.D@OUTLOOK.COM,52.0,"$950,000.00",posgrado,2025-03-15
+CL-1745,Diego Gomez,juan.perez@email.com,57.0,"$76,936.25",Secundario,15/03/2025
+CL-1746,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,31.0,"$81,475.25",Ninguno,"Mar 15, 2025"
+CL-1747, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,21.0,"$72,192.85",SECUNDARIO,2025-03-15
+CL-1748, Sofia TORRES,diego.gomez@yahoo.com,28.0,"$65,678.96",Secundario,"Mar 15, 2025"
+CL-1749,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,57.0,"$93,171.79",Grado,2025-03-15
+CL-1750,Diego Gomez,juan.perez@email.com,,,grado,2025-03-15
+CL-1751,Elena Fernandez,,44.0,"$51,045.26",posgrado,"Mar 15, 2025"
+CL-1752, ROBERTO SILVA ,LUCIA.D@OUTLOOK.COM,,"$32,544.84",Secundario,2025-03-15
+CL-1753,Martin Alvarez,ana.m@test.com,57.0,"$33,137.53",Ninguno,"Mar 15, 2025"
+CL-1754,Carlos LOPEZ ,carlos.lopez@domain.or,24.0,"$58,724.65",Secundario,"Mar 15, 2025"
+CL-1755,Martin Alvarez,,29.0,"$31,595.27",posgrado,FECHA_INVALIDA
+CL-1756, Ana Martinez,sofia.t@gmail.com,28.0,"-$15,000.00",Grado,"Mar 15, 2025"
+CL-1757, Sofia TORRES,diego.gomez@yahoo.com,38.0,"$101,033.87",UNIVERSITARIO,FECHA_INVALIDA
+CL-1758,Lucia Diaz,elena.f@gmail.com,40.0,,Secundario,15/03/2025
+CL-1759,Juan Perez,carlos.lopez@domain.or,19.0,"$108,607.51",Grado,15/03/2025
+CL-1760,Lucia Diaz,elena.f@gmail.com,43.0,"$55,811.71",Secundario,2025-03-15
+CL-1761,Elena Fernandez,,63.0,"$56,635.18",grado,2025-03-15
+CL-1762,Martin Alvarez,ana.m@test.com,46.0,"$94,411.80",Ninguno,2025-03-15
+CL-1763,Diego Gomez,roberto.silva@company.ar,61.0,"$69,194.53",Posgrado,2025-03-15
+CL-1764,Carlos LOPEZ ,carlos.lopez@domain.or,39.0,"$115,974.40",Ninguno,"Mar 15, 2025"
+CL-1765,Juan Perez,sofia.t@gmail.com,29.0,,Secundario,"Mar 15, 2025"
+CL-1766,Elena Fernandez,diego.gomez@yahoo.com,44.0,"$44,088.70",Ninguno,2025-03-15
+CL-1767,Diego Gomez,,26.0,"$950,000.00",Secundario,FECHA_INVALIDA
+CL-1768, Ana Martinez,diego.gomez@yahoo.com,27.0,"$67,785.24",Grado,2025-03-15
+CL-1769,Diego Gomez,martin.a@hotmail.com,38.0,"$96,835.52",grado,"Mar 15, 2025"
+CL-1770,Elena Fernandez,ana.m@test.com,53.0,"$100,567.75",Grado,2025-03-15
+CL-1771,Juan Perez,diego.gomez@yahoo.com,-12.0,"-$15,000.00",Secundario,2025-03-15
+CL-1772, Diego Gomez ,juan.perez@email.com,23.0,"$113,081.89",Ninguno,"Mar 15, 2025"
+CL-1773, Martin Alvarez ,diego.gomez@yahoo.com,31.0,"$39,479.52",Secundario,15/03/2025
+CL-1774,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,-12.0,"$119,285.93",UNIVERSITARIO,2025-03-15
+CL-1775,Lucia Diaz,LUCIA.D@OUTLOOK.COM,,"$113,065.09",grado,2025-03-15
+CL-1776, Sofia TORRES,carlos.lopez@domain.or,21.0,"$76,295.93",Posgrado,2025-03-15
+CL-1777, Sofia TORRES,sofia.t@gmail.com,38.0,"$84,240.64",Grado,2025-03-15
+CL-1778,Lucia Diaz,lucia.d@outlook.com,52.0,"$33,466.82",posgrado,2025-03-15
+CL-1779,maria gomez,juan.perez@email.com,31.0,"$103,476.42",Ninguno,2025-03-15
+CL-1780,Elena Fernandez,diego.gomez@yahoo.com,42.0,"$99,292.67",Secundario,15/03/2025
+CL-1781,Carlos LOPEZ ,ana.m@test.com,25.0,"$59,212.96",UNIVERSITARIO,2025-03-15
+CL-1782,ROBERTO SILVA,elena.f@gmail.com,27.0,"$33,326.06",Grado,2025-03-15
+CL-1783,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,39.0,"$54,024.81",Posgrado,"Mar 15, 2025"
+CL-1784,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,46.0,"$62,713.24",grado,2025-03-15
+CL-1785,Diego Gomez,ana.m@test.com,63.0,"$73,989.55",Posgrado,2025-03-15
+CL-1786,Juan Perez,roberto.silva@company.ar,24.0,"$112,342.24",Grado,"Mar 15, 2025"
+CL-1787, Martin Alvarez ,sofia.t@gmail.com,41.0,"$105,885.37",Posgrado,2025-03-15
+CL-1788,Elena Fernandez,lucia.d@outlook.com,37.0,"$44,808.50",Secundario,2025-03-15
+CL-1789, Ana Martinez,ana.m@test.com,32.0,"$108,407.56",grado,2025-03-15
+CL-1790,maria gomez,MARIA.GOMEZ@MAIL.COM,51.0,,grado,15/03/2025
+CL-1791,Lucia Diaz,elena.f@gmail.com,41.0,"$100,052.89",Grado,2025-03-15
+CL-1792,maria gomez,sofia.t@gmail.com,41.0,"$53,944.52",Grado,2025-03-15
+CL-1793, Sofia TORRES,ana.m@test.com,35.0,"$41,484.83",Ninguno,"Mar 15, 2025"
+CL-1794,Carlos LOPEZ ,SOFIA.T@GMAIL.COM,28.0,"$91,020.35",posgrado,"Mar 15, 2025"
+CL-1795,Martin Alvarez,juan.perez@email.com,38.0,"$85,892.35",Ninguno,"Mar 15, 2025"
+CL-1796, Ana Martinez,sofia.t@gmail.com,37.0,"$103,135.65",Grado,2025-03-15
+CL-1797, Ana Martinez,diego.gomez@yahoo.com,37.0,"$82,594.03",Posgrado,2025-03-15
+CL-1798,Juan Perez,elena.f@gmail.com,47.0,"$97,656.93",UNIVERSITARIO,2025-03-15
+CL-1799,Juan Perez,juan.perez@email.com,38.0,"$62,872.99",posgrado,FECHA_INVALIDA
+CL-1800, Ana Martinez,MARIA.GOMEZ@MAIL.COM,22.0,"$38,905.53",UNIVERSITARIO,2025-03-15
+CL-1801,maria gomez,,30.0,"$27,452.13",Grado,"Mar 15, 2025"
+CL-1802,Diego Gomez,ana.m@test.com,35.0,"$37,840.80",,2025-03-15
+CL-1803,Diego Gomez,MARIA.GOMEZ@MAIL.COM,38.0,"$116,753.11",Ninguno,2025-03-15
+CL-1804, Ana Martinez,lucia.d@outlook.com,44.0,"$66,087.30",SECUNDARIO,2025-03-15
+CL-1805,Juan Perez,,38.0,"$66,753.61",SECUNDARIO,15/03/2025
+CL-1806, Martin Alvarez ,MARIA.GOMEZ@MAIL.COM,18.0,"$35,038.15",UNIVERSITARIO,2025-03-15
+CL-1807,Carlos LOPEZ ,carlos.lopez@domain.or,23.0,"$83,860.86",Grado,2025-03-15
+CL-1808,Juan Perez,carlos.lopez@domain.or,45.0,"$86,769.10",Ninguno,"Mar 15, 2025"
+CL-1809,Diego Gomez,sofia.t@gmail.com,35.0,"$30,525.56",posgrado,15/03/2025
+CL-1810,ROBERTO SILVA,JUAN.PEREZ@EMAIL.COM,55.0,"$119,512.30",posgrado,"Mar 15, 2025"
+CL-1811, Diego Gomez ,roberto.silva@company.ar,39.0,"$118,449.50",Grado,2025-03-15
+CL-1812, Ana Martinez,lucia.d@outlook.com,33.0,"$47,722.11",,2025-03-15
+CL-1813,ROBERTO SILVA,diego.gomez@yahoo.com,,"$38,513.69",Posgrado,2025-03-15
+CL-1814,Juan Perez,sofia.t@gmail.com,33.0,"$34,599.35",Grado,2025-03-15
+CL-1815,ROBERTO SILVA,,29.0,"$90,755.33",grado,"Mar 15, 2025"
+CL-1816,  Ana Martinez ,,,"$30,917.72",Grado,2025-03-15
+CL-1817,maria gomez,CARLOS.LOPEZ@DOMAIN.OR,39.0,"$102,327.18",Ninguno,15/03/2025
+CL-1818, Sofia TORRES,diego.gomez@yahoo.com,38.0,"$83,445.85",grado,2025-03-15
+CL-1819, Ana Martinez,MARIA.GOMEZ@MAIL.COM,49.0,,posgrado,2025-03-15
+CL-1820,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,20.0,"$75,068.94",Grado,15/03/2025
+CL-1821,Diego Gomez,carlos.lopez@domain.or,25.0,"$109,227.40",SECUNDARIO,2025-03-15
+CL-1822,Juan Perez,martin.a@hotmail.com,35.0,"$67,729.54",Secundario,2025-03-15
+CL-1823,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,31.0,"$64,342.33",grado,15/03/2025
+CL-1824, Ana Martinez,ana.m@test.com,23.0,"$103,616.10",grado,2025-03-15
+CL-1825,Elena Fernandez,juan.perez@email.com,48.0,"$26,047.97",,"Mar 15, 2025"
+CL-1826,Elena Fernandez,ana.m@test.com,47.0,"$64,534.63",Ninguno,15/03/2025
+CL-1827,Diego Gomez,CARLOS.LOPEZ@DOMAIN.OR,33.0,"-$15,000.00",Posgrado,"Mar 15, 2025"
+CL-1828, Carlos LOPEZ  ,martin.a@hotmail.com,37.0,"$49,682.25",SECUNDARIO,2025-03-15
+CL-1829, Ana Martinez,carlos.lopez@domain.or,31.0,"$75,854.46",SECUNDARIO,2025-03-15
+CL-1830,Elena Fernandez,carlos.lopez@domain.or,42.0,"$45,444.18",SECUNDARIO,2025-03-15
+CL-1831,Diego Gomez,MARIA.GOMEZ@MAIL.COM,37.0,"$35,424.94",UNIVERSITARIO,2025-03-15
+CL-1832,ROBERTO SILVA,diego.gomez@yahoo.com,44.0,"$77,056.15",Ninguno,2025-03-15
+CL-1833, Sofia TORRES,elena.f@gmail.com,52.0,"$34,317.85",SECUNDARIO,2025-03-15
+CL-1834, Martin Alvarez ,JUAN.PEREZ@EMAIL.COM,36.0,"$71,382.91",UNIVERSITARIO,"Mar 15, 2025"
+CL-1835,Elena Fernandez,lucia.d@outlook.com,220.0,"$39,254.62",Ninguno,15/03/2025
+CL-1836,Elena Fernandez,juan.perez@email.com,52.0,"$70,221.72",UNIVERSITARIO,2025-03-15
+CL-1837,Martin Alvarez,,27.0,"$60,709.39",posgrado,"Mar 15, 2025"
+CL-1838,maria gomez,ana.m@test.com,27.0,"$99,576.57",posgrado,15/03/2025
+CL-1839,Diego Gomez,MARIA.GOMEZ@MAIL.COM,18.0,"$109,748.05",Ninguno,"Mar 15, 2025"
+CL-1840,Diego Gomez,juan.perez@email.com,,"-$15,000.00",posgrado,15/03/2025
+CL-1841,Diego Gomez,ELENA.F@GMAIL.COM,51.0,"$66,572.30",Ninguno,2025-03-15
+CL-1842,Juan Perez,ana.m@test.com,24.0,"$49,193.71",Posgrado,2025-03-15
+CL-1843,maria gomez,,,"$104,882.80",Grado,2025-03-15
+CL-1844,ROBERTO SILVA,juan.perez@email.com,,"$28,650.50",posgrado,15/03/2025
+CL-1845,ROBERTO SILVA,lucia.d@outlook.com,36.0,"$85,534.14",grado,"Mar 15, 2025"
+CL-1846,Elena Fernandez,diego.gomez@yahoo.com,49.0,"$87,638.62",,"Mar 15, 2025"
+CL-1847,Diego Gomez,,41.0,"$83,323.69",Ninguno,2025-03-15
+CL-1848,Martin Alvarez,lucia.d@outlook.com,,"$31,331.94",grado,2025-03-15
+CL-1849,Elena Fernandez,elena.f@gmail.com,47.0,"$74,248.76",grado,15/03/2025
+CL-1850,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,43.0,"$73,661.08",Secundario,2025-03-15
+CL-1851,maria gomez,sofia.t@gmail.com,29.0,"$89,621.64",Ninguno,2025-03-15
+CL-1852,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,,"$28,958.93",posgrado,"Mar 15, 2025"
+CL-1853, Ana Martinez,lucia.d@outlook.com,40.0,"$31,848.01",SECUNDARIO,2025-03-15
+CL-1854,Elena Fernandez,martin.a@hotmail.com,32.0,"$31,769.39",posgrado,15/03/2025
+CL-1855, Sofia TORRES,diego.gomez@yahoo.com,28.0,"$950,000.00",Ninguno,"Mar 15, 2025"
+CL-1856,maria gomez,carlos.lopez@domain.or,53.0,,Ninguno,"Mar 15, 2025"
+CL-1857,Diego Gomez,elena.f@gmail.com,26.0,"$98,592.09",Grado,2025-03-15
+CL-1858, Sofia TORRES,elena.f@gmail.com,22.0,"$87,830.21",UNIVERSITARIO,2025-03-15
+CL-1859,Juan Perez,roberto.silva@company.ar,32.0,"$34,347.59",Ninguno,15/03/2025
+CL-1860, Diego Gomez ,elena.f@gmail.com,32.0,"$87,728.76",Secundario,"Mar 15, 2025"
+CL-1861,Carlos LOPEZ ,diego.gomez@yahoo.com,28.0,"$26,989.77",,2025-03-15
+CL-1862,Diego Gomez,elena.f@gmail.com,48.0,"$32,806.31",Ninguno,"Mar 15, 2025"
+CL-1863, Sofia TORRES,carlos.lopez@domain.or,45.0,,UNIVERSITARIO,15/03/2025
+CL-1864,Carlos LOPEZ ,lucia.d@outlook.com,53.0,"$61,284.27",Secundario,2025-03-15
+CL-1865,Martin Alvarez,carlos.lopez@domain.or,34.0,"$83,426.23",grado,FECHA_INVALIDA
+CL-1866,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,34.0,"$98,590.21",posgrado,2025-03-15
+CL-1867,maria gomez,lucia.d@outlook.com,43.0,"$28,985.37",Grado,"Mar 15, 2025"
+CL-1868,Diego Gomez,LUCIA.D@OUTLOOK.COM,63.0,"$117,006.43",Ninguno,2025-03-15
+CL-1869,Martin Alvarez,lucia.d@outlook.com,30.0,"$118,097.18",posgrado,2025-03-15
+CL-1870, Carlos LOPEZ  ,MARIA.GOMEZ@MAIL.COM,49.0,"$82,178.75",posgrado,15/03/2025
+CL-1871, Sofia TORRES,sofia.t@gmail.com,56.0,"$102,118.13",Grado,"Mar 15, 2025"
+CL-1872, Ana Martinez,MARIA.GOMEZ@MAIL.COM,44.0,"$87,365.47",Grado,2025-03-15
+CL-1873,Martin Alvarez,carlos.lopez@domain.or,33.0,"$950,000.00",UNIVERSITARIO,2025-03-15
+CL-1874, Sofia TORRES,JUAN.PEREZ@EMAIL.COM,27.0,"$113,167.95",SECUNDARIO,2025-03-15
+CL-1875,Lucia Diaz,sofia.t@gmail.com,30.0,"$66,047.30",Secundario,2025-03-15
+CL-1876, Ana Martinez,ana.m@test.com,22.0,"$66,743.47",posgrado,2025-03-15
+CL-1877,ROBERTO SILVA,CARLOS.LOPEZ@DOMAIN.OR,44.0,"$47,865.81",Ninguno,2025-03-15
+CL-1878,ROBERTO SILVA,ana.m@test.com,39.0,"$36,542.63",Posgrado,2025-03-15
+CL-1879,Diego Gomez,martin.a@hotmail.com,40.0,"$86,352.03",grado,15/03/2025
+CL-1880,Elena Fernandez,roberto.silva@company.ar,36.0,"$52,161.14",Ninguno,2025-03-15
+CL-1881,maria gomez,MARIA.GOMEZ@MAIL.COM,41.0,"$105,418.86",grado,"Mar 15, 2025"
+CL-1882,ROBERTO SILVA,MARTIN.A@HOTMAIL.COM,41.0,"$112,298.02",posgrado,15/03/2025
+CL-1883,Carlos LOPEZ ,sofia.t@gmail.com,48.0,"$68,751.25",grado,"Mar 15, 2025"
+CL-1884, Ana Martinez,diego.gomez@yahoo.com,28.0,"$104,989.86",UNIVERSITARIO,FECHA_INVALIDA
+CL-1885, Sofia TORRES,ana.m@test.com,48.0,"$87,335.37",Grado,15/03/2025
+CL-1886,maria gomez,MARIA.GOMEZ@MAIL.COM,46.0,"$41,855.73",Secundario,FECHA_INVALIDA
+CL-1887,Diego Gomez,carlos.lopez@domain.or,41.0,"$114,051.87",posgrado,2025-03-15
+CL-1888, Ana Martinez,juan.perez@email.com,38.0,"$29,101.50",Secundario,15/03/2025
+CL-1889,Carlos LOPEZ ,sofia.t@gmail.com,36.0,"$93,968.09",Secundario,15/03/2025
+CL-1890,Diego Gomez,MARIA.GOMEZ@MAIL.COM,36.0,"$102,689.61",UNIVERSITARIO,2025-03-15
+CL-1891,ROBERTO SILVA,juan.perez@email.com,38.0,"$104,866.79",Secundario,"Mar 15, 2025"
+CL-1892,Martin Alvarez,juan.perez@email.com,20.0,"$94,616.15",,"Mar 15, 2025"
+CL-1893,Carlos LOPEZ ,juan.perez@email.com,65.0,"$73,294.25",Grado,"Mar 15, 2025"
+CL-1894,Juan Perez,roberto.silva@company.ar,50.0,"$53,267.10",UNIVERSITARIO,2025-03-15
+CL-1895,Lucia Diaz,lucia.d@outlook.com,59.0,"$107,965.68",Ninguno,2025-03-15
+CL-1896, ROBERTO SILVA ,diego.gomez@yahoo.com,,"$85,447.68",UNIVERSITARIO,2025-03-15
+CL-1897,Lucia Diaz,carlos.lopez@domain.or,45.0,"$97,306.55",posgrado,2025-03-15
+CL-1898,maria gomez,carlos.lopez@domain.or,36.0,"$25,886.50",grado,15/03/2025
+CL-1899,Martin Alvarez,diego.gomez@yahoo.com,23.0,"$48,434.49",Posgrado,2025-03-15
+CL-1900,maria gomez,ana.m@test.com,35.0,"$101,006.74",Posgrado,2025-03-15
+CL-1901,Martin Alvarez,CARLOS.LOPEZ@DOMAIN.OR,,"$44,383.39",posgrado,2025-03-15
+CL-1902,  Ana Martinez ,juan.perez@email.com,27.0,"$77,733.07",posgrado,15/03/2025
+CL-1903, Sofia TORRES,juan.perez@email.com,46.0,"$42,862.35",grado,"Mar 15, 2025"
+CL-1904, Carlos LOPEZ  ,juan.perez@email.com,55.0,"$58,761.53",posgrado,2025-03-15
+CL-1905,Lucia Diaz,roberto.silva@company.ar,41.0,"$25,496.81",grado,"Mar 15, 2025"
+CL-1906,Elena Fernandez,martin.a@hotmail.com,55.0,"$97,294.12",Grado,2025-03-15
+CL-1907,Martin Alvarez,martin.a@hotmail.com,20.0,"$39,144.36",Grado,2025-03-15
+CL-1908, Sofia TORRES,roberto.silva@company.ar,24.0,"$54,032.40",,2025-03-15
+CL-1909, Sofia TORRES,sofia.t@gmail.com,28.0,"$93,596.74",Grado,15/03/2025
+CL-1910, Sofia TORRES,sofia.t@gmail.com,18.0,"$109,188.60",Secundario,"Mar 15, 2025"
+CL-1911, Ana Martinez,diego.gomez@yahoo.com,18.0,"-$15,000.00",posgrado,15/03/2025
+CL-1912,Diego Gomez,ROBERTO.SILVA@COMPANY.AR,55.0,"$64,199.07",,"Mar 15, 2025"
+CL-1913, Sofia TORRES,sofia.t@gmail.com,19.0,"$100,448.75",Ninguno,2025-03-15
+CL-1914, Ana Martinez,carlos.lopez@domain.or,53.0,"$33,834.11",Ninguno,FECHA_INVALIDA
+CL-1915, Ana Martinez,juan.perez@email.com,31.0,"$86,020.92",UNIVERSITARIO,"Mar 15, 2025"
+CL-1916,Diego Gomez,ROBERTO.SILVA@COMPANY.AR,68.0,"$31,161.09",UNIVERSITARIO,2025-03-15
+CL-1917,Juan Perez,martin.a@hotmail.com,56.0,"$78,262.71",Ninguno,"Mar 15, 2025"
+CL-1918, Ana Martinez,ana.m@test.com,62.0,"$82,331.33",posgrado,2025-03-15
+CL-1919, Lucia Diaz ,carlos.lopez@domain.or,50.0,"$50,632.97",Posgrado,15/03/2025
+CL-1920,Juan Perez,carlos.lopez@domain.or,45.0,"$103,379.69",SECUNDARIO,"Mar 15, 2025"
+CL-1921,Diego Gomez,sofia.t@gmail.com,,"$72,334.29",Grado,"Mar 15, 2025"
+CL-1922,Juan Perez,MARIA.GOMEZ@MAIL.COM,51.0,"$92,229.69",,"Mar 15, 2025"
+CL-1923, Sofia TORRES,ELENA.F@GMAIL.COM,30.0,"$99,918.42",Posgrado,2025-03-15
+CL-1924,Lucia Diaz,juan.perez@email.com,18.0,,,15/03/2025
+CL-1925,maria gomez,diego.gomez@yahoo.com,,"$39,007.99",UNIVERSITARIO,2025-03-15
+CL-1926,Diego Gomez,MARIA.GOMEZ@MAIL.COM,47.0,"$56,178.31",Grado,15/03/2025
+CL-1927,maria gomez,MARIA.GOMEZ@MAIL.COM,27.0,"$45,958.14",posgrado,2025-03-15
+CL-1928,ROBERTO SILVA,ROBERTO.SILVA@COMPANY.AR,36.0,"$81,831.40",Grado,"Mar 15, 2025"
+CL-1929,Carlos LOPEZ ,carlos.lopez@domain.or,40.0,"$65,018.57",Grado,2025-03-15
+CL-1930,Diego Gomez,roberto.silva@company.ar,44.0,"$85,436.85",SECUNDARIO,15/03/2025
+CL-1931,Diego Gomez,elena.f@gmail.com,33.0,"$63,940.96",SECUNDARIO,15/03/2025
+CL-1932, Ana Martinez,martin.a@hotmail.com,41.0,"$104,781.22",Grado,2025-03-15
+CL-1933,Juan Perez,juan.perez@email.com,52.0,"$80,838.09",grado,"Mar 15, 2025"
+CL-1934,Carlos LOPEZ ,carlos.lopez@domain.or,18.0,"$42,525.24",Ninguno,2025-03-15
+CL-1935,Carlos LOPEZ ,CARLOS.LOPEZ@DOMAIN.OR,21.0,"$27,488.69",Grado,15/03/2025
+CL-1936,Martin Alvarez,JUAN.PEREZ@EMAIL.COM,23.0,,posgrado,2025-03-15
+CL-1937,Carlos LOPEZ ,carlos.lopez@domain.or,39.0,"$53,378.93",Secundario,2025-03-15
+CL-1938, Carlos LOPEZ  ,juan.perez@email.com,18.0,"$114,364.53",SECUNDARIO,15/03/2025
+CL-1939,ROBERTO SILVA,sofia.t@gmail.com,32.0,"$107,909.37",posgrado,FECHA_INVALIDA
+CL-1940,Carlos LOPEZ ,diego.gomez@yahoo.com,18.0,"$104,983.69",Grado,"Mar 15, 2025"
+CL-1941,Lucia Diaz,diego.gomez@yahoo.com,44.0,"$68,527.75",Grado,2025-03-15
+CL-1942,Elena Fernandez,,31.0,"$70,882.04",Secundario,"Mar 15, 2025"
+CL-1943,ROBERTO SILVA,ANA.M@TEST.COM,37.0,"$66,500.82",SECUNDARIO,2025-03-15
+CL-1944, Elena Fernandez ,,59.0,"$94,303.28",Ninguno,2025-03-15
+CL-1945,Diego Gomez,CARLOS.LOPEZ@DOMAIN.OR,30.0,"$82,971.39",Posgrado,2025-03-15
+CL-1946,Diego Gomez,juan.perez@email.com,43.0,"$37,858.64",Ninguno,"Mar 15, 2025"
+CL-1947,Carlos LOPEZ ,carlos.lopez@domain.or,47.0,"$115,878.39",grado,15/03/2025
+CL-1948,Carlos LOPEZ ,elena.f@gmail.com,,"$31,551.01",Ninguno,2025-03-15
+CL-1949,Martin Alvarez,carlos.lopez@domain.or,52.0,,UNIVERSITARIO,15/03/2025
+CL-1950,maria gomez,lucia.d@outlook.com,36.0,"$49,862.04",Grado,2025-03-15
+CL-1951,Lucia Diaz,lucia.d@outlook.com,35.0,"$48,462.99",SECUNDARIO,2025-03-15
+CL-1952,ROBERTO SILVA,MARTIN.A@HOTMAIL.COM,35.0,"$50,835.22",grado,2025-03-15
+CL-1953,Diego Gomez,roberto.silva@company.ar,,"$97,142.83",Ninguno,15/03/2025
+CL-1954,  Sofia TORRES ,MARIA.GOMEZ@MAIL.COM,42.0,"-$15,000.00",SECUNDARIO,15/03/2025
+CL-1955,Elena Fernandez,sofia.t@gmail.com,55.0,"$31,209.78",posgrado,"Mar 15, 2025"
+CL-1956, Ana Martinez,MARIA.GOMEZ@MAIL.COM,34.0,"$71,319.26",UNIVERSITARIO,15/03/2025
+CL-1957, Sofia TORRES,lucia.d@outlook.com,18.0,"$57,997.62",Secundario,"Mar 15, 2025"
+CL-1958,Elena Fernandez,lucia.d@outlook.com,,"$110,484.17",UNIVERSITARIO,15/03/2025
+CL-1959,maria gomez,roberto.silva@company.ar,48.0,"$27,073.22",UNIVERSITARIO,2025-03-15
+CL-1960, Juan Perez ,diego.gomez@yahoo.com,40.0,"$78,215.98",SECUNDARIO,15/03/2025
+CL-1961,Carlos LOPEZ ,diego.gomez@yahoo.com,39.0,,Ninguno,2025-03-15
+CL-1962,Martin Alvarez,elena.f@gmail.com,19.0,"$94,427.99",Secundario,2025-03-15
+CL-1963,Lucia Diaz,LUCIA.D@OUTLOOK.COM,31.0,"$118,223.22",Secundario,FECHA_INVALIDA
+CL-1964,Carlos LOPEZ ,martin.a@hotmail.com,47.0,"$43,819.28",Posgrado,15/03/2025
+CL-1965, Ana Martinez,ana.m@test.com,,"$78,706.37",,"Mar 15, 2025"
+CL-1966, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,22.0,"$69,073.59",posgrado,15/03/2025
+CL-1967,Elena Fernandez,carlos.lopez@domain.or,38.0,"$58,203.11",UNIVERSITARIO,"Mar 15, 2025"
+CL-1968,Diego Gomez,martin.a@hotmail.com,42.0,"$950,000.00",Grado,15/03/2025
+CL-1969,Martin Alvarez,MARIA.GOMEZ@MAIL.COM,29.0,"$105,808.53",Secundario,15/03/2025
+CL-1970,Diego Gomez,LUCIA.D@OUTLOOK.COM,28.0,"$78,316.16",SECUNDARIO,15/03/2025
+CL-1971, Diego Gomez ,elena.f@gmail.com,25.0,"$106,713.27",posgrado,15/03/2025
+CL-1972,Juan Perez,,,"$93,667.36",grado,2025-03-15
+CL-1973,Martin Alvarez,ana.m@test.com,38.0,"$31,428.49",posgrado,2025-03-15
+CL-1974,Diego Gomez,carlos.lopez@domain.or,42.0,"$32,763.91",Posgrado,15/03/2025
+CL-1975,Martin Alvarez,roberto.silva@company.ar,59.0,"$68,538.56",,2025-03-15
+CL-1976,Martin Alvarez,martin.a@hotmail.com,220.0,,SECUNDARIO,15/03/2025
+CL-1977,Elena Fernandez,ana.m@test.com,22.0,"$114,841.32",UNIVERSITARIO,15/03/2025
+CL-1978, ROBERTO SILVA ,carlos.lopez@domain.or,37.0,"$105,747.66",Grado,2025-03-15
+CL-1979,ROBERTO SILVA,carlos.lopez@domain.or,32.0,"$64,117.73",SECUNDARIO,"Mar 15, 2025"
+CL-1980, Diego Gomez ,MARIA.GOMEZ@MAIL.COM,62.0,"$86,842.48",Posgrado,2025-03-15
+CL-1981,Juan Perez,martin.a@hotmail.com,29.0,"$73,687.75",Secundario,2025-03-15
+CL-1982,ROBERTO SILVA,ana.m@test.com,38.0,"$101,608.34",grado,2025-03-15
+CL-1983,  Ana Martinez ,carlos.lopez@domain.or,30.0,"$99,696.43",Grado,2025-03-15
+CL-1984, Sofia TORRES,lucia.d@outlook.com,37.0,"$44,129.56",Posgrado,2025-03-15
+CL-1985,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,29.0,"$56,370.43",SECUNDARIO,15/03/2025
+CL-1986,Lucia Diaz,roberto.silva@company.ar,31.0,"$96,891.39",grado,"Mar 15, 2025"
+CL-1987,maria gomez,juan.perez@email.com,20.0,"$108,393.86",grado,2025-03-15
+CL-1988,maria gomez,elena.f@gmail.com,39.0,"$108,560.28",Posgrado,"Mar 15, 2025"
+CL-1989, maria gomez ,juan.perez@email.com,33.0,"$67,867.74",Grado,2025-03-15
+CL-1990,Martin Alvarez,ana.m@test.com,44.0,"$118,574.02",Grado,15/03/2025
+CL-1991,Diego Gomez,diego.gomez@yahoo.com,37.0,"$111,375.92",UNIVERSITARIO,15/03/2025
+CL-1992,maria gomez,martin.a@hotmail.com,29.0,"$76,176.67",Secundario,"Mar 15, 2025"
+CL-1993,ROBERTO SILVA,,26.0,"$87,394.11",Secundario,2025-03-15
+CL-1994,maria gomez,diego.gomez@yahoo.com,37.0,"$103,099.80",grado,15/03/2025
+CL-1995,Juan Perez,lucia.d@outlook.com,53.0,"$116,625.28",Grado,2025-03-15
+CL-1996,Juan Perez,carlos.lopez@domain.or,31.0,"$44,357.81",Ninguno,"Mar 15, 2025"
+CL-1997,Elena Fernandez,sofia.t@gmail.com,18.0,"$100,321.17",Grado,2025-03-15
+CL-1998, ROBERTO SILVA ,elena.f@gmail.com,40.0,"$79,871.37",SECUNDARIO,2025-03-15
+CL-1999,Elena Fernandez,martin.a@hotmail.com,52.0,"$62,617.19",Ninguno,15/03/2025
+CL-2000,Lucia Diaz,elena.f@gmail.com,44.0,"$111,933.56",grado,15/03/2025
+CL-2001, Ana Martinez,ANA.M@TEST.COM,23.0,"$91,110.42",SECUNDARIO,"Mar 15, 2025"
+CL-2002, Ana Martinez,elena.f@gmail.com,39.0,"$100,359.83",UNIVERSITARIO,"Mar 15, 2025"
+CL-2003,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,48.0,"$111,083.61",Ninguno,"Mar 15, 2025"
+CL-2004,  Ana Martinez ,diego.gomez@yahoo.com,32.0,"$51,305.93",Grado,"Mar 15, 2025"
+CL-2005,  Ana Martinez ,LUCIA.D@OUTLOOK.COM,31.0,"$109,929.02",Grado,2025-03-15
+CL-2006, Ana Martinez,sofia.t@gmail.com,31.0,"$87,157.79",,2025-03-15
+CL-2007,Diego Gomez,ana.m@test.com,35.0,"$83,453.31",Secundario,15/03/2025
+CL-2008,maria gomez,juan.perez@email.com,24.0,"$32,929.09",posgrado,2025-03-15
+CL-2009,maria gomez,roberto.silva@company.ar,40.0,"$72,994.64",UNIVERSITARIO,"Mar 15, 2025"
+CL-2010,maria gomez,martin.a@hotmail.com,40.0,"$116,877.03",Grado,2025-03-15
+CL-2011,Elena Fernandez,carlos.lopez@domain.or,41.0,,Grado,2025-03-15
+CL-2012,Juan Perez,lucia.d@outlook.com,37.0,"$88,452.40",UNIVERSITARIO,"Mar 15, 2025"
+CL-2013, Sofia TORRES,CARLOS.LOPEZ@DOMAIN.OR,25.0,"$108,783.14",grado,FECHA_INVALIDA
+CL-2014,ROBERTO SILVA,ROBERTO.SILVA@COMPANY.AR,43.0,"$65,611.52",SECUNDARIO,2025-03-15
+CL-2015, Sofia TORRES,juan.perez@email.com,52.0,"$93,338.59",Secundario,2025-03-15
+CL-2016,Diego Gomez,MARIA.GOMEZ@MAIL.COM,69.0,"$109,574.52",SECUNDARIO,FECHA_INVALIDA
+CL-2017, Sofia TORRES,elena.f@gmail.com,40.0,"$42,804.13",Secundario,15/03/2025
+CL-2018,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,33.0,"$106,526.82",Secundario,15/03/2025
+CL-2019,Carlos LOPEZ ,carlos.lopez@domain.or,40.0,"$92,473.07",Grado,"Mar 15, 2025"
+CL-2020,Juan Perez,ana.m@test.com,180.0,,Secundario,2025-03-15
+CL-2021,Carlos LOPEZ ,roberto.silva@company.ar,53.0,"$54,863.26",UNIVERSITARIO,2025-03-15
+CL-2022, Ana Martinez,MARIA.GOMEZ@MAIL.COM,53.0,"$68,630.19",posgrado,15/03/2025
+CL-2023,maria gomez,roberto.silva@company.ar,36.0,"$58,990.84",Posgrado,15/03/2025
+CL-2024, Ana Martinez,diego.gomez@yahoo.com,53.0,"$56,844.76",Posgrado,2025-03-15
+CL-2025, Diego Gomez ,sofia.t@gmail.com,37.0,"$41,507.35",posgrado,15/03/2025
+CL-2026,Diego Gomez,,48.0,"$950,000.00",UNIVERSITARIO,"Mar 15, 2025"
+CL-2027,Martin Alvarez,carlos.lopez@domain.or,44.0,,Posgrado,15/03/2025
+CL-2028,Juan Perez,SOFIA.T@GMAIL.COM,-5.0,"$34,560.56",UNIVERSITARIO,15/03/2025
+CL-2029,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,31.0,,Posgrado,15/03/2025
+CL-2030,Lucia Diaz,carlos.lopez@domain.or,33.0,,Ninguno,2025-03-15
+CL-2031,Juan Perez,MARIA.GOMEZ@MAIL.COM,30.0,,posgrado,2025-03-15
+CL-2032,maria gomez,lucia.d@outlook.com,18.0,"$96,138.50",SECUNDARIO,"Mar 15, 2025"
+CL-2033,Martin Alvarez,carlos.lopez@domain.or,52.0,"$58,475.62",Ninguno,15/03/2025
+CL-2034,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,56.0,"$104,937.52",Grado,15/03/2025
+CL-2035,Diego Gomez,roberto.silva@company.ar,,"$69,772.28",SECUNDARIO,2025-03-15
+CL-2036,Elena Fernandez,lucia.d@outlook.com,,"$118,014.97",Ninguno,2025-03-15
+CL-2037, Sofia TORRES,MARIA.GOMEZ@MAIL.COM,27.0,"$89,236.87",Posgrado,2025-03-15
+CL-2038,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,41.0,"$55,884.88",UNIVERSITARIO,2025-03-15
+CL-2039,Elena Fernandez,martin.a@hotmail.com,32.0,,Posgrado,2025-03-15
+CL-2040,maria gomez,lucia.d@outlook.com,40.0,"$41,613.74",Grado,"Mar 15, 2025"
+CL-2041,Carlos LOPEZ ,diego.gomez@yahoo.com,999.0,"$106,295.04",,"Mar 15, 2025"
+CL-2042,Lucia Diaz,MARTIN.A@HOTMAIL.COM,45.0,"$51,531.23",Posgrado,FECHA_INVALIDA
+CL-2043,Martin Alvarez,ana.m@test.com,32.0,"$86,073.78",Ninguno,2025-03-15
+CL-2044,Juan Perez,MARIA.GOMEZ@MAIL.COM,39.0,"$54,004.51",Grado,2025-03-15
+CL-2045, Sofia TORRES,ana.m@test.com,61.0,"$45,201.22",Posgrado,"Mar 15, 2025"
+CL-2046,Lucia Diaz,diego.gomez@yahoo.com,44.0,"$107,764.43",SECUNDARIO,2025-03-15
+CL-2047,Martin Alvarez,juan.perez@email.com,40.0,"$97,776.15",Grado,"Mar 15, 2025"
+CL-2048,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,45.0,"$49,727.25",Secundario,15/03/2025
+CL-2049,maria gomez,ROBERTO.SILVA@COMPANY.AR,51.0,"$111,183.53",Secundario,2025-03-15
+CL-2050, Sofia TORRES,elena.f@gmail.com,46.0,"$35,544.00",Secundario,2025-03-15
+CL-2051,maria gomez,martin.a@hotmail.com,60.0,"$67,470.28",Secundario,2025-03-15
+CL-2052,Lucia Diaz,elena.f@gmail.com,51.0,"$76,931.58",,2025-03-15
+CL-2053, Ana Martinez,diego.gomez@yahoo.com,36.0,,Posgrado,15/03/2025
+CL-2054,Diego Gomez,MARIA.GOMEZ@MAIL.COM,41.0,"$35,518.46",posgrado,"Mar 15, 2025"
+CL-2055, Ana Martinez,,37.0,"$65,142.10",Secundario,FECHA_INVALIDA
+CL-2056,Juan Perez,ANA.M@TEST.COM,35.0,"$106,542.46",,2025-03-15
+CL-2057, Ana Martinez,carlos.lopez@domain.or,43.0,"-$15,000.00",Ninguno,15/03/2025
+CL-2058,Elena Fernandez,ana.m@test.com,44.0,"$96,626.38",Ninguno,15/03/2025
+CL-2059,ROBERTO SILVA,SOFIA.T@GMAIL.COM,34.0,"$101,466.14",UNIVERSITARIO,2025-03-15
+CL-2060,Carlos LOPEZ ,sofia.t@gmail.com,26.0,"$103,792.49",Posgrado,2025-03-15
+CL-2061, Ana Martinez,LUCIA.D@OUTLOOK.COM,51.0,"$51,744.51",UNIVERSITARIO,"Mar 15, 2025"
+CL-2062, maria gomez ,MARTIN.A@HOTMAIL.COM,42.0,"$34,170.77",posgrado,2025-03-15
+CL-2063,Diego Gomez,,60.0,"$47,979.91",grado,"Mar 15, 2025"
+CL-2064,ROBERTO SILVA,MARTIN.A@HOTMAIL.COM,37.0,"$53,620.20",Secundario,"Mar 15, 2025"
+CL-2065, Sofia TORRES,roberto.silva@company.ar,34.0,"$81,843.96",UNIVERSITARIO,2025-03-15
+CL-2066,Diego Gomez,ANA.M@TEST.COM,25.0,"$95,603.35",Ninguno,"Mar 15, 2025"
+CL-2067,ROBERTO SILVA,,25.0,"$29,573.57",Secundario,2025-03-15
+CL-2068,Martin Alvarez,roberto.silva@company.ar,,,,2025-03-15
+CL-2069, Sofia TORRES,JUAN.PEREZ@EMAIL.COM,49.0,"$109,768.74",SECUNDARIO,2025-03-15
+CL-2070,ROBERTO SILVA,lucia.d@outlook.com,58.0,"$42,606.37",,2025-03-15
+CL-2071,Juan Perez,sofia.t@gmail.com,,"$32,502.07",UNIVERSITARIO,FECHA_INVALIDA
+CL-2072,Juan Perez,ELENA.F@GMAIL.COM,46.0,"$28,293.68",Grado,15/03/2025
+CL-2073, Ana Martinez,martin.a@hotmail.com,30.0,"$80,366.65",Posgrado,2025-03-15
+CL-2074,Martin Alvarez,elena.f@gmail.com,29.0,"$103,980.48",Secundario,2025-03-15
+CL-2075,Juan Perez,CARLOS.LOPEZ@DOMAIN.OR,38.0,"$81,902.96",grado,"Mar 15, 2025"
+CL-2076,Diego Gomez,juan.perez@email.com,41.0,"$103,782.25",Ninguno,15/03/2025
+CL-2077,Martin Alvarez,DIEGO.GOMEZ@YAHOO.COM,45.0,"$108,503.00",SECUNDARIO,2025-03-15
+CL-2078, Ana Martinez,roberto.silva@company.ar,45.0,"$65,890.60",grado,"Mar 15, 2025"
+CL-2079,maria gomez,lucia.d@outlook.com,70.0,"$55,109.93",grado,15/03/2025
+CL-2080,Martin Alvarez,diego.gomez@yahoo.com,55.0,"$82,182.73",posgrado,15/03/2025
+CL-2081,Carlos LOPEZ ,ROBERTO.SILVA@COMPANY.AR,33.0,"$109,789.71",SECUNDARIO,15/03/2025
+CL-2082, Ana Martinez,,63.0,"$84,974.22",SECUNDARIO,"Mar 15, 2025"
+CL-2083,Carlos LOPEZ ,,24.0,"-$15,000.00",posgrado,"Mar 15, 2025"
+CL-2084,Elena Fernandez,sofia.t@gmail.com,57.0,"$47,556.18",Grado,FECHA_INVALIDA
+CL-2085, Juan Perez ,elena.f@gmail.com,46.0,"$73,674.56",SECUNDARIO,"Mar 15, 2025"
+CL-2086,Carlos LOPEZ ,martin.a@hotmail.com,35.0,"$71,328.37",grado,15/03/2025
+CL-2087,Lucia Diaz,lucia.d@outlook.com,27.0,"$86,961.30",SECUNDARIO,2025-03-15
+CL-2088,Martin Alvarez,sofia.t@gmail.com,39.0,"$95,641.42",Posgrado,FECHA_INVALIDA
+CL-2089,Juan Perez,ana.m@test.com,44.0,"$73,095.28",Posgrado,2025-03-15
+CL-2090,ROBERTO SILVA,ana.m@test.com,30.0,"$49,167.20",Ninguno,15/03/2025
+CL-2091, Carlos LOPEZ  ,sofia.t@gmail.com,,"$59,376.04",Ninguno,2025-03-15
+CL-2092,Juan Perez,roberto.silva@company.ar,40.0,"$69,886.87",UNIVERSITARIO,"Mar 15, 2025"
+CL-2093,maria gomez,DIEGO.GOMEZ@YAHOO.COM,35.0,"$43,629.28",grado,"Mar 15, 2025"
+CL-2094, Ana Martinez,elena.f@gmail.com,18.0,"$83,024.11",Grado,"Mar 15, 2025"
+CL-2095,Elena Fernandez,juan.perez@email.com,27.0,"$74,074.40",Secundario,"Mar 15, 2025"
+CL-2096,Juan Perez,martin.a@hotmail.com,29.0,"$25,523.05",Posgrado,"Mar 15, 2025"
+CL-2097,ROBERTO SILVA,MARIA.GOMEZ@MAIL.COM,51.0,,Ninguno,"Mar 15, 2025"
+CL-2098,Juan Perez,roberto.silva@company.ar,31.0,"$79,344.62",Posgrado,"Mar 15, 2025"
+CL-2099, Ana Martinez,lucia.d@outlook.com,18.0,"$113,516.60",Ninguno,2025-03-15
+CL-2100,ROBERTO SILVA,lucia.d@outlook.com,39.0,"$62,716.43",Grado,2025-03-15
+CL-2101,Diego Gomez,lucia.d@outlook.com,40.0,"$35,814.65",,2025-03-15
+CL-2102, Ana Martinez,,28.0,"$57,796.20",posgrado,"Mar 15, 2025"
+CL-2103,Diego Gomez,juan.perez@email.com,50.0,"$71,886.93",posgrado,2025-03-15
+CL-2104,Carlos LOPEZ ,MARIA.GOMEZ@MAIL.COM,38.0,"$91,714.58",,"Mar 15, 2025"
+CL-2105, Diego Gomez ,elena.f@gmail.com,29.0,"$65,073.68",grado,15/03/2025
+CL-2106,Carlos LOPEZ ,diego.gomez@yahoo.com,19.0,"$64,047.00",Ninguno,15/03/2025
+CL-2107, Ana Martinez,juan.perez@email.com,41.0,"$82,751.00",Secundario,2025-03-15
+CL-2108, ROBERTO SILVA ,,44.0,"$54,390.41",posgrado,2025-03-15
+CL-2109,ROBERTO SILVA,,32.0,"$49,472.69",Secundario,"Mar 15, 2025"
+CL-2110, Sofia TORRES,carlos.lopez@domain.or,39.0,"$30,654.85",grado,15/03/2025
+CL-2111,Juan Perez,lucia.d@outlook.com,57.0,"$35,876.33",Grado,2025-03-15
+CL-2112,Diego Gomez,lucia.d@outlook.com,48.0,"$61,464.69",posgrado,FECHA_INVALIDA
+CL-2113, Sofia TORRES,lucia.d@outlook.com,18.0,"$36,497.38",Grado,15/03/2025
+CL-2114,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,29.0,"$64,800.04",Posgrado,15/03/2025
+CL-2115,Lucia Diaz,MARTIN.A@HOTMAIL.COM,36.0,"$32,617.10",Posgrado,2025-03-15
+CL-2116,Martin Alvarez,juan.perez@email.com,38.0,"$58,703.27",Ninguno,2025-03-15
+CL-2117,Lucia Diaz,MARIA.GOMEZ@MAIL.COM,-12.0,"$114,463.94",Grado,2025-03-15
+CL-2118,Lucia Diaz,,52.0,"$59,382.40",SECUNDARIO,2025-03-15
+CL-2119, Sofia TORRES,juan.perez@email.com,51.0,"$81,397.78",grado,15/03/2025
+CL-2120,Elena Fernandez,carlos.lopez@domain.or,40.0,"$108,001.37",UNIVERSITARIO,15/03/2025
+CL-2121, Ana Martinez,carlos.lopez@domain.or,47.0,"$93,777.44",SECUNDARIO,2025-03-15
+CL-2122,Juan Perez,ANA.M@TEST.COM,38.0,"$38,503.03",Posgrado,2025-03-15
+CL-2123, Sofia TORRES,elena.f@gmail.com,29.0,"$26,112.13",UNIVERSITARIO,2025-03-15
+CL-2124,Diego Gomez,sofia.t@gmail.com,-12.0,"$65,093.25",Posgrado,2025-03-15
+CL-2125,maria gomez,sofia.t@gmail.com,36.0,"$79,833.99",UNIVERSITARIO,FECHA_INVALIDA
+CL-2126,Martin Alvarez,LUCIA.D@OUTLOOK.COM,18.0,"$29,155.21",Posgrado,2025-03-15
+CL-2127,Lucia Diaz,,39.0,"$57,600.90",posgrado,15/03/2025
+CL-2128,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,25.0,"$94,271.48",grado,15/03/2025
+CL-2129,Martin Alvarez,carlos.lopez@domain.or,49.0,"$90,786.82",SECUNDARIO,15/03/2025
+CL-2130,ROBERTO SILVA,sofia.t@gmail.com,43.0,"$65,843.45",grado,"Mar 15, 2025"
+CL-2131, Ana Martinez,ana.m@test.com,23.0,,Ninguno,2025-03-15
+CL-2132,ROBERTO SILVA,elena.f@gmail.com,,"$54,099.78",SECUNDARIO,2025-03-15
+CL-2133,ROBERTO SILVA,juan.perez@email.com,49.0,"$99,953.59",SECUNDARIO,15/03/2025
+CL-2134,Lucia Diaz,SOFIA.T@GMAIL.COM,,"$67,409.85",Posgrado,"Mar 15, 2025"
+CL-2135, Carlos LOPEZ  ,,44.0,"-$15,000.00",UNIVERSITARIO,FECHA_INVALIDA
+CL-2136, Ana Martinez,juan.perez@email.com,43.0,"$106,468.42",grado,15/03/2025
+CL-2137,Diego Gomez,,36.0,"$55,292.35",Grado,2025-03-15
+CL-2138,Juan Perez,ana.m@test.com,47.0,"$80,308.88",UNIVERSITARIO,2025-03-15
+CL-2139,Elena Fernandez,lucia.d@outlook.com,53.0,"$92,030.66",Grado,2025-03-15
+CL-2140,maria gomez,MARTIN.A@HOTMAIL.COM,18.0,,SECUNDARIO,2025-03-15
+CL-2141, Ana Martinez,ana.m@test.com,26.0,"$40,851.72",UNIVERSITARIO,2025-03-15
+CL-2142,Elena Fernandez,ana.m@test.com,55.0,"$65,900.29",Grado,15/03/2025
+CL-2143,Martin Alvarez,sofia.t@gmail.com,26.0,,posgrado,2025-03-15
+CL-2144,Martin Alvarez,diego.gomez@yahoo.com,32.0,"$27,417.54",UNIVERSITARIO,2025-03-15
+CL-2145, Ana Martinez,lucia.d@outlook.com,53.0,"$57,357.40",SECUNDARIO,15/03/2025
+CL-2146,Elena Fernandez,martin.a@hotmail.com,54.0,"$31,812.63",Posgrado,15/03/2025
+CL-2147,Elena Fernandez,MARIA.GOMEZ@MAIL.COM,18.0,"$89,326.46",SECUNDARIO,"Mar 15, 2025"
+CL-2148,Lucia Diaz,diego.gomez@yahoo.com,28.0,"$82,549.03",SECUNDARIO,15/03/2025
+CL-2149, ROBERTO SILVA ,ana.m@test.com,23.0,"$118,863.42",posgrado,15/03/2025
+CL-1000,Carlos LOPEZ ,roberto.silva@company.ar,30.0,"$68,130.15",Posgrado,2025-03-15
+CL-1001,Elena Fernandez,juan.perez@email.com,28.0,"$71,131.02",Posgrado,15/03/2025
+CL-1002,Carlos LOPEZ ,CARLOS.LOPEZ@DOMAIN.OR,43.0,"$27,615.99",Ninguno,2025-03-15
+CL-1003, Sofia TORRES,,44.0,"$61,499.64",posgrado,15/03/2025
+CL-1004,Lucia Diaz,lucia.d@outlook.com,38.0,"$28,704.62",Posgrado,2025-03-15
+CL-1005,Elena Fernandez,diego.gomez@yahoo.com,36.0,"$40,202.37",Secundario,2025-03-15
+CL-1006,Martin Alvarez,ana.m@test.com,33.0,"$27,218.45",Grado,15/03/2025
+CL-1007,Carlos LOPEZ ,juan.perez@email.com,34.0,"$52,478.25",UNIVERSITARIO,2025-03-15
+CL-1008, Lucia Diaz ,diego.gomez@yahoo.com,57.0,"$110,507.90",grado,15/03/2025
+CL-1009,maria gomez,DIEGO.GOMEZ@YAHOO.COM,46.0,"$82,279.57",SECUNDARIO,2025-03-15
+CL-1010,Diego Gomez,juan.perez@email.com,33.0,"$103,537.20",SECUNDARIO,15/03/2025
+CL-1011,Lucia Diaz,SOFIA.T@GMAIL.COM,36.0,"$61,623.63",Grado,2025-03-15
+CL-1012,Elena Fernandez,martin.a@hotmail.com,43.0,"$57,336.77",SECUNDARIO,2025-03-15
+CL-1013,maria gomez,lucia.d@outlook.com,23.0,"$77,602.59",UNIVERSITARIO,"Mar 15, 2025"
+CL-1014,Juan Perez,carlos.lopez@domain.or,39.0,"$76,461.96",,2025-03-15
+CL-1015,Juan Perez,DIEGO.GOMEZ@YAHOO.COM,45.0,"$66,841.93",posgrado,"Mar 15, 2025"
+CL-1016,Elena Fernandez,martin.a@hotmail.com,44.0,"$53,721.66",SECUNDARIO,2025-03-15
+CL-1017,Elena Fernandez,carlos.lopez@domain.or,28.0,"$30,476.52",Grado,2025-03-15
+CL-1018,ROBERTO SILVA,juan.perez@email.com,30.0,"$57,532.56",posgrado,FECHA_INVALIDA
+CL-1019, Ana Martinez,roberto.silva@company.ar,18.0,"$80,144.42",,15/03/2025
+CL-1020, Ana Martinez,diego.gomez@yahoo.com,46.0,"$38,223.69",,2025-03-15
+CL-1021,Carlos LOPEZ ,,62.0,"$71,445.29",UNIVERSITARIO,2025-03-15
+CL-1022,Martin Alvarez,elena.f@gmail.com,26.0,"$63,168.99",SECUNDARIO,15/03/2025
+CL-1023,Martin Alvarez,diego.gomez@yahoo.com,51.0,"$83,962.75",Posgrado,15/03/2025
+CL-1024,Lucia Diaz,carlos.lopez@domain.or,,"$44,124.65",SECUNDARIO,15/03/2025
+CL-1025, Elena Fernandez ,sofia.t@gmail.com,61.0,"$62,538.09",,15/03/2025
+CL-1026,Carlos LOPEZ ,martin.a@hotmail.com,,"$28,748.66",SECUNDARIO,FECHA_INVALIDA
+CL-1027,Diego Gomez,carlos.lopez@domain.or,69.0,"$46,636.22",Grado,15/03/2025
+CL-1028,Carlos LOPEZ ,diego.gomez@yahoo.com,19.0,"$116,582.74",grado,15/03/2025
+CL-1029,Elena Fernandez,sofia.t@gmail.com,41.0,"$75,671.73",SECUNDARIO,2025-03-15
+CL-1030,Carlos LOPEZ ,juan.perez@email.com,43.0,"$107,647.07",posgrado,15/03/2025
+CL-1031,Diego Gomez,DIEGO.GOMEZ@YAHOO.COM,41.0,"$36,857.98",Grado,15/03/2025
+CL-1032,Diego Gomez,elena.f@gmail.com,33.0,"$100,450.01",Secundario,"Mar 15, 2025"
+CL-1033,Diego Gomez,ana.m@test.com,45.0,"$114,684.00",Ninguno,2025-03-15
+CL-1034, ROBERTO SILVA ,juan.perez@email.com,33.0,"$39,135.62",Posgrado,FECHA_INVALIDA
+CL-1035, Sofia TORRES,martin.a@hotmail.com,42.0,"$70,923.71",Grado,2025-03-15
+CL-1036,Juan Perez,diego.gomez@yahoo.com,37.0,"-$15,000.00",UNIVERSITARIO,"Mar 15, 2025"
+CL-1037, Sofia TORRES,martin.a@hotmail.com,,"$107,037.01",UNIVERSITARIO,"Mar 15, 2025"
+CL-1038,Juan Perez,sofia.t@gmail.com,18.0,"$52,149.44",Grado,"Mar 15, 2025"
+CL-1039,Elena Fernandez,elena.f@gmail.com,53.0,"$44,306.19",Grado,15/03/2025
+CL-1040,Lucia Diaz,roberto.silva@company.ar,30.0,"$73,571.17",UNIVERSITARIO,15/03/2025
+CL-1041,Carlos LOPEZ ,,54.0,"$71,770.92",UNIVERSITARIO,"Mar 15, 2025"
+CL-1042,Carlos LOPEZ ,roberto.silva@company.ar,50.0,"$118,170.24",Posgrado,15/03/2025
+CL-1043,Diego Gomez,,40.0,"$63,720.50",UNIVERSITARIO,2025-03-15
+CL-1044, Sofia TORRES,sofia.t@gmail.com,44.0,"$79,485.25",grado,15/03/2025
+CL-1045,Diego Gomez,lucia.d@outlook.com,45.0,"$115,824.48",Grado,2025-03-15
+CL-1046,ROBERTO SILVA,carlos.lopez@domain.or,35.0,"$106,126.39",SECUNDARIO,15/03/2025
+CL-1047,Juan Perez,sofia.t@gmail.com,36.0,,grado,15/03/2025
+CL-1048,ROBERTO SILVA,sofia.t@gmail.com,-5.0,"$66,719.23",Ninguno,2025-03-15
+CL-1049,Carlos LOPEZ ,ana.m@test.com,45.0,"$84,526.29",UNIVERSITARIO,2025-03-15

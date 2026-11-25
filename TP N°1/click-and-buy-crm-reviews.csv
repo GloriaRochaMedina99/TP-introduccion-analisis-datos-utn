@@ -1,0 +1,301 @@
+ID_Review,ID_Cliente,Fecha,Calificacion,Comentario
+RE-100,CL-5015,2026-03-15,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-101,CL-3076,2026-03-27,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-102,CL-8416,2026-03-31,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-103,CL-3762,2026-03-08,4,"Compré sin problemas, muy recomendado."
+RE-104,CL-6246,2026-03-14,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-105,CL-1716,2026-03-01,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-106,CL-9908,2026-03-01,4,"Excelente servicio, muy rápido todo."
+RE-107,CL-9612,2026-03-25,4,"Excelente servicio, muy rápido todo."
+RE-108,CL-1113,2026-03-23,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-109,CL-6442,2026-03-30,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-110,CL-3519,2026-03-18,5,Buen precio y excelente calidad.
+RE-111,CL-9583,2026-03-24,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-112,CL-3625,2026-03-26,5,Buen precio y excelente calidad.
+RE-113,CL-3532,2026-03-02,5,"Me encantó el producto, llegó a tiempo."
+RE-114,CL-1165,2026-03-15,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-115,CL-9886,2026-03-03,5,"Compré sin problemas, muy recomendado."
+RE-116,CL-3786,2026-03-31,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-117,CL-8657,2026-03-13,5,"Compré sin problemas, muy recomendado."
+RE-118,CL-3741,2026-03-04,2,"Error al procesar pago, la pantalla se quedó colgada."
+RE-119,CL-6708,2026-03-28,5,"Excelente servicio, muy rápido todo."
+RE-120,CL-1974,2026-03-15,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-121,CL-3078,2026-03-15,5,"Todo correcto, volveré a comprar."
+RE-122,CL-3730,2026-03-27,5,"Todo correcto, volveré a comprar."
+RE-123,CL-6050,2026-03-28,5,"Me encantó el producto, llegó a tiempo."
+RE-124,CL-7699,2026-03-07,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-125,CL-4894,2026-03-10,4,El soporte al cliente fue muy amable.
+RE-126,CL-7397,2026-03-07,4,Buen precio y excelente calidad.
+RE-127,CL-9857,2026-03-16,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-128,CL-6305,2026-03-12,4,"Excelente servicio, muy rápido todo."
+RE-129,CL-3306,2026-03-25,5,"Me encantó el producto, llegó a tiempo."
+RE-130,CL-4928,2026-03-12,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-131,CL-9260,2026-03-12,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-132,CL-3433,2026-03-29,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-133,CL-4621,2026-03-09,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-134,CL-9448,2026-03-27,4,"Compré sin problemas, muy recomendado."
+RE-135,CL-2337,2026-03-22,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-136,CL-6262,2026-03-31,5,"Compré sin problemas, muy recomendado."
+RE-137,CL-6991,2026-03-07,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-138,CL-3450,2026-03-19,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-139,CL-1935,2026-03-26,5,Buen precio y excelente calidad.
+RE-140,CL-5876,2026-03-03,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-141,CL-6369,2026-03-21,4,El soporte al cliente fue muy amable.
+RE-142,CL-1690,2026-03-06,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-143,CL-9323,2026-03-20,4,El soporte al cliente fue muy amable.
+RE-144,CL-2570,2026-03-09,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-145,CL-9870,2026-03-03,5,"Todo correcto, volveré a comprar."
+RE-146,CL-2982,2026-03-16,4,"Todo correcto, volveré a comprar."
+RE-147,CL-5580,2026-03-11,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-148,CL-9782,2026-03-24,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-149,CL-5218,2026-03-02,5,"Todo correcto, volveré a comprar."
+RE-150,CL-3855,2026-03-14,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-151,CL-9466,2026-03-13,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-152,CL-1362,2026-03-29,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-153,CL-4037,2026-03-01,5,"Todo correcto, volveré a comprar."
+RE-154,CL-1368,2026-03-12,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-155,CL-1338,2026-03-03,4,"Compré sin problemas, muy recomendado."
+RE-156,CL-5673,2026-03-28,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-157,CL-6272,2026-03-15,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-158,CL-3111,2026-03-11,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-159,CL-7121,2026-03-28,4,"Todo correcto, volveré a comprar."
+RE-160,CL-1401,2026-03-23,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-161,CL-7952,2026-03-27,4,"Excelente servicio, muy rápido todo."
+RE-162,CL-1023,2026-03-04,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-163,CL-2822,2026-03-05,5,"Compré sin problemas, muy recomendado."
+RE-164,CL-3496,2026-03-09,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-165,CL-5676,2026-03-26,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-166,CL-1609,2026-03-01,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-167,CL-2902,2026-03-19,4,"Compré sin problemas, muy recomendado."
+RE-168,CL-8347,2026-03-29,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-169,CL-5412,2026-03-25,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-170,CL-6890,2026-03-26,5,El soporte al cliente fue muy amable.
+RE-171,CL-8939,2026-03-29,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-172,CL-9727,2026-03-16,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-173,CL-8505,2026-03-13,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-174,CL-9706,2026-03-07,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-175,CL-9791,2026-03-20,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-176,CL-2548,2026-03-28,5,"Excelente servicio, muy rápido todo."
+RE-177,CL-1605,2026-03-23,4,"Compré sin problemas, muy recomendado."
+RE-178,CL-5093,2026-03-09,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-179,CL-2318,2026-03-17,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-180,CL-3205,2026-03-02,4,"Me encantó el producto, llegó a tiempo."
+RE-181,CL-4190,2026-03-01,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-182,CL-8810,2026-03-29,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-183,CL-4519,2026-03-25,5,"Todo correcto, volveré a comprar."
+RE-184,CL-4067,2026-03-30,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-185,CL-8867,2026-03-13,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-186,CL-6896,2026-03-24,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-187,CL-6437,2026-03-17,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-188,CL-7294,2026-03-29,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-189,CL-1400,2026-03-24,5,Buen precio y excelente calidad.
+RE-190,CL-7299,2026-03-09,5,"Todo correcto, volveré a comprar."
+RE-191,CL-8814,2026-03-17,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-192,CL-6077,2026-03-28,5,"Compré sin problemas, muy recomendado."
+RE-193,CL-2827,2026-03-08,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-194,CL-3879,2026-03-11,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-195,CL-5342,2026-03-11,5,"Me encantó el producto, llegó a tiempo."
+RE-196,CL-5681,2026-03-15,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-197,CL-3232,2026-03-19,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-198,CL-9334,2026-03-10,2,"Error al procesar pago, la pantalla se quedó colgada."
+RE-199,CL-5696,2026-03-27,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-200,CL-6101,2026-03-12,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-201,CL-7318,2026-03-07,5,"Compré sin problemas, muy recomendado."
+RE-202,CL-1661,2026-03-14,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-203,CL-2735,2026-03-28,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-204,CL-7453,2026-03-21,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-205,CL-8223,2026-03-28,5,El soporte al cliente fue muy amable.
+RE-206,CL-6705,2026-03-11,4,"Me encantó el producto, llegó a tiempo."
+RE-207,CL-3919,2026-03-19,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-208,CL-2690,2026-03-22,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-209,CL-3486,2026-03-10,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-210,CL-8540,2026-03-28,5,"Compré sin problemas, muy recomendado."
+RE-211,CL-2427,2026-03-03,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-212,CL-2768,2026-03-23,4,"Compré sin problemas, muy recomendado."
+RE-213,CL-8549,2026-03-10,5,"Me encantó el producto, llegó a tiempo."
+RE-214,CL-7209,2026-03-02,5,"Todo correcto, volveré a comprar."
+RE-215,CL-1041,2026-03-28,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-216,CL-3543,2026-03-15,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-217,CL-4659,2026-03-22,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-218,CL-5445,2026-03-16,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-219,CL-4366,2026-03-21,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-220,CL-7396,2026-03-23,5,"Todo correcto, volveré a comprar."
+RE-221,CL-4477,2026-03-23,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-222,CL-2335,2026-03-13,4,"Excelente servicio, muy rápido todo."
+RE-223,CL-9625,2026-03-22,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-224,CL-8526,2026-03-13,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-225,CL-6183,2026-03-17,4,"Todo correcto, volveré a comprar."
+RE-226,CL-5799,2026-03-07,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-227,CL-7787,2026-03-21,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-228,CL-2103,2026-03-29,4,Buen precio y excelente calidad.
+RE-229,CL-1594,2026-03-21,5,Buen precio y excelente calidad.
+RE-230,CL-6263,2026-03-07,4,"Me encantó el producto, llegó a tiempo."
+RE-231,CL-7879,2026-03-01,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-232,CL-9029,2026-03-10,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-233,CL-9708,2026-03-25,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-234,CL-7018,2026-03-18,5,"Compré sin problemas, muy recomendado."
+RE-235,CL-7937,2026-03-19,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-236,CL-2541,2026-03-21,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-237,CL-2482,2026-03-08,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-238,CL-4961,2026-03-15,5,"Excelente servicio, muy rápido todo."
+RE-239,CL-9523,2026-03-23,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-240,CL-6030,2026-03-04,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-241,CL-5287,2026-03-11,4,"Me encantó el producto, llegó a tiempo."
+RE-242,CL-4306,2026-03-06,5,El soporte al cliente fue muy amable.
+RE-243,CL-9459,2026-03-02,5,"Me encantó el producto, llegó a tiempo."
+RE-244,CL-5734,2026-03-12,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-245,CL-2270,2026-03-30,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-246,CL-3935,2026-03-26,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-247,CL-4402,2026-03-11,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-248,CL-5636,2026-03-20,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-249,CL-7744,2026-03-07,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-250,CL-1896,2026-03-05,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-251,CL-5201,2026-03-21,5,"Excelente servicio, muy rápido todo."
+RE-252,CL-3125,2026-03-17,5,"Excelente servicio, muy rápido todo."
+RE-253,CL-7231,2026-03-01,5,Buen precio y excelente calidad.
+RE-254,CL-8939,2026-03-13,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-255,CL-5485,2026-03-07,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-256,CL-7801,2026-03-01,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-257,CL-7149,2026-03-31,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-258,CL-7007,2026-03-13,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-259,CL-7610,2026-03-21,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-260,CL-9966,2026-03-22,5,"Excelente servicio, muy rápido todo."
+RE-261,CL-3802,2026-03-11,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-262,CL-2444,2026-03-09,4,El soporte al cliente fue muy amable.
+RE-263,CL-4731,2026-03-31,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-264,CL-2561,2026-03-16,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-265,CL-7247,2026-03-30,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-266,CL-1713,2026-03-09,5,Buen precio y excelente calidad.
+RE-267,CL-6111,2026-03-18,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-268,CL-1840,2026-03-21,5,"Me encantó el producto, llegó a tiempo."
+RE-269,CL-5027,2026-03-11,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-270,CL-3519,2026-03-29,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-271,CL-6235,2026-03-30,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-272,CL-4885,2026-03-02,5,"Excelente servicio, muy rápido todo."
+RE-273,CL-2899,2026-03-08,4,"Excelente servicio, muy rápido todo."
+RE-274,CL-5363,2026-03-12,4,"Todo correcto, volveré a comprar."
+RE-275,CL-3215,2026-03-16,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-276,CL-3705,2026-03-07,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-277,CL-9057,2026-03-02,5,"Compré sin problemas, muy recomendado."
+RE-278,CL-4694,2026-03-08,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-279,CL-7583,2026-03-08,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-280,CL-2037,2026-03-17,5,"Todo correcto, volveré a comprar."
+RE-281,CL-5270,2026-03-29,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-282,CL-8188,2026-03-10,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-283,CL-7382,2026-03-19,4,"Excelente servicio, muy rápido todo."
+RE-284,CL-6656,2026-03-23,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-285,CL-4416,2026-03-27,5,"Me encantó el producto, llegó a tiempo."
+RE-286,CL-9595,2026-03-01,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-287,CL-3060,2026-03-13,4,"Excelente servicio, muy rápido todo."
+RE-288,CL-5733,2026-03-01,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-289,CL-7066,2026-03-01,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-290,CL-6154,2026-03-01,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-291,CL-7417,2026-03-12,5,"Todo correcto, volveré a comprar."
+RE-292,CL-1637,2026-03-21,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-293,CL-7502,2026-03-28,4,Buen precio y excelente calidad.
+RE-294,CL-3180,2026-03-06,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-295,CL-3976,2026-03-02,2,"Error al procesar pago, la pantalla se quedó colgada."
+RE-296,CL-2003,2026-03-13,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-297,CL-2720,2026-03-28,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-298,CL-8689,2026-03-27,5,El soporte al cliente fue muy amable.
+RE-299,CL-5034,2026-03-13,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-300,CL-2286,2026-03-25,4,Buen precio y excelente calidad.
+RE-301,CL-2489,2026-03-28,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-302,CL-3408,2026-03-27,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-303,CL-3522,2026-03-18,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-304,CL-3366,2026-03-07,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-305,CL-2976,2026-03-09,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-306,CL-3156,2026-03-21,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-307,CL-5881,2026-03-05,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-308,CL-3559,2026-03-06,2,"Error al procesar pago, la pantalla se quedó colgada."
+RE-309,CL-3435,2026-03-08,4,Buen precio y excelente calidad.
+RE-310,CL-1913,2026-03-01,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-311,CL-3120,2026-03-15,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-312,CL-3806,2026-03-18,4,"Me encantó el producto, llegó a tiempo."
+RE-313,CL-5337,2026-03-22,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-314,CL-9000,2026-03-19,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-315,CL-6499,2026-03-08,5,"Todo correcto, volveré a comprar."
+RE-316,CL-6287,2026-03-13,1,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-317,CL-7731,2026-03-06,4,El soporte al cliente fue muy amable.
+RE-318,CL-9510,2026-03-09,2,Se cayó la página al momento de confirmar el pago. Tuve miedo de que me cobraran doble.
+RE-319,CL-7157,2026-03-10,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-320,CL-9804,2026-03-25,5,Buen precio y excelente calidad.
+RE-321,CL-8443,2026-03-15,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-322,CL-4531,2026-03-13,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-323,CL-1056,2026-03-18,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-324,CL-8617,2026-03-02,4,"Compré sin problemas, muy recomendado."
+RE-325,CL-5030,2026-03-29,5,"Compré sin problemas, muy recomendado."
+RE-326,CL-1897,2026-03-05,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-327,CL-4075,2026-03-30,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-328,CL-7931,2026-03-16,5,"Me encantó el producto, llegó a tiempo."
+RE-329,CL-7904,2026-03-03,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-330,CL-4240,2026-03-14,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-331,CL-5775,2026-03-11,5,El soporte al cliente fue muy amable.
+RE-332,CL-9932,2026-03-19,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-333,CL-8380,2026-03-28,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-334,CL-9911,2026-03-24,5,El soporte al cliente fue muy amable.
+RE-335,CL-5927,2026-03-07,5,"Me encantó el producto, llegó a tiempo."
+RE-336,CL-2049,2026-03-09,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-337,CL-3621,2026-03-06,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-338,CL-9684,2026-03-28,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-339,CL-2355,2026-03-07,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-340,CL-6331,2026-03-06,5,"Me encantó el producto, llegó a tiempo."
+RE-341,CL-6535,2026-03-20,5,"Compré sin problemas, muy recomendado."
+RE-342,CL-3368,2026-03-16,4,Buen precio y excelente calidad.
+RE-343,CL-5772,2026-03-30,5,Buen precio y excelente calidad.
+RE-344,CL-1694,2026-03-29,5,"Excelente servicio, muy rápido todo."
+RE-345,CL-5553,2026-03-10,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-346,CL-6544,2026-03-30,1,Muy lento el proceso de checkout. Al final no compré nada.
+RE-347,CL-3536,2026-03-09,5,"Compré sin problemas, muy recomendado."
+RE-348,CL-8254,2026-03-22,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-349,CL-4612,2026-03-19,5,Buen precio y excelente calidad.
+RE-350,CL-6709,2026-03-02,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-351,CL-4099,2026-03-07,4,"Compré sin problemas, muy recomendado."
+RE-352,CL-5560,2026-03-04,2,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-353,CL-6603,2026-03-18,5,El soporte al cliente fue muy amable.
+RE-354,CL-4838,2026-03-07,5,"Compré sin problemas, muy recomendado."
+RE-355,CL-9330,2026-03-21,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-356,CL-2305,2026-03-24,5,"Todo correcto, volveré a comprar."
+RE-357,CL-1354,2026-03-11,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-358,CL-5390,2026-03-11,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-359,CL-6661,2026-03-02,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-360,CL-4033,2026-03-12,5,"Compré sin problemas, muy recomendado."
+RE-361,CL-3115,2026-03-08,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-362,CL-4130,2026-03-01,1,"Error al procesar pago, la pantalla se quedó colgada."
+RE-363,CL-7903,2026-03-28,5,"Todo correcto, volveré a comprar."
+RE-364,CL-8139,2026-03-20,5,"Todo correcto, volveré a comprar."
+RE-365,CL-5882,2026-03-13,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-366,CL-8641,2026-03-24,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-367,CL-3755,2026-03-24,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-368,CL-9973,2026-03-08,5,El soporte al cliente fue muy amable.
+RE-369,CL-7239,2026-03-28,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-370,CL-7242,2026-03-19,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-371,CL-3283,2026-03-15,5,Buen precio y excelente calidad.
+RE-372,CL-1011,2026-03-24,1,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-373,CL-3132,2026-03-22,4,Buen precio y excelente calidad.
+RE-374,CL-5328,2026-03-29,4,Buen precio y excelente calidad.
+RE-375,CL-2811,2026-03-24,4,Buen precio y excelente calidad.
+RE-376,CL-7028,2026-03-12,5,"Me encantó el producto, llegó a tiempo."
+RE-377,CL-5968,2026-03-03,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-378,CL-7687,2026-03-15,2,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-379,CL-9313,2026-03-01,5,"Todo correcto, volveré a comprar."
+RE-380,CL-5346,2026-03-31,1,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-381,CL-7591,2026-03-10,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-382,CL-5069,2026-03-07,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-383,CL-3793,2026-03-27,2,"La pantalla de pago está completamente congelada, por favor solucionen esto."
+RE-384,CL-6323,2026-03-25,1,Intenté pagar tres veces y me dio error. La pasarela de pago no funciona.
+RE-385,CL-3553,2026-03-01,2,"No me dejó pagar con mi tarjeta, salía error del servidor."
+RE-386,CL-4685,2026-03-05,5,El soporte al cliente fue muy amable.
+RE-387,CL-2100,2026-03-10,5,La interfaz de la web es muy limpia y fácil de usar.
+RE-388,CL-1961,2026-03-23,4,Buen precio y excelente calidad.
+RE-389,CL-4403,2026-03-16,1,"Pésimo servicio en el checkout, tardó una eternidad."
+RE-390,CL-5366,2026-03-07,5,"Excelente servicio, muy rápido todo."
+RE-391,CL-2064,2026-03-11,4,"Compré sin problemas, muy recomendado."
+RE-392,CL-9740,2026-03-08,4,"Excelente servicio, muy rápido todo."
+RE-393,CL-6982,2026-03-08,5,"Excelente servicio, muy rápido todo."
+RE-394,CL-4052,2026-03-06,5,"Me encantó el producto, llegó a tiempo."
+RE-395,CL-7583,2026-03-09,4,La interfaz de la web es muy limpia y fácil de usar.
+RE-396,CL-8176,2026-03-18,3,"La compra estuvo aceptable, pero la página de pago tardó bastante."
+RE-397,CL-8124,2026-03-15,4,El soporte al cliente fue muy amable.
+RE-398,CL-7247,2026-03-10,2,Muy lento el proceso de checkout. Al final no compré nada.
+RE-399,CL-7776,2026-03-21,5,"Me encantó el producto, llegó a tiempo."

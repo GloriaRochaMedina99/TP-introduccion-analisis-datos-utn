@@ -1,0 +1,2201 @@
+ID_Envio,Fecha_Despacho,Operador_Logistico,Centro_Distribucion,Estado_Envio,Dias_Pactados,Dias_Reales_Entrega,Costo_Envio_USD,Distancia_KM,Reclamo_Cliente
+LOG-20000,2025-01-01,Correo Nacional,Hub Rosario,Cancelado / Devolución,5,12,10.69,1143,Sí
+LOG-20001,2025-01-01,Logística Express,Hub Tucumán,En Tránsito,2,7,18.97,1138,No
+LOG-20002,2025-01-01,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,33.31,373,No
+LOG-20003,2025-01-01,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,23.94,689,No
+LOG-20004,2025-01-01,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,28.28,790,No
+LOG-20005,2025-01-01,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,17.77,367,No
+LOG-20006,2025-01-01,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,7,12,18.52,168,Sí
+LOG-20007,2025-01-02,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,7,10,10.41,892,Sí
+LOG-20008,2025-01-02,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,31.56,93,No
+LOG-20009,2025-01-02,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,5,31.45,174,No
+LOG-20010,2025-01-02,Urban Transport,Hub Tucumán,Entregado con Demora,3,7,27.52,72,No
+LOG-20011,2025-01-02,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,26.82,123,No
+LOG-20012,2025-01-02,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,11.49,993,No
+LOG-20013,2025-01-03,Urban Transport,Hub Mendoza,Entregado con Demora,7,8,14.5,549,Sí
+LOG-20014,2025-01-03,Logística Express,Hub Tucumán,En Tránsito,3,10,18.73,704,No
+LOG-20015,2025-01-03,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,26.67,594,No
+LOG-20016,2025-01-03,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,13.75,898,No
+LOG-20017,2025-01-03,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,5,34.78,668,No
+LOG-20018,2025-01-03,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,28.53,674,No
+LOG-20019,2025-01-04,Urban Transport,Hub Mendoza,En Tránsito,2,6,24.52,522,No
+LOG-20020,2025-01-04,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,30.76,889,No
+LOG-20021,2025-01-04,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,19.62,752,No
+LOG-20022,2025-01-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,9.29,339,No
+LOG-20023,2025-01-04,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,9.15,971,No
+LOG-20024,2025-01-04,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,9.89,371,No
+LOG-20025,2025-01-05,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,15.92,747,No
+LOG-20026,2025-01-05,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,27.1,173,No
+LOG-20027,2025-01-05,Correo Nacional,Hub Rosario,Entregado con Demora,3,4,27.36,394,Sí
+LOG-20028,2025-01-05,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.31,1134,No
+LOG-20029,2025-01-05,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,9.65,133,No
+LOG-20030,2025-01-05,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,31.01,503,No
+LOG-20031,2025-01-06,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,32.49,1085,No
+LOG-20032,2025-01-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,30.63,120,No
+LOG-20033,2025-01-06,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,28.61,298,No
+LOG-20034,2025-01-06,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,32.92,573,No
+LOG-20035,2025-01-06,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,34.37,1164,No
+LOG-20036,2025-01-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,19.96,400,No
+LOG-20037,2025-01-07,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,29.46,1167,No
+LOG-20038,2025-01-07,Correo Nacional,Hub Córdoba,Entregado con Demora,2,3,24.29,550,No
+LOG-20039,2025-01-07,Logística Express,Hub Tucumán,Entregado con Demora,5,6,30.91,724,Sí
+LOG-20040,2025-01-07,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,30.31,898,No
+LOG-20041,2025-01-07,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,29.94,260,No
+LOG-20042,2025-01-07,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,31.28,559,No
+LOG-20043,2025-01-08,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,27.11,850,No
+LOG-20044,2025-01-08,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,14.33,919,No
+LOG-20045,2025-01-08,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,12.98,42,No
+LOG-20046,2025-01-08,Correo Nacional,Hub Tucumán,En Tránsito,3,9,10.94,756,No
+LOG-20047,2025-01-08,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,31.84,319,No
+LOG-20048,2025-01-08,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,16.73,508,No
+LOG-20049,2025-01-09,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,3,4,23.35,455,No
+LOG-20050,2025-01-09,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,3,6,18.58,332,No
+LOG-20051,2025-01-09,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,32.8,598,No
+LOG-20052,2025-01-09,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,29.28,428,No
+LOG-20053,2025-01-09,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,25.78,486,No
+LOG-20054,2025-01-09,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,20.44,317,No
+LOG-20055,2025-01-10,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,14.93,801,No
+LOG-20056,2025-01-10,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,32.96,1069,No
+LOG-20057,2025-01-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,13.51,161,No
+LOG-20058,2025-01-10,Urban Transport,Hub Rosario,Cancelado / Devolución,3,5,10.48,689,Sí
+LOG-20059,2025-01-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,13.03,484,No
+LOG-20060,2025-01-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,29.79,1120,No
+LOG-20061,2025-01-11,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,18.75,42,No
+LOG-20062,2025-01-11,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,24.04,691,No
+LOG-20063,2025-01-11,Flex Delivery,Hub Tucumán,Entregado con Demora,7,10,29.6,1042,Sí
+LOG-20064,2025-01-11,Logística Express,Centro Distribución Buenos Aires,En Tránsito,2,6,24.19,1050,No
+LOG-20065,2025-01-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,11.7,940,No
+LOG-20066,2025-01-11,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,29.91,809,No
+LOG-20067,2025-01-12,Flex Delivery,Hub Córdoba,Entregado con Demora,5,6,30.27,1066,No
+LOG-20068,2025-01-12,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,25.33,132,No
+LOG-20069,2025-01-12,Urban Transport,Hub Tucumán,Cancelado / Devolución,3,10,33.18,492,No
+LOG-20070,2025-01-12,Flex Delivery,Hub Tucumán,En Tránsito,5,8,33.23,1121,No
+LOG-20071,2025-01-12,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,28.45,895,No
+LOG-20072,2025-01-12,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,5,8,17.75,455,No
+LOG-20073,2025-01-13,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,16.71,900,No
+LOG-20074,2025-01-13,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,9.61,534,No
+LOG-20075,2025-01-13,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,34.75,1172,No
+LOG-20076,2025-01-13,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,29.45,304,No
+LOG-20077,2025-01-13,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,25.28,714,No
+LOG-20078,2025-01-13,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,33.24,454,No
+LOG-20079,2025-01-14,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,20.07,483,No
+LOG-20080,2025-01-14,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,11.89,910,No
+LOG-20081,2025-01-14,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,20.59,289,No
+LOG-20082,2025-01-14,Logística Express,Hub Tucumán,Cancelado / Devolución,5,10,18.51,936,Sí
+LOG-20083,2025-01-14,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,31.68,341,No
+LOG-20084,2025-01-14,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,11.51,95,No
+LOG-20085,2025-01-15,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,31.73,22,No
+LOG-20086,2025-01-15,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,29.11,1065,No
+LOG-20087,2025-01-15,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,20.06,499,No
+LOG-20088,2025-01-15,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,2,3,23.83,324,Sí
+LOG-20089,2025-01-15,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,34.3,361,No
+LOG-20090,2025-01-15,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,8.89,48,No
+LOG-20091,2025-01-16,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,15.01,844,No
+LOG-20092,2025-01-16,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,15.45,42,No
+LOG-20093,2025-01-16,Urban Transport,Hub Córdoba,Entregado con Demora,2,7,12.34,412,No
+LOG-20094,2025-01-16,Logística Express,Hub Córdoba,Entregado con Demora,2,7,14.79,969,No
+LOG-20095,2025-01-16,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,25.03,1134,No
+LOG-20096,2025-01-16,Correo Nacional,Hub Rosario,Entregado con Demora,5,8,14.72,728,Sí
+LOG-20097,2025-01-17,Flex Delivery,Hub Rosario,En Tránsito,5,12,18.84,332,No
+LOG-20098,2025-01-17,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,27.18,905,No
+LOG-20099,2025-01-17,Logística Express,Hub Mendoza,Cancelado / Devolución,7,9,26.49,480,Sí
+LOG-20100,2025-01-17,Correo Nacional,Hub Córdoba,En Tránsito,3,8,32.36,1196,No
+LOG-20101,2025-01-17,Correo Nacional,Hub Córdoba,En Tránsito,3,7,23.25,917,No
+LOG-20102,2025-01-17,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,23.51,1133,No
+LOG-20103,2025-01-18,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,16.44,113,No
+LOG-20104,2025-01-18,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,28.7,326,No
+LOG-20105,2025-01-18,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,10.36,151,No
+LOG-20106,2025-01-18,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,27.96,436,No
+LOG-20107,2025-01-18,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,8.93,608,No
+LOG-20108,2025-01-18,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,14.94,28,No
+LOG-20109,2025-01-19,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,13.94,1060,No
+LOG-20110,2025-01-19,Logística Express,Hub Mendoza,Cancelado / Devolución,2,9,11.27,238,Sí
+LOG-20111,2025-01-19,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,18.66,238,No
+LOG-20112,2025-01-19,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,23.48,699,No
+LOG-20113,2025-01-19,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,30.58,177,No
+LOG-20114,2025-01-19,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,1,28.75,427,No
+LOG-20115,2025-01-20,Logística Express,Hub Rosario,Entregado con Demora,5,8,26.66,731,No
+LOG-20116,2025-01-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,10.01,1011,No
+LOG-20117,2025-01-20,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,34.37,87,No
+LOG-20118,2025-01-20,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,13.77,586,No
+LOG-20119,2025-01-20,Correo Nacional,Hub Córdoba,Entregado con Demora,5,6,16.94,1069,No
+LOG-20120,2025-01-20,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,28.68,336,No
+LOG-20121,2025-01-21,Correo Nacional,Hub Córdoba,Cancelado / Devolución,3,9,15.31,315,Sí
+LOG-20122,2025-01-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,3,30.9,303,No
+LOG-20123,2025-01-21,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,29.4,425,No
+LOG-20124,2025-01-21,Logística Express,Hub Tucumán,Entregado con Demora,7,9,27.41,279,No
+LOG-20125,2025-01-21,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,31.0,862,No
+LOG-20126,2025-01-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,24.39,995,No
+LOG-20127,2025-01-22,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,20.67,888,No
+LOG-20128,2025-01-22,Urban Transport,Hub Córdoba,En Tránsito,3,8,9.64,432,No
+LOG-20129,2025-01-22,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,27.49,133,No
+LOG-20130,2025-01-22,Logística Express,Hub Rosario,Entregado con Demora,3,5,12.22,1137,No
+LOG-20131,2025-01-22,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,25.05,277,No
+LOG-20132,2025-01-22,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,14.52,401,No
+LOG-20133,2025-01-23,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,14.5,516,No
+LOG-20134,2025-01-23,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,7,12.46,79,No
+LOG-20135,2025-01-23,Correo Nacional,Hub Rosario,Entregado con Demora,3,4,18.25,91,No
+LOG-20136,2025-01-23,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,28.66,572,No
+LOG-20137,2025-01-23,Urban Transport,Hub Rosario,Entregado con Demora,3,4,11.26,1112,No
+LOG-20138,2025-01-23,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,24.09,1080,No
+LOG-20139,2025-01-24,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,34.09,275,No
+LOG-20140,2025-01-24,Correo Nacional,Hub Mendoza,Entregado con Demora,5,7,30.37,401,Sí
+LOG-20141,2025-01-24,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,32.77,282,No
+LOG-20142,2025-01-24,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,13.19,902,No
+LOG-20143,2025-01-24,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,2,26.98,823,No
+LOG-20144,2025-01-24,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,29.21,557,No
+LOG-20145,2025-01-25,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,19.41,1015,No
+LOG-20146,2025-01-25,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,24.27,956,No
+LOG-20147,2025-01-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,24.28,198,No
+LOG-20148,2025-01-25,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,19.24,1189,No
+LOG-20149,2025-01-25,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,11.52,310,No
+LOG-20150,2025-01-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,33.2,508,No
+LOG-20151,2025-01-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,12.01,1078,No
+LOG-20152,2025-01-26,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,19.49,123,No
+LOG-20153,2025-01-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,25.53,1004,No
+LOG-20154,2025-01-26,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,34.68,367,No
+LOG-20155,2025-01-26,Logística Express,Hub Tucumán,Entregado con Demora,3,8,16.88,479,Sí
+LOG-20156,2025-01-26,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,18.48,376,No
+LOG-20157,2025-01-26,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,21.97,380,No
+LOG-20158,2025-01-27,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,20.04,1093,No
+LOG-20159,2025-01-27,Urban Transport,Hub Rosario,Entregado a Tiempo,7,7,9.86,714,No
+LOG-20160,2025-01-27,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,9.06,1161,No
+LOG-20161,2025-01-27,Logística Express,Hub Mendoza,Cancelado / Devolución,7,11,26.95,1016,Sí
+LOG-20162,2025-01-27,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,19.36,400,No
+LOG-20163,2025-01-27,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,7,11,15.42,200,No
+LOG-20164,2025-01-28,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,31.14,950,No
+LOG-20165,2025-01-28,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,22.19,118,No
+LOG-20166,2025-01-28,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,10.47,746,No
+LOG-20167,2025-01-28,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,24.26,766,No
+LOG-20168,2025-01-28,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,11.5,140,No
+LOG-20169,2025-01-28,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,27.74,99,No
+LOG-20170,2025-01-29,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,11.86,377,No
+LOG-20171,2025-01-29,Flex Delivery,Hub Rosario,Entregado con Demora,3,5,16.06,1072,No
+LOG-20172,2025-01-29,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,5,9,15.81,491,Sí
+LOG-20173,2025-01-29,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,11.63,916,No
+LOG-20174,2025-01-29,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,19.32,838,No
+LOG-20175,2025-01-29,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,33.31,56,No
+LOG-20176,2025-01-30,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,15.61,590,No
+LOG-20177,2025-01-30,Logística Express,Hub Tucumán,Cancelado / Devolución,7,9,9.54,186,Sí
+LOG-20178,2025-01-30,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,12.51,1127,No
+LOG-20179,2025-01-30,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,8.53,981,No
+LOG-20180,2025-01-30,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,2,31.99,278,No
+LOG-20181,2025-01-30,Urban Transport,Hub Tucumán,Entregado con Demora,3,8,28.3,896,Sí
+LOG-20182,2025-01-31,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,24.15,936,No
+LOG-20183,2025-01-31,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,28.31,468,No
+LOG-20184,2025-01-31,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,6,29.61,939,No
+LOG-20185,2025-01-31,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,2,19.76,920,No
+LOG-20186,2025-01-31,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,21.86,1076,No
+LOG-20187,2025-01-31,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,24.21,500,No
+LOG-20188,2025-02-01,Correo Nacional,Hub Tucumán,En Tránsito,5,12,17.78,1022,No
+LOG-20189,2025-02-01,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,16.67,511,No
+LOG-20190,2025-02-01,Logística Express,Hub Mendoza,Cancelado / Devolución,3,7,28.29,810,No
+LOG-20191,2025-02-01,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,21.89,1099,No
+LOG-20192,2025-02-01,Correo Nacional,Hub Rosario,Cancelado / Devolución,5,7,22.36,1000,No
+LOG-20193,2025-02-01,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,10.5,264,No
+LOG-20194,2025-02-02,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,17.39,840,No
+LOG-20195,2025-02-02,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,31.26,297,No
+LOG-20196,2025-02-02,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,2,18.61,361,No
+LOG-20197,2025-02-02,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,20.28,651,No
+LOG-20198,2025-02-02,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,18.34,318,No
+LOG-20199,2025-02-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,33.33,967,No
+LOG-20200,2025-02-03,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,12.89,728,No
+LOG-20201,2025-02-03,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,32.14,378,No
+LOG-20202,2025-02-03,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,12.87,1038,No
+LOG-20203,2025-02-03,Correo Nacional,Hub Rosario,Entregado con Demora,3,8,23.58,911,No
+LOG-20204,2025-02-03,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,2,17.99,94,No
+LOG-20205,2025-02-03,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,17.73,316,No
+LOG-20206,2025-02-04,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,24.96,332,No
+LOG-20207,2025-02-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,29.78,425,No
+LOG-20208,2025-02-04,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,3,4,33.46,562,Sí
+LOG-20209,2025-02-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,18.18,581,No
+LOG-20210,2025-02-04,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,13.23,897,No
+LOG-20211,2025-02-04,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,15.94,449,No
+LOG-20212,2025-02-05,Correo Nacional,Hub Tucumán,En Tránsito,2,5,15.54,397,No
+LOG-20213,2025-02-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,21.7,451,No
+LOG-20214,2025-02-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,26.7,602,No
+LOG-20215,2025-02-05,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,19.11,763,No
+LOG-20216,2025-02-05,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,15.31,920,No
+LOG-20217,2025-02-05,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,2,7,25.53,1007,Sí
+LOG-20218,2025-02-06,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,19.85,65,No
+LOG-20219,2025-02-06,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,32.92,1146,No
+LOG-20220,2025-02-06,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,19.81,1063,No
+LOG-20221,2025-02-06,Flex Delivery,Hub Tucumán,Entregado con Demora,2,5,34.71,343,Sí
+LOG-20222,2025-02-06,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,22.22,166,No
+LOG-20223,2025-02-06,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,18.69,247,No
+LOG-20224,2025-02-07,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,11.69,632,No
+LOG-20225,2025-02-07,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,24.5,335,No
+LOG-20226,2025-02-07,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,22.2,1183,No
+LOG-20227,2025-02-07,Urban Transport,Hub Rosario,Cancelado / Devolución,2,9,32.37,1084,No
+LOG-20228,2025-02-07,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,21.94,342,No
+LOG-20229,2025-02-07,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,10.69,1032,No
+LOG-20230,2025-02-08,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,2,13.49,540,No
+LOG-20231,2025-02-08,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,22.62,130,No
+LOG-20232,2025-02-08,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,8,11.78,574,No
+LOG-20233,2025-02-08,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,22.69,690,No
+LOG-20234,2025-02-08,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,9.25,637,No
+LOG-20235,2025-02-08,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,16.38,345,No
+LOG-20236,2025-02-09,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,33.15,463,No
+LOG-20237,2025-02-09,Correo Nacional,Hub Tucumán,Entregado con Demora,5,8,16.16,1138,Sí
+LOG-20238,2025-02-09,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,11.52,794,No
+LOG-20239,2025-02-09,Correo Nacional,Hub Mendoza,Entregado con Demora,2,4,12.95,1153,Sí
+LOG-20240,2025-02-09,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,22.85,607,No
+LOG-20241,2025-02-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,22.64,1002,No
+LOG-20242,2025-02-10,Correo Nacional,Hub Córdoba,Entregado con Demora,2,7,29.63,315,No
+LOG-20243,2025-02-10,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,2,26.52,898,No
+LOG-20244,2025-02-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,23.06,1100,No
+LOG-20245,2025-02-10,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,26.31,947,No
+LOG-20246,2025-02-10,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,18.93,308,No
+LOG-20247,2025-02-10,Logística Express,Hub Rosario,Cancelado / Devolución,5,10,22.35,1161,Sí
+LOG-20248,2025-02-11,Logística Express,Hub Córdoba,En Tránsito,7,12,18.7,281,No
+LOG-20249,2025-02-11,Logística Express,Hub Rosario,Entregado con Demora,2,5,13.48,608,No
+LOG-20250,2025-02-11,Logística Express,Hub Córdoba,Entregado con Demora,7,9,21.6,675,No
+LOG-20251,2025-02-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,25.03,403,No
+LOG-20252,2025-02-11,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,34.06,981,No
+LOG-20253,2025-02-11,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,25.97,1089,No
+LOG-20254,2025-02-12,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,18.73,68,No
+LOG-20255,2025-02-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,30.23,294,No
+LOG-20256,2025-02-12,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,11.54,105,No
+LOG-20257,2025-02-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,9,23.78,1132,Sí
+LOG-20258,2025-02-12,Urban Transport,Hub Rosario,Entregado con Demora,5,7,32.24,829,Sí
+LOG-20259,2025-02-12,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,11.41,640,No
+LOG-20260,2025-02-13,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,2,34.41,307,No
+LOG-20261,2025-02-13,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,23.08,215,No
+LOG-20262,2025-02-13,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,32.21,295,No
+LOG-20263,2025-02-13,Correo Nacional,Hub Mendoza,Entregado con Demora,2,5,25.3,433,Sí
+LOG-20264,2025-02-13,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,3,14.27,1066,No
+LOG-20265,2025-02-13,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,32.49,302,No
+LOG-20266,2025-02-14,Flex Delivery,Hub Córdoba,Entregado con Demora,7,9,13.9,84,Sí
+LOG-20267,2025-02-14,Urban Transport,Hub Rosario,En Tránsito,3,10,31.8,711,No
+LOG-20268,2025-02-14,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,19.67,914,No
+LOG-20269,2025-02-14,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,11.01,326,No
+LOG-20270,2025-02-14,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,11.98,1152,No
+LOG-20271,2025-02-14,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,27.81,332,No
+LOG-20272,2025-02-15,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,18.75,28,No
+LOG-20273,2025-02-15,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,29.26,790,No
+LOG-20274,2025-02-15,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,27.06,867,No
+LOG-20275,2025-02-15,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,12.9,481,No
+LOG-20276,2025-02-15,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,23.28,157,No
+LOG-20277,2025-02-15,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,33.18,820,No
+LOG-20278,2025-02-16,Urban Transport,Hub Tucumán,Entregado con Demora,7,11,12.97,612,Sí
+LOG-20279,2025-02-16,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,24.27,257,No
+LOG-20280,2025-02-16,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,17.64,754,No
+LOG-20281,2025-02-16,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,25.78,1006,No
+LOG-20282,2025-02-16,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,7,8,10.86,537,Sí
+LOG-20283,2025-02-16,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,5,34.49,539,No
+LOG-20284,2025-02-17,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,9.7,1122,No
+LOG-20285,2025-02-17,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.8,1021,No
+LOG-20286,2025-02-17,Logística Express,Hub Córdoba,En Tránsito,7,9,8.64,139,No
+LOG-20287,2025-02-17,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,10.03,631,No
+LOG-20288,2025-02-17,Correo Nacional,Hub Mendoza,Entregado con Demora,5,8,33.03,45,Sí
+LOG-20289,2025-02-17,Flex Delivery,Hub Tucumán,Entregado con Demora,5,7,30.7,1007,Sí
+LOG-20290,2025-02-18,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,12.48,736,No
+LOG-20291,2025-02-18,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,15.26,61,No
+LOG-20292,2025-02-18,Logística Express,Hub Tucumán,Entregado con Demora,7,12,14.54,1018,Sí
+LOG-20293,2025-02-18,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,18.03,440,No
+LOG-20294,2025-02-18,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,13.56,611,No
+LOG-20295,2025-02-18,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,29.86,563,No
+LOG-20296,2025-02-18,Flex Delivery,Hub Rosario,Entregado con Demora,5,8,18.85,1145,Sí
+LOG-20297,2025-02-19,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,15.17,311,No
+LOG-20298,2025-02-19,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,25.91,187,No
+LOG-20299,2025-02-19,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,11.56,70,No
+LOG-20300,2025-02-19,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,32.72,951,No
+LOG-20301,2025-02-19,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,33.19,1034,No
+LOG-20302,2025-02-19,Logística Express,Hub Córdoba,Entregado con Demora,2,4,27.89,1133,Sí
+LOG-20303,2025-02-20,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,18.14,1196,No
+LOG-20304,2025-02-20,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,3,16.91,260,No
+LOG-20305,2025-02-20,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,12.44,306,No
+LOG-20306,2025-02-20,Logística Express,Hub Rosario,Entregado con Demora,7,11,8.88,717,Sí
+LOG-20307,2025-02-20,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,10.71,718,No
+LOG-20308,2025-02-20,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,18.57,309,No
+LOG-20309,2025-02-21,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,7,27.98,814,No
+LOG-20310,2025-02-21,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,22.83,502,No
+LOG-20311,2025-02-21,Urban Transport,Hub Rosario,Entregado a Tiempo,3,2,17.78,91,No
+LOG-20312,2025-02-21,Flex Delivery,Hub Rosario,En Tránsito,7,11,22.61,808,No
+LOG-20313,2025-02-21,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,9,22.53,621,Sí
+LOG-20314,2025-02-21,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,9.26,196,No
+LOG-20315,2025-02-22,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,24.22,1032,No
+LOG-20316,2025-02-22,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,27.81,1088,No
+LOG-20317,2025-02-22,Urban Transport,Hub Mendoza,En Tránsito,2,6,8.83,391,No
+LOG-20318,2025-02-22,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,11.87,291,No
+LOG-20319,2025-02-22,Urban Transport,Hub Tucumán,Entregado a Tiempo,7,6,20.03,783,No
+LOG-20320,2025-02-22,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,20.7,388,No
+LOG-20321,2025-02-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,18.01,50,No
+LOG-20322,2025-02-23,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,34.87,603,No
+LOG-20323,2025-02-23,Logística Express,Hub Rosario,Entregado con Demora,5,6,11.18,298,Sí
+LOG-20324,2025-02-23,Flex Delivery,Hub Rosario,Entregado con Demora,2,4,10.26,414,No
+LOG-20325,2025-02-23,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,8.83,1038,No
+LOG-20326,2025-02-23,Flex Delivery,Centro Distribución Buenos Aires,En Tránsito,5,10,17.68,415,No
+LOG-20327,2025-02-24,Logística Express,Hub Córdoba,Entregado con Demora,2,4,25.3,559,No
+LOG-20328,2025-02-24,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,25.0,104,No
+LOG-20329,2025-02-24,Logística Express,Hub Mendoza,Entregado con Demora,5,7,22.07,648,No
+LOG-20330,2025-02-24,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,14.57,1081,No
+LOG-20331,2025-02-24,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,28.66,690,No
+LOG-20332,2025-02-24,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,22.99,309,No
+LOG-20333,2025-02-25,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,33.81,633,No
+LOG-20334,2025-02-25,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,9.18,125,No
+LOG-20335,2025-02-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,30.69,44,No
+LOG-20336,2025-02-25,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,12.1,367,No
+LOG-20337,2025-02-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,18.69,336,No
+LOG-20338,2025-02-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,27.2,1083,No
+LOG-20339,2025-02-26,Correo Nacional,Hub Córdoba,Entregado con Demora,2,4,28.64,386,Sí
+LOG-20340,2025-02-26,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,26.61,578,No
+LOG-20341,2025-02-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,19.48,446,No
+LOG-20342,2025-02-26,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,12.9,80,No
+LOG-20343,2025-02-26,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,16.03,137,No
+LOG-20344,2025-02-26,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,12.87,1080,No
+LOG-20345,2025-02-27,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,7,8,21.34,316,Sí
+LOG-20346,2025-02-27,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,29.5,1011,No
+LOG-20347,2025-02-27,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,24.01,204,No
+LOG-20348,2025-02-27,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,9.34,443,No
+LOG-20349,2025-02-27,Logística Express,Hub Mendoza,En Tránsito,3,7,25.99,741,No
+LOG-20350,2025-02-27,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,20.02,726,No
+LOG-20351,2025-02-28,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,18.88,780,No
+LOG-20352,2025-02-28,Urban Transport,Hub Córdoba,En Tránsito,5,8,34.7,346,No
+LOG-20353,2025-02-28,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,33.17,877,No
+LOG-20354,2025-02-28,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,8,21.27,297,No
+LOG-20355,2025-02-28,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,17.87,703,No
+LOG-20356,2025-02-28,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,32.99,649,No
+LOG-20357,2025-03-01,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,13.04,537,No
+LOG-20358,2025-03-01,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,11.82,275,No
+LOG-20359,2025-03-01,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,33.14,667,No
+LOG-20360,2025-03-01,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,26.42,377,No
+LOG-20361,2025-03-01,Logística Express,Hub Mendoza,Cancelado / Devolución,2,6,32.51,1095,Sí
+LOG-20362,2025-03-01,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,24.32,831,No
+LOG-20363,2025-03-02,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,24.59,606,No
+LOG-20364,2025-03-02,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,2,11.86,1052,No
+LOG-20365,2025-03-02,Correo Nacional,Hub Tucumán,Entregado con Demora,5,6,20.35,163,No
+LOG-20366,2025-03-02,Flex Delivery,Hub Mendoza,Entregado con Demora,2,5,32.81,113,Sí
+LOG-20367,2025-03-02,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,12.07,496,No
+LOG-20368,2025-03-02,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,10.77,299,No
+LOG-20369,2025-03-03,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,14.74,365,No
+LOG-20370,2025-03-03,Correo Nacional,Hub Mendoza,Entregado con Demora,5,6,26.58,719,Sí
+LOG-20371,2025-03-03,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,7,12,29.84,268,No
+LOG-20372,2025-03-03,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,14.42,1027,No
+LOG-20373,2025-03-03,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,20.24,1134,No
+LOG-20374,2025-03-03,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,32.23,315,No
+LOG-20375,2025-03-04,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,22.8,442,No
+LOG-20376,2025-03-04,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,11.04,624,No
+LOG-20377,2025-03-04,Flex Delivery,Hub Mendoza,Entregado con Demora,3,4,32.48,238,Sí
+LOG-20378,2025-03-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,21.97,378,No
+LOG-20379,2025-03-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,9.55,619,No
+LOG-20380,2025-03-04,Urban Transport,Hub Rosario,Entregado a Tiempo,5,4,20.61,111,No
+LOG-20381,2025-03-05,Urban Transport,Hub Tucumán,En Tránsito,5,12,29.51,733,No
+LOG-20382,2025-03-05,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,18.55,745,No
+LOG-20383,2025-03-05,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,25.03,702,No
+LOG-20384,2025-03-05,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,20.34,1137,No
+LOG-20385,2025-03-05,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,7,27.55,1132,Sí
+LOG-20386,2025-03-05,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,24.98,1047,No
+LOG-20387,2025-03-06,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,32.61,1026,No
+LOG-20388,2025-03-06,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,34.77,906,No
+LOG-20389,2025-03-06,Flex Delivery,Hub Mendoza,Entregado con Demora,5,8,28.37,870,Sí
+LOG-20390,2025-03-06,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,2,34.48,958,No
+LOG-20391,2025-03-06,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,17.8,915,No
+LOG-20392,2025-03-06,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,6,27.17,943,No
+LOG-20393,2025-03-07,Flex Delivery,Hub Tucumán,Cancelado / Devolución,7,14,21.07,668,Sí
+LOG-20394,2025-03-07,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,11.42,1061,No
+LOG-20395,2025-03-07,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,33.48,419,No
+LOG-20396,2025-03-07,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,27.76,1090,No
+LOG-20397,2025-03-07,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,19.17,637,No
+LOG-20398,2025-03-07,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,7,11,34.33,38,Sí
+LOG-20399,2025-03-08,Logística Express,Hub Córdoba,Entregado con Demora,2,6,33.14,303,Sí
+LOG-20400,2025-03-08,Urban Transport,Hub Rosario,Entregado a Tiempo,5,4,18.36,977,No
+LOG-20401,2025-03-08,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,3,23.46,1181,No
+LOG-20402,2025-03-08,Urban Transport,Centro Distribución Buenos Aires,Cancelado / Devolución,3,7,25.33,818,Sí
+LOG-20403,2025-03-08,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,13.06,84,No
+LOG-20404,2025-03-08,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,19.11,977,No
+LOG-20405,2025-03-09,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,31.75,169,No
+LOG-20406,2025-03-09,Logística Express,Hub Rosario,Entregado con Demora,2,5,10.19,600,No
+LOG-20407,2025-03-09,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,11.82,939,No
+LOG-20408,2025-03-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,17.84,377,No
+LOG-20409,2025-03-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,32.36,710,No
+LOG-20410,2025-03-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,27.85,547,No
+LOG-20411,2025-03-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,19.52,862,No
+LOG-20412,2025-03-10,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,29.99,213,No
+LOG-20413,2025-03-10,Flex Delivery,Hub Rosario,Entregado con Demora,7,11,32.77,902,Sí
+LOG-20414,2025-03-10,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,19.19,635,No
+LOG-20415,2025-03-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,16.34,189,No
+LOG-20416,2025-03-10,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,34.74,915,No
+LOG-20417,2025-03-11,Correo Nacional,Hub Rosario,Entregado con Demora,2,5,13.11,865,Sí
+LOG-20418,2025-03-11,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,26.48,992,No
+LOG-20419,2025-03-11,Urban Transport,Hub Rosario,Entregado a Tiempo,3,2,10.21,886,No
+LOG-20420,2025-03-11,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,28.11,554,No
+LOG-20421,2025-03-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,13.15,267,No
+LOG-20422,2025-03-11,Urban Transport,Hub Córdoba,Entregado con Demora,2,4,25.64,241,Sí
+LOG-20423,2025-03-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,32.92,255,No
+LOG-20424,2025-03-12,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,11.72,215,No
+LOG-20425,2025-03-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,7,16.08,693,Sí
+LOG-20426,2025-03-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,15.86,734,No
+LOG-20427,2025-03-12,Urban Transport,Hub Rosario,Entregado con Demora,5,8,18.49,336,No
+LOG-20428,2025-03-12,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,18.66,358,No
+LOG-20429,2025-03-13,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,13.95,223,No
+LOG-20430,2025-03-13,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,3,7,20.24,854,Sí
+LOG-20431,2025-03-13,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,22.3,735,No
+LOG-20432,2025-03-13,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,23.3,786,No
+LOG-20433,2025-03-13,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,31.21,437,No
+LOG-20434,2025-03-13,Logística Express,Hub Rosario,Entregado con Demora,5,7,30.13,35,No
+LOG-20435,2025-03-14,Logística Express,Hub Córdoba,Entregado con Demora,7,12,33.94,1062,No
+LOG-20436,2025-03-14,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,23.26,95,No
+LOG-20437,2025-03-14,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,19.6,15,No
+LOG-20438,2025-03-14,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,25.13,853,No
+LOG-20439,2025-03-14,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,34.28,741,No
+LOG-20440,2025-03-14,Logística Express,Hub Córdoba,Cancelado / Devolución,2,9,20.04,970,Sí
+LOG-20441,2025-03-14,Correo Nacional,Hub Mendoza,Entregado con Demora,2,4,16.18,513,No
+LOG-20442,2025-03-15,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,24.74,649,No
+LOG-20443,2025-03-15,Logística Express,Hub Tucumán,Entregado con Demora,7,10,34.5,834,Sí
+LOG-20444,2025-03-15,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,21.17,724,No
+LOG-20445,2025-03-15,Logística Express,Hub Rosario,Entregado con Demora,7,10,16.24,362,No
+LOG-20446,2025-03-15,Correo Nacional,Hub Córdoba,Entregado con Demora,7,9,9.53,889,No
+LOG-20447,2025-03-15,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,31.84,950,No
+LOG-20448,2025-03-16,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,32.31,260,No
+LOG-20449,2025-03-16,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,17.59,593,No
+LOG-20450,2025-03-16,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,26.07,351,No
+LOG-20451,2025-03-16,Flex Delivery,Hub Mendoza,Entregado con Demora,3,5,14.27,1190,Sí
+LOG-20452,2025-03-16,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,29.83,862,No
+LOG-20453,2025-03-16,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,31.82,621,No
+LOG-20454,2025-03-17,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,18.22,72,No
+LOG-20455,2025-03-17,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,11.2,27,No
+LOG-20456,2025-03-17,Correo Nacional,Hub Rosario,Entregado con Demora,2,4,16.48,1051,Sí
+LOG-20457,2025-03-17,Flex Delivery,Hub Rosario,Entregado con Demora,3,4,9.99,941,Sí
+LOG-20458,2025-03-17,Logística Express,Hub Córdoba,Entregado con Demora,7,8,16.45,183,No
+LOG-20459,2025-03-17,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,17.78,528,No
+LOG-20460,2025-03-18,Logística Express,Hub Córdoba,Cancelado / Devolución,5,8,31.91,445,No
+LOG-20461,2025-03-18,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,7,9,17.48,984,Sí
+LOG-20462,2025-03-18,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,20.72,21,No
+LOG-20463,2025-03-18,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,8,20.76,841,Sí
+LOG-20464,2025-03-18,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,25.14,196,No
+LOG-20465,2025-03-18,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,4,29.67,354,Sí
+LOG-20466,2025-03-19,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,15.49,1133,No
+LOG-20467,2025-03-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,29.12,441,No
+LOG-20468,2025-03-19,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,12.0,291,No
+LOG-20469,2025-03-19,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,28.89,232,No
+LOG-20470,2025-03-19,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,8.86,339,No
+LOG-20471,2025-03-19,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,31.68,476,No
+LOG-20472,2025-03-20,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,33.83,554,No
+LOG-20473,2025-03-20,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,29.16,1098,No
+LOG-20474,2025-03-20,Urban Transport,Hub Córdoba,Entregado con Demora,5,9,27.62,1126,Sí
+LOG-20475,2025-03-20,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,17.39,513,No
+LOG-20476,2025-03-20,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,21.07,978,No
+LOG-20477,2025-03-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,8.73,62,No
+LOG-20478,2025-03-21,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,9,11.38,1010,No
+LOG-20479,2025-03-21,Urban Transport,Hub Rosario,Entregado a Tiempo,2,1,31.1,320,No
+LOG-20480,2025-03-21,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,23.78,37,No
+LOG-20481,2025-03-21,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,5,8,28.82,659,No
+LOG-20482,2025-03-21,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,13.3,798,No
+LOG-20483,2025-03-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,23.05,260,No
+LOG-20484,2025-03-22,Logística Express,Hub Tucumán,Entregado con Demora,5,8,21.06,124,Sí
+LOG-20485,2025-03-22,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,10.74,957,No
+LOG-20486,2025-03-22,Correo Nacional,Hub Rosario,Entregado con Demora,5,8,27.09,464,No
+LOG-20487,2025-03-22,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,8.95,338,No
+LOG-20488,2025-03-22,Flex Delivery,Centro Distribución Buenos Aires,Cancelado / Devolución,5,9,24.57,19,No
+LOG-20489,2025-03-22,Flex Delivery,Hub Rosario,En Tránsito,7,9,22.93,62,No
+LOG-20490,2025-03-23,Urban Transport,Hub Tucumán,Entregado a Tiempo,7,7,21.4,867,No
+LOG-20491,2025-03-23,Urban Transport,Hub Rosario,Entregado a Tiempo,7,6,9.88,730,No
+LOG-20492,2025-03-23,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,10.85,877,No
+LOG-20493,2025-03-23,Correo Nacional,Hub Rosario,Entregado con Demora,2,5,20.68,161,Sí
+LOG-20494,2025-03-23,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,14.4,1123,No
+LOG-20495,2025-03-23,Flex Delivery,Hub Córdoba,Cancelado / Devolución,7,13,17.3,299,No
+LOG-20496,2025-03-24,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,24.52,946,No
+LOG-20497,2025-03-24,Logística Express,Hub Rosario,En Tránsito,7,12,34.76,951,No
+LOG-20498,2025-03-24,Urban Transport,Hub Rosario,Entregado con Demora,7,10,14.45,334,Sí
+LOG-20499,2025-03-24,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,31.59,1060,No
+LOG-20500,2025-03-24,Urban Transport,Hub Rosario,Entregado a Tiempo,5,5,34.63,750,No
+LOG-20501,2025-03-24,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,29.87,388,No
+LOG-20502,2025-03-25,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,17.44,821,No
+LOG-20503,2025-03-25,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,28.46,1035,No
+LOG-20504,2025-03-25,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,31.27,708,No
+LOG-20505,2025-03-25,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,22.23,424,No
+LOG-20506,2025-03-25,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,18.58,1190,No
+LOG-20507,2025-03-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,18.97,206,No
+LOG-20508,2025-03-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,14.8,100,No
+LOG-20509,2025-03-26,Correo Nacional,Hub Córdoba,Entregado con Demora,3,4,30.6,558,No
+LOG-20510,2025-03-26,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,12.24,608,No
+LOG-20511,2025-03-26,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,6,17.33,452,No
+LOG-20512,2025-03-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,10.8,221,No
+LOG-20513,2025-03-26,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,25.96,967,No
+LOG-20514,2025-03-27,Logística Express,Hub Córdoba,En Tránsito,7,11,33.77,536,No
+LOG-20515,2025-03-27,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,22.81,184,No
+LOG-20516,2025-03-27,Urban Transport,Hub Tucumán,Entregado con Demora,2,7,15.44,921,No
+LOG-20517,2025-03-27,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,34.36,100,No
+LOG-20518,2025-03-27,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,25.73,194,No
+LOG-20519,2025-03-27,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,15.24,920,No
+LOG-20520,2025-03-28,Logística Express,Hub Córdoba,Entregado con Demora,2,5,28.01,408,Sí
+LOG-20521,2025-03-28,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,21.89,442,No
+LOG-20522,2025-03-28,Logística Express,Hub Tucumán,Entregado con Demora,5,7,27.08,788,No
+LOG-20523,2025-03-28,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,34.82,1176,No
+LOG-20524,2025-03-28,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,27.61,233,No
+LOG-20525,2025-03-28,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,18.69,472,No
+LOG-20526,2025-03-29,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,27.31,296,No
+LOG-20527,2025-03-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,34.13,856,No
+LOG-20528,2025-03-29,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,15.23,126,No
+LOG-20529,2025-03-29,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,2,16.94,1171,No
+LOG-20530,2025-03-29,Logística Express,Hub Rosario,Entregado con Demora,7,12,13.85,695,No
+LOG-20531,2025-03-29,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,10.11,578,No
+LOG-20532,2025-03-30,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,12.98,269,No
+LOG-20533,2025-03-30,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,2,31.42,404,No
+LOG-20534,2025-03-30,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,32.21,1101,No
+LOG-20535,2025-03-30,Flex Delivery,Hub Mendoza,Entregado con Demora,2,3,23.57,518,Sí
+LOG-20536,2025-03-30,Logística Express,Hub Rosario,Entregado con Demora,2,5,17.87,149,Sí
+LOG-20537,2025-03-30,Correo Nacional,Hub Tucumán,En Tránsito,7,12,24.19,793,No
+LOG-20538,2025-03-31,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,9.46,1141,No
+LOG-20539,2025-03-31,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,12.34,560,No
+LOG-20540,2025-03-31,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,23.69,236,No
+LOG-20541,2025-03-31,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,22.41,231,No
+LOG-20542,2025-03-31,Urban Transport,Centro Distribución Buenos Aires,En Tránsito,5,7,10.24,91,No
+LOG-20543,2025-03-31,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,9.16,60,No
+LOG-20544,2025-04-01,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,24.02,224,No
+LOG-20545,2025-04-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,17.63,1120,No
+LOG-20546,2025-04-01,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,8.9,1068,No
+LOG-20547,2025-04-01,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,29.43,1015,No
+LOG-20548,2025-04-01,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,33.9,1154,No
+LOG-20549,2025-04-01,Correo Nacional,Hub Córdoba,Entregado con Demora,7,8,22.07,583,Sí
+LOG-20550,2025-04-02,Urban Transport,Hub Mendoza,Entregado con Demora,7,12,9.01,535,Sí
+LOG-20551,2025-04-02,Flex Delivery,Hub Rosario,Entregado con Demora,3,4,29.18,995,Sí
+LOG-20552,2025-04-02,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,30.85,906,No
+LOG-20553,2025-04-02,Logística Express,Hub Mendoza,Entregado con Demora,2,3,23.56,328,Sí
+LOG-20554,2025-04-02,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,7,9,18.34,567,Sí
+LOG-20555,2025-04-02,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,34.51,903,No
+LOG-20556,2025-04-03,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,28.45,590,No
+LOG-20557,2025-04-03,Logística Express,Hub Córdoba,Entregado con Demora,2,4,16.72,593,Sí
+LOG-20558,2025-04-03,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,23.8,450,No
+LOG-20559,2025-04-03,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,27.91,511,No
+LOG-20560,2025-04-03,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,31.82,192,No
+LOG-20561,2025-04-03,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,24.5,1005,No
+LOG-20562,2025-04-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,18.1,302,No
+LOG-20563,2025-04-04,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,14.18,267,No
+LOG-20564,2025-04-04,Logística Express,Hub Tucumán,Cancelado / Devolución,5,11,8.57,390,Sí
+LOG-20565,2025-04-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.51,951,No
+LOG-20566,2025-04-04,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,22.84,1191,No
+LOG-20567,2025-04-04,Logística Express,Hub Tucumán,Entregado con Demora,7,10,13.36,1065,No
+LOG-20568,2025-04-05,Urban Transport,Hub Rosario,Cancelado / Devolución,7,11,24.21,508,Sí
+LOG-20569,2025-04-05,Logística Express,Hub Tucumán,Entregado con Demora,3,5,13.27,1048,Sí
+LOG-20570,2025-04-05,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,12.09,389,No
+LOG-20571,2025-04-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,34.45,1122,No
+LOG-20572,2025-04-05,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,28.26,282,No
+LOG-20573,2025-04-05,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,25.15,121,No
+LOG-20574,2025-04-06,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,8.97,901,No
+LOG-20575,2025-04-06,Urban Transport,Hub Tucumán,Cancelado / Devolución,5,11,14.44,484,Sí
+LOG-20576,2025-04-06,Logística Express,Hub Mendoza,Entregado con Demora,3,5,23.91,1162,No
+LOG-20577,2025-04-06,Flex Delivery,Hub Tucumán,Entregado con Demora,2,5,21.39,418,Sí
+LOG-20578,2025-04-06,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,2,20.46,459,No
+LOG-20579,2025-04-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,14.7,992,No
+LOG-20580,2025-04-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,9.72,42,No
+LOG-20581,2025-04-07,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,30.2,210,No
+LOG-20582,2025-04-07,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,22.14,1043,No
+LOG-20583,2025-04-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,19.4,1079,No
+LOG-20584,2025-04-07,Urban Transport,Hub Rosario,Entregado a Tiempo,2,1,32.39,633,No
+LOG-20585,2025-04-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,32.59,526,No
+LOG-20586,2025-04-08,Logística Express,Hub Mendoza,Cancelado / Devolución,2,5,21.48,638,Sí
+LOG-20587,2025-04-08,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,23.61,1164,No
+LOG-20588,2025-04-08,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,21.93,1056,No
+LOG-20589,2025-04-08,Correo Nacional,Hub Córdoba,En Tránsito,7,11,13.37,197,No
+LOG-20590,2025-04-08,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,4,14.07,1112,No
+LOG-20591,2025-04-08,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,31.34,414,No
+LOG-20592,2025-04-08,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,27.58,310,No
+LOG-20593,2025-04-09,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,26.64,691,No
+LOG-20594,2025-04-09,Logística Express,Hub Rosario,Entregado con Demora,7,11,19.94,1106,Sí
+LOG-20595,2025-04-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,32.1,1037,No
+LOG-20596,2025-04-09,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,25.72,629,No
+LOG-20597,2025-04-09,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,15.58,388,No
+LOG-20598,2025-04-09,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,2,14.21,379,No
+LOG-20599,2025-04-10,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,2,20.06,466,No
+LOG-20600,2025-04-10,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,22.63,651,No
+LOG-20601,2025-04-10,Logística Express,Hub Rosario,Entregado con Demora,2,7,17.23,852,Sí
+LOG-20602,2025-04-10,Urban Transport,Hub Mendoza,Entregado con Demora,3,4,26.9,1189,Sí
+LOG-20603,2025-04-10,Correo Nacional,Hub Rosario,Entregado con Demora,3,7,21.92,70,Sí
+LOG-20604,2025-04-10,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,21.36,1002,No
+LOG-20605,2025-04-11,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,19.36,1144,No
+LOG-20606,2025-04-11,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,27.61,666,No
+LOG-20607,2025-04-11,Flex Delivery,Hub Tucumán,En Tránsito,7,10,34.98,660,No
+LOG-20608,2025-04-11,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,17.3,451,No
+LOG-20609,2025-04-11,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,26.94,85,No
+LOG-20610,2025-04-11,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,8.74,62,No
+LOG-20611,2025-04-12,Correo Nacional,Hub Córdoba,Entregado con Demora,7,12,18.61,18,No
+LOG-20612,2025-04-12,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,24.36,454,No
+LOG-20613,2025-04-12,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,6,34.88,1053,No
+LOG-20614,2025-04-12,Logística Express,Hub Rosario,En Tránsito,7,9,30.95,408,No
+LOG-20615,2025-04-12,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,19.88,1141,No
+LOG-20616,2025-04-12,Flex Delivery,Centro Distribución Buenos Aires,En Tránsito,3,10,15.93,870,No
+LOG-20617,2025-04-13,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,22.74,449,No
+LOG-20618,2025-04-13,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,26.17,974,No
+LOG-20619,2025-04-13,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,6,9.79,151,No
+LOG-20620,2025-04-13,Correo Nacional,Hub Rosario,Entregado con Demora,2,6,33.81,1195,Sí
+LOG-20621,2025-04-13,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,34.4,150,No
+LOG-20622,2025-04-13,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,32.96,480,No
+LOG-20623,2025-04-14,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,27.72,176,No
+LOG-20624,2025-04-14,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,34.96,616,No
+LOG-20625,2025-04-14,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,23.08,921,No
+LOG-20626,2025-04-14,Logística Express,Hub Tucumán,Entregado con Demora,5,6,12.88,1181,No
+LOG-20627,2025-04-14,Correo Nacional,Hub Tucumán,Entregado con Demora,2,4,30.92,554,Sí
+LOG-20628,2025-04-14,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,13.47,235,No
+LOG-20629,2025-04-15,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,5,29.81,675,No
+LOG-20630,2025-04-15,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,18.43,708,No
+LOG-20631,2025-04-15,Urban Transport,Hub Mendoza,Entregado con Demora,7,9,17.18,616,No
+LOG-20632,2025-04-15,Correo Nacional,Hub Córdoba,Entregado con Demora,7,11,20.22,956,Sí
+LOG-20633,2025-04-15,Logística Express,Centro Distribución Buenos Aires,Cancelado / Devolución,5,8,13.95,290,No
+LOG-20634,2025-04-15,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,24.3,308,No
+LOG-20635,2025-04-16,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,21.61,639,No
+LOG-20636,2025-04-16,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,22.49,517,No
+LOG-20637,2025-04-16,Flex Delivery,Hub Rosario,Entregado con Demora,3,8,26.78,922,Sí
+LOG-20638,2025-04-16,Urban Transport,Hub Mendoza,Entregado con Demora,7,11,18.23,612,Sí
+LOG-20639,2025-04-16,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,10.25,1159,No
+LOG-20640,2025-04-16,Correo Nacional,Hub Tucumán,En Tránsito,2,5,33.25,469,No
+LOG-20641,2025-04-17,Correo Nacional,Hub Mendoza,En Tránsito,5,10,20.63,895,No
+LOG-20642,2025-04-17,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,27.36,1101,No
+LOG-20643,2025-04-17,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,15.72,650,No
+LOG-20644,2025-04-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,22.0,1102,No
+LOG-20645,2025-04-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,14.17,1026,No
+LOG-20646,2025-04-17,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,9.63,237,No
+LOG-20647,2025-04-18,Correo Nacional,Hub Tucumán,Entregado con Demora,2,5,19.72,1147,Sí
+LOG-20648,2025-04-18,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,24.11,199,No
+LOG-20649,2025-04-18,Flex Delivery,Hub Mendoza,Entregado con Demora,7,11,33.48,49,Sí
+LOG-20650,2025-04-18,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,2,26.09,720,No
+LOG-20651,2025-04-18,Correo Nacional,Hub Tucumán,Cancelado / Devolución,5,7,30.8,1064,No
+LOG-20652,2025-04-18,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,14.63,848,No
+LOG-20653,2025-04-19,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,23.36,922,No
+LOG-20654,2025-04-19,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,30.59,480,No
+LOG-20655,2025-04-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,24.33,169,No
+LOG-20656,2025-04-19,Correo Nacional,Hub Córdoba,Entregado con Demora,5,9,23.29,414,No
+LOG-20657,2025-04-19,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,17.04,1135,No
+LOG-20658,2025-04-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,15.72,1134,No
+LOG-20659,2025-04-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,17.1,792,No
+LOG-20660,2025-04-20,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,26.35,80,No
+LOG-20661,2025-04-20,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,25.62,192,No
+LOG-20662,2025-04-20,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,13.95,33,No
+LOG-20663,2025-04-20,Flex Delivery,Hub Tucumán,En Tránsito,3,9,16.98,1027,No
+LOG-20664,2025-04-20,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,23.92,475,No
+LOG-20665,2025-04-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,20.98,181,No
+LOG-20666,2025-04-21,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,8.52,1188,No
+LOG-20667,2025-04-21,Logística Express,Hub Rosario,En Tránsito,3,6,23.56,990,No
+LOG-20668,2025-04-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,26.06,633,No
+LOG-20669,2025-04-21,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,29.7,563,No
+LOG-20670,2025-04-21,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,32.91,221,No
+LOG-20671,2025-04-22,Logística Express,Hub Tucumán,En Tránsito,7,12,29.94,1047,No
+LOG-20672,2025-04-22,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,28.7,171,No
+LOG-20673,2025-04-22,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,14.91,863,No
+LOG-20674,2025-04-22,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,30.61,782,No
+LOG-20675,2025-04-22,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,18.26,1165,No
+LOG-20676,2025-04-22,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,5,29.56,336,No
+LOG-20677,2025-04-23,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,9.34,57,No
+LOG-20678,2025-04-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,9.23,682,No
+LOG-20679,2025-04-23,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,27.42,920,No
+LOG-20680,2025-04-23,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,6,12.63,580,No
+LOG-20681,2025-04-23,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,15.09,974,No
+LOG-20682,2025-04-23,Logística Express,Hub Tucumán,Entregado con Demora,5,10,31.61,30,No
+LOG-20683,2025-04-24,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,21.64,785,No
+LOG-20684,2025-04-24,Correo Nacional,Hub Tucumán,Entregado con Demora,7,11,24.35,1053,No
+LOG-20685,2025-04-24,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,15.55,936,No
+LOG-20686,2025-04-24,Flex Delivery,Hub Rosario,Entregado con Demora,7,10,25.38,618,No
+LOG-20687,2025-04-24,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,33.79,70,No
+LOG-20688,2025-04-24,Logística Express,Hub Rosario,Entregado con Demora,3,6,15.86,1024,Sí
+LOG-20689,2025-04-25,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,19.44,522,No
+LOG-20690,2025-04-25,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,34.26,374,No
+LOG-20691,2025-04-25,Correo Nacional,Hub Córdoba,Entregado con Demora,3,5,20.71,593,Sí
+LOG-20692,2025-04-25,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,9.46,253,No
+LOG-20693,2025-04-25,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,29.87,299,No
+LOG-20694,2025-04-25,Correo Nacional,Hub Mendoza,En Tránsito,5,8,33.86,42,No
+LOG-20695,2025-04-26,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,32.23,907,No
+LOG-20696,2025-04-26,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,28.07,41,No
+LOG-20697,2025-04-26,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,12.8,75,No
+LOG-20698,2025-04-26,Logística Express,Hub Córdoba,Cancelado / Devolución,7,11,20.37,290,Sí
+LOG-20699,2025-04-26,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,13.97,1074,No
+LOG-20700,2025-04-26,Logística Express,Centro Distribución Buenos Aires,Cancelado / Devolución,5,9,15.4,833,Sí
+LOG-20701,2025-04-27,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,10.71,720,No
+LOG-20702,2025-04-27,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,31.6,413,No
+LOG-20703,2025-04-27,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,16.37,837,No
+LOG-20704,2025-04-27,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,22.28,1023,No
+LOG-20705,2025-04-27,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,9.3,883,No
+LOG-20706,2025-04-27,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,9,21.68,206,Sí
+LOG-20707,2025-04-28,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,10,25.78,616,No
+LOG-20708,2025-04-28,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,13.48,1159,No
+LOG-20709,2025-04-28,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,23.1,515,No
+LOG-20710,2025-04-28,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,23.73,277,No
+LOG-20711,2025-04-28,Correo Nacional,Hub Rosario,En Tránsito,5,9,33.84,1160,No
+LOG-20712,2025-04-28,Flex Delivery,Centro Distribución Buenos Aires,En Tránsito,2,5,13.92,869,No
+LOG-20713,2025-04-29,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,34.98,80,No
+LOG-20714,2025-04-29,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,24.88,1155,No
+LOG-20715,2025-04-29,Logística Express,Hub Rosario,Cancelado / Devolución,3,10,16.62,811,Sí
+LOG-20716,2025-04-29,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,18.77,996,No
+LOG-20717,2025-04-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,17.78,287,No
+LOG-20718,2025-04-29,Correo Nacional,Hub Mendoza,Entregado con Demora,3,6,23.44,425,No
+LOG-20719,2025-04-30,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,25.65,479,No
+LOG-20720,2025-04-30,Logística Express,Hub Rosario,Cancelado / Devolución,5,12,28.39,229,Sí
+LOG-20721,2025-04-30,Flex Delivery,Hub Mendoza,Entregado con Demora,7,10,21.34,579,Sí
+LOG-20722,2025-04-30,Flex Delivery,Hub Córdoba,Entregado con Demora,2,5,20.03,1168,No
+LOG-20723,2025-04-30,Urban Transport,Hub Mendoza,En Tránsito,7,13,21.64,486,No
+LOG-20724,2025-04-30,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,13.53,780,No
+LOG-20725,2025-05-01,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,16.75,653,No
+LOG-20726,2025-05-01,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,32.29,432,No
+LOG-20727,2025-05-01,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,11.12,1180,No
+LOG-20728,2025-05-01,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,25.42,154,No
+LOG-20729,2025-05-01,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,20.59,951,No
+LOG-20730,2025-05-01,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,34.07,1095,No
+LOG-20731,2025-05-02,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,28.83,745,No
+LOG-20732,2025-05-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,17.82,375,No
+LOG-20733,2025-05-02,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,32.2,445,No
+LOG-20734,2025-05-02,Urban Transport,Hub Tucumán,Entregado con Demora,3,7,20.23,730,Sí
+LOG-20735,2025-05-02,Logística Express,Hub Córdoba,Entregado con Demora,3,6,29.52,562,Sí
+LOG-20736,2025-05-02,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,19.34,895,No
+LOG-20737,2025-05-02,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,22.83,932,No
+LOG-20738,2025-05-03,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,16.64,836,No
+LOG-20739,2025-05-03,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.78,470,No
+LOG-20740,2025-05-03,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,16.35,886,No
+LOG-20741,2025-05-03,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,10.78,283,No
+LOG-20742,2025-05-03,Flex Delivery,Hub Rosario,Entregado con Demora,7,9,26.63,178,Sí
+LOG-20743,2025-05-03,Flex Delivery,Hub Córdoba,Cancelado / Devolución,5,7,12.42,321,Sí
+LOG-20744,2025-05-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,27.44,378,No
+LOG-20745,2025-05-04,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,8,30.67,150,Sí
+LOG-20746,2025-05-04,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,19.09,77,No
+LOG-20747,2025-05-04,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,23.07,763,No
+LOG-20748,2025-05-04,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,31.56,804,No
+LOG-20749,2025-05-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,30.1,1177,No
+LOG-20750,2025-05-05,Logística Express,Hub Rosario,Entregado con Demora,5,8,30.58,610,No
+LOG-20751,2025-05-05,Correo Nacional,Hub Córdoba,Entregado con Demora,5,10,27.09,438,No
+LOG-20752,2025-05-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,29.05,489,No
+LOG-20753,2025-05-05,Correo Nacional,Hub Mendoza,Cancelado / Devolución,5,11,33.08,657,No
+LOG-20754,2025-05-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,18.24,839,No
+LOG-20755,2025-05-05,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,25.16,321,No
+LOG-20756,2025-05-06,Logística Express,Centro Distribución Buenos Aires,En Tránsito,5,9,33.92,500,No
+LOG-20757,2025-05-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,22.5,135,No
+LOG-20758,2025-05-06,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,14.77,911,No
+LOG-20759,2025-05-06,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,27.05,1111,No
+LOG-20760,2025-05-06,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,14.3,901,No
+LOG-20761,2025-05-06,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,11.36,431,No
+LOG-20762,2025-05-07,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,17.36,512,No
+LOG-20763,2025-05-07,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,34.16,722,No
+LOG-20764,2025-05-07,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,21.18,384,No
+LOG-20765,2025-05-07,Urban Transport,Hub Tucumán,Entregado a Tiempo,7,6,11.63,1101,No
+LOG-20766,2025-05-07,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,24.49,1011,No
+LOG-20767,2025-05-07,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,14.3,727,No
+LOG-20768,2025-05-08,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,27.69,773,No
+LOG-20769,2025-05-08,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,10.04,581,No
+LOG-20770,2025-05-08,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,18.35,309,No
+LOG-20771,2025-05-08,Logística Express,Centro Distribución Buenos Aires,En Tránsito,7,9,33.85,600,No
+LOG-20772,2025-05-08,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,15.19,1095,No
+LOG-20773,2025-05-08,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,15.53,541,No
+LOG-20774,2025-05-09,Urban Transport,Hub Rosario,Cancelado / Devolución,3,8,32.45,1078,No
+LOG-20775,2025-05-09,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,32.97,799,No
+LOG-20776,2025-05-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,24.77,649,No
+LOG-20777,2025-05-09,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,26.64,813,No
+LOG-20778,2025-05-09,Correo Nacional,Hub Córdoba,Cancelado / Devolución,3,8,28.96,493,No
+LOG-20779,2025-05-09,Logística Express,Hub Tucumán,Cancelado / Devolución,7,9,23.15,552,Sí
+LOG-20780,2025-05-10,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,11.35,1041,No
+LOG-20781,2025-05-10,Correo Nacional,Hub Córdoba,Entregado con Demora,5,7,10.31,231,No
+LOG-20782,2025-05-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,20.88,163,No
+LOG-20783,2025-05-10,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,13.94,759,No
+LOG-20784,2025-05-10,Logística Express,Hub Mendoza,Entregado con Demora,2,7,13.94,509,Sí
+LOG-20785,2025-05-10,Urban Transport,Hub Tucumán,Entregado con Demora,3,7,18.71,693,No
+LOG-20786,2025-05-11,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,19.55,410,No
+LOG-20787,2025-05-11,Logística Express,Hub Tucumán,Entregado con Demora,5,8,17.77,233,Sí
+LOG-20788,2025-05-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,25.06,1155,No
+LOG-20789,2025-05-11,Flex Delivery,Hub Córdoba,Entregado con Demora,2,7,22.8,813,Sí
+LOG-20790,2025-05-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,29.32,465,No
+LOG-20791,2025-05-11,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,22.79,1111,No
+LOG-20792,2025-05-12,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,2,27.29,434,No
+LOG-20793,2025-05-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,27.27,393,No
+LOG-20794,2025-05-12,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,13.44,744,No
+LOG-20795,2025-05-12,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,23.9,992,No
+LOG-20796,2025-05-12,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,25.08,191,No
+LOG-20797,2025-05-12,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,10.07,109,No
+LOG-20798,2025-05-13,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,30.42,684,No
+LOG-20799,2025-05-13,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,14.22,1131,No
+LOG-20800,2025-05-13,Flex Delivery,Hub Tucumán,Entregado con Demora,7,8,27.34,930,Sí
+LOG-20801,2025-05-13,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,19.86,882,No
+LOG-20802,2025-05-13,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,19.16,905,No
+LOG-20803,2025-05-13,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,27.26,580,No
+LOG-20804,2025-05-14,Logística Express,Hub Mendoza,Cancelado / Devolución,5,7,34.36,1167,No
+LOG-20805,2025-05-14,Urban Transport,Hub Córdoba,Entregado con Demora,2,4,16.27,710,Sí
+LOG-20806,2025-05-14,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,12.25,501,No
+LOG-20807,2025-05-14,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,25.03,743,No
+LOG-20808,2025-05-14,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,13.09,1157,No
+LOG-20809,2025-05-14,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,19.64,664,No
+LOG-20810,2025-05-15,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,12.08,348,No
+LOG-20811,2025-05-15,Urban Transport,Hub Tucumán,Entregado con Demora,2,3,9.89,377,Sí
+LOG-20812,2025-05-15,Logística Express,Hub Mendoza,En Tránsito,5,8,20.82,330,No
+LOG-20813,2025-05-15,Correo Nacional,Hub Córdoba,Cancelado / Devolución,2,8,8.72,337,Sí
+LOG-20814,2025-05-15,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,11.75,220,No
+LOG-20815,2025-05-15,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,2,20.81,165,No
+LOG-20816,2025-05-16,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,27.84,1003,No
+LOG-20817,2025-05-16,Logística Express,Hub Tucumán,Entregado con Demora,7,11,31.84,1098,Sí
+LOG-20818,2025-05-16,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,15.96,526,No
+LOG-20819,2025-05-16,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,23.66,783,No
+LOG-20820,2025-05-16,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,11.93,996,No
+LOG-20821,2025-05-16,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,34.06,568,No
+LOG-20822,2025-05-17,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,7,17.87,1139,No
+LOG-20823,2025-05-17,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,9.27,358,No
+LOG-20824,2025-05-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,22.07,751,No
+LOG-20825,2025-05-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,23.92,532,No
+LOG-20826,2025-05-17,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,34.5,881,No
+LOG-20827,2025-05-17,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,25.19,295,No
+LOG-20828,2025-05-18,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,30.85,939,No
+LOG-20829,2025-05-18,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,18.58,916,No
+LOG-20830,2025-05-18,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,26.4,604,No
+LOG-20831,2025-05-18,Logística Express,Hub Rosario,Cancelado / Devolución,5,10,16.59,1191,Sí
+LOG-20832,2025-05-18,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,30.25,599,No
+LOG-20833,2025-05-18,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,10.1,1127,No
+LOG-20834,2025-05-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,13.13,826,No
+LOG-20835,2025-05-19,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,27.81,1052,No
+LOG-20836,2025-05-19,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,26.31,953,No
+LOG-20837,2025-05-19,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,31.72,888,No
+LOG-20838,2025-05-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,23.89,774,No
+LOG-20839,2025-05-19,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,29.49,181,No
+LOG-20840,2025-05-20,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,8,25.78,179,No
+LOG-20841,2025-05-20,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,12.29,929,No
+LOG-20842,2025-05-20,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,14.12,899,No
+LOG-20843,2025-05-20,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,29.88,781,No
+LOG-20844,2025-05-20,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.76,420,No
+LOG-20845,2025-05-20,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,28.56,196,No
+LOG-20846,2025-05-21,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,23.03,1156,No
+LOG-20847,2025-05-21,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,15.19,1164,No
+LOG-20848,2025-05-21,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,32.96,397,No
+LOG-20849,2025-05-21,Urban Transport,Hub Rosario,Entregado con Demora,5,8,17.89,681,No
+LOG-20850,2025-05-21,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,16.98,216,No
+LOG-20851,2025-05-21,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,21.33,717,No
+LOG-20852,2025-05-22,Logística Express,Hub Mendoza,Entregado con Demora,5,9,29.53,212,Sí
+LOG-20853,2025-05-22,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,20.09,674,No
+LOG-20854,2025-05-22,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,22.81,101,No
+LOG-20855,2025-05-22,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,12.53,233,No
+LOG-20856,2025-05-22,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,18.07,354,No
+LOG-20857,2025-05-22,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,8.93,571,No
+LOG-20858,2025-05-23,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,18.12,293,No
+LOG-20859,2025-05-23,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,24.74,1099,No
+LOG-20860,2025-05-23,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,27.74,75,No
+LOG-20861,2025-05-23,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,11.02,622,No
+LOG-20862,2025-05-23,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,18.11,956,No
+LOG-20863,2025-05-23,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,24.07,71,No
+LOG-20864,2025-05-24,Logística Express,Hub Tucumán,Entregado con Demora,5,8,26.41,834,Sí
+LOG-20865,2025-05-24,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,26.88,326,No
+LOG-20866,2025-05-24,Flex Delivery,Hub Mendoza,Entregado con Demora,3,6,31.98,600,Sí
+LOG-20867,2025-05-24,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,16.06,437,No
+LOG-20868,2025-05-24,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,34.92,171,No
+LOG-20869,2025-05-24,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,33.1,876,No
+LOG-20870,2025-05-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,32.75,604,No
+LOG-20871,2025-05-25,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,25.87,428,No
+LOG-20872,2025-05-25,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,16.58,218,No
+LOG-20873,2025-05-25,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,31.14,563,No
+LOG-20874,2025-05-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,12.06,395,No
+LOG-20875,2025-05-25,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,5,6,30.02,381,Sí
+LOG-20876,2025-05-26,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,21.92,885,No
+LOG-20877,2025-05-26,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,12.32,1170,No
+LOG-20878,2025-05-26,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,24.29,677,No
+LOG-20879,2025-05-26,Logística Express,Hub Mendoza,En Tránsito,3,9,17.01,216,No
+LOG-20880,2025-05-26,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,23.0,1141,No
+LOG-20881,2025-05-26,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,11.49,353,No
+LOG-20882,2025-05-26,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,31.77,662,No
+LOG-20883,2025-05-27,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,8.87,1005,No
+LOG-20884,2025-05-27,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,18.76,902,No
+LOG-20885,2025-05-27,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,13.18,873,No
+LOG-20886,2025-05-27,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,29.19,514,No
+LOG-20887,2025-05-27,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,29.4,181,No
+LOG-20888,2025-05-27,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,8.96,389,No
+LOG-20889,2025-05-28,Correo Nacional,Hub Tucumán,Entregado con Demora,5,7,23.19,862,Sí
+LOG-20890,2025-05-28,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,17.01,230,No
+LOG-20891,2025-05-28,Logística Express,Hub Córdoba,Entregado con Demora,5,10,13.88,274,Sí
+LOG-20892,2025-05-28,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,19.74,444,No
+LOG-20893,2025-05-28,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,13.71,1194,No
+LOG-20894,2025-05-28,Correo Nacional,Hub Rosario,Entregado con Demora,7,11,26.46,359,Sí
+LOG-20895,2025-05-29,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,29.17,149,No
+LOG-20896,2025-05-29,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,32.53,569,No
+LOG-20897,2025-05-29,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,32.98,1111,No
+LOG-20898,2025-05-29,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,28.07,321,No
+LOG-20899,2025-05-29,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,26.93,461,No
+LOG-20900,2025-05-29,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,29.03,384,No
+LOG-20901,2025-05-30,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,9.17,557,No
+LOG-20902,2025-05-30,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,24.3,487,No
+LOG-20903,2025-05-30,Logística Express,Hub Tucumán,Entregado con Demora,7,9,11.59,50,Sí
+LOG-20904,2025-05-30,Flex Delivery,Hub Mendoza,Entregado con Demora,5,9,34.72,275,Sí
+LOG-20905,2025-05-30,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,31.43,440,No
+LOG-20906,2025-05-30,Flex Delivery,Hub Mendoza,Entregado con Demora,3,4,14.19,893,Sí
+LOG-20907,2025-05-31,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,7,12,16.7,1176,Sí
+LOG-20908,2025-05-31,Logística Express,Hub Rosario,Entregado con Demora,5,6,16.02,1177,Sí
+LOG-20909,2025-05-31,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,23.53,801,No
+LOG-20910,2025-05-31,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,34.32,1162,No
+LOG-20911,2025-05-31,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,30.41,770,No
+LOG-20912,2025-05-31,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,14.71,700,No
+LOG-20913,2025-06-01,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,14.57,501,No
+LOG-20914,2025-06-01,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,30.93,182,No
+LOG-20915,2025-06-01,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,31.95,650,No
+LOG-20916,2025-06-01,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,18.19,444,No
+LOG-20917,2025-06-01,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,24.27,839,No
+LOG-20918,2025-06-01,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,16.07,42,No
+LOG-20919,2025-06-02,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,22.4,813,No
+LOG-20920,2025-06-02,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,21.3,630,No
+LOG-20921,2025-06-02,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,21.74,1062,No
+LOG-20922,2025-06-02,Logística Express,Hub Tucumán,En Tránsito,7,12,34.48,83,No
+LOG-20923,2025-06-02,Urban Transport,Hub Rosario,Entregado con Demora,2,5,33.36,674,Sí
+LOG-20924,2025-06-02,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,15.86,801,No
+LOG-20925,2025-06-03,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,3,6,11.31,839,No
+LOG-20926,2025-06-03,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,23.86,1042,No
+LOG-20927,2025-06-03,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,32.98,1071,No
+LOG-20928,2025-06-03,Urban Transport,Hub Tucumán,Cancelado / Devolución,7,11,21.61,30,No
+LOG-20929,2025-06-03,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,22.48,346,No
+LOG-20930,2025-06-03,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,34.91,301,No
+LOG-20931,2025-06-04,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,8.76,139,No
+LOG-20932,2025-06-04,Flex Delivery,Hub Rosario,Entregado con Demora,3,6,13.45,973,Sí
+LOG-20933,2025-06-04,Correo Nacional,Hub Córdoba,Entregado con Demora,5,7,24.37,605,No
+LOG-20934,2025-06-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,16.77,1114,No
+LOG-20935,2025-06-04,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,20.52,154,No
+LOG-20936,2025-06-04,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,24.17,1003,No
+LOG-20937,2025-06-05,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,26.92,868,No
+LOG-20938,2025-06-05,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,29.5,981,No
+LOG-20939,2025-06-05,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,12.85,463,No
+LOG-20940,2025-06-05,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,7,9,32.22,389,No
+LOG-20941,2025-06-05,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,13.32,447,No
+LOG-20942,2025-06-05,Correo Nacional,Hub Mendoza,Entregado con Demora,7,10,15.74,306,Sí
+LOG-20943,2025-06-06,Correo Nacional,Hub Córdoba,Entregado con Demora,7,10,13.73,147,Sí
+LOG-20944,2025-06-06,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,13.09,1004,No
+LOG-20945,2025-06-06,Correo Nacional,Hub Tucumán,Entregado con Demora,3,5,20.81,767,No
+LOG-20946,2025-06-06,Correo Nacional,Hub Córdoba,Cancelado / Devolución,2,8,10.52,15,Sí
+LOG-20947,2025-06-06,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,31.04,414,No
+LOG-20948,2025-06-06,Flex Delivery,Hub Rosario,Entregado con Demora,3,8,18.12,78,No
+LOG-20949,2025-06-07,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,22.38,381,No
+LOG-20950,2025-06-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,12.0,839,No
+LOG-20951,2025-06-07,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,15.77,883,No
+LOG-20952,2025-06-07,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,34.6,593,No
+LOG-20953,2025-06-07,Correo Nacional,Hub Tucumán,Entregado con Demora,5,6,13.97,1160,No
+LOG-20954,2025-06-07,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,15.36,665,No
+LOG-20955,2025-06-08,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,16.61,1127,No
+LOG-20956,2025-06-08,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,7,11,10.35,135,No
+LOG-20957,2025-06-08,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,20.42,725,No
+LOG-20958,2025-06-08,Logística Express,Hub Tucumán,Entregado con Demora,3,7,33.78,99,Sí
+LOG-20959,2025-06-08,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,9.1,1018,No
+LOG-20960,2025-06-08,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,17.51,169,No
+LOG-20961,2025-06-09,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,20.61,837,No
+LOG-20962,2025-06-09,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,11.94,560,No
+LOG-20963,2025-06-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,32.36,84,No
+LOG-20964,2025-06-09,Flex Delivery,Centro Distribución Buenos Aires,Cancelado / Devolución,7,14,24.38,939,Sí
+LOG-20965,2025-06-09,Urban Transport,Hub Córdoba,Entregado con Demora,2,4,28.8,289,Sí
+LOG-20966,2025-06-09,Logística Express,Hub Mendoza,Entregado con Demora,5,7,17.27,1074,Sí
+LOG-20967,2025-06-10,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,24.46,252,No
+LOG-20968,2025-06-10,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,34.56,117,No
+LOG-20969,2025-06-10,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,25.87,724,No
+LOG-20970,2025-06-10,Urban Transport,Hub Rosario,Entregado a Tiempo,7,6,11.4,156,No
+LOG-20971,2025-06-10,Logística Express,Hub Mendoza,Entregado con Demora,7,8,20.74,145,Sí
+LOG-20972,2025-06-10,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,9.47,778,No
+LOG-20973,2025-06-11,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,14.89,530,No
+LOG-20974,2025-06-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,18.31,672,No
+LOG-20975,2025-06-11,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,3,17.9,659,No
+LOG-20976,2025-06-11,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,29.28,1068,No
+LOG-20977,2025-06-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,32.22,186,No
+LOG-20978,2025-06-11,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,21.86,715,No
+LOG-20979,2025-06-12,Flex Delivery,Hub Rosario,Entregado con Demora,2,4,30.76,942,Sí
+LOG-20980,2025-06-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,12.5,164,No
+LOG-20981,2025-06-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,5,14.26,1115,No
+LOG-20982,2025-06-12,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,24.56,976,No
+LOG-20983,2025-06-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,16.98,1187,No
+LOG-20984,2025-06-12,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,22.09,216,No
+LOG-20985,2025-06-13,Logística Express,Hub Córdoba,Entregado con Demora,3,5,28.36,110,No
+LOG-20986,2025-06-13,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,8.63,142,No
+LOG-20987,2025-06-13,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,10.32,1159,No
+LOG-20988,2025-06-13,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,24.76,223,No
+LOG-20989,2025-06-13,Flex Delivery,Hub Tucumán,Entregado con Demora,2,3,34.75,1108,No
+LOG-20990,2025-06-13,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,30.7,835,No
+LOG-20991,2025-06-14,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,19.89,216,No
+LOG-20992,2025-06-14,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,29.99,382,No
+LOG-20993,2025-06-14,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,14.41,171,No
+LOG-20994,2025-06-14,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,28.4,626,No
+LOG-20995,2025-06-14,Logística Express,Hub Rosario,Entregado con Demora,7,12,10.53,1040,No
+LOG-20996,2025-06-14,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,7,34.38,311,Sí
+LOG-20997,2025-06-15,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,22.76,890,No
+LOG-20998,2025-06-15,Logística Express,Hub Córdoba,Entregado con Demora,3,5,14.73,1172,No
+LOG-20999,2025-06-15,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,29.94,590,No
+LOG-21000,2025-06-15,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,30.27,649,No
+LOG-21001,2025-06-15,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,18.74,403,No
+LOG-21002,2025-06-15,Correo Nacional,Hub Mendoza,En Tránsito,3,10,12.41,279,No
+LOG-21003,2025-06-16,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,25.05,298,No
+LOG-21004,2025-06-16,Correo Nacional,Hub Córdoba,Entregado con Demora,5,9,31.1,1186,Sí
+LOG-21005,2025-06-16,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,14.95,141,No
+LOG-21006,2025-06-16,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,16.14,234,No
+LOG-21007,2025-06-16,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,11.59,880,No
+LOG-21008,2025-06-16,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,33.79,264,No
+LOG-21009,2025-06-17,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,14.76,1055,No
+LOG-21010,2025-06-17,Correo Nacional,Hub Córdoba,Entregado con Demora,3,4,33.3,1168,Sí
+LOG-21011,2025-06-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,26.92,1146,No
+LOG-21012,2025-06-17,Urban Transport,Hub Rosario,Entregado a Tiempo,3,2,10.61,375,No
+LOG-21013,2025-06-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,25.59,908,No
+LOG-21014,2025-06-17,Flex Delivery,Hub Córdoba,Cancelado / Devolución,7,10,23.53,1140,Sí
+LOG-21015,2025-06-18,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,18.59,711,No
+LOG-21016,2025-06-18,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,26.22,874,No
+LOG-21017,2025-06-18,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,19.86,648,No
+LOG-21018,2025-06-18,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,19.48,1082,No
+LOG-21019,2025-06-18,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,32.44,330,No
+LOG-21020,2025-06-18,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,25.8,1150,No
+LOG-21021,2025-06-19,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,21.88,1166,No
+LOG-21022,2025-06-19,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,29.91,82,No
+LOG-21023,2025-06-19,Correo Nacional,Hub Tucumán,Entregado con Demora,2,4,32.57,705,No
+LOG-21024,2025-06-19,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,27.86,884,No
+LOG-21025,2025-06-19,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,13.43,1065,No
+LOG-21026,2025-06-19,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,2,19.68,717,No
+LOG-21027,2025-06-19,Flex Delivery,Hub Rosario,En Tránsito,2,7,28.39,54,No
+LOG-21028,2025-06-20,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,10.93,630,No
+LOG-21029,2025-06-20,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,26.32,212,No
+LOG-21030,2025-06-20,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,17.67,337,No
+LOG-21031,2025-06-20,Flex Delivery,Hub Rosario,Entregado con Demora,5,9,18.9,279,Sí
+LOG-21032,2025-06-20,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,27.33,837,No
+LOG-21033,2025-06-20,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,29.15,693,No
+LOG-21034,2025-06-21,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,13.73,432,No
+LOG-21035,2025-06-21,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,12.45,871,No
+LOG-21036,2025-06-21,Correo Nacional,Hub Tucumán,Entregado con Demora,7,11,15.27,789,Sí
+LOG-21037,2025-06-21,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,3,8,13.82,1157,Sí
+LOG-21038,2025-06-21,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,25.13,830,No
+LOG-21039,2025-06-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,27.1,444,No
+LOG-21040,2025-06-22,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,11.46,309,No
+LOG-21041,2025-06-22,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,9.96,659,No
+LOG-21042,2025-06-22,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,18.21,1041,No
+LOG-21043,2025-06-22,Flex Delivery,Hub Córdoba,Cancelado / Devolución,7,12,17.35,780,Sí
+LOG-21044,2025-06-22,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,8.84,38,No
+LOG-21045,2025-06-22,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,29.83,262,No
+LOG-21046,2025-06-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,24.94,670,No
+LOG-21047,2025-06-23,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,10.81,269,No
+LOG-21048,2025-06-23,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,26.22,920,No
+LOG-21049,2025-06-23,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,16.79,582,No
+LOG-21050,2025-06-23,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,2,6,18.8,975,Sí
+LOG-21051,2025-06-23,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,7,27.12,114,No
+LOG-21052,2025-06-24,Correo Nacional,Hub Rosario,Entregado con Demora,5,10,31.64,768,No
+LOG-21053,2025-06-24,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,28.27,1192,No
+LOG-21054,2025-06-24,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,23.29,218,No
+LOG-21055,2025-06-24,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,15.39,248,No
+LOG-21056,2025-06-24,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,28.63,134,No
+LOG-21057,2025-06-24,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,11.34,561,No
+LOG-21058,2025-06-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,15.45,215,No
+LOG-21059,2025-06-25,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,27.87,919,No
+LOG-21060,2025-06-25,Logística Express,Hub Tucumán,Cancelado / Devolución,5,9,21.37,772,Sí
+LOG-21061,2025-06-25,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,17.47,581,No
+LOG-21062,2025-06-25,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,16.87,765,No
+LOG-21063,2025-06-25,Correo Nacional,Hub Mendoza,En Tránsito,2,7,33.0,849,No
+LOG-21064,2025-06-26,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,25.44,1143,No
+LOG-21065,2025-06-26,Correo Nacional,Hub Córdoba,Cancelado / Devolución,5,10,25.71,295,No
+LOG-21066,2025-06-26,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,2,7,27.67,838,Sí
+LOG-21067,2025-06-26,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,22.17,385,No
+LOG-21068,2025-06-26,Correo Nacional,Centro Distribución Buenos Aires,Cancelado / Devolución,3,10,15.26,85,Sí
+LOG-21069,2025-06-26,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,3,7,26.86,757,No
+LOG-21070,2025-06-27,Logística Express,Hub Mendoza,Entregado con Demora,5,9,23.57,730,Sí
+LOG-21071,2025-06-27,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,32.99,72,No
+LOG-21072,2025-06-27,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,13.99,354,No
+LOG-21073,2025-06-27,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,28.4,424,No
+LOG-21074,2025-06-27,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,3,8,12.25,502,No
+LOG-21075,2025-06-27,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,18.3,41,No
+LOG-21076,2025-06-28,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,16.86,1117,No
+LOG-21077,2025-06-28,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,20.79,144,No
+LOG-21078,2025-06-28,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,24.8,430,No
+LOG-21079,2025-06-28,Correo Nacional,Hub Rosario,Entregado con Demora,5,10,23.43,715,No
+LOG-21080,2025-06-28,Urban Transport,Hub Rosario,Entregado a Tiempo,5,4,19.41,66,No
+LOG-21081,2025-06-28,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,5,30.74,751,No
+LOG-21082,2025-06-29,Logística Express,Hub Córdoba,Entregado con Demora,3,4,20.81,1121,Sí
+LOG-21083,2025-06-29,Logística Express,Hub Córdoba,Entregado con Demora,2,4,10.62,426,Sí
+LOG-21084,2025-06-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,13.0,683,No
+LOG-21085,2025-06-29,Flex Delivery,Hub Rosario,Entregado con Demora,3,8,26.44,866,Sí
+LOG-21086,2025-06-29,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,14.45,947,No
+LOG-21087,2025-06-29,Correo Nacional,Hub Mendoza,Entregado con Demora,5,7,17.09,883,Sí
+LOG-21088,2025-06-30,Logística Express,Hub Mendoza,Entregado con Demora,2,6,26.92,947,Sí
+LOG-21089,2025-06-30,Logística Express,Centro Distribución Buenos Aires,En Tránsito,7,13,20.51,174,No
+LOG-21090,2025-06-30,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,23.62,1030,No
+LOG-21091,2025-06-30,Correo Nacional,Hub Córdoba,En Tránsito,2,7,17.88,211,No
+LOG-21092,2025-06-30,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,30.86,1065,No
+LOG-21093,2025-06-30,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,33.06,1182,No
+LOG-21094,2025-07-01,Logística Express,Hub Tucumán,Entregado con Demora,2,7,10.54,913,Sí
+LOG-21095,2025-07-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,14.31,879,No
+LOG-21096,2025-07-01,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,14.24,900,No
+LOG-21097,2025-07-01,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,10.29,508,No
+LOG-21098,2025-07-01,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,19.53,781,No
+LOG-21099,2025-07-01,Correo Nacional,Hub Tucumán,Entregado con Demora,7,10,15.53,22,Sí
+LOG-21100,2025-07-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,34.6,172,No
+LOG-21101,2025-07-02,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,31.01,116,No
+LOG-21102,2025-07-02,Correo Nacional,Hub Córdoba,Cancelado / Devolución,7,12,21.56,276,No
+LOG-21103,2025-07-02,Correo Nacional,Hub Mendoza,Cancelado / Devolución,5,7,30.31,812,Sí
+LOG-21104,2025-07-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,22.73,967,No
+LOG-21105,2025-07-02,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,30.2,325,No
+LOG-21106,2025-07-03,Logística Express,Hub Mendoza,Entregado con Demora,3,4,13.3,60,Sí
+LOG-21107,2025-07-03,Logística Express,Hub Rosario,Entregado con Demora,2,7,32.3,877,Sí
+LOG-21108,2025-07-03,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,12.18,286,No
+LOG-21109,2025-07-03,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,16.8,467,No
+LOG-21110,2025-07-03,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,12.89,15,No
+LOG-21111,2025-07-03,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,27.43,1179,No
+LOG-21112,2025-07-04,Logística Express,Centro Distribución Buenos Aires,Cancelado / Devolución,3,6,24.3,936,Sí
+LOG-21113,2025-07-04,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,34.0,863,No
+LOG-21114,2025-07-04,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,30.66,729,No
+LOG-21115,2025-07-04,Correo Nacional,Hub Tucumán,Cancelado / Devolución,3,5,26.17,991,Sí
+LOG-21116,2025-07-04,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,17.59,908,No
+LOG-21117,2025-07-04,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,5,31.05,449,No
+LOG-21118,2025-07-05,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,21.3,1070,No
+LOG-21119,2025-07-05,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,31.62,317,No
+LOG-21120,2025-07-05,Correo Nacional,Hub Córdoba,Entregado con Demora,7,11,14.02,252,Sí
+LOG-21121,2025-07-05,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,8.52,949,No
+LOG-21122,2025-07-05,Logística Express,Hub Tucumán,Cancelado / Devolución,5,10,16.08,984,Sí
+LOG-21123,2025-07-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,18.78,313,No
+LOG-21124,2025-07-06,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,6,11.1,570,No
+LOG-21125,2025-07-06,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,8.84,849,No
+LOG-21126,2025-07-06,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,33.1,867,No
+LOG-21127,2025-07-06,Correo Nacional,Hub Rosario,Entregado con Demora,7,9,30.09,583,No
+LOG-21128,2025-07-06,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,34.81,290,No
+LOG-21129,2025-07-06,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,9.07,1011,No
+LOG-21130,2025-07-07,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,17.88,609,No
+LOG-21131,2025-07-07,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,15.67,820,No
+LOG-21132,2025-07-07,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,11.63,1046,No
+LOG-21133,2025-07-07,Correo Nacional,Hub Rosario,Entregado con Demora,3,5,18.43,105,No
+LOG-21134,2025-07-07,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,24.85,414,No
+LOG-21135,2025-07-07,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,28.92,629,No
+LOG-21136,2025-07-08,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,8.54,1066,No
+LOG-21137,2025-07-08,Logística Express,Centro Distribución Buenos Aires,En Tránsito,2,9,33.2,403,No
+LOG-21138,2025-07-08,Logística Express,Hub Mendoza,Entregado con Demora,5,7,16.32,279,Sí
+LOG-21139,2025-07-08,Correo Nacional,Hub Córdoba,Entregado con Demora,5,7,15.56,831,Sí
+LOG-21140,2025-07-08,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,29.8,230,No
+LOG-21141,2025-07-08,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,17.61,965,No
+LOG-21142,2025-07-09,Flex Delivery,Hub Córdoba,Entregado con Demora,3,4,19.03,161,Sí
+LOG-21143,2025-07-09,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,24.69,786,No
+LOG-21144,2025-07-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,24.03,251,No
+LOG-21145,2025-07-09,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,7,9.65,596,No
+LOG-21146,2025-07-09,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,5,24.94,1195,No
+LOG-21147,2025-07-09,Correo Nacional,Hub Rosario,Entregado con Demora,2,6,34.41,570,Sí
+LOG-21148,2025-07-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,30.45,1081,No
+LOG-21149,2025-07-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,11.01,210,No
+LOG-21150,2025-07-10,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.93,1182,No
+LOG-21151,2025-07-10,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,23.28,48,No
+LOG-21152,2025-07-10,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,20.22,874,No
+LOG-21153,2025-07-10,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,10.02,368,No
+LOG-21154,2025-07-11,Logística Express,Hub Tucumán,Entregado con Demora,5,10,22.07,802,Sí
+LOG-21155,2025-07-11,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,25.53,1165,No
+LOG-21156,2025-07-11,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,27.93,327,No
+LOG-21157,2025-07-11,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,28.6,53,No
+LOG-21158,2025-07-11,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,15.65,756,No
+LOG-21159,2025-07-11,Logística Express,Hub Tucumán,Cancelado / Devolución,7,10,30.6,340,Sí
+LOG-21160,2025-07-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,34.82,1147,No
+LOG-21161,2025-07-12,Urban Transport,Centro Distribución Buenos Aires,En Tránsito,5,10,34.33,177,No
+LOG-21162,2025-07-12,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,34.98,704,No
+LOG-21163,2025-07-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,2,14.55,203,No
+LOG-21164,2025-07-12,Correo Nacional,Hub Mendoza,En Tránsito,5,11,19.34,48,No
+LOG-21165,2025-07-12,Logística Express,Hub Córdoba,Entregado con Demora,5,7,19.6,603,No
+LOG-21166,2025-07-13,Correo Nacional,Hub Córdoba,Entregado con Demora,5,6,33.0,69,No
+LOG-21167,2025-07-13,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,21.25,512,No
+LOG-21168,2025-07-13,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,2,25.96,235,No
+LOG-21169,2025-07-13,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,33.51,1185,No
+LOG-21170,2025-07-13,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,7,10,22.17,317,Sí
+LOG-21171,2025-07-13,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,30.97,880,No
+LOG-21172,2025-07-14,Logística Express,Hub Córdoba,En Tránsito,5,8,26.71,649,No
+LOG-21173,2025-07-14,Correo Nacional,Hub Córdoba,Cancelado / Devolución,2,8,15.62,222,Sí
+LOG-21174,2025-07-14,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,11.61,851,No
+LOG-21175,2025-07-14,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,22.21,1006,No
+LOG-21176,2025-07-14,Logística Express,Hub Rosario,Entregado con Demora,2,3,26.71,822,Sí
+LOG-21177,2025-07-14,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,31.29,105,No
+LOG-21178,2025-07-14,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,20.41,954,No
+LOG-21179,2025-07-15,Correo Nacional,Hub Tucumán,Entregado con Demora,7,11,20.27,73,Sí
+LOG-21180,2025-07-15,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,27.43,231,No
+LOG-21181,2025-07-15,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,3,20.38,1055,No
+LOG-21182,2025-07-15,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,4,16.15,1182,No
+LOG-21183,2025-07-15,Correo Nacional,Hub Rosario,Entregado con Demora,5,6,12.21,1073,No
+LOG-21184,2025-07-15,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,31.5,589,No
+LOG-21185,2025-07-16,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,27.49,39,No
+LOG-21186,2025-07-16,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,22.48,25,No
+LOG-21187,2025-07-16,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,8.93,377,No
+LOG-21188,2025-07-16,Urban Transport,Centro Distribución Buenos Aires,En Tránsito,5,12,17.83,1025,No
+LOG-21189,2025-07-16,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,12.73,532,No
+LOG-21190,2025-07-16,Flex Delivery,Centro Distribución Buenos Aires,Cancelado / Devolución,3,7,15.34,1178,Sí
+LOG-21191,2025-07-17,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,19.39,588,No
+LOG-21192,2025-07-17,Urban Transport,Hub Córdoba,Entregado con Demora,3,6,14.12,398,Sí
+LOG-21193,2025-07-17,Correo Nacional,Hub Rosario,Entregado con Demora,3,5,14.77,139,No
+LOG-21194,2025-07-17,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,2,5,34.62,864,No
+LOG-21195,2025-07-17,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,24.27,350,No
+LOG-21196,2025-07-17,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,15.94,605,No
+LOG-21197,2025-07-18,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,16.13,901,No
+LOG-21198,2025-07-18,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,19.81,720,No
+LOG-21199,2025-07-18,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,17.47,61,No
+LOG-21200,2025-07-18,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,30.07,103,No
+LOG-21201,2025-07-18,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,25.35,964,No
+LOG-21202,2025-07-18,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,20.32,909,No
+LOG-21203,2025-07-19,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,12.21,1104,No
+LOG-21204,2025-07-19,Logística Express,Hub Córdoba,Entregado con Demora,7,12,25.58,603,Sí
+LOG-21205,2025-07-19,Correo Nacional,Hub Córdoba,Entregado con Demora,7,11,28.22,563,No
+LOG-21206,2025-07-19,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,16.28,675,No
+LOG-21207,2025-07-19,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,4,14.63,791,No
+LOG-21208,2025-07-19,Correo Nacional,Hub Córdoba,Entregado con Demora,5,6,24.05,37,Sí
+LOG-21209,2025-07-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,17.26,1101,No
+LOG-21210,2025-07-20,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,28.15,812,No
+LOG-21211,2025-07-20,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,17.22,724,No
+LOG-21212,2025-07-20,Flex Delivery,Hub Córdoba,Entregado con Demora,3,4,22.43,1048,Sí
+LOG-21213,2025-07-20,Correo Nacional,Hub Tucumán,Entregado con Demora,7,9,24.76,745,No
+LOG-21214,2025-07-20,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,31.56,993,No
+LOG-21215,2025-07-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,4,21.34,1182,No
+LOG-21216,2025-07-21,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,15.91,832,No
+LOG-21217,2025-07-21,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,18.89,989,No
+LOG-21218,2025-07-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,26.07,620,No
+LOG-21219,2025-07-21,Flex Delivery,Hub Rosario,En Tránsito,5,11,19.57,875,No
+LOG-21220,2025-07-21,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,10.21,210,No
+LOG-21221,2025-07-22,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,26.81,165,No
+LOG-21222,2025-07-22,Correo Nacional,Hub Mendoza,Cancelado / Devolución,2,4,9.24,297,No
+LOG-21223,2025-07-22,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,29.33,1104,No
+LOG-21224,2025-07-22,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,32.83,873,No
+LOG-21225,2025-07-22,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,16.66,1045,No
+LOG-21226,2025-07-22,Flex Delivery,Hub Tucumán,En Tránsito,2,4,33.66,1141,No
+LOG-21227,2025-07-23,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,27.76,74,No
+LOG-21228,2025-07-23,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,31.22,679,No
+LOG-21229,2025-07-23,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,29.75,143,No
+LOG-21230,2025-07-23,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,20.29,1076,No
+LOG-21231,2025-07-23,Flex Delivery,Hub Rosario,Entregado con Demora,3,8,30.74,1046,Sí
+LOG-21232,2025-07-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,34.48,538,No
+LOG-21233,2025-07-24,Urban Transport,Hub Rosario,Entregado a Tiempo,2,1,9.4,28,No
+LOG-21234,2025-07-24,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,26.76,568,No
+LOG-21235,2025-07-24,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,14.97,736,No
+LOG-21236,2025-07-24,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,28.34,44,No
+LOG-21237,2025-07-24,Logística Express,Hub Mendoza,Entregado con Demora,3,4,25.9,847,No
+LOG-21238,2025-07-24,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,27.84,87,No
+LOG-21239,2025-07-25,Correo Nacional,Hub Mendoza,Entregado con Demora,3,7,21.88,627,Sí
+LOG-21240,2025-07-25,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,2,28.9,843,No
+LOG-21241,2025-07-25,Urban Transport,Hub Rosario,Entregado a Tiempo,2,1,24.26,176,No
+LOG-21242,2025-07-25,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,12.32,411,No
+LOG-21243,2025-07-25,Logística Express,Hub Córdoba,Cancelado / Devolución,5,12,19.27,829,No
+LOG-21244,2025-07-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,24.12,828,No
+LOG-21245,2025-07-26,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,15.31,933,No
+LOG-21246,2025-07-26,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,16.82,51,No
+LOG-21247,2025-07-26,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,14.8,110,No
+LOG-21248,2025-07-26,Flex Delivery,Hub Rosario,En Tránsito,7,13,24.8,991,No
+LOG-21249,2025-07-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,23.27,252,No
+LOG-21250,2025-07-26,Correo Nacional,Hub Tucumán,Cancelado / Devolución,2,6,13.27,784,Sí
+LOG-21251,2025-07-27,Urban Transport,Hub Córdoba,Entregado con Demora,3,7,26.43,590,No
+LOG-21252,2025-07-27,Correo Nacional,Hub Tucumán,Entregado con Demora,2,6,19.95,427,No
+LOG-21253,2025-07-27,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,24.57,1097,No
+LOG-21254,2025-07-27,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,30.01,1154,No
+LOG-21255,2025-07-27,Logística Express,Hub Mendoza,Entregado con Demora,5,7,20.83,722,Sí
+LOG-21256,2025-07-27,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,27.93,693,No
+LOG-21257,2025-07-28,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,30.71,845,No
+LOG-21258,2025-07-28,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,26.47,947,No
+LOG-21259,2025-07-28,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,22.12,151,No
+LOG-21260,2025-07-28,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,11.31,1012,No
+LOG-21261,2025-07-28,Urban Transport,Hub Rosario,Entregado a Tiempo,3,2,29.07,1188,No
+LOG-21262,2025-07-28,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,27.27,627,No
+LOG-21263,2025-07-29,Flex Delivery,Hub Tucumán,Cancelado / Devolución,5,12,19.76,376,No
+LOG-21264,2025-07-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,17.34,485,No
+LOG-21265,2025-07-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,31.12,794,No
+LOG-21266,2025-07-29,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,16.86,975,No
+LOG-21267,2025-07-29,Logística Express,Hub Rosario,Cancelado / Devolución,2,8,19.15,181,Sí
+LOG-21268,2025-07-29,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,16.92,386,No
+LOG-21269,2025-07-30,Flex Delivery,Hub Córdoba,Entregado con Demora,3,8,25.27,223,Sí
+LOG-21270,2025-07-30,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,13.5,578,No
+LOG-21271,2025-07-30,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,22.41,1140,No
+LOG-21272,2025-07-30,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,5,10,17.83,1154,No
+LOG-21273,2025-07-30,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,29.94,1079,No
+LOG-21274,2025-07-30,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,10.02,361,No
+LOG-21275,2025-07-31,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,34.27,904,No
+LOG-21276,2025-07-31,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,19.58,484,No
+LOG-21277,2025-07-31,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,34.49,747,No
+LOG-21278,2025-07-31,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,2,15.41,158,No
+LOG-21279,2025-07-31,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,21.71,412,No
+LOG-21280,2025-07-31,Correo Nacional,Hub Mendoza,Entregado con Demora,2,5,32.65,359,Sí
+LOG-21281,2025-08-01,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,21.31,829,No
+LOG-21282,2025-08-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,8.62,138,No
+LOG-21283,2025-08-01,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,8.92,901,No
+LOG-21284,2025-08-01,Logística Express,Hub Mendoza,En Tránsito,5,7,25.56,1033,No
+LOG-21285,2025-08-01,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,27.98,171,No
+LOG-21286,2025-08-01,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,20.06,129,No
+LOG-21287,2025-08-02,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,8.96,459,No
+LOG-21288,2025-08-02,Correo Nacional,Hub Mendoza,Entregado con Demora,3,4,18.45,959,Sí
+LOG-21289,2025-08-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,23.64,474,No
+LOG-21290,2025-08-02,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,33.05,1111,No
+LOG-21291,2025-08-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,22.46,148,No
+LOG-21292,2025-08-02,Logística Express,Hub Tucumán,Cancelado / Devolución,2,5,20.27,708,Sí
+LOG-21293,2025-08-03,Correo Nacional,Hub Rosario,Cancelado / Devolución,2,8,10.31,1088,No
+LOG-21294,2025-08-03,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,9.31,938,No
+LOG-21295,2025-08-03,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,24.56,811,No
+LOG-21296,2025-08-03,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,19.65,1091,No
+LOG-21297,2025-08-03,Urban Transport,Hub Córdoba,Entregado con Demora,7,9,30.66,590,Sí
+LOG-21298,2025-08-03,Logística Express,Hub Córdoba,Entregado con Demora,2,3,34.95,915,No
+LOG-21299,2025-08-04,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,12.34,1085,No
+LOG-21300,2025-08-04,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,13.34,1009,No
+LOG-21301,2025-08-04,Urban Transport,Hub Rosario,Entregado a Tiempo,5,4,30.46,99,No
+LOG-21302,2025-08-04,Correo Nacional,Hub Rosario,Cancelado / Devolución,7,12,20.96,1024,No
+LOG-21303,2025-08-04,Logística Express,Hub Córdoba,Cancelado / Devolución,3,8,29.92,1172,Sí
+LOG-21304,2025-08-04,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,16.58,369,No
+LOG-21305,2025-08-05,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,23.25,737,No
+LOG-21306,2025-08-05,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,31.95,151,No
+LOG-21307,2025-08-05,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,13.42,684,No
+LOG-21308,2025-08-05,Logística Express,Hub Mendoza,En Tránsito,7,13,23.94,104,No
+LOG-21309,2025-08-05,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,28.08,1067,No
+LOG-21310,2025-08-05,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,25.37,1134,No
+LOG-21311,2025-08-06,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,12.08,727,No
+LOG-21312,2025-08-06,Flex Delivery,Hub Mendoza,Entregado con Demora,5,8,31.38,1047,Sí
+LOG-21313,2025-08-06,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,2,7,33.31,828,No
+LOG-21314,2025-08-06,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,15.99,609,No
+LOG-21315,2025-08-06,Flex Delivery,Hub Córdoba,Entregado con Demora,3,6,32.86,94,No
+LOG-21316,2025-08-06,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,30.69,749,No
+LOG-21317,2025-08-07,Logística Express,Hub Rosario,Entregado con Demora,5,8,24.43,726,Sí
+LOG-21318,2025-08-07,Logística Express,Hub Tucumán,Entregado con Demora,5,6,21.34,222,Sí
+LOG-21319,2025-08-07,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,2,5,27.75,466,No
+LOG-21320,2025-08-07,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,2,5,22.08,1061,No
+LOG-21321,2025-08-07,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,24.94,952,No
+LOG-21322,2025-08-07,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,17.13,1182,No
+LOG-21323,2025-08-07,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,11.86,898,No
+LOG-21324,2025-08-08,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,11.12,1079,No
+LOG-21325,2025-08-08,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,5,28.95,1110,No
+LOG-21326,2025-08-08,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,32.46,694,No
+LOG-21327,2025-08-08,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,14.95,726,No
+LOG-21328,2025-08-08,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,28.73,185,No
+LOG-21329,2025-08-08,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,13.79,1006,No
+LOG-21330,2025-08-09,Logística Express,Hub Tucumán,En Tránsito,2,7,22.35,1165,No
+LOG-21331,2025-08-09,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,30.17,26,No
+LOG-21332,2025-08-09,Logística Express,Hub Mendoza,Entregado con Demora,7,12,22.69,126,Sí
+LOG-21333,2025-08-09,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,22.17,972,No
+LOG-21334,2025-08-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,19.42,887,No
+LOG-21335,2025-08-09,Logística Express,Hub Córdoba,Entregado con Demora,7,8,17.19,739,No
+LOG-21336,2025-08-10,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,33.58,1017,No
+LOG-21337,2025-08-10,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,18.97,358,No
+LOG-21338,2025-08-10,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,24.38,583,No
+LOG-21339,2025-08-10,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,9.02,358,No
+LOG-21340,2025-08-10,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,10.18,1124,No
+LOG-21341,2025-08-10,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,26.45,617,No
+LOG-21342,2025-08-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,29.07,770,No
+LOG-21343,2025-08-11,Correo Nacional,Hub Tucumán,Entregado con Demora,7,11,34.03,57,Sí
+LOG-21344,2025-08-11,Flex Delivery,Hub Córdoba,Entregado con Demora,3,6,21.1,249,Sí
+LOG-21345,2025-08-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,18.69,1039,No
+LOG-21346,2025-08-11,Correo Nacional,Hub Mendoza,En Tránsito,2,9,32.18,256,No
+LOG-21347,2025-08-11,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,34.65,800,No
+LOG-21348,2025-08-12,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,8.52,100,No
+LOG-21349,2025-08-12,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,19.11,601,No
+LOG-21350,2025-08-12,Logística Express,Hub Rosario,Entregado con Demora,3,6,26.87,75,Sí
+LOG-21351,2025-08-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,12.14,95,No
+LOG-21352,2025-08-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,31.64,913,No
+LOG-21353,2025-08-12,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,20.09,149,No
+LOG-21354,2025-08-13,Correo Nacional,Hub Rosario,Entregado con Demora,2,4,14.28,430,No
+LOG-21355,2025-08-13,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,27.25,599,No
+LOG-21356,2025-08-13,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,7,23.34,180,No
+LOG-21357,2025-08-13,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,25.81,1048,No
+LOG-21358,2025-08-13,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,12.71,902,No
+LOG-21359,2025-08-13,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,31.27,899,No
+LOG-21360,2025-08-14,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,17.23,984,No
+LOG-21361,2025-08-14,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,16.62,219,No
+LOG-21362,2025-08-14,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,24.06,580,No
+LOG-21363,2025-08-14,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,21.85,1154,No
+LOG-21364,2025-08-14,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,23.96,1040,No
+LOG-21365,2025-08-14,Logística Express,Hub Tucumán,En Tránsito,2,5,9.09,807,No
+LOG-21366,2025-08-15,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,3,4,31.25,416,Sí
+LOG-21367,2025-08-15,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,7,9,26.34,73,No
+LOG-21368,2025-08-15,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,26.66,364,No
+LOG-21369,2025-08-15,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,9.42,409,No
+LOG-21370,2025-08-15,Logística Express,Hub Córdoba,En Tránsito,5,10,34.47,657,No
+LOG-21371,2025-08-15,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,25.63,1132,No
+LOG-21372,2025-08-16,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,10.2,982,No
+LOG-21373,2025-08-16,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,5,7,32.87,601,Sí
+LOG-21374,2025-08-16,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,8.58,799,No
+LOG-21375,2025-08-16,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,15.09,406,No
+LOG-21376,2025-08-16,Logística Express,Hub Mendoza,En Tránsito,3,7,28.18,232,No
+LOG-21377,2025-08-16,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,19.76,48,No
+LOG-21378,2025-08-17,Correo Nacional,Hub Tucumán,En Tránsito,7,13,10.18,64,No
+LOG-21379,2025-08-17,Logística Express,Hub Mendoza,En Tránsito,7,12,21.81,1112,No
+LOG-21380,2025-08-17,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,25.45,145,No
+LOG-21381,2025-08-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,25.57,279,No
+LOG-21382,2025-08-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,28.67,890,No
+LOG-21383,2025-08-17,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,34.13,744,No
+LOG-21384,2025-08-18,Logística Express,Hub Córdoba,Cancelado / Devolución,2,8,26.46,1099,Sí
+LOG-21385,2025-08-18,Flex Delivery,Centro Distribución Buenos Aires,Cancelado / Devolución,3,10,13.61,868,No
+LOG-21386,2025-08-18,Logística Express,Hub Córdoba,Cancelado / Devolución,7,13,17.09,144,Sí
+LOG-21387,2025-08-18,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,23.66,764,No
+LOG-21388,2025-08-18,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,19.4,358,No
+LOG-21389,2025-08-18,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,8.66,584,No
+LOG-21390,2025-08-19,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,7,25.73,1003,No
+LOG-21391,2025-08-19,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,11.85,494,No
+LOG-21392,2025-08-19,Flex Delivery,Hub Mendoza,Entregado con Demora,2,5,27.14,1041,Sí
+LOG-21393,2025-08-19,Logística Express,Hub Córdoba,Entregado con Demora,7,9,30.64,815,Sí
+LOG-21394,2025-08-19,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,2,5,12.28,934,No
+LOG-21395,2025-08-19,Urban Transport,Hub Rosario,En Tránsito,2,6,32.33,899,No
+LOG-21396,2025-08-20,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,33.04,806,No
+LOG-21397,2025-08-20,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,28.81,311,No
+LOG-21398,2025-08-20,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,24.22,592,No
+LOG-21399,2025-08-20,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,29.85,936,No
+LOG-21400,2025-08-20,Flex Delivery,Hub Rosario,Cancelado / Devolución,7,10,31.27,1081,Sí
+LOG-21401,2025-08-20,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,27.47,364,No
+LOG-21402,2025-08-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,10.58,776,No
+LOG-21403,2025-08-21,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,17.22,657,No
+LOG-21404,2025-08-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,17.29,1011,No
+LOG-21405,2025-08-21,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,8.9,237,No
+LOG-21406,2025-08-21,Correo Nacional,Hub Mendoza,Cancelado / Devolución,2,8,21.57,349,Sí
+LOG-21407,2025-08-21,Correo Nacional,Hub Tucumán,Entregado con Demora,7,9,13.61,577,Sí
+LOG-21408,2025-08-22,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,17.14,271,No
+LOG-21409,2025-08-22,Logística Express,Hub Tucumán,En Tránsito,3,7,27.48,288,No
+LOG-21410,2025-08-22,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,24.16,522,No
+LOG-21411,2025-08-22,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,26.91,1035,No
+LOG-21412,2025-08-22,Logística Express,Hub Mendoza,En Tránsito,2,4,10.33,922,No
+LOG-21413,2025-08-22,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,17.86,467,No
+LOG-21414,2025-08-23,Logística Express,Hub Mendoza,Entregado con Demora,3,7,28.69,1025,No
+LOG-21415,2025-08-23,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,32.24,1198,No
+LOG-21416,2025-08-23,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,12.88,502,No
+LOG-21417,2025-08-23,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,29.47,1034,No
+LOG-21418,2025-08-23,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,9.94,1079,No
+LOG-21419,2025-08-23,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,12.46,481,No
+LOG-21420,2025-08-24,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,10.63,735,No
+LOG-21421,2025-08-24,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,19.45,527,No
+LOG-21422,2025-08-24,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,17.08,846,No
+LOG-21423,2025-08-24,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,12.9,666,No
+LOG-21424,2025-08-24,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,12.53,54,No
+LOG-21425,2025-08-24,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,25.11,432,No
+LOG-21426,2025-08-25,Logística Express,Hub Mendoza,Entregado con Demora,5,9,8.69,398,No
+LOG-21427,2025-08-25,Logística Express,Hub Córdoba,En Tránsito,2,9,30.45,614,No
+LOG-21428,2025-08-25,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,28.48,909,No
+LOG-21429,2025-08-25,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,25.26,941,No
+LOG-21430,2025-08-25,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,4,22.29,1125,No
+LOG-21431,2025-08-25,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,21.08,689,No
+LOG-21432,2025-08-26,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,14.25,276,No
+LOG-21433,2025-08-26,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,13.1,846,No
+LOG-21434,2025-08-26,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,26.27,792,No
+LOG-21435,2025-08-26,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,10.48,431,No
+LOG-21436,2025-08-26,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,11.05,806,No
+LOG-21437,2025-08-26,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,18.69,413,No
+LOG-21438,2025-08-27,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,21.59,494,No
+LOG-21439,2025-08-27,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,25.38,200,No
+LOG-21440,2025-08-27,Logística Express,Hub Mendoza,Entregado con Demora,3,6,28.76,203,Sí
+LOG-21441,2025-08-27,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,1,26.54,627,No
+LOG-21442,2025-08-27,Logística Express,Hub Mendoza,Entregado con Demora,5,7,31.17,1019,No
+LOG-21443,2025-08-27,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,16.46,676,No
+LOG-21444,2025-08-28,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,23.22,975,No
+LOG-21445,2025-08-28,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,32.84,1099,No
+LOG-21446,2025-08-28,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,33.6,452,No
+LOG-21447,2025-08-28,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,28.42,115,No
+LOG-21448,2025-08-28,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,3,31.72,342,No
+LOG-21449,2025-08-28,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,10.73,819,No
+LOG-21450,2025-08-29,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,16.28,369,No
+LOG-21451,2025-08-29,Correo Nacional,Hub Rosario,Entregado con Demora,2,4,32.2,444,Sí
+LOG-21452,2025-08-29,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,21.91,1094,No
+LOG-21453,2025-08-29,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,19.08,175,No
+LOG-21454,2025-08-29,Logística Express,Hub Tucumán,Cancelado / Devolución,3,10,26.22,455,No
+LOG-21455,2025-08-29,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,12.1,842,No
+LOG-21456,2025-08-30,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,5,11.75,1175,No
+LOG-21457,2025-08-30,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,17.39,835,No
+LOG-21458,2025-08-30,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,34.6,168,No
+LOG-21459,2025-08-30,Correo Nacional,Hub Córdoba,Entregado con Demora,7,12,22.48,707,No
+LOG-21460,2025-08-30,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,18.74,34,No
+LOG-21461,2025-08-30,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,28.69,582,No
+LOG-21462,2025-08-31,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,20.51,1098,No
+LOG-21463,2025-08-31,Logística Express,Hub Mendoza,En Tránsito,7,14,29.08,680,No
+LOG-21464,2025-08-31,Correo Nacional,Hub Tucumán,Entregado con Demora,5,9,9.57,929,Sí
+LOG-21465,2025-08-31,Logística Express,Centro Distribución Buenos Aires,Cancelado / Devolución,7,10,15.93,1184,Sí
+LOG-21466,2025-08-31,Correo Nacional,Hub Córdoba,En Tránsito,7,13,31.18,884,No
+LOG-21467,2025-08-31,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,18.61,857,No
+LOG-21468,2025-08-31,Logística Express,Hub Mendoza,Cancelado / Devolución,3,6,17.12,450,No
+LOG-21469,2025-09-01,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,12.49,883,No
+LOG-21470,2025-09-01,Logística Express,Centro Distribución Buenos Aires,En Tránsito,2,4,32.9,92,No
+LOG-21471,2025-09-01,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,28.91,176,No
+LOG-21472,2025-09-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,15.55,176,No
+LOG-21473,2025-09-01,Urban Transport,Hub Mendoza,Entregado con Demora,7,12,31.75,466,Sí
+LOG-21474,2025-09-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,9.64,450,No
+LOG-21475,2025-09-02,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,14.0,1106,No
+LOG-21476,2025-09-02,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,16.12,1182,No
+LOG-21477,2025-09-02,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,12.46,546,No
+LOG-21478,2025-09-02,Flex Delivery,Hub Rosario,Entregado con Demora,7,12,10.29,520,Sí
+LOG-21479,2025-09-02,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,24.55,736,No
+LOG-21480,2025-09-02,Logística Express,Hub Rosario,Entregado con Demora,5,8,23.34,236,No
+LOG-21481,2025-09-03,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,29.47,438,No
+LOG-21482,2025-09-03,Urban Transport,Hub Mendoza,Cancelado / Devolución,7,10,34.45,189,No
+LOG-21483,2025-09-03,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,13.51,711,No
+LOG-21484,2025-09-03,Correo Nacional,Hub Tucumán,Entregado con Demora,3,7,31.88,888,Sí
+LOG-21485,2025-09-03,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,16.98,666,No
+LOG-21486,2025-09-03,Logística Express,Hub Rosario,Entregado con Demora,2,3,29.43,436,No
+LOG-21487,2025-09-04,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,14.89,208,No
+LOG-21488,2025-09-04,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,14.83,625,No
+LOG-21489,2025-09-04,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,23.16,94,No
+LOG-21490,2025-09-04,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,30.88,432,No
+LOG-21491,2025-09-04,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,20.79,782,No
+LOG-21492,2025-09-04,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,9.99,280,No
+LOG-21493,2025-09-05,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,28.73,811,No
+LOG-21494,2025-09-05,Correo Nacional,Hub Mendoza,Entregado con Demora,5,10,10.58,1068,No
+LOG-21495,2025-09-05,Urban Transport,Hub Mendoza,Entregado con Demora,2,6,32.93,296,Sí
+LOG-21496,2025-09-05,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,8.98,71,No
+LOG-21497,2025-09-05,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,19.04,67,No
+LOG-21498,2025-09-05,Urban Transport,Hub Mendoza,Entregado a Tiempo,7,7,12.58,325,No
+LOG-21499,2025-09-06,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,29.72,544,No
+LOG-21500,2025-09-06,Urban Transport,Hub Córdoba,Entregado con Demora,7,11,15.99,170,Sí
+LOG-21501,2025-09-06,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,15.63,810,No
+LOG-21502,2025-09-06,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,18.58,818,No
+LOG-21503,2025-09-06,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,29.63,953,No
+LOG-21504,2025-09-06,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,27.88,230,No
+LOG-21505,2025-09-07,Logística Express,Hub Rosario,Entregado con Demora,5,8,9.39,1111,No
+LOG-21506,2025-09-07,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,12.86,696,No
+LOG-21507,2025-09-07,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,20.92,155,No
+LOG-21508,2025-09-07,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,11.33,30,No
+LOG-21509,2025-09-07,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,7,14,14.64,461,No
+LOG-21510,2025-09-07,Urban Transport,Hub Córdoba,Entregado con Demora,3,5,21.55,649,Sí
+LOG-21511,2025-09-08,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,5,6,9.66,124,Sí
+LOG-21512,2025-09-08,Correo Nacional,Hub Mendoza,Entregado con Demora,3,5,12.93,18,Sí
+LOG-21513,2025-09-08,Correo Nacional,Hub Mendoza,En Tránsito,2,7,9.51,22,No
+LOG-21514,2025-09-08,Urban Transport,Hub Mendoza,Entregado con Demora,2,6,23.41,1190,Sí
+LOG-21515,2025-09-08,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,17.21,1071,No
+LOG-21516,2025-09-08,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,9.62,197,No
+LOG-21517,2025-09-09,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,34.24,975,No
+LOG-21518,2025-09-09,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,2,34.41,1066,No
+LOG-21519,2025-09-09,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,34.83,353,No
+LOG-21520,2025-09-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,17.33,709,No
+LOG-21521,2025-09-09,Correo Nacional,Hub Córdoba,Entregado con Demora,7,11,26.05,876,Sí
+LOG-21522,2025-09-09,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,27.54,526,No
+LOG-21523,2025-09-10,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,2,16.46,440,No
+LOG-21524,2025-09-10,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,15.31,526,No
+LOG-21525,2025-09-10,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,5,9,25.53,307,Sí
+LOG-21526,2025-09-10,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,26.67,951,No
+LOG-21527,2025-09-10,Flex Delivery,Hub Rosario,Entregado con Demora,2,7,17.26,112,Sí
+LOG-21528,2025-09-10,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,9.47,502,No
+LOG-21529,2025-09-11,Urban Transport,Hub Rosario,Cancelado / Devolución,7,9,29.11,1039,Sí
+LOG-21530,2025-09-11,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,12.43,245,No
+LOG-21531,2025-09-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,29.64,1146,No
+LOG-21532,2025-09-11,Logística Express,Hub Córdoba,Cancelado / Devolución,7,11,31.26,447,Sí
+LOG-21533,2025-09-11,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,33.43,1086,No
+LOG-21534,2025-09-11,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,27.81,937,No
+LOG-21535,2025-09-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,10.9,805,No
+LOG-21536,2025-09-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,11.73,323,No
+LOG-21537,2025-09-12,Correo Nacional,Hub Tucumán,Cancelado / Devolución,2,7,31.27,1173,Sí
+LOG-21538,2025-09-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,22.59,662,No
+LOG-21539,2025-09-12,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,22.44,1118,No
+LOG-21540,2025-09-12,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,30.06,1163,No
+LOG-21541,2025-09-13,Flex Delivery,Hub Córdoba,Entregado a Tiempo,2,2,22.47,281,No
+LOG-21542,2025-09-13,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,10.57,739,No
+LOG-21543,2025-09-13,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,19.6,468,No
+LOG-21544,2025-09-13,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,2,24.74,612,No
+LOG-21545,2025-09-13,Correo Nacional,Hub Mendoza,Entregado con Demora,5,10,16.1,1048,Sí
+LOG-21546,2025-09-13,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,22.08,808,No
+LOG-21547,2025-09-14,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,20.43,830,No
+LOG-21548,2025-09-14,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,21.7,473,No
+LOG-21549,2025-09-14,Urban Transport,Hub Tucumán,Cancelado / Devolución,3,8,24.03,1086,Sí
+LOG-21550,2025-09-14,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,3,18.73,1039,No
+LOG-21551,2025-09-14,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,8,33.74,423,Sí
+LOG-21552,2025-09-14,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,10.99,419,No
+LOG-21553,2025-09-15,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,26.5,685,No
+LOG-21554,2025-09-15,Correo Nacional,Hub Rosario,Cancelado / Devolución,2,9,8.92,813,Sí
+LOG-21555,2025-09-15,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,11.44,906,No
+LOG-21556,2025-09-15,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,12.02,1158,No
+LOG-21557,2025-09-15,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,9.08,897,No
+LOG-21558,2025-09-15,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,7,26.0,249,No
+LOG-21559,2025-09-16,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,19.99,202,No
+LOG-21560,2025-09-16,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,10.1,296,No
+LOG-21561,2025-09-16,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,23.92,851,No
+LOG-21562,2025-09-16,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,25.83,1023,No
+LOG-21563,2025-09-16,Logística Express,Hub Mendoza,En Tránsito,7,13,13.36,933,No
+LOG-21564,2025-09-16,Correo Nacional,Hub Mendoza,Entregado con Demora,5,7,32.01,58,Sí
+LOG-21565,2025-09-17,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,26.01,435,No
+LOG-21566,2025-09-17,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,13.15,956,No
+LOG-21567,2025-09-17,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,32.71,16,No
+LOG-21568,2025-09-17,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,22.68,733,No
+LOG-21569,2025-09-17,Flex Delivery,Hub Rosario,En Tránsito,3,10,10.96,657,No
+LOG-21570,2025-09-17,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,31.25,175,No
+LOG-21571,2025-09-18,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,27.56,1079,No
+LOG-21572,2025-09-18,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,10.67,464,No
+LOG-21573,2025-09-18,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,18.87,122,No
+LOG-21574,2025-09-18,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,11.21,775,No
+LOG-21575,2025-09-18,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,22.41,861,No
+LOG-21576,2025-09-18,Flex Delivery,Hub Córdoba,Entregado con Demora,3,8,22.28,742,Sí
+LOG-21577,2025-09-19,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,10.44,1164,No
+LOG-21578,2025-09-19,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,34.8,782,No
+LOG-21579,2025-09-19,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,9,21.87,83,Sí
+LOG-21580,2025-09-19,Flex Delivery,Hub Córdoba,Entregado con Demora,2,4,13.79,1039,Sí
+LOG-21581,2025-09-19,Logística Express,Hub Tucumán,En Tránsito,2,7,31.32,392,No
+LOG-21582,2025-09-19,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,29.81,299,No
+LOG-21583,2025-09-20,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,23.85,608,No
+LOG-21584,2025-09-20,Logística Express,Hub Córdoba,Entregado con Demora,3,6,18.67,634,No
+LOG-21585,2025-09-20,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,33.56,835,No
+LOG-21586,2025-09-20,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,27.55,150,No
+LOG-21587,2025-09-20,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,33.58,1031,No
+LOG-21588,2025-09-20,Flex Delivery,Hub Mendoza,En Tránsito,7,13,23.98,119,No
+LOG-21589,2025-09-21,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,18.46,1067,No
+LOG-21590,2025-09-21,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,25.71,439,No
+LOG-21591,2025-09-21,Logística Express,Hub Rosario,Cancelado / Devolución,3,5,9.25,535,No
+LOG-21592,2025-09-21,Urban Transport,Hub Córdoba,Entregado a Tiempo,7,7,12.82,945,No
+LOG-21593,2025-09-21,Urban Transport,Hub Mendoza,Entregado con Demora,7,12,10.95,137,Sí
+LOG-21594,2025-09-21,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,19.8,66,No
+LOG-21595,2025-09-22,Correo Nacional,Hub Mendoza,En Tránsito,7,13,21.67,1006,No
+LOG-21596,2025-09-22,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,24.24,594,No
+LOG-21597,2025-09-22,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,28.6,78,No
+LOG-21598,2025-09-22,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,34.41,713,No
+LOG-21599,2025-09-22,Flex Delivery,Hub Córdoba,Entregado con Demora,3,8,34.75,832,Sí
+LOG-21600,2025-09-22,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,26.39,652,No
+LOG-21601,2025-09-23,Correo Nacional,Hub Mendoza,Entregado con Demora,7,10,11.64,816,Sí
+LOG-21602,2025-09-23,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,13.17,65,No
+LOG-21603,2025-09-23,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,32.94,365,No
+LOG-21604,2025-09-23,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,17.14,1133,No
+LOG-21605,2025-09-23,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,24.92,350,No
+LOG-21606,2025-09-23,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,2,25.57,1131,No
+LOG-21607,2025-09-24,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,23.0,956,No
+LOG-21608,2025-09-24,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,24.99,1041,No
+LOG-21609,2025-09-24,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,22.32,315,No
+LOG-21610,2025-09-24,Correo Nacional,Hub Rosario,Entregado con Demora,5,10,13.6,1079,No
+LOG-21611,2025-09-24,Flex Delivery,Hub Mendoza,Cancelado / Devolución,2,9,11.93,869,Sí
+LOG-21612,2025-09-24,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,17.17,659,No
+LOG-21613,2025-09-24,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,13.37,679,No
+LOG-21614,2025-09-25,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,12.66,423,No
+LOG-21615,2025-09-25,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,32.63,394,No
+LOG-21616,2025-09-25,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,24.34,239,No
+LOG-21617,2025-09-25,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,34.42,586,No
+LOG-21618,2025-09-25,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,18.24,430,No
+LOG-21619,2025-09-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,22.34,249,No
+LOG-21620,2025-09-26,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,3,4,33.37,34,Sí
+LOG-21621,2025-09-26,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,27.66,914,No
+LOG-21622,2025-09-26,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,22.84,806,No
+LOG-21623,2025-09-26,Logística Express,Hub Tucumán,Entregado con Demora,3,8,34.71,1159,Sí
+LOG-21624,2025-09-26,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,33.76,287,No
+LOG-21625,2025-09-26,Logística Express,Hub Mendoza,En Tránsito,5,11,29.68,297,No
+LOG-21626,2025-09-27,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,21.14,941,No
+LOG-21627,2025-09-27,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,8.58,930,No
+LOG-21628,2025-09-27,Correo Nacional,Hub Rosario,Entregado con Demora,3,8,29.42,1037,No
+LOG-21629,2025-09-27,Flex Delivery,Hub Tucumán,Entregado con Demora,2,4,30.42,748,No
+LOG-21630,2025-09-27,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,23.06,232,No
+LOG-21631,2025-09-27,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,12.01,33,No
+LOG-21632,2025-09-28,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,30.54,1032,No
+LOG-21633,2025-09-28,Logística Express,Hub Córdoba,Entregado con Demora,7,11,27.87,356,Sí
+LOG-21634,2025-09-28,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,26.94,710,No
+LOG-21635,2025-09-28,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,2,14.38,994,No
+LOG-21636,2025-09-28,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,12.9,986,No
+LOG-21637,2025-09-28,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,20.84,32,No
+LOG-21638,2025-09-29,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,31.21,1026,No
+LOG-21639,2025-09-29,Correo Nacional,Hub Mendoza,Entregado con Demora,3,7,12.96,695,No
+LOG-21640,2025-09-29,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,2,23.79,152,No
+LOG-21641,2025-09-29,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,23.38,45,No
+LOG-21642,2025-09-29,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,22.37,250,No
+LOG-21643,2025-09-29,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,31.46,558,No
+LOG-21644,2025-09-30,Logística Express,Hub Mendoza,En Tránsito,2,6,30.39,419,No
+LOG-21645,2025-09-30,Flex Delivery,Hub Córdoba,En Tránsito,3,7,27.22,484,No
+LOG-21646,2025-09-30,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,32.81,1088,No
+LOG-21647,2025-09-30,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,23.36,1149,No
+LOG-21648,2025-09-30,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,10.77,614,No
+LOG-21649,2025-09-30,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,25.22,214,No
+LOG-21650,2025-10-01,Correo Nacional,Hub Rosario,Cancelado / Devolución,3,9,27.28,1182,Sí
+LOG-21651,2025-10-01,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,32.32,987,No
+LOG-21652,2025-10-01,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,28.11,612,No
+LOG-21653,2025-10-01,Logística Express,Hub Córdoba,En Tránsito,7,14,25.27,639,No
+LOG-21654,2025-10-01,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,25.01,143,No
+LOG-21655,2025-10-01,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,28.53,988,No
+LOG-21656,2025-10-02,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,18.95,453,No
+LOG-21657,2025-10-02,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,21.96,97,No
+LOG-21658,2025-10-02,Logística Express,Centro Distribución Buenos Aires,Cancelado / Devolución,5,9,31.96,635,No
+LOG-21659,2025-10-02,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,2,6,15.88,504,No
+LOG-21660,2025-10-02,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,4,22.29,459,No
+LOG-21661,2025-10-02,Flex Delivery,Hub Rosario,Entregado con Demora,5,7,17.7,169,No
+LOG-21662,2025-10-03,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,18.14,877,No
+LOG-21663,2025-10-03,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,20.64,546,No
+LOG-21664,2025-10-03,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,14.44,494,No
+LOG-21665,2025-10-03,Logística Express,Hub Córdoba,Entregado con Demora,3,5,12.24,725,No
+LOG-21666,2025-10-03,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,16.85,541,No
+LOG-21667,2025-10-03,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,21.52,68,No
+LOG-21668,2025-10-04,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,8.85,77,No
+LOG-21669,2025-10-04,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,24.98,925,No
+LOG-21670,2025-10-04,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,1,20.39,782,No
+LOG-21671,2025-10-04,Logística Express,Hub Mendoza,En Tránsito,3,6,28.11,189,No
+LOG-21672,2025-10-04,Correo Nacional,Hub Rosario,Cancelado / Devolución,3,7,11.96,43,Sí
+LOG-21673,2025-10-04,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,2,23.15,231,No
+LOG-21674,2025-10-05,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,5,6,17.28,1125,Sí
+LOG-21675,2025-10-05,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,16.53,1114,No
+LOG-21676,2025-10-05,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,21.27,461,No
+LOG-21677,2025-10-05,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,18.8,466,No
+LOG-21678,2025-10-05,Logística Express,Hub Córdoba,Entregado con Demora,2,5,15.64,637,Sí
+LOG-21679,2025-10-05,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,23.26,982,No
+LOG-21680,2025-10-06,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,14.0,555,No
+LOG-21681,2025-10-06,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,27.05,840,No
+LOG-21682,2025-10-06,Correo Nacional,Hub Rosario,Entregado con Demora,3,4,14.65,1068,Sí
+LOG-21683,2025-10-06,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,22.42,611,No
+LOG-21684,2025-10-06,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,25.34,309,No
+LOG-21685,2025-10-06,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,34.43,850,No
+LOG-21686,2025-10-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,19.01,793,No
+LOG-21687,2025-10-07,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,34.24,943,No
+LOG-21688,2025-10-07,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,17.41,380,No
+LOG-21689,2025-10-07,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,2,3,30.44,652,Sí
+LOG-21690,2025-10-07,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,25.79,365,No
+LOG-21691,2025-10-07,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,26.73,854,No
+LOG-21692,2025-10-08,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,33.23,131,No
+LOG-21693,2025-10-08,Flex Delivery,Hub Córdoba,Entregado con Demora,3,4,17.59,643,No
+LOG-21694,2025-10-08,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,18.82,902,No
+LOG-21695,2025-10-08,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,9.18,244,No
+LOG-21696,2025-10-08,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,34.31,358,No
+LOG-21697,2025-10-08,Logística Express,Hub Tucumán,En Tránsito,2,8,18.75,382,No
+LOG-21698,2025-10-09,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,17.83,497,No
+LOG-21699,2025-10-09,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,2,17.67,759,No
+LOG-21700,2025-10-09,Correo Nacional,Hub Tucumán,En Tránsito,7,14,27.76,102,No
+LOG-21701,2025-10-09,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,5,8,8.86,572,Sí
+LOG-21702,2025-10-09,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,25.79,280,No
+LOG-21703,2025-10-09,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,4,17.44,678,No
+LOG-21704,2025-10-10,Correo Nacional,Hub Rosario,Entregado con Demora,2,3,24.07,319,Sí
+LOG-21705,2025-10-10,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,34.65,1176,No
+LOG-21706,2025-10-10,Flex Delivery,Hub Mendoza,Entregado con Demora,2,6,23.3,808,No
+LOG-21707,2025-10-10,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,12.62,720,No
+LOG-21708,2025-10-10,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,9.63,409,No
+LOG-21709,2025-10-10,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,33.0,216,No
+LOG-21710,2025-10-11,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,25.13,126,No
+LOG-21711,2025-10-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,17.44,194,No
+LOG-21712,2025-10-11,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,20.14,1167,No
+LOG-21713,2025-10-11,Urban Transport,Hub Mendoza,Entregado con Demora,5,10,18.39,1184,Sí
+LOG-21714,2025-10-11,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,27.67,789,No
+LOG-21715,2025-10-11,Flex Delivery,Hub Tucumán,En Tránsito,3,7,12.16,887,No
+LOG-21716,2025-10-12,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,16.62,92,No
+LOG-21717,2025-10-12,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,22.96,396,No
+LOG-21718,2025-10-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,11.47,597,No
+LOG-21719,2025-10-12,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,26.29,990,No
+LOG-21720,2025-10-12,Logística Express,Hub Rosario,Entregado con Demora,3,6,13.11,402,No
+LOG-21721,2025-10-12,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,22.5,458,No
+LOG-21722,2025-10-13,Correo Nacional,Hub Mendoza,En Tránsito,7,12,31.93,518,No
+LOG-21723,2025-10-13,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,5,28.15,392,No
+LOG-21724,2025-10-13,Urban Transport,Hub Córdoba,Cancelado / Devolución,3,10,34.48,58,No
+LOG-21725,2025-10-13,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,3,9.23,480,No
+LOG-21726,2025-10-13,Logística Express,Hub Rosario,Entregado con Demora,7,10,28.14,691,Sí
+LOG-21727,2025-10-13,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,33.82,1192,No
+LOG-21728,2025-10-14,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,13.66,47,No
+LOG-21729,2025-10-14,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,31.0,582,No
+LOG-21730,2025-10-14,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,6,33.07,663,No
+LOG-21731,2025-10-14,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,33.66,58,No
+LOG-21732,2025-10-14,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,12.26,997,No
+LOG-21733,2025-10-14,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,17.44,174,No
+LOG-21734,2025-10-15,Urban Transport,Hub Rosario,En Tránsito,3,6,30.51,439,No
+LOG-21735,2025-10-15,Urban Transport,Hub Córdoba,Cancelado / Devolución,7,10,14.79,1091,Sí
+LOG-21736,2025-10-15,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,10,13.27,1021,No
+LOG-21737,2025-10-15,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,19.18,646,No
+LOG-21738,2025-10-15,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,9.47,1144,No
+LOG-21739,2025-10-15,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,21.99,1004,No
+LOG-21740,2025-10-16,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,22.21,994,No
+LOG-21741,2025-10-16,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,34.94,267,No
+LOG-21742,2025-10-16,Correo Nacional,Hub Mendoza,Entregado con Demora,3,4,17.31,515,Sí
+LOG-21743,2025-10-16,Urban Transport,Hub Mendoza,En Tránsito,5,9,17.26,299,No
+LOG-21744,2025-10-16,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,2,31.7,810,No
+LOG-21745,2025-10-16,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,2,4,18.74,1086,Sí
+LOG-21746,2025-10-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,19.04,446,No
+LOG-21747,2025-10-17,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,5,17.45,365,No
+LOG-21748,2025-10-17,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,18.83,197,No
+LOG-21749,2025-10-17,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,29.78,542,No
+LOG-21750,2025-10-17,Correo Nacional,Hub Rosario,En Tránsito,2,7,21.12,602,No
+LOG-21751,2025-10-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,24.69,371,No
+LOG-21752,2025-10-18,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,13.57,498,No
+LOG-21753,2025-10-18,Logística Express,Hub Rosario,En Tránsito,5,8,8.59,707,No
+LOG-21754,2025-10-18,Logística Express,Hub Mendoza,Entregado con Demora,3,4,24.06,1053,Sí
+LOG-21755,2025-10-18,Logística Express,Hub Mendoza,Entregado con Demora,2,3,14.52,615,Sí
+LOG-21756,2025-10-18,Correo Nacional,Hub Córdoba,Entregado con Demora,7,10,14.78,294,No
+LOG-21757,2025-10-18,Correo Nacional,Hub Rosario,Entregado con Demora,2,4,20.86,510,Sí
+LOG-21758,2025-10-19,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,22.97,200,No
+LOG-21759,2025-10-19,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,13.69,790,No
+LOG-21760,2025-10-19,Correo Nacional,Hub Tucumán,Entregado con Demora,5,10,26.25,483,No
+LOG-21761,2025-10-19,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,4,13.16,208,No
+LOG-21762,2025-10-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,18.43,1042,No
+LOG-21763,2025-10-19,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,20.13,828,No
+LOG-21764,2025-10-19,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,17.38,1103,No
+LOG-21765,2025-10-20,Correo Nacional,Hub Mendoza,Entregado con Demora,7,11,9.85,180,Sí
+LOG-21766,2025-10-20,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,21.07,764,No
+LOG-21767,2025-10-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,23.35,456,No
+LOG-21768,2025-10-20,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,34.36,568,No
+LOG-21769,2025-10-20,Correo Nacional,Hub Córdoba,Entregado con Demora,5,6,30.63,1040,No
+LOG-21770,2025-10-20,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,7,8,22.06,1031,No
+LOG-21771,2025-10-21,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,19.15,761,No
+LOG-21772,2025-10-21,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,10.13,591,No
+LOG-21773,2025-10-21,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,16.69,1058,No
+LOG-21774,2025-10-21,Correo Nacional,Hub Mendoza,Entregado con Demora,2,3,25.01,1059,No
+LOG-21775,2025-10-21,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,13.11,160,No
+LOG-21776,2025-10-21,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,23.68,261,No
+LOG-21777,2025-10-22,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,2,15.97,629,No
+LOG-21778,2025-10-22,Correo Nacional,Hub Tucumán,Cancelado / Devolución,7,9,26.42,510,No
+LOG-21779,2025-10-22,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,23.39,381,No
+LOG-21780,2025-10-22,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,29.27,1152,No
+LOG-21781,2025-10-22,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,16.25,739,No
+LOG-21782,2025-10-22,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,28.57,141,No
+LOG-21783,2025-10-23,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,20.46,1136,No
+LOG-21784,2025-10-23,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,10.7,252,No
+LOG-21785,2025-10-23,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,5,32.1,80,No
+LOG-21786,2025-10-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,32.42,246,No
+LOG-21787,2025-10-23,Urban Transport,Hub Rosario,En Tránsito,7,12,22.38,931,No
+LOG-21788,2025-10-23,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,21.44,914,No
+LOG-21789,2025-10-24,Correo Nacional,Hub Mendoza,Entregado con Demora,2,3,12.6,148,Sí
+LOG-21790,2025-10-24,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,33.58,114,No
+LOG-21791,2025-10-24,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,28.17,1191,No
+LOG-21792,2025-10-24,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,9.02,209,No
+LOG-21793,2025-10-24,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,12.14,1159,No
+LOG-21794,2025-10-24,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,17.94,731,No
+LOG-21795,2025-10-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,21.54,578,No
+LOG-21796,2025-10-25,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,8.88,689,No
+LOG-21797,2025-10-25,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,33.16,358,No
+LOG-21798,2025-10-25,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,27.95,613,No
+LOG-21799,2025-10-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,6,25.37,637,No
+LOG-21800,2025-10-25,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,8.77,690,No
+LOG-21801,2025-10-26,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,12.1,339,No
+LOG-21802,2025-10-26,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,33.47,753,No
+LOG-21803,2025-10-26,Correo Nacional,Hub Tucumán,En Tránsito,7,14,28.23,824,No
+LOG-21804,2025-10-26,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,28.94,365,No
+LOG-21805,2025-10-26,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,28.92,216,No
+LOG-21806,2025-10-26,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,23.84,1028,No
+LOG-21807,2025-10-27,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,20.31,952,No
+LOG-21808,2025-10-27,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,18.97,994,No
+LOG-21809,2025-10-27,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,32.5,1193,No
+LOG-21810,2025-10-27,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,5,19.03,176,No
+LOG-21811,2025-10-27,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,32.58,910,No
+LOG-21812,2025-10-27,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,12.36,1011,No
+LOG-21813,2025-10-28,Urban Transport,Hub Rosario,Entregado a Tiempo,3,2,15.75,131,No
+LOG-21814,2025-10-28,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,30.07,1164,No
+LOG-21815,2025-10-28,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,30.69,356,No
+LOG-21816,2025-10-28,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,2,12.47,1112,No
+LOG-21817,2025-10-28,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,26.18,843,No
+LOG-21818,2025-10-28,Logística Express,Hub Rosario,Entregado con Demora,2,5,14.21,100,Sí
+LOG-21819,2025-10-29,Flex Delivery,Hub Córdoba,Entregado con Demora,2,6,32.28,933,No
+LOG-21820,2025-10-29,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,15.3,1032,No
+LOG-21821,2025-10-29,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,5,12.03,17,No
+LOG-21822,2025-10-29,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,22.34,477,No
+LOG-21823,2025-10-29,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,22.57,985,No
+LOG-21824,2025-10-29,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,12.03,435,No
+LOG-21825,2025-10-30,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,20.68,1006,No
+LOG-21826,2025-10-30,Correo Nacional,Hub Tucumán,Entregado con Demora,7,11,34.3,661,No
+LOG-21827,2025-10-30,Correo Nacional,Hub Córdoba,Entregado con Demora,2,5,19.4,995,Sí
+LOG-21828,2025-10-30,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,18.75,295,No
+LOG-21829,2025-10-30,Urban Transport,Centro Distribución Buenos Aires,En Tránsito,7,13,21.16,799,No
+LOG-21830,2025-10-30,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,23.49,722,No
+LOG-21831,2025-10-31,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,33.44,446,No
+LOG-21832,2025-10-31,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,15.48,983,No
+LOG-21833,2025-10-31,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,4,26.62,1165,No
+LOG-21834,2025-10-31,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,21.89,766,No
+LOG-21835,2025-10-31,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,11.96,970,No
+LOG-21836,2025-10-31,Flex Delivery,Hub Tucumán,Entregado con Demora,2,7,20.62,279,Sí
+LOG-21837,2025-11-01,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,16.21,839,No
+LOG-21838,2025-11-01,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,14.13,645,No
+LOG-21839,2025-11-01,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,1,13.83,620,No
+LOG-21840,2025-11-01,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,21.7,28,No
+LOG-21841,2025-11-01,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,24.46,375,No
+LOG-21842,2025-11-01,Urban Transport,Hub Mendoza,Entregado con Demora,7,10,13.16,409,Sí
+LOG-21843,2025-11-02,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,7,10.74,486,No
+LOG-21844,2025-11-02,Logística Express,Hub Rosario,Entregado con Demora,2,3,21.98,429,Sí
+LOG-21845,2025-11-02,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,19.39,791,No
+LOG-21846,2025-11-02,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,3,7,12.25,1090,Sí
+LOG-21847,2025-11-02,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,32.97,765,No
+LOG-21848,2025-11-02,Correo Nacional,Hub Mendoza,Entregado con Demora,3,8,32.89,293,Sí
+LOG-21849,2025-11-03,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,24.89,632,No
+LOG-21850,2025-11-03,Logística Express,Hub Tucumán,En Tránsito,5,7,27.26,289,No
+LOG-21851,2025-11-03,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,14.87,732,No
+LOG-21852,2025-11-03,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,19.48,289,No
+LOG-21853,2025-11-03,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,2,7,10.44,359,Sí
+LOG-21854,2025-11-03,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,7,31.35,168,Sí
+LOG-21855,2025-11-04,Flex Delivery,Hub Córdoba,Cancelado / Devolución,3,6,31.36,1104,Sí
+LOG-21856,2025-11-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,7,9,33.67,898,No
+LOG-21857,2025-11-04,Logística Express,Hub Rosario,Entregado con Demora,7,10,26.92,307,Sí
+LOG-21858,2025-11-04,Urban Transport,Hub Córdoba,Entregado con Demora,3,7,9.26,659,Sí
+LOG-21859,2025-11-04,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,31.91,387,No
+LOG-21860,2025-11-04,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,34.23,779,No
+LOG-21861,2025-11-05,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,23.93,882,No
+LOG-21862,2025-11-05,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,27.33,149,No
+LOG-21863,2025-11-05,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,12.49,1009,No
+LOG-21864,2025-11-05,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,18.25,593,No
+LOG-21865,2025-11-05,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,12.48,1189,No
+LOG-21866,2025-11-05,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,12.15,995,No
+LOG-21867,2025-11-06,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,33.09,1030,No
+LOG-21868,2025-11-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,9.43,1026,No
+LOG-21869,2025-11-06,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,24.0,1071,No
+LOG-21870,2025-11-06,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,29.02,101,No
+LOG-21871,2025-11-06,Correo Nacional,Hub Mendoza,Entregado con Demora,2,5,31.08,154,Sí
+LOG-21872,2025-11-06,Logística Express,Hub Mendoza,En Tránsito,7,13,33.84,204,No
+LOG-21873,2025-11-07,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,33.08,1143,No
+LOG-21874,2025-11-07,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,21.42,287,No
+LOG-21875,2025-11-07,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,21.04,854,No
+LOG-21876,2025-11-07,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,22.5,93,No
+LOG-21877,2025-11-07,Logística Express,Hub Mendoza,Entregado con Demora,2,7,16.78,1030,Sí
+LOG-21878,2025-11-07,Flex Delivery,Hub Tucumán,Entregado con Demora,7,12,25.16,411,No
+LOG-21879,2025-11-08,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,21.9,849,No
+LOG-21880,2025-11-08,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,28.39,187,No
+LOG-21881,2025-11-08,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,25.03,283,No
+LOG-21882,2025-11-08,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,34.59,798,No
+LOG-21883,2025-11-08,Correo Nacional,Hub Mendoza,Entregado con Demora,7,11,31.91,320,Sí
+LOG-21884,2025-11-08,Logística Express,Hub Córdoba,En Tránsito,7,12,8.56,364,No
+LOG-21885,2025-11-09,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,2,30.58,225,No
+LOG-21886,2025-11-09,Logística Express,Hub Córdoba,Entregado con Demora,2,4,18.67,1122,No
+LOG-21887,2025-11-09,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,14.62,862,No
+LOG-21888,2025-11-09,Urban Transport,Hub Córdoba,Entregado con Demora,7,8,22.17,99,Sí
+LOG-21889,2025-11-09,Flex Delivery,Centro Distribución Buenos Aires,Cancelado / Devolución,2,7,27.0,42,Sí
+LOG-21890,2025-11-09,Urban Transport,Centro Distribución Buenos Aires,En Tránsito,5,8,21.95,497,No
+LOG-21891,2025-11-10,Logística Express,Hub Córdoba,Cancelado / Devolución,2,6,15.79,735,Sí
+LOG-21892,2025-11-10,Logística Express,Hub Córdoba,Cancelado / Devolución,5,9,25.8,704,Sí
+LOG-21893,2025-11-10,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,33.56,745,No
+LOG-21894,2025-11-10,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,17.06,861,No
+LOG-21895,2025-11-10,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,21.21,664,No
+LOG-21896,2025-11-10,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,16.68,839,No
+LOG-21897,2025-11-11,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,19.56,25,No
+LOG-21898,2025-11-11,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,20.96,217,No
+LOG-21899,2025-11-11,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,25.31,947,No
+LOG-21900,2025-11-11,Logística Express,Hub Tucumán,Entregado con Demora,2,6,29.36,879,Sí
+LOG-21901,2025-11-11,Urban Transport,Hub Córdoba,Entregado con Demora,7,12,10.51,456,Sí
+LOG-21902,2025-11-11,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,22.17,1044,No
+LOG-21903,2025-11-12,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,12.26,399,No
+LOG-21904,2025-11-12,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,30.88,260,No
+LOG-21905,2025-11-12,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,31.8,765,No
+LOG-21906,2025-11-12,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,28.83,516,No
+LOG-21907,2025-11-12,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,11.1,1001,No
+LOG-21908,2025-11-12,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,18.05,1186,No
+LOG-21909,2025-11-12,Urban Transport,Hub Mendoza,Cancelado / Devolución,3,9,11.64,483,Sí
+LOG-21910,2025-11-13,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,27.14,766,No
+LOG-21911,2025-11-13,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,2,21.32,843,No
+LOG-21912,2025-11-13,Correo Nacional,Hub Córdoba,Entregado con Demora,7,12,20.21,329,Sí
+LOG-21913,2025-11-13,Logística Express,Hub Rosario,Entregado con Demora,2,4,22.41,406,Sí
+LOG-21914,2025-11-13,Logística Express,Hub Córdoba,Entregado con Demora,5,8,20.89,1080,Sí
+LOG-21915,2025-11-13,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,12.55,1014,No
+LOG-21916,2025-11-14,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,33.06,818,No
+LOG-21917,2025-11-14,Correo Nacional,Hub Córdoba,Entregado con Demora,3,8,22.21,453,No
+LOG-21918,2025-11-14,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,8.88,866,No
+LOG-21919,2025-11-14,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,9.88,1156,No
+LOG-21920,2025-11-14,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,1,12.83,383,No
+LOG-21921,2025-11-14,Urban Transport,Hub Tucumán,Entregado a Tiempo,7,7,21.73,891,No
+LOG-21922,2025-11-15,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,29.82,689,No
+LOG-21923,2025-11-15,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,16.14,281,No
+LOG-21924,2025-11-15,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,12.47,786,No
+LOG-21925,2025-11-15,Correo Nacional,Hub Mendoza,En Tránsito,3,10,27.53,1038,No
+LOG-21926,2025-11-15,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,23.24,1164,No
+LOG-21927,2025-11-15,Logística Express,Hub Mendoza,Entregado a Tiempo,2,1,21.66,996,No
+LOG-21928,2025-11-16,Logística Express,Hub Mendoza,Entregado a Tiempo,3,3,30.67,478,No
+LOG-21929,2025-11-16,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,12.3,391,No
+LOG-21930,2025-11-16,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,2,18.03,366,No
+LOG-21931,2025-11-16,Urban Transport,Hub Tucumán,En Tránsito,5,9,13.91,180,No
+LOG-21932,2025-11-16,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,24.43,610,No
+LOG-21933,2025-11-16,Logística Express,Hub Rosario,En Tránsito,5,7,17.2,43,No
+LOG-21934,2025-11-17,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,7,25.94,867,No
+LOG-21935,2025-11-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,6,20.86,755,No
+LOG-21936,2025-11-17,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,2,33.62,843,No
+LOG-21937,2025-11-17,Correo Nacional,Hub Tucumán,Entregado a Tiempo,3,3,17.14,894,No
+LOG-21938,2025-11-17,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,30.35,82,No
+LOG-21939,2025-11-17,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,18.01,558,No
+LOG-21940,2025-11-18,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,11.59,214,No
+LOG-21941,2025-11-18,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,14.26,800,No
+LOG-21942,2025-11-18,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,27.82,661,No
+LOG-21943,2025-11-18,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,6,16.69,889,No
+LOG-21944,2025-11-18,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,20.12,1086,No
+LOG-21945,2025-11-18,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,30.42,487,No
+LOG-21946,2025-11-19,Urban Transport,Hub Tucumán,Entregado con Demora,5,6,20.21,1125,Sí
+LOG-21947,2025-11-19,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,13.68,457,No
+LOG-21948,2025-11-19,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,13.46,481,No
+LOG-21949,2025-11-19,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,32.95,1030,No
+LOG-21950,2025-11-19,Logística Express,Hub Rosario,Entregado con Demora,7,12,10.16,841,No
+LOG-21951,2025-11-19,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,33.84,148,No
+LOG-21952,2025-11-20,Urban Transport,Hub Tucumán,Entregado a Tiempo,2,1,13.65,418,No
+LOG-21953,2025-11-20,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,28.65,737,No
+LOG-21954,2025-11-20,Logística Express,Hub Córdoba,Entregado a Tiempo,5,5,15.94,767,No
+LOG-21955,2025-11-20,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,18.16,950,No
+LOG-21956,2025-11-20,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,16.45,514,No
+LOG-21957,2025-11-20,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,11.22,119,No
+LOG-21958,2025-11-21,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,21.51,750,No
+LOG-21959,2025-11-21,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,34.98,446,No
+LOG-21960,2025-11-21,Logística Express,Hub Mendoza,Entregado a Tiempo,3,2,27.64,66,No
+LOG-21961,2025-11-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,3,22.52,1184,No
+LOG-21962,2025-11-21,Logística Express,Hub Córdoba,Entregado con Demora,2,7,17.22,98,Sí
+LOG-21963,2025-11-21,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,7,16.81,910,No
+LOG-21964,2025-11-22,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,30.42,575,No
+LOG-21965,2025-11-22,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,10.55,509,No
+LOG-21966,2025-11-22,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,13.09,892,No
+LOG-21967,2025-11-22,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,31.73,640,No
+LOG-21968,2025-11-22,Correo Nacional,Hub Rosario,Entregado con Demora,2,7,18.62,763,Sí
+LOG-21969,2025-11-22,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,18.98,277,No
+LOG-21970,2025-11-23,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,24.34,534,No
+LOG-21971,2025-11-23,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,29.24,729,No
+LOG-21972,2025-11-23,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,26.66,1020,No
+LOG-21973,2025-11-23,Logística Express,Hub Rosario,Entregado con Demora,5,7,29.32,778,No
+LOG-21974,2025-11-23,Correo Nacional,Hub Rosario,Entregado con Demora,2,5,13.46,1188,Sí
+LOG-21975,2025-11-23,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,33.15,60,No
+LOG-21976,2025-11-24,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,14.79,1197,No
+LOG-21977,2025-11-24,Urban Transport,Hub Córdoba,Entregado a Tiempo,5,4,23.91,745,No
+LOG-21978,2025-11-24,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,12.14,370,No
+LOG-21979,2025-11-24,Urban Transport,Hub Tucumán,Entregado a Tiempo,7,7,13.15,161,No
+LOG-21980,2025-11-24,Correo Nacional,Hub Rosario,Entregado con Demora,3,8,19.22,502,No
+LOG-21981,2025-11-24,Logística Express,Hub Córdoba,Entregado con Demora,2,4,29.86,1179,No
+LOG-21982,2025-11-25,Correo Nacional,Hub Córdoba,Entregado a Tiempo,3,3,14.55,598,No
+LOG-21983,2025-11-25,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,21.6,995,No
+LOG-21984,2025-11-25,Logística Express,Hub Tucumán,Entregado a Tiempo,3,2,25.39,234,No
+LOG-21985,2025-11-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,33.9,379,No
+LOG-21986,2025-11-25,Flex Delivery,Hub Mendoza,Entregado a Tiempo,5,5,33.79,998,No
+LOG-21987,2025-11-25,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,5,27.97,408,No
+LOG-21988,2025-11-26,Logística Express,Hub Córdoba,Entregado con Demora,5,6,27.08,918,Sí
+LOG-21989,2025-11-26,Logística Express,Hub Mendoza,Entregado con Demora,7,11,13.99,851,Sí
+LOG-21990,2025-11-26,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,12.61,656,No
+LOG-21991,2025-11-26,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,33.61,591,No
+LOG-21992,2025-11-26,Correo Nacional,Centro Distribución Buenos Aires,En Tránsito,7,9,16.31,314,No
+LOG-21993,2025-11-26,Correo Nacional,Hub Mendoza,Entregado con Demora,3,7,12.99,371,Sí
+LOG-21994,2025-11-27,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,9.08,66,No
+LOG-21995,2025-11-27,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,31.72,865,No
+LOG-21996,2025-11-27,Correo Nacional,Hub Rosario,En Tránsito,7,10,24.5,1073,No
+LOG-21997,2025-11-27,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,27.97,242,No
+LOG-21998,2025-11-27,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,26.82,703,No
+LOG-21999,2025-11-27,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,2,32.6,945,No
+LOG-22000,2025-11-28,Flex Delivery,Hub Córdoba,Entregado con Demora,5,8,14.57,523,Sí
+LOG-22001,2025-11-28,Correo Nacional,Hub Tucumán,Entregado con Demora,5,8,22.25,219,Sí
+LOG-22002,2025-11-28,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,18.94,927,No
+LOG-22003,2025-11-28,Correo Nacional,Hub Córdoba,Entregado con Demora,3,5,13.32,854,Sí
+LOG-22004,2025-11-28,Flex Delivery,Hub Córdoba,Entregado a Tiempo,7,6,18.46,224,No
+LOG-22005,2025-11-28,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,16.41,723,No
+LOG-22006,2025-11-29,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,33.86,1019,No
+LOG-22007,2025-11-29,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,27.29,146,No
+LOG-22008,2025-11-29,Logística Express,Hub Mendoza,Cancelado / Devolución,2,4,19.79,875,Sí
+LOG-22009,2025-11-29,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,17.58,351,No
+LOG-22010,2025-11-29,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,27.78,448,No
+LOG-22011,2025-11-29,Urban Transport,Hub Rosario,Entregado con Demora,2,6,15.21,405,Sí
+LOG-22012,2025-11-30,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,18.18,581,No
+LOG-22013,2025-11-30,Logística Express,Hub Córdoba,Entregado a Tiempo,2,2,14.05,1042,No
+LOG-22014,2025-11-30,Correo Nacional,Hub Córdoba,Entregado con Demora,3,7,33.03,935,No
+LOG-22015,2025-11-30,Correo Nacional,Hub Tucumán,Entregado con Demora,5,9,9.26,666,Sí
+LOG-22016,2025-11-30,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,17.27,84,No
+LOG-22017,2025-11-30,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,34.05,936,No
+LOG-22018,2025-12-01,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,9.92,1023,No
+LOG-22019,2025-12-01,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,22.98,950,No
+LOG-22020,2025-12-01,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,22.59,954,No
+LOG-22021,2025-12-01,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,16.63,315,No
+LOG-22022,2025-12-01,Logística Express,Hub Mendoza,Entregado a Tiempo,5,5,18.79,765,No
+LOG-22023,2025-12-01,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,9.67,85,No
+LOG-22024,2025-12-02,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,30.95,777,No
+LOG-22025,2025-12-02,Correo Nacional,Hub Mendoza,En Tránsito,2,5,25.44,676,No
+LOG-22026,2025-12-02,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,25.25,669,No
+LOG-22027,2025-12-02,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,30.6,281,No
+LOG-22028,2025-12-02,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,3,4,21.77,1089,Sí
+LOG-22029,2025-12-02,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,10.37,406,No
+LOG-22030,2025-12-03,Urban Transport,Hub Rosario,Entregado a Tiempo,7,6,15.98,1004,No
+LOG-22031,2025-12-03,Flex Delivery,Hub Mendoza,Entregado a Tiempo,7,6,13.88,220,No
+LOG-22032,2025-12-03,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,1,33.4,476,No
+LOG-22033,2025-12-03,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,30.12,796,No
+LOG-22034,2025-12-03,Flex Delivery,Hub Rosario,Entregado a Tiempo,7,6,18.92,982,No
+LOG-22035,2025-12-03,Flex Delivery,Hub Mendoza,En Tránsito,2,5,21.96,1162,No
+LOG-22036,2025-12-04,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,23.81,191,No
+LOG-22037,2025-12-04,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,32.16,283,No
+LOG-22038,2025-12-04,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,14.24,817,No
+LOG-22039,2025-12-04,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,21.88,341,No
+LOG-22040,2025-12-04,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,13.85,380,No
+LOG-22041,2025-12-04,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,1,30.48,112,No
+LOG-22042,2025-12-05,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,34.13,153,No
+LOG-22043,2025-12-05,Logística Express,Hub Rosario,Entregado con Demora,2,6,34.09,963,No
+LOG-22044,2025-12-05,Urban Transport,Hub Rosario,Entregado a Tiempo,2,2,13.89,224,No
+LOG-22045,2025-12-05,Flex Delivery,Hub Córdoba,Entregado a Tiempo,3,3,17.36,1190,No
+LOG-22046,2025-12-05,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,13.81,1088,No
+LOG-22047,2025-12-05,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,15.65,742,No
+LOG-22048,2025-12-06,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,20.68,377,No
+LOG-22049,2025-12-06,Flex Delivery,Centro Distribución Buenos Aires,En Tránsito,5,9,34.04,446,No
+LOG-22050,2025-12-06,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,20.11,1188,No
+LOG-22051,2025-12-06,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,24.63,1174,No
+LOG-22052,2025-12-06,Logística Express,Hub Tucumán,Entregado a Tiempo,2,1,22.37,29,No
+LOG-22053,2025-12-06,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,1,25.83,463,No
+LOG-22054,2025-12-06,Urban Transport,Hub Mendoza,Entregado a Tiempo,2,1,26.64,727,No
+LOG-22055,2025-12-07,Flex Delivery,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,33.15,141,No
+LOG-22056,2025-12-07,Logística Express,Hub Mendoza,Entregado con Demora,2,7,11.76,199,No
+LOG-22057,2025-12-07,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,10.1,492,No
+LOG-22058,2025-12-07,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,16.22,525,No
+LOG-22059,2025-12-07,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,30.21,133,No
+LOG-22060,2025-12-07,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,18.44,334,No
+LOG-22061,2025-12-08,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,18.44,172,No
+LOG-22062,2025-12-08,Logística Express,Hub Rosario,Entregado con Demora,5,9,17.26,302,Sí
+LOG-22063,2025-12-08,Flex Delivery,Hub Tucumán,Entregado a Tiempo,2,1,33.57,673,No
+LOG-22064,2025-12-08,Correo Nacional,Hub Córdoba,Entregado a Tiempo,7,7,22.23,799,No
+LOG-22065,2025-12-08,Logística Express,Hub Córdoba,Entregado a Tiempo,3,3,19.58,1001,No
+LOG-22066,2025-12-08,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,16.6,381,No
+LOG-22067,2025-12-09,Logística Express,Hub Rosario,Entregado a Tiempo,5,4,32.83,816,No
+LOG-22068,2025-12-09,Flex Delivery,Hub Rosario,Entregado a Tiempo,3,3,16.33,865,No
+LOG-22069,2025-12-09,Urban Transport,Hub Tucumán,Cancelado / Devolución,2,8,34.11,834,Sí
+LOG-22070,2025-12-09,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,34.74,84,No
+LOG-22071,2025-12-09,Logística Express,Hub Tucumán,Entregado a Tiempo,5,4,16.62,544,No
+LOG-22072,2025-12-09,Flex Delivery,Hub Tucumán,Entregado con Demora,2,7,22.87,1007,Sí
+LOG-22073,2025-12-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,15.43,49,No
+LOG-22074,2025-12-10,Correo Nacional,Hub Mendoza,Entregado con Demora,5,8,13.29,22,Sí
+LOG-22075,2025-12-10,Logística Express,Hub Mendoza,Entregado con Demora,3,6,14.85,672,No
+LOG-22076,2025-12-10,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,25.43,1182,No
+LOG-22077,2025-12-10,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,2,21.87,910,No
+LOG-22078,2025-12-10,Logística Express,Hub Tucumán,Entregado con Demora,3,7,9.0,99,Sí
+LOG-22079,2025-12-11,Logística Express,Hub Córdoba,Entregado a Tiempo,7,7,12.74,678,No
+LOG-22080,2025-12-11,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,32.14,1075,No
+LOG-22081,2025-12-11,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,2,14.04,1058,No
+LOG-22082,2025-12-11,Logística Express,Centro Distribución Buenos Aires,Entregado con Demora,5,7,13.89,707,Sí
+LOG-22083,2025-12-11,Urban Transport,Centro Distribución Buenos Aires,Entregado con Demora,5,8,33.45,200,Sí
+LOG-22084,2025-12-11,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,18.56,1046,No
+LOG-22085,2025-12-12,Correo Nacional,Hub Córdoba,Entregado a Tiempo,2,1,29.41,554,No
+LOG-22086,2025-12-12,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,7,6,27.36,801,No
+LOG-22087,2025-12-12,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,19.79,601,No
+LOG-22088,2025-12-12,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,10.58,1038,No
+LOG-22089,2025-12-12,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,7,7,21.5,756,No
+LOG-22090,2025-12-12,Urban Transport,Hub Rosario,Entregado con Demora,7,8,22.79,61,Sí
+LOG-22091,2025-12-13,Correo Nacional,Hub Mendoza,Entregado con Demora,7,9,16.68,601,Sí
+LOG-22092,2025-12-13,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,25.28,410,No
+LOG-22093,2025-12-13,Flex Delivery,Hub Rosario,En Tránsito,3,9,26.05,35,No
+LOG-22094,2025-12-13,Correo Nacional,Hub Rosario,Entregado con Demora,3,6,16.09,663,No
+LOG-22095,2025-12-13,Logística Express,Hub Mendoza,En Tránsito,5,7,23.65,389,No
+LOG-22096,2025-12-13,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,5,4,24.53,1045,No
+LOG-22097,2025-12-14,Flex Delivery,Hub Mendoza,Entregado a Tiempo,2,1,14.88,524,No
+LOG-22098,2025-12-14,Logística Express,Hub Mendoza,Entregado con Demora,2,5,14.35,722,Sí
+LOG-22099,2025-12-14,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,4,9.68,991,No
+LOG-22100,2025-12-14,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,29.23,887,No
+LOG-22101,2025-12-14,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,19.47,194,No
+LOG-22102,2025-12-14,Logística Express,Hub Rosario,Entregado a Tiempo,7,6,27.05,259,No
+LOG-22103,2025-12-15,Correo Nacional,Hub Tucumán,Entregado a Tiempo,2,2,29.17,852,No
+LOG-22104,2025-12-15,Logística Express,Hub Córdoba,En Tránsito,5,10,32.09,128,No
+LOG-22105,2025-12-15,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,4,25.31,1176,No
+LOG-22106,2025-12-15,Urban Transport,Centro Distribución Buenos Aires,Entregado a Tiempo,5,5,13.69,131,No
+LOG-22107,2025-12-15,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,28.25,938,No
+LOG-22108,2025-12-15,Correo Nacional,Hub Mendoza,Entregado a Tiempo,2,2,20.38,356,No
+LOG-22109,2025-12-16,Correo Nacional,Hub Córdoba,Entregado a Tiempo,5,5,12.61,796,No
+LOG-22110,2025-12-16,Correo Nacional,Hub Tucumán,Entregado con Demora,5,7,8.99,1185,Sí
+LOG-22111,2025-12-16,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,34.7,898,No
+LOG-22112,2025-12-16,Flex Delivery,Hub Mendoza,Entregado con Demora,3,5,9.75,378,Sí
+LOG-22113,2025-12-16,Logística Express,Hub Mendoza,Entregado a Tiempo,2,2,16.34,1044,No
+LOG-22114,2025-12-16,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,14.52,507,No
+LOG-22115,2025-12-17,Flex Delivery,Hub Rosario,Entregado con Demora,7,10,15.12,55,Sí
+LOG-22116,2025-12-17,Logística Express,Hub Rosario,En Tránsito,3,8,31.7,22,No
+LOG-22117,2025-12-17,Flex Delivery,Hub Mendoza,Entregado con Demora,5,9,12.17,1061,Sí
+LOG-22118,2025-12-17,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,34.96,1066,No
+LOG-22119,2025-12-17,Logística Express,Hub Mendoza,Entregado a Tiempo,7,6,13.49,434,No
+LOG-22120,2025-12-17,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,6,20.07,554,No
+LOG-22121,2025-12-18,Flex Delivery,Hub Rosario,Entregado a Tiempo,2,2,19.64,588,No
+LOG-22122,2025-12-18,Correo Nacional,Hub Mendoza,En Tránsito,7,12,12.67,1186,No
+LOG-22123,2025-12-18,Logística Express,Hub Rosario,Entregado a Tiempo,3,3,16.92,624,No
+LOG-22124,2025-12-18,Logística Express,Hub Mendoza,Entregado a Tiempo,5,4,13.73,902,No
+LOG-22125,2025-12-18,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,29.37,1001,No
+LOG-22126,2025-12-18,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,21.97,819,No
+LOG-22127,2025-12-19,Flex Delivery,Centro Distribución Buenos Aires,Entregado con Demora,7,10,21.18,851,No
+LOG-22128,2025-12-19,Urban Transport,Hub Rosario,Entregado con Demora,7,9,29.55,309,Sí
+LOG-22129,2025-12-19,Logística Express,Hub Córdoba,Entregado a Tiempo,2,1,14.02,112,No
+LOG-22130,2025-12-19,Logística Express,Hub Tucumán,Cancelado / Devolución,7,11,16.27,822,Sí
+LOG-22131,2025-12-19,Logística Express,Hub Tucumán,Entregado con Demora,3,5,29.61,755,Sí
+LOG-22132,2025-12-19,Urban Transport,Hub Tucumán,Entregado con Demora,3,7,23.72,127,No
+LOG-22133,2025-12-20,Logística Express,Hub Tucumán,Entregado a Tiempo,2,2,19.61,532,No
+LOG-22134,2025-12-20,Correo Nacional,Centro Distribución Buenos Aires,Entregado a Tiempo,3,3,15.74,627,No
+LOG-22135,2025-12-20,Flex Delivery,Hub Tucumán,Entregado con Demora,5,10,16.92,622,No
+LOG-22136,2025-12-20,Logística Express,Hub Tucumán,Entregado a Tiempo,3,3,28.01,458,No
+LOG-22137,2025-12-20,Flex Delivery,Hub Córdoba,Entregado a Tiempo,5,4,26.75,1076,No
+LOG-22138,2025-12-20,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,14.38,695,No
+LOG-22139,2025-12-21,Logística Express,Hub Córdoba,Entregado a Tiempo,3,2,25.81,501,No
+LOG-22140,2025-12-21,Urban Transport,Hub Córdoba,Entregado a Tiempo,2,1,17.97,166,No
+LOG-22141,2025-12-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,3,2,9.37,496,No
+LOG-22142,2025-12-21,Flex Delivery,Hub Rosario,Entregado a Tiempo,5,5,15.57,103,No
+LOG-22143,2025-12-21,Urban Transport,Hub Mendoza,Entregado a Tiempo,5,4,17.99,362,No
+LOG-22144,2025-12-21,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,22.07,147,No
+LOG-22145,2025-12-22,Urban Transport,Hub Tucumán,Entregado con Demora,7,12,34.69,424,No
+LOG-22146,2025-12-22,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,5,10,34.66,533,Sí
+LOG-22147,2025-12-22,Correo Nacional,Hub Tucumán,Entregado con Demora,5,8,17.39,170,No
+LOG-22148,2025-12-22,Urban Transport,Hub Córdoba,Entregado a Tiempo,3,2,15.13,231,No
+LOG-22149,2025-12-22,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,26.57,771,No
+LOG-22150,2025-12-22,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,16.75,156,No
+LOG-22151,2025-12-23,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,5,17.15,933,No
+LOG-22152,2025-12-23,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,14.0,98,No
+LOG-22153,2025-12-23,Logística Express,Hub Mendoza,Entregado con Demora,2,7,31.76,783,Sí
+LOG-22154,2025-12-23,Correo Nacional,Hub Rosario,Entregado a Tiempo,2,2,30.36,809,No
+LOG-22155,2025-12-23,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,2,32.63,862,No
+LOG-22156,2025-12-23,Flex Delivery,Hub Rosario,Cancelado / Devolución,5,9,17.31,194,Sí
+LOG-22157,2025-12-24,Logística Express,Hub Rosario,Entregado a Tiempo,2,1,13.19,953,No
+LOG-22158,2025-12-24,Logística Express,Hub Córdoba,Entregado a Tiempo,5,4,10.81,1125,No
+LOG-22159,2025-12-24,Logística Express,Hub Tucumán,Entregado a Tiempo,7,7,20.72,1053,No
+LOG-22160,2025-12-24,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,30.62,19,No
+LOG-22161,2025-12-24,Logística Express,Hub Tucumán,Entregado a Tiempo,5,5,22.95,441,No
+LOG-22162,2025-12-24,Correo Nacional,Hub Tucumán,Cancelado / Devolución,2,9,14.28,715,No
+LOG-22163,2025-12-25,Urban Transport,Hub Tucumán,Entregado a Tiempo,3,3,29.35,1001,No
+LOG-22164,2025-12-25,Correo Nacional,Hub Rosario,Entregado a Tiempo,5,5,21.25,538,No
+LOG-22165,2025-12-25,Logística Express,Hub Rosario,Entregado a Tiempo,3,2,29.6,603,No
+LOG-22166,2025-12-25,Correo Nacional,Hub Mendoza,Entregado con Demora,7,8,12.27,146,Sí
+LOG-22167,2025-12-25,Correo Nacional,Hub Mendoza,Entregado a Tiempo,3,3,16.82,275,No
+LOG-22168,2025-12-25,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,2,1,28.74,119,No
+LOG-22169,2025-12-26,Urban Transport,Hub Tucumán,Entregado a Tiempo,5,4,30.91,1193,No
+LOG-22170,2025-12-26,Flex Delivery,Hub Rosario,Entregado con Demora,5,9,9.76,777,No
+LOG-22171,2025-12-26,Logística Express,Hub Rosario,Entregado a Tiempo,7,7,8.71,167,No
+LOG-22172,2025-12-26,Logística Express,Hub Rosario,Entregado a Tiempo,5,5,21.99,1048,No
+LOG-22173,2025-12-26,Logística Express,Hub Córdoba,Entregado con Demora,7,9,31.98,408,No
+LOG-22174,2025-12-26,Correo Nacional,Hub Mendoza,Entregado a Tiempo,5,4,16.48,506,No
+LOG-22175,2025-12-27,Logística Express,Hub Tucumán,Entregado a Tiempo,7,6,9.21,1037,No
+LOG-22176,2025-12-27,Urban Transport,Hub Tucumán,En Tránsito,2,4,12.22,977,No
+LOG-22177,2025-12-27,Correo Nacional,Hub Tucumán,Entregado a Tiempo,7,7,8.72,383,No
+LOG-22178,2025-12-27,Urban Transport,Hub Rosario,Entregado a Tiempo,3,3,27.06,382,No
+LOG-22179,2025-12-27,Flex Delivery,Hub Tucumán,Entregado con Demora,5,6,26.11,506,No
+LOG-22180,2025-12-27,Correo Nacional,Hub Córdoba,Entregado con Demora,7,8,19.78,827,Sí
+LOG-22181,2025-12-28,Correo Nacional,Hub Rosario,Entregado a Tiempo,7,6,21.7,396,No
+LOG-22182,2025-12-28,Urban Transport,Hub Mendoza,Entregado con Demora,7,12,18.51,264,Sí
+LOG-22183,2025-12-28,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,27.17,1078,No
+LOG-22184,2025-12-28,Flex Delivery,Hub Tucumán,Entregado a Tiempo,7,7,17.84,312,No
+LOG-22185,2025-12-28,Flex Delivery,Hub Tucumán,Entregado a Tiempo,3,3,15.58,643,No
+LOG-22186,2025-12-28,Logística Express,Hub Mendoza,Entregado a Tiempo,7,7,21.41,328,No
+LOG-22187,2025-12-29,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,5,26.84,470,No
+LOG-22188,2025-12-29,Correo Nacional,Hub Tucumán,Entregado con Demora,7,10,30.85,811,Sí
+LOG-22189,2025-12-29,Logística Express,Hub Córdoba,Entregado con Demora,7,9,26.7,727,No
+LOG-22190,2025-12-29,Correo Nacional,Hub Mendoza,Entregado a Tiempo,7,7,23.79,796,No
+LOG-22191,2025-12-29,Logística Express,Hub Rosario,Entregado a Tiempo,2,2,17.0,83,No
+LOG-22192,2025-12-29,Flex Delivery,Hub Mendoza,Entregado a Tiempo,3,3,14.77,1097,No
+LOG-22193,2025-12-30,Flex Delivery,Hub Tucumán,Entregado a Tiempo,5,4,11.83,807,No
+LOG-22194,2025-12-30,Correo Nacional,Hub Rosario,Entregado a Tiempo,3,3,25.61,522,No
+LOG-22195,2025-12-30,Logística Express,Centro Distribución Buenos Aires,Entregado a Tiempo,3,2,15.28,1163,No
+LOG-22196,2025-12-30,Urban Transport,Hub Mendoza,En Tránsito,3,10,19.85,713,No
+LOG-22197,2025-12-30,Correo Nacional,Centro Distribución Buenos Aires,Entregado con Demora,3,6,27.97,790,Sí
+LOG-22198,2025-12-30,Logística Express,Hub Córdoba,Entregado a Tiempo,7,6,29.86,21,No
+LOG-22199,2025-12-31,Correo Nacional,Hub Tucumán,Entregado a Tiempo,5,4,26.71,870,No

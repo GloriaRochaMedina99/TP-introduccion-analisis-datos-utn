@@ -1,0 +1,1501 @@
+ID_Cliente,Segmento,Ubicacion,Edad,Total_Compras,Monto_Acumulado_USD,Ticket_Promedio_USD,Estrellas_Satisfaccion,Estado_Churn
+CL-30000,Nuevo,Córdoba Centro,26,1,106.27,106.27,3,Activo
+CL-30001,VIP Premium,San Telmo,32,22,6812.54,309.66,5,Activo
+CL-30002,Ocasional,San Telmo,26,3,262.62,87.54,2,En Riesgo
+CL-30003,VIP Premium,Olivos,49,39,12440.15,318.98,5,Activo
+CL-30004,Frecuente,Palermo,29,13,3063.36,235.64,4,Activo
+CL-30005,Frecuente,Córdoba Centro,46,14,1944.98,138.93,3,Activo
+CL-30006,Ocasional,Palermo,48,3,216.51,72.17,5,En Riesgo
+CL-30007,Ocasional,Olivos,35,3,326.1,108.7,3,Retirado
+CL-30008,Ocasional,Olivos,43,5,635.58,127.12,5,Activo
+CL-30009,Ocasional,San Isidro,35,5,522.7,104.54,1,Retirado
+CL-30010,Frecuente,Palermo,58,10,1661.29,166.13,5,En Riesgo
+CL-30011,Nuevo,Caballito,40,1,109.0,109.0,4,Activo
+CL-30012,Frecuente,Recoleta,41,10,1120.5,112.05,4,Activo
+CL-30013,Frecuente,San Telmo,35,8,1881.96,235.25,5,Activo
+CL-30014,Frecuente,Belgrano,47,5,661.93,132.39,5,Retirado
+CL-30015,Nuevo,Palermo,53,2,140.56,70.28,4,Activo
+CL-30016,Ocasional,Caballito,32,3,431.97,143.99,3,En Riesgo
+CL-30017,Frecuente,Olivos,49,13,3096.79,238.21,5,Activo
+CL-30018,Frecuente,Belgrano,28,13,3189.77,245.37,5,Activo
+CL-30019,Ocasional,San Telmo,38,4,367.74,91.94,3,En Riesgo
+CL-30020,Frecuente,Recoleta,37,13,2330.76,179.29,5,Activo
+CL-30021,Ocasional,Córdoba Centro,20,4,478.69,119.67,5,En Riesgo
+CL-30022,Frecuente,Rosario Centro,43,9,1515.34,168.37,4,Activo
+CL-30023,Ocasional,Rosario Centro,30,4,502.24,125.56,4,En Riesgo
+CL-30024,Frecuente,San Isidro,31,12,1236.93,103.08,4,Activo
+CL-30025,Ocasional,Caballito,41,4,397.73,99.43,5,Activo
+CL-30026,Ocasional,Olivos,41,5,421.12,84.22,5,Activo
+CL-30027,Nuevo,San Telmo,54,1,111.32,111.32,4,Activo
+CL-30028,Ocasional,Palermo,50,4,436.82,109.2,5,Activo
+CL-30029,Nuevo,San Isidro,33,2,110.96,55.48,4,Activo
+CL-30030,Ocasional,Recoleta,44,4,399.34,99.83,4,En Riesgo
+CL-30031,Frecuente,San Telmo,51,12,2508.86,209.07,4,En Riesgo
+CL-30032,Ocasional,Córdoba Centro,36,5,272.72,54.54,4,Activo
+CL-30033,Nuevo,Caballito,43,1,70.55,70.55,4,Activo
+CL-30034,Nuevo,Olivos,39,2,128.72,64.36,4,Activo
+CL-30035,VIP Premium,Olivos,28,42,9835.35,234.18,5,Activo
+CL-30036,Frecuente,Palermo,31,13,2648.0,203.69,5,Activo
+CL-30037,Frecuente,San Isidro,45,12,2319.09,193.26,4,En Riesgo
+CL-30038,Frecuente,San Telmo,40,10,1195.44,119.54,4,Retirado
+CL-30039,Nuevo,Caballito,30,1,78.15,78.15,4,Activo
+CL-30040,Ocasional,Palermo,40,2,280.57,140.28,3,Activo
+CL-30041,VIP Premium,Caballito,52,32,12645.2,395.16,5,Activo
+CL-30042,Frecuente,Olivos,42,11,2467.06,224.28,4,Activo
+CL-30043,Frecuente,Belgrano,29,9,1457.0,161.89,5,Activo
+CL-30044,Ocasional,Palermo,35,3,399.57,133.19,5,Activo
+CL-30045,Ocasional,Olivos,49,4,563.5,140.88,4,Activo
+CL-30046,Frecuente,Belgrano,44,10,1918.4,191.84,4,Activo
+CL-30047,Ocasional,Palermo,41,2,230.36,115.18,5,Retirado
+CL-30048,Ocasional,Olivos,42,4,520.22,130.06,5,Retirado
+CL-30049,Frecuente,Rosario Centro,48,9,1812.45,201.38,5,Activo
+CL-30050,Frecuente,Caballito,32,13,2385.51,183.5,5,Activo
+CL-30051,Ocasional,Recoleta,27,5,294.33,58.87,4,Activo
+CL-30052,Ocasional,Caballito,45,5,362.14,72.43,1,En Riesgo
+CL-30053,Ocasional,Caballito,46,3,262.16,87.39,4,En Riesgo
+CL-30054,Nuevo,Rosario Centro,68,2,85.12,42.56,4,Activo
+CL-30055,Nuevo,Olivos,40,2,141.32,70.66,4,Activo
+CL-30056,VIP Premium,Córdoba Centro,24,31,11257.31,363.14,5,Activo
+CL-30057,Nuevo,Córdoba Centro,42,1,90.71,90.71,4,Activo
+CL-30058,Ocasional,Palermo,43,5,342.34,68.47,3,Activo
+CL-30059,Frecuente,Caballito,43,5,830.68,166.14,5,Activo
+CL-30060,Frecuente,Olivos,53,10,1466.37,146.64,3,Activo
+CL-30061,Ocasional,Caballito,36,2,260.55,130.28,3,Activo
+CL-30062,Nuevo,Palermo,32,1,101.02,101.02,4,Activo
+CL-30063,Ocasional,Córdoba Centro,25,4,402.68,100.67,4,Activo
+CL-30064,Ocasional,San Telmo,19,3,363.88,121.29,5,Activo
+CL-30065,VIP Premium,Recoleta,44,23,5906.1,256.79,5,Activo
+CL-30066,Ocasional,Caballito,19,2,149.45,74.72,3,En Riesgo
+CL-30067,Frecuente,Recoleta,54,11,2295.66,208.7,5,Activo
+CL-30068,Frecuente,San Isidro,35,5,582.94,116.59,4,En Riesgo
+CL-30069,VIP Premium,Caballito,34,17,6148.4,361.67,4,Activo
+CL-30070,Ocasional,Rosario Centro,40,3,367.9,122.63,3,Activo
+CL-30071,VIP Premium,Olivos,48,40,13892.96,347.32,5,Activo
+CL-30072,VIP Premium,Recoleta,35,44,13040.49,296.37,5,Activo
+CL-30073,Ocasional,Olivos,42,2,126.68,63.34,5,Activo
+CL-30074,Nuevo,Recoleta,21,2,121.11,60.55,4,Activo
+CL-30075,VIP Premium,Córdoba Centro,31,44,14170.68,322.06,5,Activo
+CL-30076,Frecuente,Rosario Centro,45,14,2658.87,189.92,4,Retirado
+CL-30077,Frecuente,Belgrano,18,11,1482.8,134.8,5,Retirado
+CL-30078,Frecuente,Córdoba Centro,43,13,2162.45,166.34,4,Activo
+CL-30079,Ocasional,Olivos,53,5,548.8,109.76,4,Activo
+CL-30080,Frecuente,San Telmo,45,8,1522.39,190.3,4,Activo
+CL-30081,Frecuente,Recoleta,22,9,1524.09,169.34,5,Activo
+CL-30082,VIP Premium,Olivos,50,35,8504.42,242.98,5,Activo
+CL-30083,Nuevo,Córdoba Centro,53,2,130.4,65.2,5,Activo
+CL-30084,Frecuente,Caballito,36,10,2027.39,202.74,5,Activo
+CL-30085,Frecuente,Córdoba Centro,42,8,1044.33,130.54,5,En Riesgo
+CL-30086,Frecuente,Palermo,41,7,761.17,108.74,3,Activo
+CL-30087,Frecuente,Recoleta,40,10,1018.88,101.89,4,Activo
+CL-30088,Frecuente,Olivos,44,7,946.21,135.17,4,Activo
+CL-30089,Ocasional,Olivos,34,4,227.56,56.89,1,Activo
+CL-30090,Ocasional,San Telmo,28,4,504.5,126.12,4,Retirado
+CL-30091,Frecuente,Olivos,29,7,1018.33,145.48,5,Activo
+CL-30092,Ocasional,Rosario Centro,59,3,246.38,82.13,3,Activo
+CL-30093,Ocasional,San Isidro,31,4,414.84,103.71,5,Activo
+CL-30094,Frecuente,Olivos,65,11,1516.38,137.85,4,Activo
+CL-30095,Nuevo,San Isidro,33,2,85.67,42.84,5,Activo
+CL-30096,Frecuente,San Isidro,19,10,2265.41,226.54,4,Retirado
+CL-30097,Frecuente,San Telmo,36,14,2160.28,154.31,5,Activo
+CL-30098,Frecuente,Olivos,44,5,538.38,107.68,5,Activo
+CL-30099,VIP Premium,Recoleta,40,36,14282.95,396.75,5,Activo
+CL-30100,Frecuente,San Isidro,39,11,2303.06,209.37,5,Activo
+CL-30101,Frecuente,San Isidro,27,8,934.88,116.86,5,Activo
+CL-30102,Frecuente,Recoleta,35,13,2277.23,175.17,4,Activo
+CL-30103,Ocasional,San Telmo,34,2,199.49,99.75,3,Activo
+CL-30104,Frecuente,Recoleta,39,7,1393.17,199.02,4,En Riesgo
+CL-30105,Frecuente,Recoleta,56,6,785.83,130.97,4,En Riesgo
+CL-30106,Frecuente,Palermo,44,10,1838.29,183.83,5,En Riesgo
+CL-30107,VIP Premium,Recoleta,37,27,6334.26,234.6,4,Activo
+CL-30108,Frecuente,Olivos,50,8,1810.29,226.29,5,En Riesgo
+CL-30109,Frecuente,San Telmo,31,12,1431.51,119.29,4,En Riesgo
+CL-30110,Ocasional,San Isidro,28,2,184.5,92.25,4,En Riesgo
+CL-30111,Frecuente,Belgrano,38,5,1165.34,233.07,4,Activo
+CL-30112,Frecuente,Recoleta,52,7,914.2,130.6,5,Activo
+CL-30113,Ocasional,Recoleta,43,2,171.13,85.56,4,En Riesgo
+CL-30114,Ocasional,San Isidro,49,4,372.35,93.09,4,En Riesgo
+CL-30115,Ocasional,Recoleta,18,4,349.33,87.33,2,Activo
+CL-30116,Frecuente,Palermo,54,7,1183.3,169.04,5,Activo
+CL-30117,Ocasional,Palermo,33,4,493.63,123.41,4,Activo
+CL-30118,VIP Premium,San Isidro,34,39,11727.31,300.7,5,En Riesgo
+CL-30119,Frecuente,Palermo,49,10,1732.86,173.29,5,Activo
+CL-30120,Ocasional,Rosario Centro,51,4,377.99,94.5,3,Activo
+CL-30121,VIP Premium,Córdoba Centro,45,33,8195.99,248.36,5,Activo
+CL-30122,Ocasional,San Telmo,49,4,207.24,51.81,5,Retirado
+CL-30123,Frecuente,San Isidro,46,11,2609.8,237.25,5,En Riesgo
+CL-30124,Ocasional,Palermo,48,3,211.45,70.48,4,Activo
+CL-30125,Ocasional,Olivos,33,2,189.68,94.84,3,En Riesgo
+CL-30126,Ocasional,Belgrano,44,2,145.55,72.78,3,Retirado
+CL-30127,Ocasional,Olivos,33,2,117.96,58.98,4,En Riesgo
+CL-30128,Frecuente,Córdoba Centro,54,5,970.8,194.16,5,Activo
+CL-30129,Frecuente,Olivos,28,11,1836.38,166.94,3,En Riesgo
+CL-30130,Ocasional,Caballito,50,3,424.06,141.35,3,Retirado
+CL-30131,Frecuente,Palermo,30,9,1270.91,141.21,5,Activo
+CL-30132,Frecuente,Recoleta,33,5,569.23,113.85,3,Activo
+CL-30133,VIP Premium,Caballito,22,43,16249.65,377.9,5,Activo
+CL-30134,Nuevo,Palermo,32,1,94.64,94.64,4,Activo
+CL-30135,Frecuente,Olivos,27,12,1950.39,162.53,5,Activo
+CL-30136,Nuevo,San Telmo,32,1,90.11,90.11,3,Activo
+CL-30137,Ocasional,San Telmo,35,5,592.32,118.46,5,Activo
+CL-30138,VIP Premium,Palermo,49,13,4810.07,370.01,5,Activo
+CL-30139,VIP Premium,San Isidro,27,22,7160.54,325.48,5,Activo
+CL-30140,Ocasional,Olivos,26,5,433.8,86.76,5,En Riesgo
+CL-30141,VIP Premium,Belgrano,46,18,6144.25,341.35,5,Activo
+CL-30142,Ocasional,Palermo,65,2,176.19,88.09,2,Retirado
+CL-30143,Frecuente,San Isidro,33,13,2039.41,156.88,4,Activo
+CL-30144,Nuevo,Caballito,54,1,67.06,67.06,3,Activo
+CL-30145,Nuevo,Palermo,37,1,76.57,76.57,3,Activo
+CL-30146,Ocasional,San Isidro,29,4,465.75,116.44,5,En Riesgo
+CL-30147,Frecuente,Belgrano,34,12,1851.97,154.33,5,Retirado
+CL-30148,Ocasional,Recoleta,32,2,181.05,90.53,5,En Riesgo
+CL-30149,Ocasional,Belgrano,22,5,563.97,112.79,4,Activo
+CL-30150,Ocasional,Belgrano,23,3,193.48,64.49,4,En Riesgo
+CL-30151,Ocasional,Caballito,23,2,288.05,144.03,5,En Riesgo
+CL-30152,VIP Premium,Caballito,19,22,4934.15,224.28,5,En Riesgo
+CL-30153,VIP Premium,Córdoba Centro,52,14,4381.03,312.93,5,En Riesgo
+CL-30154,Ocasional,Recoleta,42,3,402.16,134.05,5,Activo
+CL-30155,Ocasional,Córdoba Centro,55,3,244.18,81.39,2,Activo
+CL-30156,Ocasional,Recoleta,43,3,297.08,99.03,2,En Riesgo
+CL-30157,Ocasional,San Telmo,37,4,353.86,88.47,3,Activo
+CL-30158,Ocasional,Palermo,46,5,707.4,141.48,4,Activo
+CL-30159,Ocasional,Recoleta,37,4,446.14,111.53,2,Activo
+CL-30160,Ocasional,Palermo,47,4,453.43,113.36,3,Activo
+CL-30161,Frecuente,Rosario Centro,30,12,1857.95,154.83,5,Activo
+CL-30162,VIP Premium,San Isidro,61,13,3919.4,301.49,4,Activo
+CL-30163,VIP Premium,Córdoba Centro,43,22,5803.01,263.77,5,Activo
+CL-30164,Nuevo,Recoleta,41,1,104.23,104.23,5,Activo
+CL-30165,Frecuente,Caballito,18,6,1091.69,181.95,5,Activo
+CL-30166,VIP Premium,Palermo,46,15,5469.13,364.61,5,Activo
+CL-30167,Frecuente,Recoleta,45,12,1677.4,139.78,5,Retirado
+CL-30168,Nuevo,Olivos,27,1,76.86,76.86,5,Activo
+CL-30169,VIP Premium,San Telmo,24,38,10351.7,272.41,5,Activo
+CL-30170,Ocasional,Córdoba Centro,37,5,293.4,58.68,4,Activo
+CL-30171,Ocasional,Caballito,48,5,311.18,62.24,5,Activo
+CL-30172,Frecuente,Palermo,42,13,1538.61,118.35,5,En Riesgo
+CL-30173,Ocasional,Palermo,42,3,196.08,65.36,2,Activo
+CL-30174,Frecuente,Belgrano,40,10,1480.75,148.07,4,Activo
+CL-30175,VIP Premium,Olivos,44,41,10254.96,250.12,5,Activo
+CL-30176,Ocasional,Córdoba Centro,32,4,453.73,113.43,5,Retirado
+CL-30177,VIP Premium,Palermo,35,27,5236.11,193.93,4,Activo
+CL-30178,Frecuente,San Telmo,53,11,1380.84,125.53,5,Activo
+CL-30179,Frecuente,Recoleta,42,8,1232.89,154.11,5,En Riesgo
+CL-30180,Ocasional,San Isidro,49,2,109.41,54.7,5,Activo
+CL-30181,Frecuente,Olivos,42,11,2038.8,185.35,5,Activo
+CL-30182,Nuevo,Caballito,55,1,110.69,110.69,5,Activo
+CL-30183,Frecuente,Rosario Centro,54,8,819.95,102.49,4,Activo
+CL-30184,Frecuente,Palermo,20,7,1189.37,169.91,4,En Riesgo
+CL-30185,Frecuente,Belgrano,33,5,792.66,158.53,4,Activo
+CL-30186,Nuevo,Olivos,43,2,236.55,118.28,4,Activo
+CL-30187,Nuevo,Olivos,39,2,209.16,104.58,4,Activo
+CL-30188,Ocasional,Caballito,48,5,649.09,129.82,2,Activo
+CL-30189,VIP Premium,Caballito,45,14,2708.29,193.45,5,En Riesgo
+CL-30190,Frecuente,Palermo,25,8,1192.94,149.12,4,Activo
+CL-30191,VIP Premium,Palermo,41,43,13357.7,310.64,5,Activo
+CL-30192,Frecuente,San Isidro,49,13,2049.23,157.63,4,Activo
+CL-30193,Frecuente,Recoleta,48,6,1064.32,177.39,5,Activo
+CL-30194,Frecuente,Rosario Centro,30,9,1958.44,217.6,5,Activo
+CL-30195,Ocasional,San Telmo,18,3,178.06,59.35,5,Retirado
+CL-30196,Ocasional,Olivos,49,3,190.96,63.65,5,Activo
+CL-30197,Frecuente,San Telmo,34,7,1349.2,192.74,4,Activo
+CL-30198,Ocasional,San Telmo,30,5,638.47,127.69,1,Activo
+CL-30199,VIP Premium,Recoleta,44,40,9462.65,236.57,5,En Riesgo
+CL-30200,Frecuente,Olivos,24,7,1046.6,149.51,5,Activo
+CL-30201,Ocasional,Caballito,50,4,394.46,98.61,4,En Riesgo
+CL-30202,VIP Premium,Palermo,49,30,10821.53,360.72,5,Activo
+CL-30203,Ocasional,Belgrano,39,2,140.5,70.25,4,Retirado
+CL-30204,Nuevo,Caballito,47,2,204.65,102.33,3,Activo
+CL-30205,Frecuente,San Telmo,40,13,1552.93,119.46,4,Activo
+CL-30206,Frecuente,Belgrano,43,8,1361.86,170.23,4,Activo
+CL-30207,Ocasional,Córdoba Centro,43,2,130.48,65.24,5,Activo
+CL-30208,Ocasional,Belgrano,33,5,356.35,71.27,4,Activo
+CL-30209,Nuevo,Belgrano,28,2,187.14,93.57,4,Activo
+CL-30210,Ocasional,Caballito,40,5,304.16,60.83,1,Activo
+CL-30211,Frecuente,Belgrano,34,12,2736.75,228.06,4,Activo
+CL-30212,Frecuente,Caballito,18,12,2179.5,181.62,5,Activo
+CL-30213,Ocasional,San Telmo,42,5,525.18,105.04,3,En Riesgo
+CL-30214,Frecuente,San Telmo,33,7,1563.29,223.33,3,Retirado
+CL-30215,Ocasional,San Telmo,40,3,281.89,93.96,1,En Riesgo
+CL-30216,VIP Premium,San Isidro,18,23,5590.72,243.07,5,Activo
+CL-30217,Frecuente,San Isidro,31,10,1428.38,142.84,4,En Riesgo
+CL-30218,Ocasional,Caballito,31,2,213.78,106.89,3,En Riesgo
+CL-30219,Nuevo,Belgrano,36,1,87.82,87.82,3,Activo
+CL-30220,Nuevo,Olivos,33,2,84.34,42.17,4,Activo
+CL-30221,Nuevo,San Telmo,57,1,117.24,117.24,4,Activo
+CL-30222,Ocasional,San Isidro,36,2,110.98,55.49,3,En Riesgo
+CL-30223,Ocasional,Córdoba Centro,34,4,523.96,130.99,5,Activo
+CL-30224,Ocasional,Córdoba Centro,33,2,275.17,137.59,4,Activo
+CL-30225,Frecuente,Olivos,43,12,1332.22,111.02,5,Activo
+CL-30226,Frecuente,Belgrano,37,13,2310.8,177.75,5,Activo
+CL-30227,VIP Premium,San Isidro,40,34,9804.44,288.37,5,En Riesgo
+CL-30228,Ocasional,Córdoba Centro,46,3,272.91,90.97,1,Retirado
+CL-30229,Frecuente,Caballito,47,5,652.38,130.48,4,Activo
+CL-30230,Ocasional,Belgrano,34,5,632.47,126.49,4,Activo
+CL-30231,Ocasional,Palermo,41,2,271.91,135.96,2,En Riesgo
+CL-30232,Nuevo,Rosario Centro,55,1,84.95,84.95,4,Activo
+CL-30233,Frecuente,San Telmo,19,12,1238.95,103.25,5,Activo
+CL-30234,VIP Premium,San Telmo,32,40,14330.37,358.26,5,Activo
+CL-30235,Frecuente,Rosario Centro,43,7,1645.13,235.02,4,Activo
+CL-30236,Ocasional,Belgrano,44,5,406.33,81.27,4,En Riesgo
+CL-30237,VIP Premium,Recoleta,36,23,5280.4,229.58,5,Activo
+CL-30238,Nuevo,Belgrano,44,1,51.02,51.02,4,Activo
+CL-30239,Ocasional,Córdoba Centro,35,2,209.53,104.77,5,En Riesgo
+CL-30240,Ocasional,Caballito,27,4,363.38,90.84,5,En Riesgo
+CL-30241,Nuevo,Caballito,35,1,83.18,83.18,3,Activo
+CL-30242,Frecuente,Córdoba Centro,45,5,1237.22,247.44,5,En Riesgo
+CL-30243,Frecuente,Recoleta,29,14,1798.11,128.44,5,Activo
+CL-30244,VIP Premium,Caballito,33,27,7522.53,278.61,5,Activo
+CL-30245,Frecuente,Córdoba Centro,19,10,2117.48,211.75,4,Activo
+CL-30246,VIP Premium,Caballito,34,15,4385.91,292.39,5,Activo
+CL-30247,Frecuente,Olivos,29,5,653.36,130.67,4,Activo
+CL-30248,Frecuente,Caballito,44,8,902.39,112.8,5,Activo
+CL-30249,Ocasional,Recoleta,37,4,444.87,111.22,5,Activo
+CL-30250,Frecuente,Palermo,26,11,1197.24,108.84,3,Activo
+CL-30251,Nuevo,Belgrano,22,1,49.12,49.12,3,Activo
+CL-30252,Ocasional,Rosario Centro,54,4,491.77,122.94,4,Activo
+CL-30253,Ocasional,Belgrano,40,3,437.83,145.94,1,Activo
+CL-30254,Ocasional,Palermo,57,3,192.06,64.02,4,En Riesgo
+CL-30255,Frecuente,Belgrano,53,14,2277.41,162.67,5,Activo
+CL-30256,Frecuente,Palermo,51,12,1599.02,133.25,4,Retirado
+CL-30257,Nuevo,Rosario Centro,43,1,104.09,104.09,5,Activo
+CL-30258,Ocasional,Córdoba Centro,37,2,125.54,62.77,5,En Riesgo
+CL-30259,Ocasional,Rosario Centro,41,3,416.3,138.77,5,Activo
+CL-30260,Nuevo,Belgrano,53,2,195.17,97.58,5,Activo
+CL-30261,Ocasional,San Isidro,58,2,291.22,145.61,2,Activo
+CL-30262,Ocasional,San Telmo,35,3,331.38,110.46,4,Activo
+CL-30263,Ocasional,Palermo,23,5,393.19,78.64,2,Activo
+CL-30264,Frecuente,Belgrano,22,9,1665.83,185.09,5,En Riesgo
+CL-30265,Ocasional,Palermo,18,2,289.39,144.69,4,Retirado
+CL-30266,Ocasional,San Isidro,18,3,425.69,141.9,4,Retirado
+CL-30267,Nuevo,Caballito,44,1,59.26,59.26,4,Activo
+CL-30268,Nuevo,Recoleta,32,1,112.25,112.25,4,Activo
+CL-30269,Frecuente,Palermo,35,9,1426.91,158.55,5,Activo
+CL-30270,Ocasional,San Isidro,33,5,547.11,109.42,1,Retirado
+CL-30271,Nuevo,Córdoba Centro,31,2,116.6,58.3,5,Activo
+CL-30272,Frecuente,Córdoba Centro,18,13,2933.56,225.66,4,Activo
+CL-30273,Ocasional,Recoleta,53,3,269.06,89.69,4,Retirado
+CL-30274,Frecuente,Recoleta,35,11,1291.28,117.39,5,Activo
+CL-30275,Ocasional,Olivos,26,3,425.14,141.71,5,Activo
+CL-30276,Ocasional,Recoleta,41,4,413.18,103.3,4,En Riesgo
+CL-30277,Frecuente,San Telmo,41,14,3101.18,221.51,4,En Riesgo
+CL-30278,Ocasional,Córdoba Centro,45,3,278.06,92.69,5,En Riesgo
+CL-30279,Ocasional,San Telmo,49,3,165.27,55.09,3,En Riesgo
+CL-30280,VIP Premium,Rosario Centro,35,33,7337.66,222.35,5,Activo
+CL-30281,Nuevo,Córdoba Centro,34,2,102.72,51.36,4,Activo
+CL-30282,Ocasional,Caballito,31,2,202.67,101.33,5,Activo
+CL-30283,Ocasional,San Telmo,36,2,220.62,110.31,4,Activo
+CL-30284,Ocasional,San Telmo,46,5,724.81,144.96,5,Activo
+CL-30285,Ocasional,Córdoba Centro,41,5,460.62,92.12,5,Retirado
+CL-30286,Nuevo,San Isidro,33,2,218.45,109.22,5,Activo
+CL-30287,Frecuente,Olivos,28,7,1040.24,148.61,5,En Riesgo
+CL-30288,Ocasional,Caballito,34,3,150.42,50.14,3,Retirado
+CL-30289,Nuevo,Olivos,40,1,55.73,55.73,4,Activo
+CL-30290,Frecuente,Recoleta,51,11,1376.99,125.18,5,En Riesgo
+CL-30291,Ocasional,Palermo,42,2,104.97,52.48,5,Retirado
+CL-30292,Nuevo,San Telmo,38,1,117.98,117.98,5,Activo
+CL-30293,Ocasional,San Isidro,54,4,333.42,83.36,4,En Riesgo
+CL-30294,Ocasional,Recoleta,44,3,417.14,139.05,5,Retirado
+CL-30295,Ocasional,Córdoba Centro,45,2,262.2,131.1,4,Retirado
+CL-30296,VIP Premium,Palermo,56,31,8905.13,287.26,4,Activo
+CL-30297,Ocasional,Caballito,34,3,233.84,77.95,4,Activo
+CL-30298,Frecuente,Palermo,55,14,3078.73,219.91,5,Retirado
+CL-30299,Frecuente,Córdoba Centro,34,12,2717.23,226.44,4,Activo
+CL-30300,Nuevo,Caballito,30,1,107.77,107.77,3,Activo
+CL-30301,Ocasional,San Telmo,22,5,666.22,133.24,5,Activo
+CL-30302,Frecuente,Belgrano,27,6,786.27,131.04,5,En Riesgo
+CL-30303,Frecuente,Caballito,42,5,999.21,199.84,5,En Riesgo
+CL-30304,Frecuente,Caballito,27,6,1382.11,230.35,4,Activo
+CL-30305,Nuevo,San Isidro,55,2,197.76,98.88,5,Activo
+CL-30306,Ocasional,Palermo,35,3,449.55,149.85,4,En Riesgo
+CL-30307,VIP Premium,Rosario Centro,42,20,5745.22,287.26,4,Activo
+CL-30308,VIP Premium,Caballito,37,43,8800.78,204.67,5,Activo
+CL-30309,VIP Premium,Recoleta,39,30,11338.32,377.94,5,En Riesgo
+CL-30310,Frecuente,Recoleta,45,10,1826.58,182.66,5,En Riesgo
+CL-30311,Ocasional,Recoleta,32,5,554.86,110.97,3,Activo
+CL-30312,Nuevo,Córdoba Centro,41,2,237.13,118.56,4,Activo
+CL-30313,Ocasional,Rosario Centro,30,2,197.47,98.73,5,Activo
+CL-30314,Frecuente,Palermo,27,9,1168.83,129.87,5,En Riesgo
+CL-30315,Ocasional,San Telmo,41,5,396.36,79.27,4,En Riesgo
+CL-30316,Frecuente,San Isidro,43,9,1952.49,216.94,5,Activo
+CL-30317,Ocasional,San Telmo,34,5,283.94,56.79,4,Retirado
+CL-30318,Frecuente,Belgrano,45,14,1642.22,117.3,4,Activo
+CL-30319,Ocasional,Belgrano,23,5,747.14,149.43,4,Activo
+CL-30320,VIP Premium,Recoleta,58,16,3590.34,224.4,5,Activo
+CL-30321,Nuevo,Córdoba Centro,29,2,213.05,106.53,4,Activo
+CL-30322,Frecuente,San Isidro,58,7,1085.71,155.1,5,Activo
+CL-30323,VIP Premium,Recoleta,47,37,12545.05,339.06,4,Activo
+CL-30324,VIP Premium,San Isidro,43,44,17158.95,389.98,4,Activo
+CL-30325,Ocasional,Recoleta,43,2,261.07,130.53,2,En Riesgo
+CL-30326,VIP Premium,Palermo,36,42,8513.45,202.7,5,Activo
+CL-30327,Ocasional,San Isidro,18,5,599.41,119.88,4,En Riesgo
+CL-30328,Frecuente,Córdoba Centro,34,5,692.2,138.44,4,Activo
+CL-30329,Frecuente,Córdoba Centro,37,8,1662.41,207.8,3,Activo
+CL-30330,VIP Premium,Olivos,23,22,6715.74,305.26,5,En Riesgo
+CL-30331,Nuevo,Palermo,28,1,69.21,69.21,4,Activo
+CL-30332,Nuevo,Córdoba Centro,44,1,47.93,47.93,5,Activo
+CL-30333,Frecuente,San Isidro,49,8,1976.02,247.0,4,En Riesgo
+CL-30334,Ocasional,San Telmo,51,3,333.83,111.28,4,Activo
+CL-30335,Nuevo,Caballito,25,2,225.35,112.67,5,Activo
+CL-30336,Nuevo,San Telmo,33,1,106.91,106.91,4,Activo
+CL-30337,Ocasional,Palermo,42,2,257.24,128.62,5,Activo
+CL-30338,Frecuente,Rosario Centro,43,12,1988.57,165.71,4,Activo
+CL-30339,Frecuente,Recoleta,49,12,2222.21,185.18,5,Activo
+CL-30340,Ocasional,Palermo,43,4,390.95,97.74,2,Retirado
+CL-30341,Frecuente,Palermo,27,13,2832.4,217.88,4,Retirado
+CL-30342,Frecuente,Recoleta,36,13,1982.85,152.53,4,Activo
+CL-30343,Frecuente,Rosario Centro,31,14,3353.81,239.56,4,Activo
+CL-30344,Frecuente,Belgrano,39,14,2817.07,201.22,3,Activo
+CL-30345,Ocasional,Belgrano,45,4,446.58,111.64,1,En Riesgo
+CL-30346,Frecuente,Rosario Centro,18,12,1407.39,117.28,5,Activo
+CL-30347,VIP Premium,San Telmo,27,31,11469.95,370.0,5,Activo
+CL-30348,Ocasional,San Telmo,40,5,369.25,73.85,3,Activo
+CL-30349,Ocasional,Belgrano,35,3,253.33,84.44,3,Retirado
+CL-30350,Ocasional,San Isidro,31,3,320.26,106.75,3,En Riesgo
+CL-30351,Frecuente,Palermo,26,7,829.98,118.57,5,Activo
+CL-30352,Frecuente,Caballito,32,8,1390.45,173.81,4,Activo
+CL-30353,VIP Premium,Olivos,39,43,13533.19,314.73,5,Activo
+CL-30354,VIP Premium,Belgrano,45,21,4001.93,190.57,5,Activo
+CL-30355,Frecuente,Rosario Centro,39,7,912.62,130.37,3,En Riesgo
+CL-30356,VIP Premium,Córdoba Centro,25,38,11733.87,308.79,5,Activo
+CL-30357,Frecuente,Recoleta,57,9,1221.43,135.71,5,En Riesgo
+CL-30358,Nuevo,Caballito,35,2,126.15,63.08,5,Activo
+CL-30359,VIP Premium,Olivos,49,34,11905.31,350.16,5,Activo
+CL-30360,Ocasional,Olivos,51,2,260.29,130.15,5,Retirado
+CL-30361,Ocasional,San Telmo,28,2,129.72,64.86,3,Retirado
+CL-30362,Ocasional,Olivos,36,4,279.74,69.94,4,En Riesgo
+CL-30363,Frecuente,Olivos,40,9,2045.69,227.3,5,Activo
+CL-30364,Ocasional,Olivos,45,3,421.36,140.45,5,En Riesgo
+CL-30365,Ocasional,Recoleta,37,4,242.77,60.69,4,Activo
+CL-30366,Frecuente,Palermo,34,13,1900.1,146.16,5,Activo
+CL-30367,Ocasional,San Telmo,27,3,164.58,54.86,4,En Riesgo
+CL-30368,Frecuente,Belgrano,25,10,2121.25,212.12,5,Activo
+CL-30369,Frecuente,Rosario Centro,57,11,1944.95,176.81,4,En Riesgo
+CL-30370,Ocasional,Palermo,46,3,280.78,93.59,4,En Riesgo
+CL-30371,VIP Premium,San Telmo,62,29,7709.38,265.84,5,Activo
+CL-30372,VIP Premium,Belgrano,46,14,3524.64,251.76,5,En Riesgo
+CL-30373,VIP Premium,Córdoba Centro,50,32,7680.18,240.01,4,Activo
+CL-30374,Frecuente,San Isidro,35,11,1688.91,153.54,5,Activo
+CL-30375,Nuevo,Caballito,41,1,80.04,80.04,3,Activo
+CL-30376,Ocasional,Belgrano,25,2,214.82,107.41,5,Activo
+CL-30377,Ocasional,Caballito,36,3,287.64,95.88,4,En Riesgo
+CL-30378,Ocasional,San Isidro,36,2,201.16,100.58,5,En Riesgo
+CL-30379,Ocasional,Recoleta,39,3,216.66,72.22,5,Activo
+CL-30380,VIP Premium,San Telmo,43,15,5860.3,390.69,5,Activo
+CL-30381,VIP Premium,Recoleta,44,23,8046.07,349.83,5,Activo
+CL-30382,Frecuente,Palermo,24,12,2522.82,210.24,4,Activo
+CL-30383,Ocasional,San Isidro,26,4,287.25,71.81,4,Activo
+CL-30384,Ocasional,Córdoba Centro,43,3,374.15,124.72,5,En Riesgo
+CL-30385,Ocasional,Rosario Centro,39,2,268.72,134.36,4,Activo
+CL-30386,Frecuente,San Telmo,38,6,1066.84,177.81,5,Activo
+CL-30387,Ocasional,San Telmo,31,3,196.86,65.62,4,Retirado
+CL-30388,Frecuente,San Isidro,42,5,705.93,141.19,5,En Riesgo
+CL-30389,Ocasional,San Isidro,26,2,120.93,60.47,4,En Riesgo
+CL-30390,Ocasional,San Telmo,69,4,550.6,137.65,5,Activo
+CL-30391,Frecuente,Olivos,30,7,1092.38,156.05,4,Activo
+CL-30392,Ocasional,San Isidro,46,2,117.77,58.88,3,Activo
+CL-30393,Ocasional,San Telmo,52,5,620.41,124.08,4,Activo
+CL-30394,Ocasional,Palermo,35,3,439.84,146.61,4,Activo
+CL-30395,Ocasional,San Isidro,31,4,306.96,76.74,4,Activo
+CL-30396,Ocasional,Recoleta,18,4,415.37,103.84,5,Activo
+CL-30397,Ocasional,Córdoba Centro,34,2,167.58,83.79,5,Activo
+CL-30398,Frecuente,Recoleta,56,13,3036.85,233.6,4,Activo
+CL-30399,Frecuente,Olivos,44,11,1856.61,168.78,3,Activo
+CL-30400,Nuevo,Córdoba Centro,34,1,68.72,68.72,4,Activo
+CL-30401,Frecuente,San Isidro,31,6,771.48,128.58,4,En Riesgo
+CL-30402,VIP Premium,San Telmo,26,42,14352.51,341.73,5,Activo
+CL-30403,Nuevo,Rosario Centro,37,2,137.96,68.98,4,Activo
+CL-30404,Frecuente,Olivos,38,6,1247.33,207.89,3,Activo
+CL-30405,VIP Premium,Córdoba Centro,42,33,9415.82,285.33,5,Activo
+CL-30406,Ocasional,Palermo,37,3,357.32,119.11,4,En Riesgo
+CL-30407,Ocasional,Belgrano,31,4,311.59,77.9,5,En Riesgo
+CL-30408,Ocasional,Recoleta,47,2,220.68,110.34,4,Activo
+CL-30409,VIP Premium,San Telmo,30,24,7483.19,311.8,5,Activo
+CL-30410,Frecuente,San Isidro,30,10,1435.78,143.58,5,Activo
+CL-30411,VIP Premium,Caballito,39,16,6057.29,378.58,5,Activo
+CL-30412,VIP Premium,Recoleta,35,39,10915.0,279.87,5,Activo
+CL-30413,Nuevo,Palermo,30,2,81.4,40.7,4,Activo
+CL-30414,Ocasional,Palermo,31,2,145.16,72.58,5,Retirado
+CL-30415,Ocasional,Córdoba Centro,36,4,268.89,67.22,4,En Riesgo
+CL-30416,Nuevo,San Telmo,28,1,93.84,93.84,5,Activo
+CL-30417,Ocasional,Palermo,32,3,448.61,149.54,1,Activo
+CL-30418,VIP Premium,Olivos,33,26,9202.9,353.96,5,Activo
+CL-30419,Frecuente,Rosario Centro,43,13,1944.97,149.61,4,Activo
+CL-30420,Frecuente,Palermo,40,12,2926.59,243.88,4,Activo
+CL-30421,Frecuente,Rosario Centro,45,13,2618.24,201.4,4,Activo
+CL-30422,Frecuente,Recoleta,30,11,2073.37,188.49,4,Activo
+CL-30423,Ocasional,Palermo,38,2,182.03,91.02,3,Activo
+CL-30424,Ocasional,Olivos,36,3,158.18,52.73,3,Activo
+CL-30425,VIP Premium,San Isidro,35,17,6681.84,393.05,5,Activo
+CL-30426,Frecuente,Belgrano,45,12,1648.53,137.38,3,Activo
+CL-30427,VIP Premium,Caballito,37,26,9784.7,376.33,4,En Riesgo
+CL-30428,Frecuente,San Telmo,37,10,2192.63,219.26,4,Activo
+CL-30429,Ocasional,Olivos,33,3,247.93,82.64,1,Retirado
+CL-30430,Ocasional,Olivos,43,4,557.51,139.38,4,En Riesgo
+CL-30431,Ocasional,San Isidro,44,2,192.15,96.08,3,En Riesgo
+CL-30432,VIP Premium,Caballito,46,15,3669.53,244.64,5,Activo
+CL-30433,Ocasional,San Telmo,41,3,209.93,69.98,4,Activo
+CL-30434,VIP Premium,Córdoba Centro,41,32,9582.61,299.46,5,Activo
+CL-30435,Nuevo,San Isidro,44,1,70.43,70.43,5,Activo
+CL-30436,Ocasional,Palermo,18,3,446.27,148.76,2,En Riesgo
+CL-30437,Nuevo,Recoleta,37,1,40.48,40.48,4,Activo
+CL-30438,Frecuente,Rosario Centro,22,11,2483.48,225.77,5,Activo
+CL-30439,Ocasional,Olivos,42,4,474.41,118.6,1,En Riesgo
+CL-30440,Ocasional,Córdoba Centro,29,4,515.0,128.75,5,Activo
+CL-30441,Frecuente,San Telmo,34,12,2288.63,190.72,4,Activo
+CL-30442,Frecuente,San Isidro,49,14,1454.71,103.91,4,Activo
+CL-30443,Ocasional,San Telmo,33,3,221.18,73.73,3,Activo
+CL-30444,Ocasional,Rosario Centro,52,5,526.55,105.31,4,Retirado
+CL-30445,Ocasional,San Telmo,35,2,145.74,72.87,4,Retirado
+CL-30446,Nuevo,Caballito,38,1,92.81,92.81,4,Activo
+CL-30447,Ocasional,Palermo,42,2,229.88,114.94,4,Retirado
+CL-30448,Nuevo,San Telmo,48,1,49.15,49.15,4,Activo
+CL-30449,Frecuente,Recoleta,33,5,779.26,155.85,4,Activo
+CL-30450,Nuevo,Palermo,46,1,94.04,94.04,5,Activo
+CL-30451,Frecuente,Rosario Centro,18,9,1296.72,144.08,5,Activo
+CL-30452,Ocasional,Rosario Centro,42,3,386.11,128.7,2,En Riesgo
+CL-30453,Ocasional,Rosario Centro,34,5,466.04,93.21,2,Retirado
+CL-30454,Frecuente,San Isidro,39,13,2771.05,213.16,4,Activo
+CL-30455,Frecuente,Palermo,56,11,2205.93,200.54,5,En Riesgo
+CL-30456,Ocasional,Belgrano,40,4,355.55,88.89,4,En Riesgo
+CL-30457,Ocasional,Recoleta,50,4,572.61,143.15,5,En Riesgo
+CL-30458,VIP Premium,Córdoba Centro,22,43,11065.86,257.35,5,Activo
+CL-30459,Nuevo,Córdoba Centro,30,2,108.6,54.3,4,Activo
+CL-30460,Frecuente,San Isidro,43,7,1495.8,213.69,4,Activo
+CL-30461,Ocasional,Olivos,55,4,423.41,105.85,3,En Riesgo
+CL-30462,Frecuente,San Telmo,18,9,927.86,103.1,4,Activo
+CL-30463,Frecuente,Belgrano,42,8,1248.71,156.09,4,Activo
+CL-30464,Nuevo,Rosario Centro,47,1,68.25,68.25,5,Activo
+CL-30465,Nuevo,Olivos,50,2,145.95,72.97,5,Activo
+CL-30466,Ocasional,Caballito,34,2,114.61,57.3,3,Activo
+CL-30467,Ocasional,Belgrano,39,5,639.7,127.94,4,Activo
+CL-30468,Frecuente,Belgrano,39,13,1734.39,133.41,4,Activo
+CL-30469,Ocasional,Caballito,23,4,267.49,66.87,4,Activo
+CL-30470,Frecuente,Recoleta,38,10,1856.33,185.63,4,Activo
+CL-30471,VIP Premium,San Isidro,27,12,4441.44,370.12,5,Activo
+CL-30472,Frecuente,Belgrano,40,11,1815.79,165.07,3,Activo
+CL-30473,Frecuente,San Telmo,41,12,1957.76,163.15,5,Activo
+CL-30474,Ocasional,Caballito,45,2,279.78,139.89,1,Retirado
+CL-30475,Frecuente,Caballito,35,13,2396.72,184.36,3,Activo
+CL-30476,Frecuente,Olivos,41,10,2165.14,216.51,5,Activo
+CL-30477,VIP Premium,Palermo,35,41,12368.75,301.68,5,Activo
+CL-30478,Frecuente,Recoleta,45,10,1618.31,161.83,5,Activo
+CL-30479,Ocasional,San Isidro,54,3,366.54,122.18,4,Retirado
+CL-30480,Ocasional,Olivos,45,4,341.95,85.49,5,Activo
+CL-30481,Ocasional,San Telmo,43,2,224.6,112.3,4,Activo
+CL-30482,Ocasional,San Isidro,25,2,275.41,137.71,3,Activo
+CL-30483,Ocasional,Caballito,34,2,102.97,51.48,5,En Riesgo
+CL-30484,Ocasional,Belgrano,40,5,575.42,115.08,5,En Riesgo
+CL-30485,Frecuente,Córdoba Centro,30,8,1742.37,217.8,4,Retirado
+CL-30486,Frecuente,Palermo,33,7,1411.6,201.66,5,Activo
+CL-30487,VIP Premium,Recoleta,39,32,9981.1,311.91,5,Activo
+CL-30488,Nuevo,Rosario Centro,53,2,182.01,91.0,3,Activo
+CL-30489,Ocasional,San Isidro,30,5,710.9,142.18,2,Activo
+CL-30490,Frecuente,San Isidro,45,11,2578.46,234.41,5,Activo
+CL-30491,Ocasional,Palermo,40,5,394.72,78.94,4,Activo
+CL-30492,Ocasional,Caballito,24,3,160.04,53.35,5,Activo
+CL-30493,Frecuente,Belgrano,43,11,1835.12,166.83,4,Activo
+CL-30494,Nuevo,Rosario Centro,50,1,41.85,41.85,4,Activo
+CL-30495,Ocasional,Recoleta,44,2,254.12,127.06,5,Retirado
+CL-30496,Frecuente,Córdoba Centro,35,10,1867.07,186.71,5,Activo
+CL-30497,Ocasional,Belgrano,29,5,369.61,73.92,5,En Riesgo
+CL-30498,Ocasional,Caballito,43,3,216.8,72.27,4,Activo
+CL-30499,Nuevo,Belgrano,39,2,117.11,58.55,5,Activo
+CL-30500,Frecuente,Rosario Centro,36,5,691.75,138.35,5,En Riesgo
+CL-30501,Frecuente,Belgrano,52,6,1493.51,248.92,4,Activo
+CL-30502,Nuevo,Palermo,54,2,172.29,86.14,3,Activo
+CL-30503,Ocasional,San Isidro,35,3,374.3,124.77,4,En Riesgo
+CL-30504,Ocasional,Caballito,39,5,493.6,98.72,5,Activo
+CL-30505,Frecuente,Belgrano,18,10,2367.47,236.75,4,Activo
+CL-30506,Ocasional,Olivos,50,5,450.4,90.08,3,Activo
+CL-30507,Nuevo,Recoleta,42,1,102.74,102.74,4,Activo
+CL-30508,Ocasional,Recoleta,37,4,358.11,89.53,3,Activo
+CL-30509,Ocasional,Recoleta,44,3,298.33,99.44,5,Activo
+CL-30510,Nuevo,Palermo,43,1,45.78,45.78,3,Activo
+CL-30511,Ocasional,Belgrano,45,2,177.53,88.77,3,Retirado
+CL-30512,Nuevo,Belgrano,37,2,196.19,98.09,4,Activo
+CL-30513,Frecuente,Belgrano,28,5,1151.87,230.37,5,Activo
+CL-30514,Ocasional,San Telmo,29,4,595.7,148.93,3,Activo
+CL-30515,Frecuente,San Telmo,29,8,1701.34,212.67,5,Activo
+CL-30516,Frecuente,Olivos,27,5,546.94,109.39,3,Activo
+CL-30517,Frecuente,Olivos,30,7,794.97,113.57,3,En Riesgo
+CL-30518,Nuevo,Rosario Centro,47,1,97.73,97.73,3,Activo
+CL-30519,Frecuente,Rosario Centro,32,7,1746.25,249.46,5,Activo
+CL-30520,Frecuente,Belgrano,36,14,1676.16,119.73,5,En Riesgo
+CL-30521,Frecuente,Belgrano,34,13,2968.96,228.38,4,Activo
+CL-30522,Nuevo,San Telmo,44,1,56.37,56.37,5,Activo
+CL-30523,Nuevo,Rosario Centro,41,1,72.91,72.91,4,Activo
+CL-30524,Ocasional,Palermo,42,5,628.64,125.73,5,Activo
+CL-30525,Nuevo,Olivos,43,2,193.07,96.53,3,Activo
+CL-30526,Nuevo,Caballito,38,2,126.13,63.06,5,Activo
+CL-30527,Frecuente,Recoleta,30,13,1623.99,124.92,5,Activo
+CL-30528,Ocasional,San Isidro,39,3,448.77,149.59,5,Activo
+CL-30529,Ocasional,San Telmo,24,3,352.18,117.39,4,Activo
+CL-30530,Ocasional,Córdoba Centro,25,3,150.13,50.04,2,En Riesgo
+CL-30531,Frecuente,Caballito,50,13,1766.75,135.9,4,Activo
+CL-30532,Frecuente,Caballito,38,6,827.42,137.9,5,Activo
+CL-30533,Nuevo,Caballito,55,1,113.15,113.15,4,Activo
+CL-30534,Frecuente,San Telmo,27,12,2176.17,181.35,4,Activo
+CL-30535,Frecuente,Caballito,39,6,1371.84,228.64,5,Activo
+CL-30536,VIP Premium,Palermo,48,38,12218.44,321.54,5,Activo
+CL-30537,Nuevo,Córdoba Centro,55,1,55.35,55.35,3,Activo
+CL-30538,Nuevo,Rosario Centro,47,2,87.53,43.77,4,Activo
+CL-30539,Frecuente,Olivos,25,8,1369.12,171.14,5,En Riesgo
+CL-30540,Frecuente,Caballito,54,12,2995.32,249.61,4,Activo
+CL-30541,Nuevo,San Telmo,18,1,48.58,48.58,5,Activo
+CL-30542,Ocasional,Recoleta,39,4,202.07,50.52,5,En Riesgo
+CL-30543,Frecuente,San Isidro,46,12,2380.99,198.42,5,Activo
+CL-30544,Nuevo,Palermo,39,2,94.39,47.2,4,Activo
+CL-30545,Frecuente,Recoleta,28,13,1321.87,101.68,4,Retirado
+CL-30546,VIP Premium,San Telmo,29,23,5726.02,248.96,5,Activo
+CL-30547,VIP Premium,Caballito,49,32,9305.36,290.79,5,Activo
+CL-30548,Ocasional,Olivos,46,5,443.49,88.7,5,Retirado
+CL-30549,Frecuente,San Isidro,31,11,2301.51,209.23,5,Activo
+CL-30550,Frecuente,Rosario Centro,53,13,1458.98,112.23,4,Activo
+CL-30551,Ocasional,Caballito,37,5,431.62,86.32,2,Retirado
+CL-30552,VIP Premium,Belgrano,34,43,8648.41,201.13,5,Activo
+CL-30553,Ocasional,Recoleta,34,3,394.58,131.53,2,Retirado
+CL-30554,Frecuente,Olivos,33,9,1091.46,121.27,5,En Riesgo
+CL-30555,Frecuente,San Telmo,30,11,2607.78,237.07,5,Activo
+CL-30556,Ocasional,Olivos,42,5,647.33,129.47,4,En Riesgo
+CL-30557,Frecuente,Córdoba Centro,37,14,2224.04,158.86,4,Activo
+CL-30558,Ocasional,Belgrano,35,4,552.35,138.09,4,Activo
+CL-30559,Nuevo,San Isidro,42,1,91.28,91.28,5,Activo
+CL-30560,VIP Premium,Córdoba Centro,46,35,13860.04,396.0,5,Activo
+CL-30561,Ocasional,Palermo,31,5,720.19,144.04,5,En Riesgo
+CL-30562,Ocasional,Olivos,41,4,490.12,122.53,4,Activo
+CL-30563,Frecuente,Recoleta,44,10,1407.86,140.79,4,Activo
+CL-30564,VIP Premium,Rosario Centro,42,12,3368.88,280.74,5,Activo
+CL-30565,Ocasional,Caballito,45,4,397.7,99.42,5,En Riesgo
+CL-30566,Frecuente,Belgrano,37,13,1420.5,109.27,4,Activo
+CL-30567,Nuevo,Caballito,30,1,41.97,41.97,4,Activo
+CL-30568,VIP Premium,Córdoba Centro,22,13,5161.2,397.02,5,Activo
+CL-30569,Frecuente,Córdoba Centro,32,5,631.94,126.39,3,Activo
+CL-30570,Nuevo,Recoleta,38,2,181.67,90.83,3,Activo
+CL-30571,VIP Premium,San Isidro,38,42,8407.63,200.18,4,Activo
+CL-30572,Ocasional,San Isidro,36,2,212.83,106.42,3,Activo
+CL-30573,Frecuente,Belgrano,42,6,679.05,113.17,4,Activo
+CL-30574,Ocasional,San Telmo,35,3,237.03,79.01,2,Retirado
+CL-30575,Frecuente,Belgrano,29,6,703.81,117.3,3,Activo
+CL-30576,Nuevo,Recoleta,50,1,60.58,60.58,5,Activo
+CL-30577,Frecuente,Recoleta,32,10,1462.57,146.26,4,Activo
+CL-30578,VIP Premium,Recoleta,31,28,10194.2,364.08,5,Activo
+CL-30579,Ocasional,Caballito,39,4,405.74,101.44,4,Activo
+CL-30580,Ocasional,Caballito,34,5,549.53,109.91,4,Activo
+CL-30581,Nuevo,Caballito,23,1,43.45,43.45,3,Activo
+CL-30582,VIP Premium,Belgrano,46,24,7667.84,319.49,5,Activo
+CL-30583,VIP Premium,Olivos,42,40,13560.02,339.0,5,Activo
+CL-30584,Frecuente,Rosario Centro,36,7,1081.04,154.43,5,En Riesgo
+CL-30585,Frecuente,San Telmo,34,6,1454.44,242.41,4,En Riesgo
+CL-30586,Ocasional,Caballito,21,2,210.19,105.09,3,Retirado
+CL-30587,Nuevo,Córdoba Centro,42,2,178.46,89.23,5,Activo
+CL-30588,Ocasional,San Telmo,23,2,149.95,74.97,5,En Riesgo
+CL-30589,Frecuente,Belgrano,38,14,2601.03,185.79,5,Activo
+CL-30590,Frecuente,Caballito,35,12,1828.11,152.34,4,Activo
+CL-30591,VIP Premium,Palermo,61,13,2650.73,203.9,5,Activo
+CL-30592,Ocasional,San Isidro,18,2,116.57,58.28,4,Retirado
+CL-30593,Frecuente,San Telmo,30,14,2102.12,150.15,3,En Riesgo
+CL-30594,Ocasional,Olivos,28,2,141.09,70.55,5,Activo
+CL-30595,Ocasional,San Isidro,41,3,242.83,80.94,5,Activo
+CL-30596,Frecuente,Belgrano,32,7,1252.62,178.95,4,Activo
+CL-30597,Ocasional,San Telmo,43,4,442.2,110.55,5,En Riesgo
+CL-30598,VIP Premium,Rosario Centro,32,12,4595.81,382.98,5,En Riesgo
+CL-30599,Ocasional,San Isidro,37,4,500.82,125.2,5,Activo
+CL-30600,Frecuente,San Telmo,26,14,2886.84,206.2,4,En Riesgo
+CL-30601,Ocasional,San Telmo,41,3,380.53,126.84,4,Activo
+CL-30602,Ocasional,Recoleta,42,2,144.1,72.05,4,Activo
+CL-30603,Frecuente,Córdoba Centro,39,5,901.52,180.3,4,Activo
+CL-30604,Ocasional,Belgrano,29,2,278.65,139.32,3,Retirado
+CL-30605,Frecuente,San Isidro,42,12,2489.27,207.44,5,Activo
+CL-30606,Nuevo,San Isidro,44,1,68.09,68.09,4,Activo
+CL-30607,Frecuente,Recoleta,41,10,2103.04,210.3,4,Activo
+CL-30608,Ocasional,San Telmo,30,3,173.48,57.83,3,Activo
+CL-30609,Frecuente,San Telmo,28,12,2676.04,223.0,5,Activo
+CL-30610,Ocasional,Olivos,34,2,228.59,114.3,4,Activo
+CL-30611,Nuevo,Olivos,45,1,96.67,96.67,3,Activo
+CL-30612,VIP Premium,San Telmo,29,32,9118.8,284.96,4,Activo
+CL-30613,Ocasional,Córdoba Centro,27,3,297.7,99.23,4,Activo
+CL-30614,Ocasional,San Isidro,18,4,322.84,80.71,1,Retirado
+CL-30615,Ocasional,San Isidro,32,3,254.46,84.82,5,Activo
+CL-30616,Ocasional,Recoleta,32,2,106.93,53.47,3,En Riesgo
+CL-30617,Ocasional,Olivos,32,2,245.84,122.92,5,Activo
+CL-30618,Ocasional,Recoleta,47,3,388.43,129.48,4,Activo
+CL-30619,Nuevo,Palermo,39,2,130.06,65.03,4,Activo
+CL-30620,VIP Premium,Córdoba Centro,32,31,7522.4,242.66,5,Activo
+CL-30621,Ocasional,San Isidro,43,2,265.58,132.79,5,Retirado
+CL-30622,Nuevo,Palermo,45,2,93.78,46.89,5,Activo
+CL-30623,VIP Premium,San Telmo,48,12,3406.36,283.86,5,Activo
+CL-30624,Frecuente,San Isidro,42,9,1948.55,216.51,4,Activo
+CL-30625,VIP Premium,Rosario Centro,46,38,8078.05,212.58,5,Activo
+CL-30626,VIP Premium,Córdoba Centro,36,44,12642.6,287.33,4,Activo
+CL-30627,Ocasional,San Telmo,37,5,294.09,58.82,3,Activo
+CL-30628,Frecuente,Córdoba Centro,18,9,919.28,102.14,5,Activo
+CL-30629,Ocasional,Caballito,33,3,200.33,66.78,4,Activo
+CL-30630,VIP Premium,San Isidro,55,30,5740.69,191.36,5,Activo
+CL-30631,Frecuente,Rosario Centro,28,9,2183.82,242.65,3,Activo
+CL-30632,Nuevo,San Isidro,38,2,237.6,118.8,5,Activo
+CL-30633,Frecuente,San Telmo,24,12,1745.41,145.45,4,En Riesgo
+CL-30634,Nuevo,San Isidro,37,2,86.86,43.43,5,Activo
+CL-30635,Frecuente,San Telmo,38,11,2155.92,195.99,5,En Riesgo
+CL-30636,Nuevo,Caballito,32,2,130.08,65.04,4,Activo
+CL-30637,Ocasional,Belgrano,24,3,225.48,75.16,4,Retirado
+CL-30638,Ocasional,San Isidro,45,3,207.31,69.1,3,En Riesgo
+CL-30639,Ocasional,Caballito,44,2,292.46,146.23,3,Activo
+CL-30640,Frecuente,Caballito,38,10,1451.94,145.19,5,En Riesgo
+CL-30641,Ocasional,Palermo,41,2,260.43,130.22,4,Retirado
+CL-30642,Ocasional,Rosario Centro,29,3,296.5,98.83,3,En Riesgo
+CL-30643,Nuevo,San Telmo,38,1,62.72,62.72,3,Activo
+CL-30644,Frecuente,Belgrano,31,10,1753.22,175.32,5,Activo
+CL-30645,VIP Premium,Belgrano,29,25,7363.71,294.55,5,Activo
+CL-30646,Ocasional,Palermo,36,4,417.75,104.44,1,Retirado
+CL-30647,VIP Premium,Belgrano,22,28,5590.1,199.65,5,Activo
+CL-30648,Frecuente,Recoleta,43,13,1823.38,140.26,5,Activo
+CL-30649,Frecuente,Belgrano,45,7,1590.56,227.22,5,Activo
+CL-30650,Frecuente,Córdoba Centro,29,6,687.39,114.56,5,Retirado
+CL-30651,Ocasional,Caballito,47,2,179.59,89.8,5,Activo
+CL-30652,Frecuente,Olivos,43,14,3240.92,231.49,5,Activo
+CL-30653,Ocasional,Recoleta,32,2,219.68,109.84,3,Retirado
+CL-30654,Frecuente,Córdoba Centro,41,14,2029.95,145.0,5,Activo
+CL-30655,Frecuente,San Telmo,64,10,1448.78,144.88,5,Activo
+CL-30656,Frecuente,Olivos,40,10,1919.36,191.94,5,Activo
+CL-30657,Ocasional,Rosario Centro,36,2,152.36,76.18,4,Retirado
+CL-30658,Frecuente,Recoleta,38,9,1660.36,184.48,5,Activo
+CL-30659,VIP Premium,Caballito,29,28,8578.77,306.38,4,Activo
+CL-30660,Ocasional,Caballito,31,3,188.24,62.75,2,Activo
+CL-30661,Frecuente,San Isidro,36,13,1530.8,117.75,4,Activo
+CL-30662,Frecuente,Caballito,45,8,1754.94,219.37,4,Activo
+CL-30663,Nuevo,Caballito,38,1,42.27,42.27,5,Activo
+CL-30664,Nuevo,Recoleta,41,2,177.96,88.98,3,Activo
+CL-30665,Nuevo,Belgrano,42,2,167.82,83.91,4,Activo
+CL-30666,Nuevo,Olivos,40,2,87.52,43.76,4,Activo
+CL-30667,Frecuente,Caballito,54,10,2377.41,237.74,5,Retirado
+CL-30668,Frecuente,Palermo,19,13,2720.16,209.24,4,Retirado
+CL-30669,Frecuente,Rosario Centro,29,12,1334.12,111.18,5,Retirado
+CL-30670,Frecuente,Recoleta,42,5,558.09,111.62,5,Activo
+CL-30671,Nuevo,Caballito,47,1,106.68,106.68,4,Activo
+CL-30672,Ocasional,San Telmo,58,4,480.93,120.23,2,En Riesgo
+CL-30673,Frecuente,Córdoba Centro,31,11,2108.38,191.67,5,Activo
+CL-30674,VIP Premium,Belgrano,39,29,8272.39,285.25,5,Activo
+CL-30675,Frecuente,Caballito,46,5,593.63,118.73,4,Activo
+CL-30676,Ocasional,San Isidro,45,4,378.66,94.67,2,Activo
+CL-30677,Nuevo,Recoleta,37,1,91.56,91.56,5,Activo
+CL-30678,Frecuente,San Telmo,39,11,1720.42,156.4,4,Activo
+CL-30679,Frecuente,Recoleta,50,7,1214.13,173.45,5,Activo
+CL-30680,VIP Premium,Córdoba Centro,27,31,5871.81,189.41,5,Activo
+CL-30681,VIP Premium,Olivos,32,34,8824.67,259.55,5,Activo
+CL-30682,Frecuente,Olivos,39,5,1210.45,242.09,5,Activo
+CL-30683,VIP Premium,Caballito,34,24,4641.51,193.4,5,Activo
+CL-30684,Nuevo,Belgrano,47,2,179.45,89.72,3,Activo
+CL-30685,Ocasional,Recoleta,38,3,434.73,144.91,5,En Riesgo
+CL-30686,Ocasional,Caballito,42,3,406.02,135.34,4,Activo
+CL-30687,VIP Premium,San Telmo,40,28,10956.79,391.31,5,Activo
+CL-30688,Ocasional,Palermo,27,4,420.94,105.23,5,Retirado
+CL-30689,Ocasional,Rosario Centro,41,3,172.83,57.61,5,Activo
+CL-30690,Frecuente,Caballito,23,9,1925.66,213.96,5,Activo
+CL-30691,Frecuente,Córdoba Centro,27,9,2093.83,232.65,4,Activo
+CL-30692,Frecuente,Belgrano,33,12,2376.13,198.01,4,Activo
+CL-30693,VIP Premium,San Isidro,64,14,3475.03,248.22,5,Activo
+CL-30694,Ocasional,Belgrano,22,5,487.73,97.55,5,Activo
+CL-30695,Ocasional,Olivos,35,2,299.94,149.97,5,Activo
+CL-30696,Ocasional,Palermo,50,5,629.67,125.93,2,En Riesgo
+CL-30697,Frecuente,Olivos,46,10,1930.48,193.05,5,Activo
+CL-30698,VIP Premium,Olivos,57,33,11092.13,336.13,4,Activo
+CL-30699,Nuevo,Olivos,36,2,85.59,42.8,3,Activo
+CL-30700,VIP Premium,Palermo,39,26,8626.83,331.8,5,Activo
+CL-30701,Frecuente,Olivos,37,5,1169.7,233.94,3,Activo
+CL-30702,Frecuente,Recoleta,27,14,2819.67,201.41,5,Activo
+CL-30703,Frecuente,Córdoba Centro,25,10,2378.89,237.89,3,Activo
+CL-30704,Ocasional,Belgrano,36,4,257.91,64.48,3,Activo
+CL-30705,Ocasional,Córdoba Centro,27,3,156.19,52.06,5,Activo
+CL-30706,Frecuente,Caballito,32,10,1014.12,101.41,5,Activo
+CL-30707,Frecuente,Belgrano,47,14,1652.48,118.03,3,En Riesgo
+CL-30708,Ocasional,Recoleta,36,4,525.99,131.5,4,En Riesgo
+CL-30709,VIP Premium,San Isidro,47,44,13976.13,317.64,5,Activo
+CL-30710,Ocasional,Palermo,43,4,228.87,57.22,5,Activo
+CL-30711,VIP Premium,Caballito,52,26,6374.62,245.18,5,Activo
+CL-30712,Ocasional,San Telmo,37,3,267.39,89.13,3,Retirado
+CL-30713,Frecuente,Córdoba Centro,27,14,3252.69,232.34,4,En Riesgo
+CL-30714,Ocasional,Olivos,37,4,287.66,71.92,5,En Riesgo
+CL-30715,VIP Premium,Belgrano,39,15,3505.82,233.72,5,Activo
+CL-30716,Ocasional,Córdoba Centro,34,3,262.45,87.48,4,En Riesgo
+CL-30717,Frecuente,Olivos,26,7,1124.82,160.69,4,Activo
+CL-30718,Nuevo,Olivos,43,2,233.28,116.64,3,Activo
+CL-30719,VIP Premium,Rosario Centro,38,18,3685.36,204.74,4,Activo
+CL-30720,Frecuente,San Telmo,46,12,2639.56,219.96,4,Activo
+CL-30721,Frecuente,San Telmo,42,13,2362.04,181.7,5,Activo
+CL-30722,Frecuente,San Telmo,31,14,1813.33,129.52,4,Activo
+CL-30723,Ocasional,Olivos,41,5,611.58,122.32,5,Retirado
+CL-30724,Ocasional,Caballito,52,2,102.96,51.48,3,Activo
+CL-30725,Frecuente,Córdoba Centro,34,5,913.85,182.77,4,En Riesgo
+CL-30726,Nuevo,Córdoba Centro,32,1,86.74,86.74,4,Activo
+CL-30727,Frecuente,Rosario Centro,29,7,854.19,122.03,5,Activo
+CL-30728,Frecuente,Palermo,30,9,1365.82,151.76,4,Activo
+CL-30729,Ocasional,Olivos,27,2,170.17,85.08,4,Activo
+CL-30730,Nuevo,Rosario Centro,47,1,59.36,59.36,5,Activo
+CL-30731,Frecuente,Olivos,50,5,867.61,173.52,4,Activo
+CL-30732,Frecuente,Olivos,35,13,2165.65,166.59,5,Activo
+CL-30733,Frecuente,Rosario Centro,30,6,656.49,109.42,5,En Riesgo
+CL-30734,Frecuente,San Telmo,54,9,1336.98,148.55,4,Activo
+CL-30735,Nuevo,Belgrano,35,2,232.77,116.39,5,Activo
+CL-30736,VIP Premium,Recoleta,40,38,14313.87,376.68,5,Activo
+CL-30737,VIP Premium,Recoleta,28,34,7628.01,224.35,5,Activo
+CL-30738,Ocasional,Córdoba Centro,37,3,343.0,114.33,5,Activo
+CL-30739,VIP Premium,Rosario Centro,40,33,10769.46,326.35,5,Activo
+CL-30740,Ocasional,Caballito,41,5,251.35,50.27,4,Activo
+CL-30741,Nuevo,Recoleta,33,1,76.36,76.36,4,Activo
+CL-30742,Ocasional,San Telmo,18,2,130.37,65.19,3,Activo
+CL-30743,Frecuente,Palermo,41,6,818.73,136.46,5,Activo
+CL-30744,Nuevo,Córdoba Centro,50,1,93.9,93.9,4,Activo
+CL-30745,Nuevo,San Isidro,22,1,45.09,45.09,5,Activo
+CL-30746,Ocasional,Rosario Centro,30,5,325.8,65.16,4,Activo
+CL-30747,VIP Premium,Caballito,44,15,3400.47,226.7,5,Activo
+CL-30748,Ocasional,Recoleta,34,4,203.65,50.91,3,Retirado
+CL-30749,VIP Premium,San Telmo,45,41,11415.15,278.42,5,Activo
+CL-30750,VIP Premium,Palermo,45,42,10077.37,239.94,4,Activo
+CL-30751,Ocasional,San Isidro,33,5,623.22,124.64,5,Retirado
+CL-30752,Ocasional,Recoleta,46,4,387.66,96.92,3,Retirado
+CL-30753,VIP Premium,San Telmo,40,15,3850.17,256.68,5,Activo
+CL-30754,Ocasional,Palermo,35,2,153.94,76.97,5,Activo
+CL-30755,Ocasional,Belgrano,44,4,421.16,105.29,3,En Riesgo
+CL-30756,VIP Premium,Belgrano,29,27,9298.77,344.4,5,En Riesgo
+CL-30757,Ocasional,Caballito,43,3,156.83,52.28,1,Activo
+CL-30758,Ocasional,Rosario Centro,31,5,376.67,75.33,3,En Riesgo
+CL-30759,Nuevo,Olivos,55,2,154.49,77.25,5,Activo
+CL-30760,Frecuente,Caballito,32,6,1214.32,202.39,4,Activo
+CL-30761,Frecuente,San Telmo,32,11,1718.71,156.25,4,Activo
+CL-30762,VIP Premium,Belgrano,50,25,8713.83,348.55,5,Activo
+CL-30763,Ocasional,San Telmo,42,2,142.54,71.27,3,Retirado
+CL-30764,Frecuente,San Telmo,33,7,1480.38,211.48,4,Activo
+CL-30765,VIP Premium,Caballito,28,40,15243.18,381.08,5,Activo
+CL-30766,Ocasional,San Isidro,26,5,361.82,72.36,4,Activo
+CL-30767,VIP Premium,Rosario Centro,41,25,4602.78,184.11,5,Activo
+CL-30768,Ocasional,Palermo,30,2,259.97,129.99,4,Activo
+CL-30769,Ocasional,Olivos,29,3,413.57,137.86,4,Retirado
+CL-30770,Frecuente,Recoleta,37,12,2661.8,221.82,4,En Riesgo
+CL-30771,Frecuente,Palermo,26,11,2684.98,244.09,5,Activo
+CL-30772,Ocasional,Belgrano,28,4,312.35,78.09,4,En Riesgo
+CL-30773,Frecuente,Caballito,23,13,2765.29,212.71,5,Activo
+CL-30774,VIP Premium,Rosario Centro,46,24,5101.06,212.54,5,En Riesgo
+CL-30775,Nuevo,Caballito,37,1,112.06,112.06,3,Activo
+CL-30776,Ocasional,Belgrano,31,3,289.34,96.45,4,En Riesgo
+CL-30777,Frecuente,Caballito,27,11,2474.06,224.91,5,En Riesgo
+CL-30778,Ocasional,San Isidro,20,5,287.03,57.41,5,Retirado
+CL-30779,Ocasional,Recoleta,38,4,532.53,133.13,3,Activo
+CL-30780,Ocasional,Córdoba Centro,48,3,431.85,143.95,5,Retirado
+CL-30781,Frecuente,Córdoba Centro,51,8,1440.7,180.09,5,Activo
+CL-30782,Frecuente,San Isidro,18,6,636.1,106.02,5,Activo
+CL-30783,VIP Premium,Palermo,34,33,8823.38,267.38,5,Activo
+CL-30784,Ocasional,San Isidro,28,3,338.69,112.9,3,Retirado
+CL-30785,Ocasional,Rosario Centro,25,4,425.84,106.46,5,Activo
+CL-30786,VIP Premium,San Isidro,19,13,3557.41,273.65,5,Activo
+CL-30787,Ocasional,San Isidro,36,4,465.28,116.32,4,Retirado
+CL-30788,Nuevo,San Isidro,39,1,40.54,40.54,5,Activo
+CL-30789,Nuevo,Rosario Centro,45,1,54.24,54.24,3,Activo
+CL-30790,Frecuente,San Telmo,50,8,1736.42,217.05,4,Activo
+CL-30791,Ocasional,Palermo,42,3,427.28,142.43,5,Activo
+CL-30792,Frecuente,Olivos,51,6,727.37,121.23,4,En Riesgo
+CL-30793,Ocasional,San Telmo,42,3,193.61,64.54,3,En Riesgo
+CL-30794,Nuevo,Rosario Centro,35,1,112.58,112.58,4,Activo
+CL-30795,VIP Premium,Olivos,52,36,9632.13,267.56,4,Activo
+CL-30796,Nuevo,San Telmo,36,1,69.52,69.52,3,Activo
+CL-30797,Nuevo,Palermo,35,1,83.54,83.54,5,Activo
+CL-30798,Ocasional,Córdoba Centro,29,5,410.92,82.18,4,Activo
+CL-30799,VIP Premium,Rosario Centro,33,18,5139.33,285.52,4,Activo
+CL-30800,Nuevo,Recoleta,31,2,107.71,53.85,5,Activo
+CL-30801,Frecuente,Caballito,37,9,1740.6,193.4,4,En Riesgo
+CL-30802,Frecuente,Belgrano,29,12,2342.14,195.18,3,Activo
+CL-30803,Frecuente,Recoleta,37,11,2415.89,219.63,5,Activo
+CL-30804,Ocasional,Caballito,46,2,104.97,52.48,4,Activo
+CL-30805,Frecuente,Rosario Centro,30,9,1888.52,209.84,4,Activo
+CL-30806,Ocasional,Olivos,34,2,137.34,68.67,5,Retirado
+CL-30807,Ocasional,Recoleta,33,5,728.49,145.7,4,En Riesgo
+CL-30808,Nuevo,Recoleta,32,1,62.61,62.61,5,Activo
+CL-30809,Frecuente,Olivos,30,5,574.16,114.83,5,Activo
+CL-30810,VIP Premium,San Isidro,18,32,11611.7,362.87,5,Activo
+CL-30811,VIP Premium,Rosario Centro,35,25,6719.56,268.78,5,Activo
+CL-30812,Ocasional,Rosario Centro,19,4,573.12,143.28,3,En Riesgo
+CL-30813,Ocasional,San Telmo,37,3,252.39,84.13,2,Activo
+CL-30814,Frecuente,Caballito,28,11,2191.26,199.21,5,Activo
+CL-30815,Ocasional,San Isidro,43,4,524.16,131.04,5,Activo
+CL-30816,Frecuente,Belgrano,36,7,1382.5,197.5,5,Activo
+CL-30817,Frecuente,Rosario Centro,35,8,1353.07,169.13,5,Activo
+CL-30818,Nuevo,Recoleta,30,1,66.81,66.81,4,Activo
+CL-30819,Frecuente,San Isidro,40,10,1221.71,122.17,4,Activo
+CL-30820,VIP Premium,Rosario Centro,45,41,10901.6,265.89,5,Activo
+CL-30821,Nuevo,San Isidro,45,1,90.15,90.15,5,Activo
+CL-30822,VIP Premium,San Telmo,30,31,11665.29,376.3,5,Activo
+CL-30823,Ocasional,Belgrano,41,5,290.68,58.14,2,Activo
+CL-30824,Nuevo,Córdoba Centro,45,1,83.28,83.28,5,Activo
+CL-30825,Ocasional,Recoleta,23,5,357.39,71.48,5,Activo
+CL-30826,Frecuente,Rosario Centro,33,8,1797.46,224.68,4,Activo
+CL-30827,Ocasional,Caballito,18,2,135.13,67.56,5,Retirado
+CL-30828,VIP Premium,San Telmo,51,20,5629.3,281.47,5,Activo
+CL-30829,Frecuente,Rosario Centro,34,12,1603.43,133.62,5,Activo
+CL-30830,Ocasional,Caballito,32,3,159.6,53.2,4,Retirado
+CL-30831,VIP Premium,Caballito,30,13,3994.54,307.27,5,Activo
+CL-30832,VIP Premium,Rosario Centro,26,30,6621.66,220.72,5,Activo
+CL-30833,Ocasional,Rosario Centro,38,3,193.48,64.49,5,Activo
+CL-30834,Frecuente,Belgrano,32,8,1120.81,140.1,5,Activo
+CL-30835,Ocasional,San Telmo,28,3,444.42,148.14,4,Activo
+CL-30836,Ocasional,San Isidro,36,2,232.87,116.44,4,Activo
+CL-30837,Frecuente,Córdoba Centro,52,12,2493.97,207.83,4,Activo
+CL-30838,Ocasional,San Isidro,49,5,678.61,135.72,5,Activo
+CL-30839,Frecuente,Caballito,35,10,1261.35,126.13,5,Activo
+CL-30840,Ocasional,Recoleta,43,5,353.79,70.76,5,Activo
+CL-30841,Ocasional,San Isidro,43,3,310.56,103.52,4,Activo
+CL-30842,Frecuente,Olivos,33,7,835.81,119.4,4,Activo
+CL-30843,Frecuente,Córdoba Centro,41,12,2928.56,244.05,5,Activo
+CL-30844,Ocasional,San Isidro,28,4,238.17,59.54,4,En Riesgo
+CL-30845,Ocasional,Recoleta,24,3,294.26,98.09,4,Retirado
+CL-30846,Ocasional,Rosario Centro,26,3,258.34,86.11,5,Activo
+CL-30847,Frecuente,San Isidro,51,8,1301.14,162.64,4,Activo
+CL-30848,Ocasional,San Telmo,25,5,487.47,97.49,5,Activo
+CL-30849,VIP Premium,Rosario Centro,35,32,11684.34,365.14,5,Activo
+CL-30850,Frecuente,Recoleta,45,11,2610.69,237.34,5,Retirado
+CL-30851,VIP Premium,San Telmo,30,31,9203.18,296.88,5,En Riesgo
+CL-30852,Frecuente,Belgrano,18,10,1775.63,177.56,5,Activo
+CL-30853,Frecuente,Olivos,31,11,2605.74,236.89,4,Activo
+CL-30854,Ocasional,Recoleta,50,2,281.55,140.78,4,En Riesgo
+CL-30855,Frecuente,Caballito,39,7,1241.51,177.36,4,En Riesgo
+CL-30856,Frecuente,Olivos,48,14,3210.81,229.34,4,Activo
+CL-30857,Frecuente,San Isidro,31,13,2894.76,222.67,4,Activo
+CL-30858,Frecuente,Olivos,47,10,2290.91,229.09,4,Activo
+CL-30859,Ocasional,San Isidro,49,3,216.21,72.07,5,En Riesgo
+CL-30860,VIP Premium,Olivos,34,41,8968.11,218.73,4,Activo
+CL-30861,Frecuente,Caballito,45,5,1206.07,241.21,5,Activo
+CL-30862,VIP Premium,Olivos,31,40,15750.44,393.76,5,Activo
+CL-30863,Nuevo,Caballito,35,1,71.41,71.41,5,Activo
+CL-30864,Frecuente,Caballito,42,12,1315.19,109.6,5,En Riesgo
+CL-30865,Frecuente,Caballito,23,12,1451.48,120.96,5,Activo
+CL-30866,Ocasional,Recoleta,24,4,458.07,114.52,5,En Riesgo
+CL-30867,Ocasional,Palermo,27,4,422.3,105.58,4,Retirado
+CL-30868,Frecuente,Palermo,50,12,1953.31,162.78,3,Activo
+CL-30869,Ocasional,Córdoba Centro,41,5,509.11,101.82,2,Activo
+CL-30870,VIP Premium,Rosario Centro,45,31,9051.65,291.99,4,Activo
+CL-30871,Ocasional,Córdoba Centro,39,2,226.53,113.27,3,Retirado
+CL-30872,Frecuente,Palermo,53,9,1400.56,155.62,5,Activo
+CL-30873,Nuevo,Olivos,28,2,225.39,112.69,3,Activo
+CL-30874,Frecuente,Belgrano,25,12,1982.81,165.23,5,Retirado
+CL-30875,Frecuente,San Isidro,36,9,2151.63,239.07,5,Activo
+CL-30876,Frecuente,San Isidro,35,10,1596.17,159.62,5,Activo
+CL-30877,Ocasional,San Isidro,44,4,248.43,62.11,5,Activo
+CL-30878,Ocasional,Caballito,31,3,345.93,115.31,3,Retirado
+CL-30879,Ocasional,Caballito,31,5,599.55,119.91,3,En Riesgo
+CL-30880,Frecuente,Olivos,40,10,1850.79,185.08,4,Activo
+CL-30881,Ocasional,Olivos,35,2,280.13,140.06,5,Activo
+CL-30882,Frecuente,Córdoba Centro,36,13,1920.03,147.69,5,Activo
+CL-30883,Frecuente,Belgrano,19,9,1882.63,209.18,5,Activo
+CL-30884,Ocasional,Recoleta,44,3,307.21,102.4,5,Retirado
+CL-30885,Nuevo,Olivos,39,2,158.33,79.17,5,Activo
+CL-30886,Frecuente,Olivos,44,14,2265.77,161.84,4,En Riesgo
+CL-30887,Frecuente,Recoleta,32,12,1295.74,107.98,3,Activo
+CL-30888,Ocasional,Caballito,33,5,536.83,107.37,4,Retirado
+CL-30889,Ocasional,Belgrano,60,3,447.06,149.02,4,Retirado
+CL-30890,Ocasional,San Isidro,23,5,506.61,101.32,3,Activo
+CL-30891,Frecuente,Rosario Centro,41,7,1392.7,198.96,4,En Riesgo
+CL-30892,Ocasional,Caballito,44,2,154.95,77.47,5,Retirado
+CL-30893,Nuevo,Palermo,60,2,152.39,76.19,3,Activo
+CL-30894,Ocasional,San Telmo,34,2,149.24,74.62,5,Retirado
+CL-30895,Nuevo,Palermo,39,2,223.2,111.6,4,Activo
+CL-30896,VIP Premium,Rosario Centro,29,16,4934.91,308.43,5,Activo
+CL-30897,Frecuente,Belgrano,46,9,1434.27,159.36,5,Activo
+CL-30898,Ocasional,Rosario Centro,36,2,255.73,127.86,4,En Riesgo
+CL-30899,VIP Premium,San Telmo,24,36,12179.58,338.32,5,Activo
+CL-30900,VIP Premium,San Telmo,28,21,7699.1,366.62,5,Activo
+CL-30901,Ocasional,San Isidro,41,5,332.57,66.51,5,Activo
+CL-30902,VIP Premium,San Telmo,41,33,9750.13,295.46,5,Activo
+CL-30903,Ocasional,Rosario Centro,41,2,159.58,79.79,5,En Riesgo
+CL-30904,VIP Premium,San Isidro,29,41,8089.52,197.31,4,Activo
+CL-30905,Frecuente,Olivos,51,11,2095.71,190.52,4,Activo
+CL-30906,Ocasional,Caballito,18,3,248.34,82.78,5,Activo
+CL-30907,Frecuente,Rosario Centro,46,14,2381.12,170.08,4,Activo
+CL-30908,Nuevo,Recoleta,31,2,119.74,59.87,4,Activo
+CL-30909,Nuevo,Recoleta,46,1,41.93,41.93,5,Activo
+CL-30910,Frecuente,Córdoba Centro,22,12,2188.97,182.41,4,En Riesgo
+CL-30911,Frecuente,San Telmo,43,13,3145.68,241.98,4,Activo
+CL-30912,Frecuente,Caballito,20,11,2090.96,190.09,4,Activo
+CL-30913,VIP Premium,Córdoba Centro,26,26,7392.51,284.33,4,Activo
+CL-30914,Frecuente,Palermo,19,13,2350.01,180.77,5,Activo
+CL-30915,Frecuente,San Isidro,67,9,1787.46,198.61,4,Retirado
+CL-30916,Nuevo,Rosario Centro,29,1,106.98,106.98,5,Activo
+CL-30917,Frecuente,Palermo,43,5,1181.78,236.36,5,Retirado
+CL-30918,Frecuente,Palermo,27,8,1377.38,172.17,5,En Riesgo
+CL-30919,Frecuente,San Telmo,39,12,1532.83,127.74,5,Activo
+CL-30920,Ocasional,Recoleta,36,5,637.26,127.45,4,Activo
+CL-30921,Nuevo,San Isidro,49,1,119.83,119.83,4,Activo
+CL-30922,Ocasional,Córdoba Centro,53,4,523.38,130.84,5,Activo
+CL-30923,Frecuente,Recoleta,53,11,2706.97,246.09,5,Activo
+CL-30924,VIP Premium,Belgrano,35,30,5629.34,187.64,5,Retirado
+CL-30925,Frecuente,Córdoba Centro,22,5,725.66,145.13,5,Activo
+CL-30926,Frecuente,San Isidro,52,7,1026.42,146.63,5,En Riesgo
+CL-30927,VIP Premium,Olivos,46,30,6778.23,225.94,5,Activo
+CL-30928,VIP Premium,Rosario Centro,41,21,6483.8,308.75,5,Activo
+CL-30929,Frecuente,Recoleta,38,12,1835.73,152.98,4,Activo
+CL-30930,Frecuente,Olivos,40,10,1916.58,191.66,5,En Riesgo
+CL-30931,Frecuente,Olivos,55,14,3443.86,245.99,3,En Riesgo
+CL-30932,VIP Premium,San Isidro,39,22,4489.86,204.08,5,Activo
+CL-30933,Ocasional,Córdoba Centro,41,3,187.39,62.46,1,Retirado
+CL-30934,Frecuente,Belgrano,47,10,2341.08,234.11,4,Activo
+CL-30935,Ocasional,Olivos,34,3,443.1,147.7,5,Activo
+CL-30936,Ocasional,San Isidro,36,4,490.05,122.51,5,Activo
+CL-30937,Ocasional,Palermo,25,5,540.04,108.01,3,Activo
+CL-30938,Ocasional,Recoleta,21,3,171.68,57.23,5,Activo
+CL-30939,Frecuente,Belgrano,52,14,2045.38,146.1,4,Activo
+CL-30940,Frecuente,Rosario Centro,40,11,1614.97,146.82,4,Activo
+CL-30941,VIP Premium,Recoleta,28,14,3078.65,219.9,5,Activo
+CL-30942,Frecuente,Palermo,40,11,1877.6,170.69,4,Activo
+CL-30943,VIP Premium,Recoleta,29,27,6554.03,242.74,5,Activo
+CL-30944,Frecuente,Belgrano,51,13,2755.59,211.97,3,En Riesgo
+CL-30945,Ocasional,Córdoba Centro,41,4,237.1,59.27,2,Activo
+CL-30946,Ocasional,Palermo,42,3,308.5,102.83,3,En Riesgo
+CL-30947,Ocasional,Recoleta,27,2,161.02,80.51,3,Retirado
+CL-30948,Frecuente,Palermo,27,11,2397.03,217.91,5,Activo
+CL-30949,VIP Premium,San Isidro,53,18,7110.35,395.02,5,Activo
+CL-30950,VIP Premium,Olivos,31,36,8745.98,242.94,4,Activo
+CL-30951,Ocasional,Córdoba Centro,42,4,243.27,60.82,3,Activo
+CL-30952,Ocasional,Caballito,46,2,195.29,97.64,3,Retirado
+CL-30953,Nuevo,Caballito,37,2,179.15,89.58,4,Activo
+CL-30954,Frecuente,Rosario Centro,36,9,1478.45,164.27,5,Retirado
+CL-30955,Frecuente,Palermo,34,11,1933.29,175.75,4,Activo
+CL-30956,Nuevo,San Isidro,26,2,111.32,55.66,5,Activo
+CL-30957,VIP Premium,Recoleta,29,26,6345.07,244.04,4,Activo
+CL-30958,Ocasional,San Isidro,35,5,463.79,92.76,1,Activo
+CL-30959,Ocasional,Palermo,36,5,472.72,94.54,5,Retirado
+CL-30960,Ocasional,Rosario Centro,50,3,164.02,54.67,4,Retirado
+CL-30961,VIP Premium,Rosario Centro,25,32,12208.14,381.5,5,En Riesgo
+CL-30962,Ocasional,Recoleta,33,3,253.03,84.34,3,En Riesgo
+CL-30963,Ocasional,Rosario Centro,52,3,416.73,138.91,4,Activo
+CL-30964,Frecuente,Olivos,37,7,771.18,110.17,4,Retirado
+CL-30965,Ocasional,Córdoba Centro,30,2,274.08,137.04,3,Activo
+CL-30966,VIP Premium,Olivos,38,17,5167.63,303.98,5,Activo
+CL-30967,Frecuente,Rosario Centro,26,5,1129.6,225.92,4,Retirado
+CL-30968,Frecuente,Palermo,39,11,2323.04,211.19,5,Activo
+CL-30969,Nuevo,Belgrano,49,2,172.71,86.36,4,Activo
+CL-30970,Frecuente,Olivos,53,14,3007.12,214.79,5,Activo
+CL-30971,Frecuente,Olivos,45,8,1460.73,182.59,4,En Riesgo
+CL-30972,Ocasional,Recoleta,33,5,386.7,77.34,2,Retirado
+CL-30973,Nuevo,Rosario Centro,51,2,144.45,72.22,5,Activo
+CL-30974,Ocasional,Córdoba Centro,45,2,198.35,99.17,2,En Riesgo
+CL-30975,Ocasional,Palermo,28,3,401.01,133.67,5,Retirado
+CL-30976,Nuevo,Recoleta,20,1,87.96,87.96,3,Activo
+CL-30977,Ocasional,Caballito,32,2,163.33,81.67,5,Activo
+CL-30978,Frecuente,San Telmo,52,11,1576.45,143.31,5,En Riesgo
+CL-30979,Ocasional,Palermo,50,2,115.6,57.8,5,Activo
+CL-30980,Ocasional,Recoleta,26,5,662.1,132.42,3,Activo
+CL-30981,VIP Premium,Córdoba Centro,35,32,12235.47,382.36,5,Activo
+CL-30982,VIP Premium,Córdoba Centro,40,14,3914.69,279.62,5,Retirado
+CL-30983,Ocasional,San Telmo,32,3,361.74,120.58,4,Activo
+CL-30984,Ocasional,Caballito,44,4,409.23,102.31,5,Activo
+CL-30985,Frecuente,Olivos,46,9,1372.22,152.47,5,En Riesgo
+CL-30986,Frecuente,San Isidro,54,9,1792.34,199.15,4,Activo
+CL-30987,Nuevo,Recoleta,35,1,101.16,101.16,4,Activo
+CL-30988,Ocasional,San Isidro,48,5,432.68,86.54,5,Activo
+CL-30989,VIP Premium,San Isidro,56,13,5044.54,388.04,5,Activo
+CL-30990,Frecuente,Rosario Centro,38,8,976.76,122.09,5,Activo
+CL-30991,VIP Premium,San Telmo,42,28,10766.14,384.5,5,En Riesgo
+CL-30992,Ocasional,Rosario Centro,37,3,397.72,132.57,5,Activo
+CL-30993,Ocasional,Palermo,50,4,368.8,92.2,5,Retirado
+CL-30994,Nuevo,San Telmo,34,1,114.93,114.93,3,Activo
+CL-30995,Ocasional,Caballito,36,3,216.97,72.32,4,Activo
+CL-30996,Ocasional,Recoleta,50,4,427.42,106.86,5,En Riesgo
+CL-30997,Frecuente,Belgrano,35,13,2663.92,204.92,5,Activo
+CL-30998,Frecuente,Belgrano,33,7,1283.06,183.29,4,Activo
+CL-30999,Ocasional,Belgrano,44,4,379.74,94.94,4,Activo
+CL-31000,VIP Premium,Recoleta,23,41,15878.1,387.27,4,Activo
+CL-31001,Nuevo,Belgrano,49,1,52.55,52.55,3,Activo
+CL-31002,Nuevo,San Telmo,45,2,89.42,44.71,4,Activo
+CL-31003,Ocasional,Caballito,51,5,490.48,98.1,5,Activo
+CL-31004,Frecuente,Recoleta,40,5,1125.9,225.18,4,En Riesgo
+CL-31005,Frecuente,Palermo,41,9,1860.59,206.73,5,Activo
+CL-31006,VIP Premium,Olivos,45,22,4046.9,183.95,5,Activo
+CL-31007,VIP Premium,Olivos,21,42,9288.32,221.15,5,Activo
+CL-31008,Ocasional,San Isidro,32,2,265.78,132.89,4,Activo
+CL-31009,Ocasional,San Telmo,57,2,161.9,80.95,2,Activo
+CL-31010,Ocasional,Palermo,27,3,404.09,134.7,5,En Riesgo
+CL-31011,Frecuente,Rosario Centro,40,9,1985.37,220.6,5,Activo
+CL-31012,Nuevo,Olivos,38,1,102.54,102.54,4,Activo
+CL-31013,Nuevo,Recoleta,53,2,207.37,103.69,4,Activo
+CL-31014,Ocasional,San Isidro,28,2,276.89,138.44,4,Activo
+CL-31015,Ocasional,Olivos,42,5,325.35,65.07,2,Activo
+CL-31016,Ocasional,Belgrano,40,4,598.21,149.55,3,Retirado
+CL-31017,Ocasional,Recoleta,47,3,241.42,80.47,4,Activo
+CL-31018,Nuevo,San Isidro,52,2,201.61,100.81,5,Activo
+CL-31019,Frecuente,Belgrano,34,8,1644.48,205.56,5,Activo
+CL-31020,Nuevo,Rosario Centro,27,2,171.96,85.98,4,Activo
+CL-31021,Frecuente,San Telmo,34,6,871.24,145.21,5,Activo
+CL-31022,Frecuente,Belgrano,38,8,1607.74,200.97,5,Retirado
+CL-31023,Frecuente,Belgrano,32,11,1939.07,176.28,4,Activo
+CL-31024,Ocasional,San Telmo,30,3,197.94,65.98,4,Activo
+CL-31025,VIP Premium,San Telmo,41,16,3416.79,213.55,5,Activo
+CL-31026,VIP Premium,San Isidro,44,32,8843.75,276.37,5,Activo
+CL-31027,Nuevo,Recoleta,36,1,96.73,96.73,5,Activo
+CL-31028,Ocasional,Caballito,27,4,300.62,75.16,4,En Riesgo
+CL-31029,VIP Premium,San Telmo,42,33,8691.48,263.38,5,En Riesgo
+CL-31030,VIP Premium,Recoleta,33,22,5494.5,249.75,5,Activo
+CL-31031,Frecuente,Córdoba Centro,30,7,1583.64,226.23,3,Activo
+CL-31032,VIP Premium,San Isidro,36,37,8004.04,216.33,4,Activo
+CL-31033,Nuevo,Belgrano,39,1,72.76,72.76,4,Activo
+CL-31034,Ocasional,Recoleta,43,2,147.12,73.56,4,Activo
+CL-31035,Frecuente,Caballito,35,12,2977.32,248.11,4,Activo
+CL-31036,Nuevo,Belgrano,43,1,107.47,107.47,5,Activo
+CL-31037,VIP Premium,Córdoba Centro,29,12,3063.82,255.32,5,Activo
+CL-31038,Frecuente,Palermo,30,8,1619.21,202.4,5,Activo
+CL-31039,Ocasional,Rosario Centro,48,3,199.68,66.56,4,Activo
+CL-31040,Ocasional,San Telmo,28,4,442.56,110.64,5,Activo
+CL-31041,VIP Premium,San Isidro,41,44,14205.02,322.84,5,Activo
+CL-31042,Frecuente,Palermo,31,9,1332.35,148.04,4,En Riesgo
+CL-31043,Nuevo,Palermo,24,1,51.75,51.75,4,Activo
+CL-31044,Ocasional,Belgrano,48,4,512.51,128.13,4,Retirado
+CL-31045,Nuevo,San Isidro,34,1,111.13,111.13,4,Activo
+CL-31046,Frecuente,Palermo,24,9,934.41,103.82,5,Activo
+CL-31047,Ocasional,San Telmo,43,4,503.53,125.88,3,Activo
+CL-31048,Frecuente,Olivos,26,8,1954.09,244.26,5,Activo
+CL-31049,Frecuente,Rosario Centro,34,5,623.05,124.61,4,Activo
+CL-31050,Ocasional,San Isidro,40,2,214.84,107.42,3,Activo
+CL-31051,Frecuente,Belgrano,25,11,1142.25,103.84,5,Activo
+CL-31052,VIP Premium,Palermo,37,39,13839.26,354.85,5,Activo
+CL-31053,Frecuente,San Isidro,40,12,1368.72,114.06,4,Activo
+CL-31054,VIP Premium,San Isidro,42,34,11557.2,339.92,5,Activo
+CL-31055,Frecuente,Córdoba Centro,38,7,1668.38,238.34,5,Activo
+CL-31056,Frecuente,Córdoba Centro,36,12,1896.78,158.06,4,Activo
+CL-31057,VIP Premium,Recoleta,24,28,5233.8,186.92,5,Activo
+CL-31058,Ocasional,Caballito,41,5,275.73,55.15,2,Activo
+CL-31059,Nuevo,Caballito,46,1,106.14,106.14,5,Activo
+CL-31060,Frecuente,Olivos,46,5,1192.71,238.54,5,Activo
+CL-31061,Frecuente,San Isidro,47,11,2464.82,224.07,5,Activo
+CL-31062,Frecuente,Palermo,25,12,1238.1,103.17,4,Activo
+CL-31063,Ocasional,Belgrano,32,4,583.35,145.84,4,Activo
+CL-31064,Frecuente,Palermo,39,8,938.25,117.28,4,Activo
+CL-31065,Ocasional,Recoleta,36,3,253.5,84.5,4,Activo
+CL-31066,Ocasional,San Isidro,36,4,551.62,137.91,5,En Riesgo
+CL-31067,Frecuente,Córdoba Centro,44,6,1081.35,180.22,5,Activo
+CL-31068,Frecuente,San Isidro,30,12,2366.55,197.21,3,Activo
+CL-31069,VIP Premium,Caballito,41,22,6875.83,312.54,4,Activo
+CL-31070,Ocasional,San Telmo,35,4,506.26,126.56,3,Retirado
+CL-31071,Ocasional,Rosario Centro,52,4,337.11,84.28,2,Retirado
+CL-31072,Frecuente,Palermo,48,6,1169.86,194.98,4,Activo
+CL-31073,Frecuente,San Telmo,41,11,1517.72,137.97,5,Activo
+CL-31074,Frecuente,Rosario Centro,54,5,697.14,139.43,5,En Riesgo
+CL-31075,Nuevo,Caballito,30,2,145.88,72.94,4,Activo
+CL-31076,Ocasional,Belgrano,38,5,316.36,63.27,4,Activo
+CL-31077,Frecuente,Córdoba Centro,38,7,1665.43,237.92,5,Activo
+CL-31078,Ocasional,San Telmo,25,3,170.25,56.75,2,En Riesgo
+CL-31079,Ocasional,San Telmo,29,3,338.58,112.86,2,En Riesgo
+CL-31080,Ocasional,Recoleta,20,2,137.85,68.92,4,En Riesgo
+CL-31081,VIP Premium,Belgrano,42,36,11551.6,320.88,5,Activo
+CL-31082,VIP Premium,Belgrano,28,23,6702.51,291.41,5,Activo
+CL-31083,Frecuente,San Isidro,44,5,981.86,196.37,5,Activo
+CL-31084,Frecuente,Rosario Centro,31,14,1808.16,129.15,5,Activo
+CL-31085,Frecuente,Caballito,38,14,2926.8,209.06,4,En Riesgo
+CL-31086,Frecuente,Recoleta,48,14,1442.57,103.04,4,En Riesgo
+CL-31087,Ocasional,Palermo,39,2,112.92,56.46,4,Retirado
+CL-31088,Frecuente,Rosario Centro,34,10,2253.39,225.34,4,Retirado
+CL-31089,Frecuente,Córdoba Centro,29,6,863.79,143.97,5,Activo
+CL-31090,Frecuente,Recoleta,30,6,655.4,109.23,4,En Riesgo
+CL-31091,Nuevo,Córdoba Centro,21,1,101.67,101.67,3,Activo
+CL-31092,Frecuente,Caballito,27,5,524.23,104.85,5,Activo
+CL-31093,VIP Premium,San Isidro,28,27,7605.29,281.68,5,Activo
+CL-31094,Nuevo,Palermo,42,2,185.16,92.58,5,Activo
+CL-31095,Ocasional,San Isidro,40,5,606.95,121.39,4,Retirado
+CL-31096,VIP Premium,San Isidro,39,17,5474.91,322.05,5,Retirado
+CL-31097,Frecuente,Palermo,52,6,638.99,106.5,5,Activo
+CL-31098,Nuevo,Belgrano,45,2,99.87,49.94,4,Activo
+CL-31099,Ocasional,Belgrano,26,2,299.3,149.65,3,Activo
+CL-31100,Ocasional,Rosario Centro,66,4,330.88,82.72,5,En Riesgo
+CL-31101,Frecuente,Córdoba Centro,35,8,834.35,104.29,5,Activo
+CL-31102,Ocasional,Rosario Centro,44,5,314.98,63.0,5,En Riesgo
+CL-31103,Ocasional,Rosario Centro,38,5,298.07,59.61,4,En Riesgo
+CL-31104,Frecuente,Palermo,27,6,650.34,108.39,4,Activo
+CL-31105,Frecuente,Olivos,40,7,1222.66,174.67,5,Activo
+CL-31106,Frecuente,Recoleta,43,13,2396.65,184.36,3,Activo
+CL-31107,Ocasional,San Telmo,46,3,429.99,143.33,5,Retirado
+CL-31108,Frecuente,Belgrano,33,11,1496.67,136.06,4,Activo
+CL-31109,VIP Premium,Olivos,25,21,4445.58,211.69,5,Activo
+CL-31110,Ocasional,Olivos,49,2,186.57,93.28,3,Retirado
+CL-31111,Nuevo,San Telmo,60,1,49.23,49.23,3,Activo
+CL-31112,Nuevo,San Telmo,23,2,101.26,50.63,3,Activo
+CL-31113,VIP Premium,Olivos,37,38,14964.05,393.79,4,Activo
+CL-31114,Ocasional,Recoleta,45,2,222.87,111.44,4,En Riesgo
+CL-31115,Ocasional,Córdoba Centro,29,2,116.31,58.16,4,En Riesgo
+CL-31116,Frecuente,Palermo,33,6,1005.13,167.52,5,En Riesgo
+CL-31117,Ocasional,Belgrano,24,4,284.86,71.22,3,Activo
+CL-31118,Nuevo,Rosario Centro,40,2,143.57,71.78,3,Activo
+CL-31119,Nuevo,Rosario Centro,20,1,70.65,70.65,5,Activo
+CL-31120,Frecuente,Olivos,37,10,2452.55,245.26,5,En Riesgo
+CL-31121,Ocasional,Córdoba Centro,45,4,483.0,120.75,1,Activo
+CL-31122,Ocasional,Palermo,38,3,395.21,131.74,4,Activo
+CL-31123,Ocasional,Palermo,34,2,261.62,130.81,1,Activo
+CL-31124,Ocasional,Recoleta,30,5,420.27,84.05,5,Activo
+CL-31125,VIP Premium,Rosario Centro,46,22,6832.72,310.58,5,Activo
+CL-31126,Ocasional,Caballito,44,5,472.9,94.58,5,Activo
+CL-31127,Nuevo,Palermo,34,2,124.72,62.36,4,Activo
+CL-31128,Frecuente,Recoleta,61,9,1260.9,140.1,5,Activo
+CL-31129,Frecuente,Palermo,21,8,1696.57,212.07,5,En Riesgo
+CL-31130,Ocasional,San Isidro,37,2,183.59,91.8,3,Retirado
+CL-31131,Frecuente,Palermo,35,10,2108.58,210.86,5,Retirado
+CL-31132,Frecuente,Rosario Centro,42,5,962.95,192.59,5,Retirado
+CL-31133,Frecuente,Rosario Centro,41,5,1246.61,249.32,5,Activo
+CL-31134,Frecuente,San Isidro,37,5,1065.45,213.09,5,Activo
+CL-31135,Ocasional,Córdoba Centro,47,4,553.04,138.26,4,Activo
+CL-31136,Ocasional,Córdoba Centro,30,5,515.18,103.04,4,Activo
+CL-31137,Ocasional,Caballito,39,2,196.22,98.11,3,Activo
+CL-31138,Ocasional,Córdoba Centro,42,5,304.67,60.93,5,Activo
+CL-31139,Frecuente,Palermo,48,6,1104.06,184.01,4,Activo
+CL-31140,Ocasional,San Isidro,29,5,265.04,53.01,4,Activo
+CL-31141,Ocasional,Palermo,37,5,403.77,80.75,5,Activo
+CL-31142,Ocasional,Palermo,39,4,545.49,136.37,5,En Riesgo
+CL-31143,Ocasional,Córdoba Centro,36,4,352.95,88.24,4,Activo
+CL-31144,Frecuente,Palermo,38,5,619.36,123.87,5,Activo
+CL-31145,Frecuente,Belgrano,43,5,1000.13,200.03,5,Activo
+CL-31146,Frecuente,San Telmo,52,6,1405.61,234.27,4,Activo
+CL-31147,Frecuente,Rosario Centro,50,14,3162.73,225.91,4,Activo
+CL-31148,Ocasional,Belgrano,36,5,641.18,128.24,2,Retirado
+CL-31149,Frecuente,Córdoba Centro,34,8,1518.11,189.76,5,Activo
+CL-31150,Ocasional,San Isidro,24,5,517.2,103.44,2,En Riesgo
+CL-31151,VIP Premium,Olivos,42,14,3730.93,266.5,5,Activo
+CL-31152,Frecuente,Olivos,36,9,2108.31,234.26,5,Activo
+CL-31153,Ocasional,Recoleta,46,2,270.94,135.47,4,Retirado
+CL-31154,Frecuente,Córdoba Centro,47,9,1344.93,149.44,5,Activo
+CL-31155,Frecuente,Caballito,36,5,1242.66,248.53,5,Activo
+CL-31156,VIP Premium,Olivos,45,23,8985.28,390.66,5,Activo
+CL-31157,Frecuente,Belgrano,44,7,918.07,131.15,4,Activo
+CL-31158,Ocasional,Caballito,23,2,152.56,76.28,3,Activo
+CL-31159,Nuevo,Rosario Centro,41,1,119.46,119.46,5,Activo
+CL-31160,Ocasional,Palermo,18,2,199.18,99.59,3,Activo
+CL-31161,Ocasional,San Isidro,26,2,270.24,135.12,4,Retirado
+CL-31162,Frecuente,Córdoba Centro,23,9,1848.95,205.44,5,Activo
+CL-31163,Ocasional,Córdoba Centro,57,2,110.16,55.08,5,En Riesgo
+CL-31164,Frecuente,San Telmo,40,6,1416.41,236.07,4,Activo
+CL-31165,Frecuente,Olivos,49,14,2801.41,200.1,5,Activo
+CL-31166,VIP Premium,Palermo,39,23,6955.85,302.43,5,Retirado
+CL-31167,Ocasional,Olivos,57,3,234.29,78.1,4,Activo
+CL-31168,Frecuente,Rosario Centro,37,5,1153.51,230.7,5,Activo
+CL-31169,Ocasional,Córdoba Centro,42,3,435.3,145.1,5,Activo
+CL-31170,Frecuente,San Isidro,21,10,1102.29,110.23,4,Activo
+CL-31171,Nuevo,Palermo,21,2,111.4,55.7,3,Activo
+CL-31172,VIP Premium,San Telmo,54,37,11443.28,309.28,5,Activo
+CL-31173,Frecuente,Palermo,58,5,1249.5,249.9,3,Activo
+CL-31174,Ocasional,Rosario Centro,39,2,173.1,86.55,3,En Riesgo
+CL-31175,Ocasional,Palermo,56,4,441.49,110.37,2,En Riesgo
+CL-31176,VIP Premium,Belgrano,34,19,6789.05,357.32,4,Activo
+CL-31177,Nuevo,Rosario Centro,53,1,107.24,107.24,4,Activo
+CL-31178,Frecuente,Belgrano,34,7,921.85,131.69,4,En Riesgo
+CL-31179,Frecuente,Belgrano,18,8,1998.14,249.77,4,Activo
+CL-31180,Frecuente,Palermo,26,9,1002.08,111.34,4,Activo
+CL-31181,Frecuente,Palermo,35,13,2403.88,184.91,4,Activo
+CL-31182,Frecuente,Caballito,49,7,1575.43,225.06,5,Activo
+CL-31183,Frecuente,Rosario Centro,52,8,1811.68,226.46,5,Activo
+CL-31184,Ocasional,Recoleta,20,3,189.74,63.25,4,Retirado
+CL-31185,VIP Premium,Rosario Centro,25,19,5666.95,298.26,5,Activo
+CL-31186,Ocasional,Caballito,44,3,351.76,117.25,2,Activo
+CL-31187,VIP Premium,Palermo,45,43,12084.4,281.03,5,Activo
+CL-31188,Frecuente,Olivos,46,9,962.64,106.96,5,Activo
+CL-31189,Ocasional,Recoleta,38,2,238.22,119.11,5,Activo
+CL-31190,VIP Premium,San Telmo,23,32,8067.58,252.11,5,Activo
+CL-31191,Ocasional,San Telmo,34,3,414.52,138.17,4,En Riesgo
+CL-31192,Frecuente,Córdoba Centro,23,5,694.35,138.87,5,En Riesgo
+CL-31193,Nuevo,Belgrano,24,2,210.46,105.23,4,Activo
+CL-31194,Ocasional,Belgrano,23,4,405.88,101.47,4,Activo
+CL-31195,Nuevo,Rosario Centro,46,2,91.05,45.52,5,Activo
+CL-31196,Frecuente,Rosario Centro,24,5,780.08,156.02,5,En Riesgo
+CL-31197,VIP Premium,Rosario Centro,34,35,9143.2,261.23,4,Activo
+CL-31198,VIP Premium,Recoleta,31,31,12297.23,396.68,5,Activo
+CL-31199,Ocasional,Córdoba Centro,42,3,205.56,68.52,1,Activo
+CL-31200,VIP Premium,Recoleta,32,40,9071.34,226.78,5,Activo
+CL-31201,Ocasional,San Isidro,26,5,729.1,145.82,4,Activo
+CL-31202,Ocasional,Palermo,34,4,471.44,117.86,5,Activo
+CL-31203,Ocasional,Rosario Centro,55,2,203.76,101.88,5,En Riesgo
+CL-31204,VIP Premium,Rosario Centro,28,28,6824.09,243.72,5,Activo
+CL-31205,Ocasional,Palermo,28,2,190.21,95.11,5,Activo
+CL-31206,Frecuente,Rosario Centro,25,6,674.97,112.5,5,Activo
+CL-31207,Ocasional,San Telmo,19,5,709.4,141.88,4,Retirado
+CL-31208,Nuevo,Rosario Centro,40,2,151.35,75.67,5,Activo
+CL-31209,Frecuente,Caballito,45,8,1989.58,248.7,5,En Riesgo
+CL-31210,Nuevo,Palermo,19,2,216.52,108.26,4,Activo
+CL-31211,Ocasional,Olivos,42,5,396.65,79.33,4,Activo
+CL-31212,Ocasional,Caballito,18,4,248.11,62.03,5,En Riesgo
+CL-31213,Ocasional,Rosario Centro,34,3,385.47,128.49,5,Activo
+CL-31214,Ocasional,Recoleta,36,2,138.87,69.44,1,Activo
+CL-31215,Nuevo,San Isidro,20,2,84.19,42.09,4,Activo
+CL-31216,Nuevo,Rosario Centro,38,2,232.7,116.35,4,Activo
+CL-31217,Ocasional,San Telmo,51,4,317.01,79.25,5,Retirado
+CL-31218,Ocasional,Belgrano,38,3,203.45,67.82,4,En Riesgo
+CL-31219,Nuevo,San Isidro,40,2,159.69,79.84,5,Activo
+CL-31220,VIP Premium,San Telmo,33,21,4401.18,209.58,5,Activo
+CL-31221,Frecuente,San Isidro,41,10,2256.82,225.68,5,En Riesgo
+CL-31222,Frecuente,San Isidro,50,6,1083.73,180.62,4,Activo
+CL-31223,Ocasional,Caballito,51,5,675.78,135.16,5,En Riesgo
+CL-31224,Frecuente,San Isidro,31,9,1745.28,193.92,5,Activo
+CL-31225,VIP Premium,Recoleta,54,33,12257.79,371.45,5,Activo
+CL-31226,Ocasional,Córdoba Centro,42,3,171.24,57.08,4,Activo
+CL-31227,Frecuente,Palermo,47,9,1457.28,161.92,5,Activo
+CL-31228,Frecuente,Rosario Centro,44,8,1079.17,134.9,5,Activo
+CL-31229,Frecuente,Córdoba Centro,24,8,824.44,103.06,3,Activo
+CL-31230,Nuevo,Rosario Centro,46,1,60.1,60.1,4,Activo
+CL-31231,VIP Premium,San Isidro,51,24,8213.92,342.25,5,Activo
+CL-31232,Frecuente,San Telmo,36,11,1410.23,128.2,5,Retirado
+CL-31233,Ocasional,Olivos,44,3,448.61,149.54,1,Activo
+CL-31234,Frecuente,Belgrano,38,12,2295.68,191.31,5,Activo
+CL-31235,Ocasional,Olivos,62,5,670.86,134.17,4,Retirado
+CL-31236,Ocasional,Olivos,35,5,497.91,99.58,4,En Riesgo
+CL-31237,Frecuente,Palermo,36,13,2689.63,206.89,5,Activo
+CL-31238,Ocasional,Recoleta,41,4,265.78,66.44,3,Activo
+CL-31239,Ocasional,Rosario Centro,32,5,270.6,54.12,5,En Riesgo
+CL-31240,VIP Premium,Recoleta,40,31,8494.61,274.02,4,Activo
+CL-31241,Ocasional,San Telmo,48,2,295.44,147.72,5,En Riesgo
+CL-31242,Frecuente,San Isidro,28,5,647.6,129.52,4,Activo
+CL-31243,Nuevo,Rosario Centro,41,2,138.16,69.08,4,Activo
+CL-31244,Ocasional,Palermo,30,5,392.58,78.52,5,Retirado
+CL-31245,Ocasional,Palermo,23,4,546.44,136.61,4,Activo
+CL-31246,Frecuente,San Isidro,42,5,518.04,103.61,3,Activo
+CL-31247,Nuevo,Olivos,56,1,98.48,98.48,4,Activo
+CL-31248,Ocasional,San Telmo,28,5,569.1,113.82,2,Activo
+CL-31249,Nuevo,Caballito,38,2,208.9,104.45,5,Activo
+CL-31250,Ocasional,Córdoba Centro,34,5,491.73,98.35,3,En Riesgo
+CL-31251,Ocasional,Olivos,23,3,320.45,106.82,5,En Riesgo
+CL-31252,Ocasional,Caballito,27,3,425.95,141.98,1,Retirado
+CL-31253,VIP Premium,Recoleta,25,24,9528.76,397.03,4,Activo
+CL-31254,Ocasional,Recoleta,39,2,136.18,68.09,2,En Riesgo
+CL-31255,Nuevo,San Telmo,32,2,111.29,55.65,4,Activo
+CL-31256,Ocasional,San Isidro,37,2,190.98,95.49,5,Activo
+CL-31257,Nuevo,Palermo,33,2,120.64,60.32,4,Activo
+CL-31258,Ocasional,Rosario Centro,31,3,384.57,128.19,4,Retirado
+CL-31259,Ocasional,San Telmo,35,2,107.35,53.67,5,Activo
+CL-31260,Ocasional,Recoleta,38,4,231.91,57.98,4,Activo
+CL-31261,Ocasional,Caballito,33,2,220.96,110.48,4,Activo
+CL-31262,Frecuente,Olivos,39,10,2062.65,206.27,5,Retirado
+CL-31263,Frecuente,San Telmo,35,5,747.18,149.44,4,Activo
+CL-31264,Ocasional,San Isidro,29,5,429.25,85.85,5,Activo
+CL-31265,Frecuente,Belgrano,31,11,1204.66,109.51,5,Activo
+CL-31266,Frecuente,Belgrano,27,6,1112.33,185.39,4,Activo
+CL-31267,Ocasional,Recoleta,32,4,342.9,85.72,5,Activo
+CL-31268,Ocasional,Caballito,47,5,420.62,84.12,3,Retirado
+CL-31269,Ocasional,Rosario Centro,29,3,440.21,146.74,3,Activo
+CL-31270,Ocasional,Rosario Centro,18,2,182.63,91.31,5,Activo
+CL-31271,Ocasional,Rosario Centro,23,3,420.67,140.22,4,Retirado
+CL-31272,Frecuente,San Telmo,41,8,1596.4,199.55,5,Retirado
+CL-31273,Ocasional,San Isidro,56,2,177.32,88.66,4,Activo
+CL-31274,Frecuente,Olivos,25,9,1621.6,180.18,5,Activo
+CL-31275,Ocasional,San Isidro,49,5,696.18,139.24,5,Activo
+CL-31276,VIP Premium,San Telmo,60,20,5589.64,279.48,5,En Riesgo
+CL-31277,Ocasional,Palermo,48,5,558.21,111.64,3,Activo
+CL-31278,Ocasional,Córdoba Centro,36,3,304.32,101.44,3,Activo
+CL-31279,Ocasional,San Isidro,29,4,363.15,90.79,5,Activo
+CL-31280,Nuevo,Caballito,42,1,68.37,68.37,4,Activo
+CL-31281,Ocasional,Córdoba Centro,43,3,195.12,65.04,4,Activo
+CL-31282,Ocasional,Olivos,37,3,266.73,88.91,4,Activo
+CL-31283,VIP Premium,San Isidro,43,24,8021.83,334.24,5,Activo
+CL-31284,Frecuente,Palermo,44,5,1168.73,233.75,3,Activo
+CL-31285,Frecuente,San Isidro,36,9,1033.41,114.82,4,Activo
+CL-31286,Nuevo,Caballito,26,1,41.55,41.55,5,Activo
+CL-31287,Nuevo,Palermo,27,2,122.85,61.42,4,Activo
+CL-31288,Frecuente,San Isidro,38,10,2345.13,234.51,4,Activo
+CL-31289,Nuevo,Caballito,42,2,92.81,46.41,4,Activo
+CL-31290,Ocasional,Palermo,30,4,402.8,100.7,5,Retirado
+CL-31291,Ocasional,San Telmo,36,2,211.22,105.61,4,En Riesgo
+CL-31292,Ocasional,Palermo,51,5,289.83,57.97,4,Activo
+CL-31293,Ocasional,Recoleta,18,3,274.47,91.49,4,Retirado
+CL-31294,Ocasional,Recoleta,52,4,392.01,98.0,3,Retirado
+CL-31295,Frecuente,Olivos,38,14,2016.88,144.06,5,En Riesgo
+CL-31296,VIP Premium,Caballito,54,25,5390.03,215.6,5,Activo
+CL-31297,Ocasional,Olivos,45,2,115.72,57.86,4,Activo
+CL-31298,Frecuente,Belgrano,30,13,2299.83,176.91,4,Activo
+CL-31299,VIP Premium,Recoleta,34,25,6385.58,255.42,4,Activo
+CL-31300,Frecuente,Recoleta,52,10,1701.38,170.14,5,Activo
+CL-31301,Frecuente,Belgrano,25,12,2948.76,245.73,4,Retirado
+CL-31302,Frecuente,Rosario Centro,44,12,1305.69,108.81,5,Activo
+CL-31303,VIP Premium,San Isidro,38,25,7566.44,302.66,5,Activo
+CL-31304,Ocasional,Olivos,29,2,164.14,82.07,3,En Riesgo
+CL-31305,Ocasional,Olivos,45,2,201.39,100.69,4,Activo
+CL-31306,Frecuente,Recoleta,52,7,1040.27,148.61,4,En Riesgo
+CL-31307,Nuevo,Olivos,52,2,226.22,113.11,4,Activo
+CL-31308,Nuevo,Caballito,39,2,95.49,47.74,4,Activo
+CL-31309,Ocasional,San Telmo,42,3,368.48,122.83,2,En Riesgo
+CL-31310,Nuevo,Rosario Centro,43,2,197.76,98.88,5,Activo
+CL-31311,Frecuente,Caballito,42,13,1506.33,115.87,3,Activo
+CL-31312,Frecuente,Córdoba Centro,43,12,1415.41,117.95,4,Activo
+CL-31313,Ocasional,Recoleta,40,3,424.0,141.33,5,Retirado
+CL-31314,Ocasional,Palermo,41,4,230.68,57.67,4,Activo
+CL-31315,Nuevo,Caballito,32,1,111.08,111.08,3,Activo
+CL-31316,Ocasional,Palermo,34,5,530.41,106.08,3,Activo
+CL-31317,Ocasional,Recoleta,35,5,544.21,108.84,4,Activo
+CL-31318,Frecuente,San Telmo,43,5,1127.04,225.41,4,Activo
+CL-31319,Nuevo,San Isidro,31,2,152.95,76.47,3,Activo
+CL-31320,Nuevo,San Telmo,53,2,124.42,62.21,5,Activo
+CL-31321,Ocasional,San Telmo,43,4,277.79,69.45,2,Activo
+CL-31322,Ocasional,Rosario Centro,35,3,250.24,83.41,2,Retirado
+CL-31323,Frecuente,Recoleta,39,11,1985.98,180.54,5,En Riesgo
+CL-31324,Ocasional,San Isidro,44,2,157.77,78.89,3,En Riesgo
+CL-31325,VIP Premium,Palermo,34,19,4511.47,237.45,5,En Riesgo
+CL-31326,Frecuente,Córdoba Centro,36,10,1462.7,146.27,4,Activo
+CL-31327,Frecuente,Recoleta,32,7,803.89,114.84,5,Activo
+CL-31328,Frecuente,Rosario Centro,32,8,938.98,117.37,3,Activo
+CL-31329,Frecuente,San Telmo,40,12,2864.11,238.68,3,Activo
+CL-31330,Frecuente,San Telmo,53,13,2859.17,219.94,3,En Riesgo
+CL-31331,Ocasional,San Isidro,36,5,510.83,102.17,5,Retirado
+CL-31332,Frecuente,Palermo,67,12,1623.32,135.28,4,Activo
+CL-31333,Frecuente,Palermo,47,7,1075.39,153.63,5,En Riesgo
+CL-31334,Frecuente,Caballito,48,8,1718.41,214.8,4,Activo
+CL-31335,Ocasional,San Telmo,42,2,220.49,110.25,4,Activo
+CL-31336,Ocasional,Belgrano,40,2,238.1,119.05,4,Activo
+CL-31337,Nuevo,Recoleta,39,1,74.22,74.22,4,Activo
+CL-31338,Ocasional,Recoleta,52,5,729.96,145.99,5,Activo
+CL-31339,Frecuente,Belgrano,31,10,1681.09,168.11,4,Activo
+CL-31340,VIP Premium,San Telmo,47,17,4743.26,279.02,4,Activo
+CL-31341,Ocasional,San Isidro,32,4,264.92,66.23,4,En Riesgo
+CL-31342,Frecuente,San Telmo,43,13,1702.91,130.99,5,Activo
+CL-31343,VIP Premium,Belgrano,33,38,9284.85,244.34,5,Activo
+CL-31344,Frecuente,Belgrano,51,7,1153.25,164.75,5,Activo
+CL-31345,Frecuente,San Isidro,21,11,2116.36,192.4,4,Activo
+CL-31346,VIP Premium,Rosario Centro,32,36,13030.48,361.96,5,Activo
+CL-31347,Frecuente,San Isidro,31,5,1032.15,206.43,4,Activo
+CL-31348,Ocasional,San Isidro,56,4,418.23,104.56,5,Activo
+CL-31349,VIP Premium,Rosario Centro,45,24,8955.34,373.14,5,En Riesgo
+CL-31350,Nuevo,Olivos,49,1,80.83,80.83,5,Activo
+CL-31351,Frecuente,Córdoba Centro,22,14,2410.66,172.19,5,Activo
+CL-31352,Ocasional,San Isidro,54,5,276.23,55.25,4,Retirado
+CL-31353,Frecuente,Belgrano,40,14,2894.94,206.78,4,Activo
+CL-31354,VIP Premium,Córdoba Centro,40,20,7143.19,357.16,5,Activo
+CL-31355,Frecuente,Córdoba Centro,35,10,1929.7,192.97,5,Activo
+CL-31356,Ocasional,Belgrano,41,3,257.53,85.84,5,Activo
+CL-31357,VIP Premium,San Isidro,44,25,6364.4,254.58,5,Activo
+CL-31358,Frecuente,Córdoba Centro,34,7,1246.86,178.12,4,Activo
+CL-31359,Frecuente,Caballito,21,9,1663.49,184.83,5,Activo
+CL-31360,Nuevo,Recoleta,37,1,108.65,108.65,4,Activo
+CL-31361,Ocasional,San Telmo,29,3,305.33,101.78,3,En Riesgo
+CL-31362,Ocasional,San Isidro,24,4,563.37,140.84,4,Retirado
+CL-31363,VIP Premium,Córdoba Centro,47,44,12404.98,281.93,5,Activo
+CL-31364,Nuevo,San Isidro,29,2,135.99,68.0,5,Activo
+CL-31365,Ocasional,Córdoba Centro,43,2,177.55,88.78,1,Activo
+CL-31366,Frecuente,Rosario Centro,26,12,1609.35,134.11,5,Activo
+CL-31367,Ocasional,San Isidro,24,2,295.34,147.67,5,Retirado
+CL-31368,Frecuente,Olivos,43,9,1551.9,172.43,5,En Riesgo
+CL-31369,VIP Premium,San Telmo,34,14,3672.97,262.35,5,Activo
+CL-31370,Frecuente,Recoleta,35,6,1060.75,176.79,4,Activo
+CL-31371,VIP Premium,Recoleta,43,29,8560.3,295.18,4,Activo
+CL-31372,Nuevo,Recoleta,60,1,73.46,73.46,3,Activo
+CL-31373,Nuevo,San Telmo,43,2,234.32,117.16,4,Activo
+CL-31374,Frecuente,Belgrano,40,7,1468.16,209.74,5,Activo
+CL-31375,Ocasional,San Telmo,38,2,199.89,99.94,4,Activo
+CL-31376,Ocasional,Caballito,28,4,482.04,120.51,2,Retirado
+CL-31377,VIP Premium,Córdoba Centro,45,43,9706.65,225.74,5,Activo
+CL-31378,Ocasional,Rosario Centro,50,2,121.43,60.72,4,Retirado
+CL-31379,VIP Premium,Recoleta,57,31,9561.51,308.44,5,Activo
+CL-31380,Frecuente,San Isidro,18,9,1826.72,202.97,5,En Riesgo
+CL-31381,Frecuente,Belgrano,52,11,1321.45,120.13,4,Activo
+CL-31382,Ocasional,Olivos,36,4,233.67,58.42,2,Activo
+CL-31383,Frecuente,Recoleta,26,13,2358.19,181.4,5,Activo
+CL-31384,Frecuente,Córdoba Centro,40,5,934.38,186.88,3,Activo
+CL-31385,Ocasional,Belgrano,42,5,367.0,73.4,5,Activo
+CL-31386,Frecuente,Córdoba Centro,43,13,1807.25,139.02,3,Activo
+CL-31387,Ocasional,Recoleta,50,4,441.03,110.26,4,En Riesgo
+CL-31388,VIP Premium,San Isidro,37,12,3672.23,306.02,5,En Riesgo
+CL-31389,Nuevo,San Isidro,31,1,117.27,117.27,4,Activo
+CL-31390,Ocasional,Recoleta,51,5,643.61,128.72,3,Activo
+CL-31391,Frecuente,San Telmo,39,6,721.43,120.24,3,Activo
+CL-31392,Frecuente,Olivos,30,5,1205.39,241.08,4,Activo
+CL-31393,Frecuente,San Telmo,38,11,1154.02,104.91,4,Activo
+CL-31394,Ocasional,Palermo,26,4,294.72,73.68,2,En Riesgo
+CL-31395,Ocasional,Córdoba Centro,35,5,387.95,77.59,3,Retirado
+CL-31396,Ocasional,Olivos,41,4,508.46,127.11,5,Activo
+CL-31397,Nuevo,Córdoba Centro,34,1,115.71,115.71,4,Activo
+CL-31398,Nuevo,Caballito,35,1,51.07,51.07,3,Activo
+CL-31399,Nuevo,Palermo,26,1,118.49,118.49,4,Activo
+CL-31400,VIP Premium,Recoleta,50,17,5314.32,312.61,5,Activo
+CL-31401,Frecuente,San Isidro,50,13,1546.75,118.98,4,Activo
+CL-31402,Frecuente,Caballito,27,5,962.26,192.45,4,Activo
+CL-31403,Frecuente,Caballito,29,8,1370.57,171.32,3,Activo
+CL-31404,Ocasional,Belgrano,27,3,170.0,56.67,3,En Riesgo
+CL-31405,Nuevo,San Telmo,41,2,119.92,59.96,5,Activo
+CL-31406,Frecuente,Rosario Centro,22,6,913.49,152.25,4,Activo
+CL-31407,Frecuente,Caballito,35,8,1868.01,233.5,5,Retirado
+CL-31408,Ocasional,San Isidro,30,3,279.8,93.27,2,Activo
+CL-31409,Frecuente,Palermo,44,5,575.86,115.17,3,Retirado
+CL-31410,Frecuente,Palermo,56,7,1343.16,191.88,5,En Riesgo
+CL-31411,Ocasional,Palermo,28,3,297.5,99.17,3,Activo
+CL-31412,Ocasional,Recoleta,42,5,334.39,66.88,4,Activo
+CL-31413,Ocasional,Palermo,19,5,629.62,125.92,2,En Riesgo
+CL-31414,VIP Premium,Recoleta,28,32,12631.33,394.73,5,Activo
+CL-31415,Frecuente,Caballito,30,9,1761.41,195.71,5,Activo
+CL-31416,VIP Premium,Córdoba Centro,47,40,9791.42,244.79,5,Activo
+CL-31417,Ocasional,Córdoba Centro,35,4,535.46,133.87,3,En Riesgo
+CL-31418,Ocasional,Caballito,33,2,154.9,77.45,3,Activo
+CL-31419,Nuevo,Belgrano,33,2,173.33,86.67,5,Activo
+CL-31420,Frecuente,Caballito,43,8,1507.86,188.48,4,Activo
+CL-31421,VIP Premium,San Telmo,44,31,7471.12,241.0,4,Activo
+CL-31422,Ocasional,Palermo,49,2,167.66,83.83,3,Retirado
+CL-31423,Ocasional,Rosario Centro,30,2,284.19,142.09,4,Retirado
+CL-31424,Frecuente,Recoleta,36,8,1625.0,203.12,5,En Riesgo
+CL-31425,Frecuente,San Isidro,48,8,1390.47,173.81,4,Activo
+CL-31426,Frecuente,San Telmo,40,14,2797.34,199.81,4,Activo
+CL-31427,Nuevo,San Isidro,40,2,151.64,75.82,5,Activo
+CL-31428,Ocasional,Rosario Centro,40,3,363.65,121.22,3,Retirado
+CL-31429,Frecuente,Palermo,40,13,1877.22,144.4,4,Retirado
+CL-31430,Ocasional,Palermo,31,3,227.68,75.89,3,Retirado
+CL-31431,VIP Premium,Caballito,53,30,5709.42,190.31,4,Activo
+CL-31432,Ocasional,Rosario Centro,28,4,204.8,51.2,1,Activo
+CL-31433,Frecuente,Olivos,31,6,1396.76,232.79,4,Activo
+CL-31434,Frecuente,San Telmo,38,11,2669.51,242.68,4,Activo
+CL-31435,Ocasional,Olivos,50,3,260.53,86.84,4,Activo
+CL-31436,Frecuente,Belgrano,18,10,1521.68,152.17,3,Retirado
+CL-31437,Frecuente,Recoleta,40,14,3466.72,247.62,4,Activo
+CL-31438,Frecuente,Palermo,39,13,2991.17,230.09,5,En Riesgo
+CL-31439,Frecuente,San Isidro,40,10,1141.11,114.11,5,Activo
+CL-31440,Ocasional,Córdoba Centro,26,2,125.06,62.53,3,Retirado
+CL-31441,Frecuente,Olivos,30,14,2903.0,207.36,4,Activo
+CL-31442,Frecuente,Olivos,33,12,1736.52,144.71,4,Activo
+CL-31443,Frecuente,San Telmo,43,10,1550.38,155.04,5,Activo
+CL-31444,Frecuente,San Telmo,45,5,1116.76,223.35,3,Activo
+CL-31445,Frecuente,Olivos,43,12,1332.49,111.04,4,Activo
+CL-31446,Ocasional,Caballito,47,4,525.64,131.41,4,Activo
+CL-31447,Frecuente,Belgrano,35,9,1093.01,121.45,4,Retirado
+CL-31448,Frecuente,Olivos,29,12,2862.8,238.57,5,Activo
+CL-31449,Ocasional,Córdoba Centro,40,2,161.88,80.94,3,Activo
+CL-31450,Nuevo,Córdoba Centro,31,2,148.73,74.36,3,Activo
+CL-31451,Frecuente,Rosario Centro,63,11,2038.02,185.27,4,Activo
+CL-31452,VIP Premium,Córdoba Centro,32,37,14188.53,383.47,5,Activo
+CL-31453,Nuevo,Caballito,52,2,148.6,74.3,5,Activo
+CL-31454,Ocasional,Recoleta,42,5,432.62,86.52,2,Activo
+CL-31455,Nuevo,Córdoba Centro,42,2,228.26,114.13,5,Activo
+CL-31456,Nuevo,Olivos,36,2,137.34,68.67,4,Activo
+CL-31457,Nuevo,Palermo,31,2,213.05,106.53,4,Activo
+CL-31458,Ocasional,Córdoba Centro,25,4,227.62,56.91,4,Activo
+CL-31459,Nuevo,Caballito,58,1,102.91,102.91,5,Activo
+CL-31460,Ocasional,Caballito,55,4,519.97,129.99,3,Retirado
+CL-31461,Frecuente,Olivos,34,6,1028.07,171.34,4,Activo
+CL-31462,Ocasional,San Isidro,24,3,174.38,58.13,3,Activo
+CL-31463,VIP Premium,Rosario Centro,36,14,5290.02,377.86,5,Activo
+CL-31464,Ocasional,San Isidro,49,2,110.32,55.16,4,En Riesgo
+CL-31465,Frecuente,Córdoba Centro,48,8,1939.44,242.43,4,Activo
+CL-31466,Ocasional,Olivos,43,2,232.45,116.22,4,En Riesgo
+CL-31467,Frecuente,San Isidro,45,14,1660.87,118.63,3,Activo
+CL-31468,VIP Premium,Caballito,33,25,7167.59,286.7,5,Activo
+CL-31469,Ocasional,Caballito,42,2,188.28,94.14,4,En Riesgo
+CL-31470,Ocasional,San Isidro,32,5,316.67,63.33,3,En Riesgo
+CL-31471,Frecuente,San Telmo,59,13,1815.01,139.62,5,Activo
+CL-31472,Ocasional,Belgrano,28,5,434.42,86.88,1,Retirado
+CL-31473,Frecuente,Belgrano,32,13,1407.65,108.28,5,Activo
+CL-31474,Ocasional,San Telmo,38,2,245.8,122.9,5,Retirado
+CL-31475,Nuevo,Palermo,36,2,184.42,92.21,4,Activo
+CL-31476,Frecuente,San Telmo,31,5,619.48,123.9,4,Retirado
+CL-31477,Frecuente,Rosario Centro,41,5,821.9,164.38,5,En Riesgo
+CL-31478,VIP Premium,Palermo,47,43,9957.68,231.57,5,Activo
+CL-31479,Frecuente,Palermo,31,14,2599.89,185.71,5,Activo
+CL-31480,VIP Premium,Rosario Centro,32,31,12195.8,393.41,5,En Riesgo
+CL-31481,Frecuente,Palermo,31,7,1552.93,221.85,3,Activo
+CL-31482,Frecuente,Córdoba Centro,44,5,836.23,167.25,5,Activo
+CL-31483,Frecuente,Recoleta,25,6,1289.17,214.86,5,Activo
+CL-31484,Ocasional,Palermo,31,2,246.98,123.49,3,Activo
+CL-31485,Ocasional,San Telmo,49,4,308.75,77.19,5,En Riesgo
+CL-31486,Ocasional,Palermo,29,4,342.44,85.61,5,Activo
+CL-31487,Nuevo,Córdoba Centro,45,2,199.62,99.81,3,Activo
+CL-31488,Ocasional,Córdoba Centro,23,2,245.34,122.67,5,Retirado
+CL-31489,Nuevo,Belgrano,50,2,161.0,80.5,5,Activo
+CL-31490,Ocasional,Caballito,39,4,216.23,54.06,4,Retirado
+CL-31491,VIP Premium,Córdoba Centro,44,34,11008.52,323.78,4,Activo
+CL-31492,Nuevo,Caballito,18,2,217.78,108.89,5,Activo
+CL-31493,Frecuente,Belgrano,36,12,1321.45,110.12,5,En Riesgo
+CL-31494,Frecuente,Recoleta,27,11,1154.04,104.91,5,En Riesgo
+CL-31495,Ocasional,Recoleta,53,3,217.95,72.65,5,Activo
+CL-31496,Ocasional,Caballito,35,2,278.37,139.19,3,Retirado
+CL-31497,Ocasional,Recoleta,44,2,250.16,125.08,4,Retirado
+CL-31498,Frecuente,Rosario Centro,32,14,2966.56,211.9,4,Activo
+CL-31499,Frecuente,Recoleta,31,10,2070.01,207.0,5,En Riesgo

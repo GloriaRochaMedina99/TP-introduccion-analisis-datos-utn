@@ -1,0 +1,11 @@
+MEDIDAS DAX (TABLA MEDIDAS_KPI)
+Total Ventas USD = SUM(fact_Ventas[Ventas_USD])
+Total Ganancia USD = SUM(fact_Ventas[Ganancia_USD])
+Margen Ganancia % = DIVIDE([Total Ganancia USD], [Total Ventas USD], 0)
+NPS Promedio = AVERAGE(fact_Ventas[NPS_Cliente])
+Ventas PBA = CALCULATE([Total Ventas USD], fact_Ventas[Region] = "PBA")
+
+DATA STORYTELLING (ARCO NARRATIVO)
+1. Contexto: Durante el ejercicio fiscal 2025, Click&Buy alcanzó una facturación total de $572,004.05 USD con una ganancia neta de $177,242.54 USD (margen del 30.99%) y un NPS promedio de 8.30 sobre 10 en 1,800 transacciones.
+2. Conflicto: Existe concentración geográfica y de catálogo: PBA ($185,330.20 USD, 32.4%) y Centro concentran el grueso de la facturación frente a regiones con menor aporte como Patagonia, y categorías como Electrónica lideran el volumen frente a otras líneas con menor aporte o margen relativo.
+3. Resolución: Priorizar campañas y stock de Electrónica en PBA y Centro, optimizar los costos y tiempos de entrega logísticos en las regiones rezagadas y revisar la rentabilidad por categoría antes de ampliar promociones.
